@@ -1,0 +1,256 @@
+.timeContainer
+{
+    max-width: 100vw;
+    flex: 100%;
+    display: block;
+    z-index: 10;
+}
+
+#timeOne
+{
+    position: absolute;
+    left: 6.6vw;
+    top: 15vh;
+}
+
+#timeTwo
+{
+    position: absolute;
+    left: 1.6vw;
+    top: 45vh;
+}
+
+#timeThree
+{
+    position: absolute;
+    left: 12vw;
+    top: 102vh;
+    z-index: 5;
+    width: 20vw;
+    height: auto;
+    display: block;
+    padding: 10px;
+}
+
+#timeFour
+{
+    position: absolute;
+    left: 12vw;
+    top: 40vh;
+}
+
+#timeFive
+{
+    position: absolute;
+    left: 0.1vw;
+    top: 80vh;
+}
+
+#timeSix
+{
+    position: absolute;
+    left: 0.1vw;
+    top: 60vh;
+}
+
+
+#timeSeven
+{
+    position: absolute;
+    left: 1.5%;
+    top: 105vh;
+}
+
+#timeSubTwo
+{
+    position: relative;
+    top: -110vh;
+}
+
+#timeSubThree
+{
+    top: -155vh;
+}
+
+#timeSubFour
+{
+    top: -145vh;
+}
+
+#timeSubFive
+{
+    top: -85vh;
+}
+
+#timeSubSix
+{
+    top: -115vh;
+}
+
+#timeSubSeven
+{
+    top: -95vh;
+}
+
+#timeSubEight
+{
+    top: -130vh;
+}
+
+#timeSubNine
+{
+    top: -120vh;
+}
+
+#gridImageMiddleLarge
+{
+    width: 29.7vw;
+    margin-left: 25px;
+}
+
+#timeGridOne
+{
+    top: 50%;
+    left: 56.5%;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#timeGridTwo
+{
+    position: absolute;
+    left: 13vw;
+    top: 85vh;
+}
+
+#timeGridThree
+{
+    position: absolute;
+    left: 25.5%;
+    top: -9vh;
+}
+
+#timeGridFour
+{
+    position: absolute;
+    left: 2.3vw;
+    top: 60vh;
+}
+
+#timeGridFive
+{
+    position: absolute;
+    left: 40.7%;
+    top: 140vh;
+}
+
+#timeGridSix
+{
+    position: absolute;
+    left: 13.5%;
+    top: 178%;
+}
+
+#timeHorizontalGridOne
+{
+    top: 65vh;
+    left: 0;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#timeHorizontalGridTwo
+{
+    top: 100vh;
+    left: 0;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#timeHorizontalGridThree
+{
+    top: 141vh;
+    left: 0;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#timeHorizontalGridFour
+{
+    top: 182vh;
+    left: 0;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#timeVideoOne
+{
+    position: absolute;
+    top: 35%;
+    left: 1.6vw;
+    z-index: 0;
+}
+
+#timeVideoTwo
+{
+    position: absolute;
+    top: 40%;
+    left: 1.6vw;
+    z-index: 0;
+    width: 40vw;
+    z-index: 3;
+}
+
+#timeVideoThree
+{
+    position: absolute;
+    top: 17%;
+    left: 8vw;
+    z-index: 0;
+    width: 40vw;
+}
+
+#timeVideoFour
+{
+    position: absolute;
+    top: 42%;
+    left: 9.5vw;
+    z-index: 0;
+    width: 40vw;
+}
+
+#timeVideoFive
+{
+    position: absolute;
+    top: 40%;
+    left: 0vw;
+    z-index: 0;
+}
+
+#timeImageDescriptionOne
+{
+    top: 70%;
+    left: 36%;
+    z-index: 1;
+    pointer-events: none;
+    width: 14%;
+}
+
+#timeImageDescriptionTwo
+{
+    top: 78%;
+    left: 3%;
+    z-index: 1;
+    pointer-events: none;
+    width: 20%;
+}
+
+.endLineTime
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: absolute;
+    top: -15%;
+    left: 0%;
+    border-bottom: 1px solid black;
+}

@@ -1,0 +1,392 @@
+.saltContainer
+{
+    max-width: 100vw;
+    flex: 100%;
+    display: block;
+    z-index: 10;
+}
+
+#saltTitle
+{
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 37px;
+    position: absolute;
+    top: 25.5%;
+    left: 4.5%;
+}
+
+.largeImage
+{
+    width: 46vw;
+    height: auto;
+    position: absolute;
+    z-index: -5;
+}
+
+.middleSmallImage
+{
+    width: 25vw;
+    height: auto;
+    display: block;
+    padding: 10px;
+}
+
+.middleImage
+{
+    width: 31vw;
+    height: auto;
+    display: block;
+    padding: 10px;
+}
+
+.smallImage
+{
+    width: 14.5vw;
+    height: auto;
+    padding: 5px;
+}
+
+#saltOne
+{
+    position: absolute;
+    top: -1vh;
+    left: 10vw;
+    z-index: -5;
+}
+
+#saltTwo
+{
+    position: absolute;
+    top: 25vh;
+    left: 5.5vw;
+    z-index: 5;
+}
+
+#saltThree
+{
+    top: 20vh;
+    left: -8vw;
+}
+
+#saltFour
+{
+    position: absolute;
+    top: -13vh;
+    left: 5.5vw;
+}
+
+#saltFive
+{
+    position: absolute;
+    top: -44vh;
+    left: 5.5vw;
+}
+
+#saltSix
+{
+    top: -85vh;
+    left: -8vw;
+}
+
+#saltSeven
+{
+    position: absolute;
+    top: -165vh;
+    left: -2.5vw;
+}
+
+#saltEight
+{
+    position: absolute;
+    top: -131vh;
+    left: -2.5vw;
+}
+
+#saltNine
+{
+    position: absolute;
+    top: -214vh;
+    left: -1.5vw;
+    width: 55vw;
+    height: auto;
+    position: absolute;
+    z-index: -5;
+}
+
+#saltTen
+{
+    position: absolute;
+    top: -98vh;
+    left: -1.5vw;
+    width: 55vw;
+    height: auto;
+    position: absolute;
+    z-index: -5;
+}
+
+#saltElven
+{
+    position: absolute;
+    top: -142vh;
+    left: -2.5vw;
+}
+
+#saltTwelve
+{
+    position: absolute;
+    top: -197vh;
+    left: 0.5vw;
+}
+
+#saltDescriptionOne
+{
+    top: 18.5vh;
+    left: 39.5vw;
+}
+
+#saltDescriptionTwo
+{
+    top: -86vh;
+    left: 39.5vw;
+}
+
+#saltDescriptionThree
+{
+    top: -143.5vh;
+    left: 23.8vw;
+}
+
+#saltDescriptionFour
+{
+    top: -111vh;
+    left: 23.8vw;
+}
+
+#saltDescriptionFive
+{
+    top: -113vh;
+    left: 23.8vw;
+}
+
+#saltDescriptionSix
+{
+    top: -101.5vh;
+    left: 23.8vw;
+}
+
+#saltDescriptionSeven
+{
+    top: -149vh;
+    left: 23.8vw;
+}
+
+#IntroTitle
+{
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 37px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    left: -10.5%;
+    text-align: left;
+    top: -16vh;
+}
+
+#IntroText
+{
+    width: 33%;
+    text-align: left;
+    position: absolute;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    font-family: 'Roboto', sans-serif;
+    left: 31.5%;
+    top: -15.5vh;
+}
+
+#SecondTitle
+{
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 37px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    left: -10.5%;
+    text-align: left;
+    top: -120vh;
+}
+
+#SecondText
+{
+    width: 33%;
+    text-align: left;
+    position: absolute;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    font-family: 'Roboto', sans-serif;
+    left: 31.5%;
+    top: -120vh;
+}
+
+#ThirdTitle
+{
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 37px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    left: -10.5%;
+    text-align: left;
+    top: -175.5vh;
+}
+
+#ThirdText
+{
+    width: 33%;
+    text-align: left;
+    position: absolute;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    font-family: 'Roboto', sans-serif;
+    left: 31.5%;
+    top: -175vh;
+}
+
+#FourthTitle
+{
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 37px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    left: -10.5%;
+    text-align: left;
+    top: -245vh;
+}
+
+#FourthText
+{
+    width: 33%;
+    text-align: left;
+    position: absolute;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    font-family: 'Roboto', sans-serif;
+    left: 31.5%;
+    top: -244vh;
+}
+
+#FifthTitle
+{
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 37px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    left: -10.5%;
+    text-align: left;
+    top: -152vh;
+}
+
+#FifthText
+{
+    width: 33%;
+    text-align: left;
+    position: absolute;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    font-family: 'Roboto', sans-serif;
+    left: 31.5%;
+    top: -151.5vh;
+}
+
+#SixthTitle
+{
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 37px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    left: -10.5%;
+    text-align: left;
+    top: -230vh;
+}
+
+#SixthText
+{
+    width: 33%;
+    text-align: left;
+    position: absolute;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    font-family: 'Roboto', sans-serif;
+    left: 31.5%;
+    top: -229.5vh;
+}
+
+
+#quoteOne
+{
+    width: 21%;
+    text-align: left;
+    position: absolute;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    font-family: 'Roboto', sans-serif;
+    left: 0.5%;
+    top: -235vh;
+}
+
+#quoteTwo
+{
+    width: 21%;
+    text-align: left;
+    position: absolute;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    font-family: 'Roboto', sans-serif;
+    left: 0.5%;
+    top: -150vh;
+}
+
+.imageDescription
+{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    width: 14%;
+    text-align: left;
+}
+
+.endLine
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: absolute;
+    top: -260vh;
+    left: -9.5vw;
+    border-bottom: 1px solid black;
+}
+
+#oneRef
+{
+    top: -255vh;
+}
+
+#twoRef
+{
+    top: -249vh;
+}

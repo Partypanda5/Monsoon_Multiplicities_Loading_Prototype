@@ -1,0 +1,263 @@
+.weedsContainer
+{
+    max-width: 100vw;
+    flex: 100%;
+    display: block;
+    z-index: 10;
+}
+
+#weedsSubTwo
+{
+    top: -70vh;
+}
+
+#weedsSubThree
+{
+    top: -120vh;
+}
+
+#weedsSubFour
+{
+    top: -95vh;
+}
+
+#weedsSubFive
+{
+    top: 55vh;
+}
+
+#weedsSubSix
+{
+    top: 25vh;
+}
+
+#weedsSubSeven
+{
+    top: 5vh;
+}
+
+#weedsOne
+{
+    position: relative;
+    top: 15%;
+    left: -41%;
+    z-index: -5;
+}
+
+#weedsTwo
+{
+    position: relative;
+    top: 14%;
+    left: -33.5%;
+    z-index: -5;
+}
+
+#weedsThree
+{
+    position: relative;
+    top: 11%;
+    left: -32.5%;
+    z-index: -5;
+}
+
+#weedsFour
+{
+    position: relative;
+    top: -4%;
+    left: 15.7%;
+    z-index: -2;
+}
+
+#weedsFive
+{
+    position: relative;
+    top: -3%;
+    left: 37%;
+    z-index: -2;
+}
+
+#weedsSix
+{
+    position: relative;
+    top: 23%;
+    left: -31.8%;
+    z-index: -5;
+    width: 61.5vw;
+}
+
+#weedsSeven
+{
+    position: relative;
+    top: 5%;
+    left: 13.5%;
+    z-index: 0;
+}
+
+#weedsEight
+{
+    position: relative;
+    top: 14%;
+    left: 35%;
+    z-index: 0;
+}
+
+#weedsNine
+{
+    position: relative;
+    top: -10%;
+    left: -32.5%;
+    z-index: 0;
+}
+
+#weedsCopyOne
+{
+    position: relative;
+    top: 10%;
+    left: 35.5%;
+    z-index: -6;
+}
+
+#weedsCopyThree
+{
+    position: relative;
+    top: 15%;
+    left: 9%;
+    z-index: -6;
+    width: 16%;
+}
+
+#weedsCopyFour
+{
+    position: relative;
+    top: 7%;
+    left: 35.5%;
+    z-index: -6;
+}
+
+#weedsCopyFive
+{
+    position: relative;
+    top: 15%;
+    left: 35.5%;
+    z-index: -6;
+}
+
+#weedsCopySix
+{
+    position: relative;
+    top: 10%;
+    left: 35.5%;
+    z-index: -6;
+}
+
+#weedsCopyTwo
+{
+    position: relative;
+    top: -22%;
+    left: 35.5%;
+    z-index: -6;
+}
+
+#weedsGridOne
+{
+    position: relative;
+    top: -32%;
+    left: -31%;
+    z-index: 0;
+}
+
+#weedsGridTwo
+{
+    position: relative;
+    top: -92%;
+    left: -50.8%;
+    z-index: 0;
+}
+
+#weedsGridThree
+{
+    position: relative;
+    top: -69%;
+    left: -14.3%;
+    z-index: 0;
+}
+
+#weedsGridFour
+{
+    position: relative;
+    top: -42%;
+    left: -46.1%;
+    z-index: 0;
+}
+
+#weedsGridFive
+{
+    position: relative;
+    top: -110%;
+    left: -18.3%;
+    z-index: 0;
+}
+
+#weedsGridSix
+{
+    position: relative;
+    top: -15%;
+    left: -43%;
+    z-index: 0;
+}
+
+#weedsGridSeven
+{
+    position: relative;
+    top: 35%;
+    left: -41%;
+    z-index: 0;
+}
+
+#weedsGridEight
+{
+    position: relative;
+    top: 7%;
+    left: -32.5%;
+    z-index: 0;
+}
+
+#weedsVideoOne
+{
+    position: relative;
+    top: 10%;
+    left: 17.7%;
+    z-index: -5;
+    overflow: hidden;
+}
+
+.endlineWeeds
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    border-bottom: 1px solid black;
+}
+
+#referenceBlockWeeds
+{
+    position: relative;
+    top: 5%;
+    left: 35.5%;
+    width: 100%;
+    display: block;
+}
+
+.referencesWeeds
+{
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    width: 30%;
+    height: 50%;
+    text-align: left;
+}

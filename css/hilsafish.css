@@ -1,0 +1,620 @@
+.hilsaContainer
+{
+    max-width: 100vw;
+    flex: 100%;
+    z-index: 10;
+    display: block;
+}
+
+.col {
+    text-align: center;
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    font-size: 42pt;
+    padding: 0 12.5vw;
+    height:  155vh;
+}
+
+#subchapterTwo
+{
+    margin-top: 35vh;
+}
+
+.block 
+{
+    line-height: 25vh;
+    text-align: right;
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+#ParallaxHeadingContainer
+{
+    position: absolute;
+    top: 27.5%;
+    left: 4.5%;
+}
+
+.ParallaxHeading
+{
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 37px;
+}
+
+.navbarTitles
+{
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 37px;
+}
+
+.navbarTitles:hover
+{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.activeNavbarTitle
+{
+    text-decoration: underline;
+}
+
+#clupeaIlishaImage
+{
+    width: 60%;
+    height: auto;
+    position: absolute;
+    left: -10vw;
+    top: 10vh;
+    z-index: -5;
+}
+#hilsaFishTextOne
+{
+    width: 35%;
+    z-index: -3;
+    text-align: left;
+    position: absolute;
+    left: 31.5%;
+}
+#hilsaFishTextTwo
+{
+    width: 34%;
+    z-index: -3;
+    text-align: left;
+    position: absolute;
+    left: 35.2%;
+    top: 5vh;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    font-family: 'Roboto', sans-serif;
+}
+#hilsaVideo
+{
+    width: 30vw;
+    height: auto;
+    position: absolute;
+    top: 60vh;
+    right: 52.5%;
+}
+
+
+.leftHandQuote
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    width: 22%;
+    text-align: left;
+    position: absolute;
+    top: 7vh;
+    left: 0.5vw;
+    padding: 0;
+    margin: 0;
+}
+
+.rightHandQuote
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    width: 22%;
+    text-align: left;
+    position: absolute;
+    top: -5vh;
+    left: 1.5vw;
+    padding: 0;
+    margin: 0;
+}
+#hilsaRightSideQuoteAuthor
+{
+    position: absolute;
+    left: 2.5vw;
+    top: -6vh;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+#hilsaLeftSideQuoteAuthor
+{
+    position: absolute;
+    left: 0.5vw;
+    top: 17.5vh;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+#hilsaOccurances
+{
+    width: 46vw;
+    height: auto;
+    position: absolute;
+    left: 14vw;
+    top: 35vh;
+}
+
+#fishContainer
+{
+    width: 50%;
+    height: 100%;
+    display: block;
+    position: absolute;
+    top: -105vh;
+    left: -2.5vw;
+}
+
+.fishermenImages
+{
+    width: 25vw;
+    height: auto;
+    display: block;
+    padding: 10px;
+}
+
+.theFisherTitle
+{
+    top: -112.5vh;
+}
+
+.theFisherText
+{
+    top: -104vh !important;
+    left: 31.5% !important;
+}
+
+#ChandurTrip
+{
+    width: 25vw;
+    height: auto;
+    position: absolute;
+    left: 120vw;
+    top: 103vh;
+}
+
+#fishContainer2
+{
+    width: 50%;
+    height: 100%;
+    display: block;
+    position: absolute;
+    top: -67vh;
+    left: 23vw;
+}
+
+#rightSideQuote
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 34px;
+}
+
+#rightSideQuoteAuthor
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+}
+#rightSideQuoteAuthorTop
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+.hilsaAndMoon
+{
+    top: -14vh;
+    left: 31.4% !important;
+}
+
+.largeRightImage
+{
+    width: 46vw;
+    height: auto;
+    position: absolute;
+    left: -8vw;
+}
+
+#yellowShip
+{
+    top: -140vh;
+}
+
+.middleSmallImage
+{
+    width: 25vw;
+    height: auto;
+    display: block;
+    padding: 10px;
+}
+
+#leftSmallShipContainer
+{
+    width: 50%;
+    height: 100%;
+    display: block;
+    position: absolute;
+    top: -84.2vh;
+    left: -8.5vw;
+}
+
+#middleShipContainer
+{
+    width: 50%;
+    height: 100%;
+    display: block;
+    position: absolute;
+    top: -84.3vh;
+    left: 7.4vw;
+}
+
+.middleShips
+{
+    width: 31vw;
+    height: auto;
+    display: block;
+    padding: 10px;
+}
+
+.leftSmallShips
+{
+    width: 15.8vw;
+    height: auto;
+    display: block;
+    padding: 11px;
+}
+
+.imageDescription
+{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    width: 14%;
+    text-align: left;
+}
+
+.smallShips
+{
+    position: absolute;
+    width: 14.5vw;
+    height: auto;
+}
+
+#shipOne
+{
+    top: -210vh;
+    left: 31.7vw;
+}
+
+#shipTwo
+{
+    top: -190vh;
+    left: 31.7vw;
+}
+
+#imageDescriptionOne
+{
+    left: 39.5vw;
+    top: -141.5vh;
+}
+
+#imageDescriptionTwo
+{
+    left: 39.5vw;
+    top: -107vh;
+}
+
+#imageDescriptionTwo
+{
+    left: 39.5vw;
+    top: -60vh;
+}
+
+#scientistTitle
+{
+    position: absolute;
+    left: 31.5%;
+    top: -175vh;
+}
+
+#scientistText
+{
+    left: 31.5%;
+    top: -165vh;
+}
+
+.initialText
+{
+    width: 35%;
+    text-align: left;
+    position: absolute;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#scientistOne
+{
+    position: absolute;
+    top: -172.5vh;
+    left: -11.3%;
+}
+
+#scientistTwo
+{
+    left: -10.7%;
+    top: -129vh;
+}
+
+#scientistThree
+{
+    left: 10.4%;
+    top: -129vh;
+}
+
+#imageDescriptionThree
+{
+    position: absolute;
+    top: -108vh;
+    left: 10.4%;
+}
+
+#scientistFour
+{
+    top: -130vh;
+    left: 30.9%;
+    width: 31vw;
+    position: absolute;
+    height: auto;
+    display: block;
+    padding: 10px;
+}
+
+.smallScientistImages
+{
+    width: 15.3vw;
+    height: auto;
+    display: block;
+    padding: 11px;
+}
+
+#scientistFive
+{
+    position: absolute;
+    left: 31%;
+    top: -87.5vh;
+}
+
+#scientistSix
+{
+    position: absolute;
+    left: 52%;
+    top: -87.5vh;
+}
+
+#imageDescriptionFour
+{
+    position: absolute;
+    top: -69vh;
+    left: 52.5%;
+}
+
+.scientistQuote
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    width: 32%;
+    text-align: left;
+    position: absolute;
+    top: -87vh;
+    left: -8vw;
+    padding: 0;
+    margin: 0;
+}
+
+#scientistQuoteAuthor
+{
+    position: absolute;
+    left: -7.5vw;
+    top: -91vh;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+#cookTitle
+{
+    position: absolute;
+    left: 31.5%;
+    top: -210vh;
+}
+
+#cookText
+{
+    left: 31.5%;
+    top: -200vh;
+}
+
+.cookQuote
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    width: 34%;
+    text-align: left;
+    position: absolute;
+    top: -198vh;
+    left: -8vw;
+    padding: 0;
+    margin: 0;
+}
+
+#cookQuoteAuthor
+{
+    position: absolute;
+    left: -7.5vw;
+    top: -199.5vh;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+#cookVideo
+{
+    width: 30vw;
+    height: auto;
+    display: block;
+    position: absolute;
+    top: -182vh;
+    right: 70.5%;
+}
+
+#activistTitle
+{
+    position: absolute;
+    left: 31.5%;
+    top: -146vh;
+}
+
+#activistText
+{
+    left: 31.5%;
+    top: -136vh;
+}
+
+.activistQuote
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    width: 34%;
+    text-align: left;
+    position: absolute;
+    top: -134vh;
+    left: -8vw;
+    padding: 0;
+    margin: 0;
+}
+
+#activistQuoteAuthor
+{
+    position: absolute;
+    left: -7.5vw;
+    top: -135vh;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+#activistVideo
+{
+    width: 30vw;
+    height: auto;
+    display: block;
+    position: absolute;
+    top: -117vh;
+    right: 70.5%;
+}
+
+#humanTitle
+{
+    position: absolute;
+    left: 31.5%;
+    top: -80vh;
+}
+
+#humanText {
+    left: 31.5%;
+    top: -70vh;
+}
+
+.humanQuote
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    width: 34%;
+    text-align: left;
+    position: absolute;
+    top: -67vh;
+    left: -8vw;
+    padding: 0;
+    margin: 0;
+}
+
+#humanImage
+{
+    width: 31vw;
+    height: auto;
+    display: block;
+    padding: 10px;
+    position: absolute;
+    top: -60vh;
+    right: 70%;
+}
+
+.endLineFish
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: absolute;
+    top: -170vh;
+    left: -9.5vw;
+    border-bottom: 1px solid black;
+}
+
+#MyanmarVideo
+{
+    width: 30vw;
+    height: auto;
+    display: block;
+    position: absolute;
+    top: -163vh;
+    left: -8vw;
+}
+
+#RightTextContainer
+{
+    width: 30.5%;
+    height: 5500px;
+    position: absolute;
+    top: 23.9%;
+    left: 35%;
+    z-index: -3;
+}

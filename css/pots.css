@@ -1,0 +1,256 @@
+.potsContainer
+{
+    max-width: 100vw;
+    flex: 100%;
+    display: block;
+    z-index: 10;
+}
+
+#potSubTwo
+{
+    top: -50vh;
+}
+
+#potSubThree
+{
+    top: 60vh;
+}
+
+#potSubFour
+{
+    top: 20vh;
+}
+
+#potSubFive
+{
+    top: 40vh;
+}
+
+#potSubSix
+{
+    top: 45vh;
+}
+
+#potSubSeven
+{
+    top: 30vh;
+}
+
+#potOne
+{
+    position: relative;
+    top: 33%;
+    left: -46.5%;
+}
+
+#potTwo
+{
+    position: relative;
+    top: 20%;
+    left: 50%;
+}
+
+#potThree
+{
+    position: relative;
+    top: -1%;
+    left: 2.5%;
+    width: 32vw;
+    z-index: 0;
+}
+
+#potFour 
+{
+    position: relative;
+    top: 20%;
+    left: -36%;
+    width: 61vw;
+}
+
+#potFive
+{
+    position: relative;
+    top: 50%;
+    left: 4%;
+    z-index: -5;
+}
+
+#potSix
+{
+    position: relative;
+    top: 56%;
+    left: 43%;
+    z-index: 5;
+}
+
+#potSeven
+{
+    position: relative;
+    top: 3%;
+    left: 25%;
+    z-index: 4;
+}
+
+#potEight
+{
+    position: relative;
+    top: -32%;
+    left: -43%;
+    z-index: -4;
+}
+
+#potNine
+{
+    position: relative;
+    top: 4%;
+    left: 14.5%;
+    z-index: 5;
+}
+
+#potTen
+{
+    position: relative;
+    top: 2%;
+    left: -55%;
+    z-index: -5;
+}
+
+#potEleven
+{
+    position: relative;
+    top: 98%;
+    left: 21%;
+    z-index: -5;
+    width: 33vw;
+}
+
+#potTwelve
+{
+    position: relative;
+    top: -70%;
+    left: 5%;
+    z-index: -5;
+}
+
+#potVideoOne
+{
+    position: relative;
+    top: -58%;
+    left: 32.7%;
+    z-index: 5;
+    width: 30vw;
+    height: 30vh;
+    display: block;
+}
+
+#potGridOne
+{
+    position: relative;
+    top: 49%;
+    left: -40.7%;
+}
+
+#potGridTwo
+{
+    position: relative;
+    top: -64%;
+    left: -19%;
+}
+
+#potGridThree
+{
+    position: relative;
+    top: 133%;
+    left: -25.5%;
+}
+
+#potGridFour
+{
+    position: relative;
+    top: -188%;
+    left: -52.9%;
+}
+
+#potGridFive
+{
+    position: relative;
+    top: 60%;
+    left: -14.7%;
+    z-index: 1;
+}
+
+
+#potImageDescriptionOne
+{
+    position: relative;
+    left: 18.5%;
+    top: 30%;
+    width: 14%;
+}
+
+#potImageDescriptionTwo
+{
+    position: relative;
+    left: 18.5%;
+    top: -23%;
+    width: 14%;
+}
+
+#potImageDescriptionThree
+{
+    position: relative;
+    left: 52.2%;
+    top: 35%;
+    width: 14%;
+}
+
+#potImageDescriptionFour
+{
+    position: relative;
+    left: 35.5%;
+    top: -3%;
+    width: 14%;
+}
+
+.endlinePots
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 40vh;
+    left: 0vw;
+    border-bottom: 1px solid black;
+}
+
+.endlinePotsTwo
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 90vh;
+    left: 0vw;
+    border-bottom: 2px solid black;
+}
+
+.referenceBlockPots
+{
+    position: relative;
+    width: 30%;
+    height: 12%;
+    left: 35.3%;
+    top: 30%;
+}
+
+.referencesPots
+{
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    width: 55%;
+    height: 50%;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+}

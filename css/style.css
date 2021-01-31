@@ -1,0 +1,1066 @@
+* 
+{
+    box-sizing: border-box;
+}
+html
+{
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+}
+#grid
+{
+    position: absolute;
+    z-index: -10;
+    width: 100%;
+    height: 1080px;
+    top: 0vh;
+    left: 0vw;
+}
+
+body 
+{
+    font-family: 'Lato';
+    -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizelegibility;
+    overflow: hidden;
+    background-color: white;
+    padding: 0;
+    margin: 0;
+}
+
+sup
+{
+    font-size: 20px;
+    line-height: 0;
+}
+
+.nopadding
+{
+    padding: 0;
+}
+
+.nomargin
+{
+    margin: 0;;
+}
+
+video
+{
+    overflow: hidden;
+}
+
+.headings
+{
+    position: absolute;
+    bottom: 0.5vh;
+    width: 3vw;
+    height: 100vh;
+    border-right: 3px solid black;
+    padding: 0;
+    margin: 0;
+    z-index: 3;
+}
+.headingTitle
+{
+    margin: 10px;
+    transform: rotate(90deg);
+    white-space: nowrap;
+    position: relative;
+    top: 4.8vh;
+    right: -3px;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    opacity: 0;
+}
+.headingItem
+{
+    transform: rotate(90deg);
+    white-space: nowrap;
+    position: relative;
+    top: 25vh;
+    right: 0vw;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    opacity: 0;
+}
+#eventsNav
+{
+    top: 25.4vh;
+    left: 0.2vw;
+}
+#residencyNav
+{
+    top: 27.7vh;
+    left: 0.2vw;
+}
+#glossaryNav
+{
+    top: 32.5vh;
+    left: 0.2vw;
+}
+#collaboratorsNav
+{
+    top: 36vh;
+    left: 0.2vw;
+}
+#acknowledgementsNav
+{
+    top: 42.5vh;
+    left: 0.2vw;
+}
+#monsoonAssemblagesNav
+{
+    top: 53.2vh;
+    left: 0.2vw;
+}
+#scene
+{
+    width: 100vw;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    left: 0;
+    bottom: 0vh;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    z-index: 0;
+
+}
+#mainSection::-webkit-scrollbar 
+{
+    display: none;
+}
+.cityTitle
+{
+    transform: rotate(90deg);
+    -webkit-transform-origin: 50%  53%;
+    white-space: nowrap;
+    position: fixed;
+    top: 13vh;
+    left: -5px;
+    font-size: 18px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+    z-index: 5;
+    margin: 0;
+}
+
+.UrbanAssemblagesChapterName
+{
+    transform: rotate(90deg);
+    white-space: nowrap;
+    position: absolute;
+    top: 11.5vh;
+    left: 15px;
+    font-size: 18px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+    z-index: 5;
+    margin: 0;
+}
+#cityHeadings
+{
+    position: relative;
+    top: 19vh;
+    left: 4vw;
+    font-family: 'Sora', sans-serif;
+}
+#cityNameContainer
+{
+    display: inline-block;
+}
+.cityTitlePrimary
+{
+    margin: 0;
+    padding: 0;
+    font-size: 3.5vw;
+    font-weight: 400;
+    line-height: 60px;
+    position: relative;
+    left: 0.5vw;
+    top: 9vh;
+    font-family: 'Sora', sans-serif;
+}
+
+.cityTitlePrimary:hover
+{
+    font-weight: 900;
+}
+
+.cityTitlePrimary:after {    
+    background: none repeat scroll 0 0 transparent;
+    bottom: 0;
+    content: "";
+    display: block;
+    height: 3px;
+    left: 50%;
+    position: absolute;
+    background: black;
+    transition: width 0.3s ease 0s, left 0.3s ease 0s;
+    width: 0;
+  }
+
+  .cityTitlePrimary:hover:after 
+  { 
+    width: 100%; 
+    left: 0;
+  }
+.cityName
+{
+    margin: 0;
+    padding: 0;
+    font-size: 3.5vw;
+    line-height: 63px;
+    position: absolute;
+    left: 15px;
+    top: 95px
+}
+.content
+{
+    position: relative;
+    width: 28vw;
+    height: 100vh;
+    left: 680px;
+    top: 270px; 
+    overflow-x: hidden;
+    overflow-y: scroll;
+    padding: 0;
+}
+#contentTitle
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 25vw;   
+}
+.contentText
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    width: 26vw;
+}
+
+#accordianSection
+{
+    position: relative;
+    width: 100%;
+    left: 67.5vw;
+    bottom: 0.5vw;
+    margin: 0;
+    padding: 0;
+    z-index: 5;
+}
+.tabSubtitles
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    display: inline-block;
+    padding-top: 5px;
+}
+ul 
+{
+    display: flex;
+    min-height: 101vh;
+    max-height: 101vh;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    list-style-type: none;
+}
+li 
+{
+    display: flex;
+    align-items: stretch;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0);
+    cursor: pointer;
+    transition: all 0.5s ease;
+    width: 60px;
+    border-left: 3px solid black;
+}
+/* li:hover 
+{
+    background: #eeeeee;
+} */
+li.active 
+{
+    background: rgba(255, 255, 255, 0);
+    cursor: default;
+    width: 385px;
+}
+li.active h2 {
+    color: black;
+}
+li.active .section-content 
+{
+    opacity: 1;
+    color: black;
+    position: relative;
+    right: 2vw;
+}
+.text
+{
+    width: 15vw;
+}
+li .section-title 
+{
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: black;
+    position: relative;
+    right: 2vw;
+    bottom: 44.5vh;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+}
+li .section-title h2 
+{
+    margin: 0;
+    transform: rotate(90deg);
+    white-space: nowrap;
+}
+li .section-content 
+{
+    flex: 0.5;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    opacity: 0;
+    /* transition: all 0.25s 0.5s ease-out; */
+}
+.focusedSubtitles
+{
+    position: absolute;
+    display: block;
+    width: 500px;
+    left: -4vw;
+    bottom: 50vh;
+}
+.focusedSingleSubtitle
+{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 37px;
+    z-index: 10;
+}
+.focusedSingleSubtitle:hover
+{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#focusedSubtitlesOne
+{
+    bottom: 53.8vh;
+    left: -3.3vw;
+}
+#focusedSubtitlesTwo
+{
+    bottom: 57.3vh;
+    left: -8.8vw;
+}
+#focusedSubtitlesThree
+{
+    left: -2vw;
+    bottom: 54vh;
+}
+#focusedSubtitlesFour
+{
+    left: -1vw;
+    bottom: 50.5vh;
+}
+#focusedSubtitlesFive
+{
+    left: -6.2vw;
+    bottom: 57.3vh;
+}
+a
+{
+    color: black;
+    text-decoration: none;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 3px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0);
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0);
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgba(0, 0, 0, 0);
+  }
+
+  #Interlocutors
+  {
+    position: relative;
+    top: 4.7vh;
+    right: 0.4vw;
+  }
+
+  #Infrastructure
+  {
+    position: relative;
+    top: 9.1vh;
+    right: 55px;
+  }
+
+  #Framings
+  {
+    position: relative;
+    top: 2.9vh;
+    left: 10px;
+  }
+
+  #Matters
+  {
+    position: relative;
+    top: 2.3vh;
+    left: 17px;
+  }
+
+  #UrbanAssemblages
+  {
+    position: relative;
+    top: 6.9vh;
+    right: 30px;
+  }
+  .subtitleContainer
+  {
+    writing-mode: vertical-lr;
+    text-align: center;
+    transform:rotate(360deg);
+    height:100vh;
+    display: block;
+    position: relative;
+    top: 36vh;
+    right: 5vw;
+  } 
+
+  #subtitleContainerTwo
+  {
+    right: 10vw;
+    top: 35.1vh;
+  }
+
+  #subtitleContainerThree
+  {
+    right: 3vw;
+    top: 37.6vh;
+  }
+
+  #subtitleContainerFour
+  {
+    right: 2.4vw;
+    top: 40vh;
+  }
+
+  #subtitleContainerFive
+  {
+    right: 7.5vw;
+    top: 33vh;
+  }
+
+  #backgroundVideo
+  {
+    position: absolute;
+    z-index: -10;
+    width: 100%;
+    height: auto;
+    bottom: 0;
+    left: 0vw;
+  }
+
+  #videoContent
+  {
+      display: block;
+      width: 100vw;
+      height: 100vh;
+      opacity: 1;
+      position: absolute;
+  }
+
+  #imageContent
+  {
+      width: 40vw;
+      height: 45vh;
+      padding: 0;
+      margin: 0;
+      position: relative;
+      bottom: 102vh;
+      left: 10vw;
+      text-align: center;
+      opacity: 0;
+  }
+
+  #imageContent:hover
+  {
+    cursor: -webkit-zoom-in;
+  }
+
+
+.Layout__wrapper-container 
+{
+    position: absolute;
+    width: 101%; /* might fuck shit up */
+    height: 100%;
+    z-index: 0;
+    overflow-y: scroll;
+}
+
+.Layout__wrapper {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    position: relative;
+}
+
+.Layout__main {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    position: relative;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    flex-grow: 1;
+    z-index: 1;
+    /* height: 100%; */
+}
+
+.MMContainer{
+    max-width: 100vw;
+    flex: 100%;
+}
+
+#navbarTitlesContainer
+{
+    position: fixed;
+    top: 27.3%;
+    left: 4.5%;
+}
+
+#bottomRightHandCornerImage
+{
+    width: 622px;
+    height: 400px;
+    position: absolute;
+    bottom: -20px;
+    right: 0px;
+    z-index: -5;
+    overflow: hidden;
+}
+
+#imageInCorner
+{
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+    right: -9999px;
+    bottom: -9999px;
+    margin: auto;
+}
+
+video:focus { outline:none; }
+
+.eventBlock
+{
+    margin-top: 5vh;
+}
+
+.rightSideSmallerText
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    line-height: 25px;
+    font-weight: 400;
+}
+
+.rightSideEvenSmallerText
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 18px;
+    font-weight: 400;
+}
+
+.MMHeading
+{
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    font-size: 34px;
+}
+
+#about
+{
+    height: 25%;
+    width: auto;
+}
+
+#events
+{
+    height: 60%;
+    width: auto;
+}
+
+#residency
+{
+    margin-top: 10vh;
+    height: 60%;
+    width: auto;
+}
+
+#glossarySection
+{
+    margin-top: -200vh;
+    height: 50%;
+    position: absolute;
+    left: -25px;
+}
+
+#collaboratorsSection
+{
+  height: 50%;
+  width: auto;
+  position: relative;
+  top: 1500vh;
+}
+
+#acknowledgementSection
+{
+    height: 50%;
+    width: auto;
+    position: relative;
+    top: 1320vh;
+}
+
+#assemblagesSection
+{
+    height: 50%;
+    width: auto;
+    position: relative;
+    top: 1240vh;
+}
+
+.glossaryRow 
+{
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.glossaryColumn 
+{
+    flex: 50%;
+    padding: 10px;
+    height: 580px;
+    margin-left: 30px;
+  }
+
+  .centerImage
+  {
+    position: relative;
+    left: 0vw;
+    top: 3vh;
+    width: 12.5vw;
+    height: auto;
+    padding: 5px;
+  }
+
+  .CollabTitle
+  {
+      font-size: 34px;
+      font-weight: 400;
+      line-height: 37px;
+      font-family: 'Roboto', sans-serif;
+      left: -10.5%;
+      text-align: left;
+  }
+
+  .logos
+  {
+      width: 14.3vw;
+      height: auto;
+      position: relative;
+  }
+
+  #logoOne
+  {
+    width: 25vw;
+    margin-top: 5vh;
+  }
+
+  #logoTwo
+  {
+    margin-top: 5vh;
+  }
+
+  .endLineLanding
+  {
+    width: 64.5vw;
+    height: 1vh;
+    position: absolute;
+    top: 2565vh;
+    left: -33vw;
+    border-bottom: 1px solid black;
+}
+
+#oneRefLanding
+{
+    top: 2575vh;
+    left: 0vw;
+    width: 40%;
+}
+
+.TemplateContainer {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    font-size: 42pt;
+    padding: 0px 3vw;
+    height: 150vh;
+    position: relative;
+    
+}
+
+.TemplateBlock {
+    line-height: 25vh;
+    text-align: right;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.templateQuote
+{
+    position: absolute;
+    top: 17.5%;
+    left: 35.5%;
+    width: 20%;
+    text-align: left;
+    position: absolute;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.references
+{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    width: 14%;
+    text-align: left;
+}
+
+.small
+{
+    width: 14.5vw;
+    height: auto;
+    padding: 5px;
+}
+
+.middle
+{
+    width: 25vw;
+    height: auto;
+    display: block;
+    padding: 10px;
+}
+
+.middleLarge
+{
+    width: 31vw;
+    height: auto;
+    display: block;
+    padding: 10px;
+}
+
+.large
+{
+    width: 46vw;
+    height: auto;
+}
+
+.mediumLarge
+{
+    width: 56vw;
+    height: auto;
+}
+
+.extraLarge
+{
+    width: 64.5vw;
+    height: auto;
+}
+
+
+.TemplateImageDescription
+{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 16px;
+    width: 17%;
+    text-align: left;
+}
+
+.TemplateImageContainer
+{
+    width: 50%;
+    display: inline-grid;
+    position: absolute;
+}
+
+#gridImage
+{
+    width: 14.5vw;
+    margin-left: 25px;
+    height: auto;
+}
+
+#gridImageSmaller
+{
+    width: 13.5vw;
+    margin-left: 30px;
+    margin-right: 5px;
+    height: auto;
+}
+
+#gridImageMiddle
+{
+    width: 25vw;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-top: 2vh;
+    height: auto;
+    pointer-events: none;
+}
+
+#gridImageSmallerLarger
+{
+    width: 30vw;
+    margin-left: 25px;
+} 
+
+#gridImageLarger
+{
+    width: 31vw;
+    margin-left: 25px;
+} 
+
+.verticalGridContainer
+{
+    width: 50%;
+    height: 100%;
+    display: inline-grid;
+    position: absolute;
+}
+
+.deep
+{
+    z-index: -5;
+}
+
+.shallow
+{
+    z-index: 0;
+}
+
+.onTop
+{
+    z-index: 5;
+}
+
+.smallerTextWidth
+{
+    width: 26%;
+}
+
+.mainTitle
+{
+    position: absolute;
+    top: 16.7%;
+    left: 1.5%;
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 37px;
+    text-align: left;
+}
+
+.mainTitleRight
+{
+    position: absolute;
+    top: 16.7%;
+    left: 1.5%;
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 37px;
+    text-align: left;
+}
+
+
+.copyText
+{
+    position: absolute;
+    top: 17%;
+    left: 35.5%;
+    width: 30%;
+    text-align: left;
+    position: absolute;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.copyTextLarger
+{
+    position: relative;
+    top: 16%;
+    left: 35.5%;
+    width: 29%;
+    text-align: left;
+    position: absolute;
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 38px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.copyTextLeft
+{
+    position: relative;
+    top: 17%;
+    left: 5%;
+    width: 30%;
+    text-align: left;
+    position: absolute;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    font-family: 'Roboto', sans-serif;
+    z-index: 6;
+}
+
+.horizontalContainer
+{
+    display: flex;
+    position: absolute;
+}
+
+.containerRow
+{
+    flex: 33.33%;
+    padding: 5px;
+}
+
+#gridImage
+{
+    width: 14.5vw;
+    margin-left: 25px;
+    height: auto;
+}
+
+#gridImageSmallerMargin
+{
+    width: 14.5vw;
+    margin-left: 12px;
+    height: auto;
+}
+
+#gridImageSmaller
+{
+    width: 13.5vw;
+    margin-left: 30px;
+    margin-right: 5px;
+    height: auto;
+}
+
+#gridImageMedium
+{
+    width: 23vw;
+    margin-left: 25px;
+    height: auto;
+}
+
+#gridImageLarger
+{
+    width: 31vw;
+    margin-left: 25px;
+    height: auto;
+}
+
+.mainTitleRight 
+{
+    position: relative;
+    top: 13%;
+    left: 35.4%;
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 37px;
+    text-align: left;
+}
+
+#RightTextContainerMM
+{
+    width: 30.5%;
+    height: 5500px;
+    position: absolute;
+    top: 23.9%;
+    left: 35%;
+    z-index: -3;
+}
+
+.rightSideTextMM
+{
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 37px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.rightSideText
+{
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 37px;
+    font-family: 'Roboto', sans-serif;
+}

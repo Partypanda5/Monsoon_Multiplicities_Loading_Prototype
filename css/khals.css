@@ -1,0 +1,200 @@
+.khalsContainer
+{
+    max-width: 100vw;
+    flex: 100%;
+    display: block;
+    z-index: 10;
+}
+
+#khalsSubFour
+{
+    top: -60vh;
+}
+
+#khalsSubFive
+{
+    top: -90vh;
+}
+
+#khalsSubSix
+{
+    top: -70vh;
+}
+
+#khalsSubSeven
+{
+    top: -60vh;
+}
+
+
+
+#khalsHorizontalGridOne
+{
+    top: 270vh;
+    left: 14.7vw;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#khalsGridTwo
+{
+    top: 60vh;
+    left: 7.5vw;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#khalsGridThree
+{
+    top: 52vh;
+    left: 29vw;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#khalsGridFour
+{
+    top: 150vh;
+    left: 13vw;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#khalsVideoOne
+{
+    position: absolute;
+    top: 65%;
+    left: 18.3%;
+    z-index: 0;
+}
+
+#khalsVideoThree {
+    position: absolute;
+    top: 50%;
+    left: 18.3%;
+    z-index: 0;
+}
+
+#khalsVideoFour {
+    position: absolute;
+    top: 50%;
+    left: 18.3%;
+    z-index: 0;
+}
+
+#khalsVideoFive {
+    position: absolute;
+    top: -20%;
+    left: 5%;
+    z-index: 0;
+}
+
+#khalsVideoSix {
+    position: absolute;
+    top: 42%;
+    left: 1.5%;
+    z-index: -1;
+}
+
+#khalsVideoSeven {
+    position: absolute;
+    top: -50%;
+    left: 12.5%;
+    z-index: -2;
+}
+
+#khalsQuoteOne
+{
+    top: 44vh;
+    left: 10%;
+}
+
+/* #khalsVideoTwo
+{
+    width: 29.5vw;
+} */
+
+#khalsImageDescriptionOne
+{
+    position: absolute;
+    top: 98%;
+    left: 35%;
+}
+
+#khalsImageDescriptionTwo
+{
+    position: absolute;
+    top: 105%;
+    left: 36%;
+}
+
+#khalsImageDescriptionThree
+{
+    position: absolute;
+    top: 60%;
+    left: 36%;
+}
+
+#khalsImageDescriptionFour
+{
+    position: absolute;
+    top: 85%;
+    left: 36%;
+}
+
+#khalsImageDescriptionFive
+{
+    position: absolute;
+    top: 120%;
+    left: 36%;
+}
+
+#khalsImageDescriptionSix
+{
+    position: absolute;
+    top: 115%;
+    left: 36%;
+}
+
+#khalsGridOne
+{
+    top: 35%;
+    left: 13.5%;;
+}
+
+.khalsMapContainer
+{
+    width: 46vw;
+    height: auto;
+    position: absolute;
+    top: 70vh;
+    left: 18%;
+}
+
+.endLineKhals
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: absolute;
+    top: -15%;
+    left: 0%;
+    border-bottom: 1px solid black;
+}
+
+#oneRefKhals
+{
+    top: -10%;
+    left: 36%;
+}
+
+#twoRefKhals
+{
+    top: -5%;
+    left: 36%;
+}
+
+#threeRefKhals
+{
+    top: -1%;
+    left: 36%;
+}

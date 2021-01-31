@@ -1,0 +1,240 @@
+.atmosphereContainer
+{
+    max-width: 100vw;
+    flex: 100%;
+    display: block;
+    z-index: 10;
+}
+
+#atmosphereSubFour
+{
+    top: 20vh;
+}
+
+#atmosphereSubFive
+{
+    top: -45vh;
+}
+
+#atmosphereSubSix
+{
+    top: -65vh;
+}
+
+#atmosphereSubSeven
+{
+    top: -120vh;
+}
+
+#atmosphereSubEight
+{
+    top: -150vh;
+}
+
+#atmosphereSubNine
+{
+    top: -185vh;
+}
+
+#atmosOne
+{
+    position: relative;
+    top: 32%;
+    left: -32%;
+    width: 63vw;
+}
+
+#atmosTwo
+{
+    position: relative;
+    top: 38%;
+    left: -32%;
+    width: 63vw;
+}
+
+#atmosThree
+{
+    position: relative;
+    top: 32%;
+    left: -32%;
+    width: 63vw;
+}
+
+#atmosFour
+{
+    position: relative;
+    top: 32%;
+    left: -32%;
+    width: 63vw;
+}
+
+.copyTextAtmosOne
+{
+    position: relative;
+    top: 26%;
+    left: 8%;
+    width: 17%;
+}
+
+#atmosImageDescriptionOne
+{
+    position: relative;
+    top: 27%;
+    left: 35.5%;
+    width: 14%;
+}
+
+#AtmosVideoOne
+{
+    position: relative;
+    left: -31.3%;
+    top: 30%;
+    width: 64.6vw;
+    height: 21vh;
+}
+
+#AtmosVideoTwo
+{
+    position: relative;
+    left: -31.6%;
+    top: 30%;
+    width: 64vw;
+    height: 64vh;
+}
+
+#AtmosVideoThree
+{
+    position: relative;
+    left: -31.6%;
+    top: 30%;
+    width: 64vw;
+    height: 64vh;
+}
+
+#AtmosVideoFour
+{
+    position: relative;
+    left: -31.6%;
+    top: 30%;
+    width: 64vw;
+    height: 64vh;
+}
+
+#AtmosVideoFive
+{
+    position: relative;
+    left: -31.6%;
+    top: 30%;
+    width: 64vw;
+    height: 64vh;
+    z-index: -5;
+}
+
+#AtmosVideoSix
+{
+    position: relative;
+    left: -31.6%;
+    top: 10%;
+    width: 64vw;
+    height: 64vh;
+    z-index: -5;
+}
+
+#AtmosVideoSeven
+{
+    position: relative;
+    left: -31.6%;
+    top: 31%;
+    width: 64vw;
+    height: 64vh;
+    z-index: -5;
+}
+
+#atmosGridOne
+{
+    position: relative;
+    top: 30%;
+    left: -44.7%;
+}
+
+#atmosGridTwo
+{
+    position: relative;
+    top: -5%;
+    left: -16.4%;
+}
+
+#atmosGridThree
+{
+    position: relative;
+    top: 35%;
+    left: -32.7%;
+}
+
+#gridImageAtmos
+{
+    width: 14.5vw;
+    margin-left: 9px;
+    height: auto;
+}
+
+.endlineAtmos
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 3%;
+    left: 0%;
+    border-bottom: 1px solid black;
+}
+
+.endlineAtmosTwo
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 40%;
+    left: 0%;
+    border-bottom: 1px dotted black;
+}
+
+.endlineAtmosThree
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 50%;
+    left: 0%;
+    border-bottom: 2px solid black;
+}
+
+
+.referenceBlockAtmos
+{
+    width: 102%;
+    height: 6%;
+    position: absolute;
+    top: 8%;
+    left: 35.2%;
+}
+
+.referenceBlockAtmosTwo
+{
+    width: 102%;
+    height: 6%;
+    position: absolute;
+    top: 45%;
+    left: 35.2%;
+}
+
+.referencesAtmos
+{
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    width: 30%;
+    height: 50%;
+    text-align: left;
+}

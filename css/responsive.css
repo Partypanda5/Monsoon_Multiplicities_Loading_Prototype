@@ -1,0 +1,36 @@
+@media (min-width: 1000px) and (max-width: 1399px)
+{
+    /* #grid
+    {
+        bottom: 192px;
+    } */
+    .cityTitle
+    {
+        top: 13.5vh;
+        left: -3.4vw;
+        font-size: 16px;
+    }
+
+    .navbarTitles 
+    {
+        font-size: 22px;
+        line-height: 23px;
+    }
+
+    #navbarTitlesContainer 
+    {
+        top: 30%;
+    }
+
+    #rightSideQuote {
+        font-size: 20px;
+        line-height: 21px;
+    }
+
+
+    .rightSideText
+    {
+        font-size: 22px;
+        line-height: 23px;
+    }
+} 
