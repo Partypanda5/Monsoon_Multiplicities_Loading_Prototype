@@ -33,12 +33,22 @@
 
 #drawingSubSeven
 {
-    top: 520vh;
+    top: 585vh;
 }
 
 #drawingSubEight
 {
-    top: 520vh;
+    top: 640vh;
+}
+
+#drawingSubNine
+{
+    top: 765vh;
+}
+
+#drawingSubTen
+{
+    top: 800vh;
 }
 
 
@@ -125,29 +135,33 @@
 #drawingSixteen
 {
     position: relative;
-    top: 0%;
-    left: 0%;
+    top: 33%;
+    left: -33%;
+    width: 61.5vw;
 }
 
 #drawingSeventeen
 {
     position: relative;
-    top: 10%;
-    left: 0%;
+    top: 28%;
+    left: -33%;
+    width: 61.5vw;
 }
 
 #drawingEighteen
 {
     position: relative;
-    top: 20%;
-    left: 0%;
+    top: 23%;
+    left: -33%;
+    width: 61.5vw;
 }
 
 #drawingNineteen
 {
     position: relative;
-    top: 30%;
-    left: 0%;
+    top: 18%;
+    left: -33%;
+    width: 61.5vw;
 }
 
 #drawingTwenty
@@ -155,6 +169,14 @@
     position: relative;
     top: 40%;
     left: 0%;
+}
+
+#drawingTwentyOne
+{
+    position: relative;
+    top: -45%;
+    left: 34.7%;
+    z-index: 5; 
 }
 
 #DrawingVideoOne
@@ -173,6 +195,30 @@
     left: -56%;
     width: 35vw;
     height: 35vh;
+}
+
+#DrawingVideoThree
+{
+    width: 25vw;
+    height: 25vh;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-top: 2vh;
+    pointer-events: none;
+}
+
+#DrawingVideoFour
+{
+    width: 46vw;
+    height: 46vh;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-top: 2vh;
+    pointer-events: none;
+    z-index: -5;
+    position: relative;
+    top: -53%;
+    left: -32.7%;
 }
 
 #drawingImageDescriptionOne
@@ -266,16 +312,72 @@
 #drawingImageDescriptionTwelve
 {
     position: relative;
-    top: -35%;
-    left: 7%;
+    top: 10%;
+    left: 10%;
     width: 14%;
 }
 
 #drawingImageDescriptionThirteen
 {
     position: relative;
-    top: -35%;
-    left: 7%;
+    top: -24%;
+    left: 10%;
+    width: 14%;
+}
+
+#drawingImageDescriptionFourteen
+{
+    position: relative;
+    top: 15%;
+    left: 10%;
+    width: 17%;
+}
+
+#drawingImageDescriptionFifteen
+{
+    position: relative;
+    top: 15%;
+    left: 10%;
+    width: 17%;
+}
+
+#drawingImageDescriptionSixteen
+{
+    position: relative;
+    top: 75%;
+    left: 0%;
+    width: 17%;
+}
+
+#drawingImageDescriptionSeventeen
+{
+    position: relative;
+    top: 75%;
+    left: 0%;
+    width: 17%;
+}
+
+#drawingImageDescriptionEighteen
+{
+    position: relative;
+    top: 15%;
+    left: 35.3%;
+    width: 14%;
+}
+
+#drawingImageDescriptionNineTeen
+{
+    position: relative;
+    top: 20%;
+    left: 35.3%;
+    width: 14%;
+}
+
+#drawingImageDescriptionTwenty
+{
+    position: relative;
+    top: -55%;
+    left: 52.3%;
     width: 14%;
 }
 
@@ -363,6 +465,28 @@
     left: -16.3%;
 }
 
+#drawingGridEleven
+{
+    position: relative;
+    top: 30%;
+    left: -44.7%;
+}
+
+#drawingGridTwelve
+{
+    position: relative;
+    top: -65%;
+    left: -16.3%;
+}
+
+#drawingGridThirteen
+{
+    position: relative;
+    top: -3%;
+    left: -32.3%;
+    z-index: 5;
+}
+
 .drawingMapContainer
 {
     width: 31vw;
@@ -370,30 +494,97 @@
     position: relative;
 }
 
+.moveDown
+{
+    position: relative;
+    top: 30vh;
+}
+
 #mapOne
 {
     position: relative;
-    top: 20%;
-    left: 5%;
+    top: 45%;
+    left: 1%;
 }
 
 #mapTwo
 {
     position: relative;
-    top: 20%;
-    left: 5%;
+    top: 8.3%;
+    left: 34.8%;
 }
 
 #mapThree
 {
     position: relative;
-    top: 20%;
-    left: 5%;
+    top: 11%;
+    left: 1%;
 }
 
 #mapFour
 {
     position: relative;
-    top: 20%;
-    left: 5%;
+    top: -26%;
+    left: 35%;
+}
+
+.endlineDrawingOne
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 3%;
+    left: 0%;
+    border-bottom: 1px solid black;
+}
+
+.endlineDrawingTwo
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 13%;
+    left: 0%;
+    border-bottom: 1px dotted black;
+}
+
+.endlineDrawingThree
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 15%;
+    left: 0%;
+    border-bottom: 1px dotted black
+}
+
+.endlineDrawingFour
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: -40%;
+    left: 0%;
+    border-bottom: 2px solid black
+}
+
+.referenceBlockDrawingOne
+{
+    width: 70%;
+    height: 6%;
+    position: relative;
+    top: 5%;
+    left: 35.2%;
+}
+
+.referenceDrawing
+{
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    width: 30%;
+    height: 50%;
+    text-align: left;
 }
