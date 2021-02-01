@@ -28,7 +28,7 @@
 {
     position: relative;
     left: 26vw;
-    top: -128%;
+    top: -125%;
     width: 40vw;
 }
 
@@ -72,17 +72,17 @@
 
 #sedimentNine
 {
-    position: absolute;
-    left: 26%;
-    top: 158%;
-    z-index: -1;
+    position: relative;
+    left: -33%;
+    top: -10%;
+    z-index: -5;
 }
 
 #sedimentTen
 {
-    position: absolute;
-    left: 1.5%;
-    top: -16%;
+    position: relative;
+    left: 6.5%;
+    top: -23%;
     z-index: -5;
 }
 
@@ -117,7 +117,7 @@
 #sedimentFifteen
 {
     position: relative;
-    left: -4.3%;
+    left: -3.5%;
     top: 51%;
     width: 31vw;
     z-index: 5;
@@ -158,42 +158,42 @@
 
 #sedimentSubThree
 {
-    top: 30vh;
+    top: 45vh;
 }
 
 #sedimentSubFour
 {
-    top: -50vh;
+    top: -35vh;
 }
 
 #sedimentSubSix
 {
-    top: -105vh;
+    top: -90vh;
 }
 
 #sedimentSubFive
 {
-    top: -120vh;
+    top: -105vh;
 }
 
 #sedimentSubSeven
 {
-    top: -18vh;
+    top: 5vh;
 }
 
 #sedimentSubEight
 {
-    top: 90vh;
+    top: -70vh;
 }
 
 #sedimentSubNine
 {   
-    top: 160vh;
+    top: -145vh;
 }
 
 #sedimentSubTen
 {
-    top: -265vh;
+    top: -135vh;
 }
 
 #sedimentGridOne
@@ -247,9 +247,9 @@
 
 #sedimentGridSeven
 {
-    position: absolute;
-    top: 40%;
-    left: 3%;   
+    position: relative;
+    top: -3%;
+    left: -50.5%;
 }
 
 #sedimentGridNine
@@ -261,30 +261,31 @@
 
 #sedimentGridTen
 {
-    position: absolute;
-    top: 66vh;
-    left: 33vw;
+    position: relative;
+    top: 17%;
+    left: -16%;
 }
 
 #sedimentGridEleven
 {
-    position: absolute;
-    top: 109vh;
-    left: 34.5vw;
+    position: relative;
+    top: 20%;
+    left: -16.7%;
 }
 
 #sedimentGridTwelve
 {
-    position: absolute;
-    top: 220vh;
-    left: 2.5vw;
+    position: relative;
+    top: 37%;
+    left: -49.8%;
 }
 
 #sedimentGridThirteen
 {
     position: relative;
-    top: -65%;
-    left: -16.7%;
+    left: -57.7%;
+    top: -68%;
+    width: 12vw;
 }
 
 #sedimentImageDescriptionOne
@@ -330,26 +331,26 @@
 
 #sedimentImageDescriptionSix
 {
-    position: absolute;
-    left: 52.5%;
-    top: 48%;
-    width: 14%;
+    position: relative;
+    left: 1.7%;
+    top: -15%;
+    width: 12%;
     z-index: -5;
 }
 
 #sedimentImageDescriptionSeven
 {
-    position: absolute;
+    position: relative;
     left: 52.5%;
-    top: 85%;
+    top: 23%;
     width: 14%;
 }
 
 #sedimentImageDescriptionEight
 {
-    position: absolute;
+    position: relative;
     left: 35.5%;
-    top: 85%;
+    top: -27%;
     width: 14%;
 }
 
@@ -363,9 +364,9 @@
 
 #sedimentImageDescriptionTen
 {
-    position: absolute;
-    left: 55.5%;
-    top: 146%;
+    position: relative;
+    left: 52.3%;
+    top: -50%;
     width: 12vw;
 }
 
@@ -380,18 +381,18 @@
 
 #sedimentImageDescriptionTwelve
 {
-    position: absolute;
+    position: relative;
     left: 1.7vw;
-    top: 55%;
+    top: 11%;
     width: 14%;
-    z-index: -5
+    z-index: -5;
 }
 
 #sedimentImageDescriptionThirteen
 {
-    position: absolute;
-    left: 54.5%;
-    top: 40%;
+    position: relative;
+    left: 52.5%;
+    top: -67%;
     width: 12vw;
 }
 
@@ -443,10 +444,10 @@
 
 #referenceBlockOne
 {
-    position: absolute;
+    position: relative;
     top: 5%;
-    left: 3%;
-    width: 60%;
+    left: 51%;
+    width: 71%;
     display: block;
 }
 
@@ -461,10 +462,10 @@
 
 #referenceBlockThree
 {
-    position: absolute;
-    top: 5%;
+    position: relative;
+    top: -77%;
     left: 75.5%;
-    width: 73%;
+    width: 65%;
     display: block;
 }
 
@@ -531,11 +532,22 @@ sup
 {
     position: relative;
     left: -34.7%;
-    top: -33%;
+    top: -28%;
     width: 61.5vw;
     height: 61.5vh;
     z-index: -5;
 }
+
+#sedimentVideoFive
+{
+    position: relative;
+    bottom: 7%;
+    left: 3%;
+    width: 30vw;
+    height: 30vh;
+    z-index: -5;
+}
+
 
 #sedimentTitleOne
 {
@@ -585,9 +597,16 @@ sup
 .sedimentCopySix
 {
     position: relative;
-    top: 23%;
+    top: 24%;
+    left: 6.9%;
+    width: 16%;
+}
+
+.sedimentcopySeven
+{
+    position: relative;
+    top: 25%;
     left: 1.9%;
-    width: 14%;
 }
 
 
@@ -595,4 +614,12 @@ sup
 {
     position: relative;
     top: -13%;
+}
+
+#sedimentGridImage
+{
+    position: relative;
+    top: 40%;
+    width: 14.5vw;
+    height: auto;
 }

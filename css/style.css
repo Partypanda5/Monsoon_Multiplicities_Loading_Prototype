@@ -843,10 +843,10 @@ video:focus { outline:none; }
     position: absolute;
 }
 
-#gridImage
+#gridImageSediment
 {
-    width: 14.5vw;
-    margin-left: 25px;
+    width: 14.3vw;
+    margin-left: 10px;
     height: auto;
 }
 
