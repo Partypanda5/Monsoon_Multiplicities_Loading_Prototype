@@ -8,22 +8,22 @@
 
 #oceanSubTwo
 {
-    top: -70vh;
+    top: -61vh;
 }
 
 #oceanSubThree
 {
-    top: -35vh;
+    top: -24vh;
 }
 
 #oceanSubFour
 {
-    top: -20vh;
+    top: -9vh;
 }
 
 #oceanSubFive
 {
-    top: -10vh;
+    top: -7vh;
 }
 
 #oceanSubSix
@@ -38,23 +38,24 @@
 
 #oceanSubSeven
 {
-    top: 225vh;
+    top: 230vh;
+    height: 15vh;
 }
 
 .oceanCopyOne
 {
     position: relative;
-    top: 25%;
-    left: 5%;
-    width: 22%;
+    top: 23%;
+    left: 7%;
+    width: 18%;
 }
 
 .oceanCopyTwo
 {
     position: relative;
-    top: -65%;
+    top: -60%;
     left: 35.3%;
-    width: 29%;
+    width: 26%;
 }
 
 .oceanCopyThree
@@ -62,13 +63,13 @@
     position: relative;
     top: -35%;
     left: 35.3%;
-    width: 29%;
+    width: 26%;
 }
 
 #oceanOne
 {
     position: relative;
-    top: 25%;
+    top: 27%;
     left: -2%;
     width: 100vw;
 }
@@ -76,15 +77,15 @@
 #oceanTwo
 {
     position: relative;
-    top: 37%;
-    left: -32%;
+    top: 38%;
+    left: -32.5%;
     width: 62.5vw;
 }
 
 #oceanThree
 {
     position: relative;
-    top: 32%;
+    top: 33%;
     left: -32.5%;
     width: 62.5vw;
 }
@@ -93,14 +94,14 @@
 {
     position: relative;
     top: 30%;
-    left: 1.1%;
+    left: -0.9%;
 }
 
 #oceanFive
 {
     position: relative;
-    top: 0%;
-    left: 34.7%;
+    top: 5%;
+    left: 33.7%;
 }
 
 #oceanSix
@@ -113,59 +114,61 @@
 #oceanSeven
 {
     position: relative;
-    top: -35.7%;
-    left: 34.7%;
+    top: -35.2%;
+    left: 35.4%;
+    padding: 0;
 }
 
 #oceanEight
 {
     position: relative;
-    top: 28%;
-    left: -31.3%;
+    top: 25%;
+    left: -32.3%;
+    width: 63vw;
 }
 
 #oceanNine
 {
     position: relative;
-    top: 21%;
-    left: 0%;
+    top: 18%;
+    left: 0.9%;
 }
 
 #oceanTen
 {
     position: relative;
-    top: 10.3%;
-    left: 34.7%;
+    top: 8.3%;
+    left: 34.3%;
 }
 
 #oceanEleven
 {
     position: relative;
-    top: 35%;
+    top: 38%;
     left: -32.7%;
-    width: 61.5vw
+    width: 61.5vw;
 }
 
 #oceanTwelve
 {
     position: relative;
     top: 24%;
-    left: 34.7%;
+    left: 35%;
     z-index: 5;
 }
 
 #oceanThirteen
 {
     position: relative;
-    top: 24%;
-    left: 7.7%;
+    top: 28%;
+    left: 5%;
     z-index: 5;
 }
 
 #oceanFourteen
 {
     position: relative;
-    top: 10%;
+    top: 15%;
     left: 17.9%;
     z-index: -5;
     width: 46.5vw;
@@ -174,7 +177,7 @@
 #oceanFifteen
 {
     position: relative;
-    top: 0%;
+    top: 10%;
     left: 34.7%;
     z-index: 5;
 }
@@ -182,7 +185,7 @@
 #oceanSixteen
 {
     position: relative;
-    top: -37%;
+    top: -40%;
     left: 34.7%;
     z-index: 5;
 }
@@ -190,8 +193,8 @@
 #oceanSeventeen
 {
     position: relative;
-    top: -43%;
-    left: 7.3%;
+    top: -40%;
+    left: 8%;
     z-index: -5;
 }
 
@@ -199,7 +202,7 @@
 {
     position: relative;
     top: -49%;
-    left: 17.7%;
+    left: 18.2%;
     z-index: 0;
     width: 46.5vw;
 }
@@ -223,7 +226,7 @@
 #oceanImageDescriptionTwo
 {
     position: relative;
-    top: -35%;
+    top: -33%;
     left: 35.3%;
     width: 14%;
 }
@@ -231,7 +234,7 @@
 #oceanImageDescriptionThree
 {
     position: relative;
-    top: -2%;
+    top: -5%;
     left: 8.7%;
     width: 14%;
 }
@@ -239,7 +242,7 @@
 #oceanImageDescriptionFour
 {
     position: relative;
-    top: 12%;
+    top: 13%;
     left: 35.3%;
     width: 14%;
 }
@@ -247,9 +250,9 @@
 #oceanImageDescriptionFive
 {
     position: relative;
-    top: 12%;
+    top: 118%;
     left: 35.3%;
-    width: 14%;
+    width: 21%;
 }
 
 
@@ -263,7 +266,7 @@
 #OceanVideoOne
 {
     position: relative;
-    top: 17%;
+    top: 19%;
     left: -49.7%;
     width: 46vw;
     height: 46vh;
@@ -272,7 +275,7 @@
 #OceanVideoTwo
 {
     position: relative;
-    top: -3%;
+    top: 0%;
     left: -66.7%;
     width: 25vw;
     height: 97vh;
@@ -282,8 +285,8 @@
 {
     position: relative;
     top: -63%;
-    left: -32.5%;
-    width: 62.5vw;
+    left: -33%;
+    width: 61.5vw;
     height: 62.5vh;
 }
 
@@ -292,7 +295,7 @@
     width: 64.5vw;
     height: 1vh;
     position: relative;
-    top: 11%;
+    top: 95%;
     left: 0%;
     border-bottom: 1px dotted black;
 }
@@ -320,9 +323,9 @@
 .referenceBlockOceanOne
 {
     width: 70%;
-    height: 6%;
+    height: 50%;
     position: relative;
-    top: 5%;
+    top: 20%;
     left: 35.2%;
 }
 
@@ -331,9 +334,10 @@
     position: relative;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
-    font-size: 14px;
-    line-height: 16px;
+    font-size: 13px;
+    line-height: 17px;
     width: 30%;
-    height: 50%;
+    height: 60%;
     text-align: left;
+    margin-bottom: 10px;
 }
