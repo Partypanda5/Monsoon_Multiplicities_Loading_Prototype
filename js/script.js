@@ -672,7 +672,7 @@ ethnographySubchapter.addEventListener('click', function()
 
   FadeInOut(() => 
   {
-    $(".Layout__wrapper-container").load("ethnography.html"); 
+    $(".Layout__wrapper-container").load("enthography.html"); 
   });
 
   setTimeout(function()
@@ -762,6 +762,27 @@ drawingSubchapter.addEventListener('click', function()
   FadeInOut(() => 
   {
     $(".Layout__wrapper-container").load("drawing.html"); 
+  });
+
+  setTimeout(function()
+  { 
+    imageInCorner.style.display = "block";
+  }, 5000);
+});
+
+oceanSubchapter.addEventListener('click', function() 
+{
+  setTabHeadingStyling(drawingSmallTabHeading, smallTabHeadingArray);
+  setTabHeadingStyling(drawingSubchapter, bigHeadingArray);
+
+  imageInCorner.style.display = "none";
+  imageInCorner.src = '';
+
+  $('#backgroundVideo').fadeOut(2000);
+
+  FadeInOut(() => 
+  {
+    $(".Layout__wrapper-container").load("ocean.html"); 
   });
 
   setTimeout(function()
