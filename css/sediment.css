@@ -117,8 +117,8 @@
 #sedimentFifteen
 {
     position: relative;
-    left: -3.5%;
-    top: 51%;
+    left: -1.9%;
+    top: 56%;
     width: 31vw;
     z-index: 5;
 }
@@ -163,37 +163,37 @@
 
 #sedimentSubFour
 {
-    top: -35vh;
+    top: -42vh;
 }
 
 #sedimentSubSix
 {
-    top: -90vh;
+    top: -97vh;
 }
 
 #sedimentSubFive
 {
-    top: -105vh;
+    top: -112vh;
 }
 
 #sedimentSubSeven
 {
-    top: 5vh;
+    top: -2vh;
 }
 
 #sedimentSubEight
 {
-    top: -70vh;
+    top: -77vh;
 }
 
 #sedimentSubNine
 {   
-    top: -145vh;
+    top: -151vh;
 }
 
 #sedimentSubTen
 {
-    top: -135vh;
+    top: -140vh;
 }
 
 #sedimentGridOne
@@ -263,14 +263,14 @@
 {
     position: relative;
     top: 17%;
-    left: -16%;
+    left: -16.3%;
 }
 
 #sedimentGridEleven
 {
     position: relative;
     top: 20%;
-    left: -16.7%;
+    left: -16.4%;
 }
 
 #sedimentGridTwelve
@@ -283,7 +283,7 @@
 #sedimentGridThirteen
 {
     position: relative;
-    left: -57.7%;
+    left: -52.7%;
     top: -68%;
     width: 12vw;
 }
@@ -341,7 +341,7 @@
 #sedimentImageDescriptionSeven
 {
     position: relative;
-    left: 52.5%;
+    left: 52%;
     top: 23%;
     width: 14%;
 }
@@ -349,7 +349,7 @@
 #sedimentImageDescriptionEight
 {
     position: relative;
-    left: 35.5%;
+    left: 35.3%;
     top: -27%;
     width: 14%;
 }
