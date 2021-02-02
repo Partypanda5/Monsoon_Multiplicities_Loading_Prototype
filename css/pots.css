@@ -8,7 +8,7 @@
 
 #potSubTwo
 {
-    top: -50vh;
+    top: -45vh;
 }
 
 #potSubThree
@@ -18,17 +18,17 @@
 
 #potSubFour
 {
-    top: 20vh;
+    top: 25vh;
 }
 
 #potSubFive
 {
-    top: 40vh;
+    top: 15vh;
 }
 
 #potSubSix
 {
-    top: 45vh;
+    top: 50vh;
 }
 
 #potSubSeven
@@ -36,50 +36,55 @@
     top: 30vh;
 }
 
+#potSubEight
+{
+    top: 5vh;
+}
+
 #potOne
 {
     position: relative;
     top: 33%;
-    left: -46.5%;
+    left: -49.5%;
 }
 
 #potTwo
 {
     position: relative;
-    top: 20%;
-    left: 50%;
+    top: 4%;
+    left: 34.7%;
 }
 
 #potThree
 {
     position: relative;
     top: -1%;
-    left: 2.5%;
-    width: 32vw;
+    left: 0.3%;
+    width: 31vw;
     z-index: 0;
 }
 
 #potFour 
 {
     position: relative;
-    top: 20%;
-    left: -36%;
+    top: 40%;
+    left: -33.3%;
     width: 61vw;
 }
 
 #potFive
 {
     position: relative;
-    top: 50%;
-    left: 4%;
+    top: 38%;
+    left: 1%;
     z-index: -5;
 }
 
 #potSix
 {
     position: relative;
-    top: 56%;
-    left: 43%;
+    top: 9%;
+    left: 34.7%;
     z-index: 5;
 }
 
@@ -87,14 +92,14 @@
 {
     position: relative;
     top: 3%;
-    left: 25%;
+    left: 27.7%;
     z-index: 4;
 }
 
 #potEight
 {
     position: relative;
-    top: -32%;
+    top: -10%;
     left: -43%;
     z-index: -4;
 }
@@ -102,24 +107,24 @@
 #potNine
 {
     position: relative;
-    top: 4%;
-    left: 14.5%;
+    top: 38.5%;
+    left: 16.7%;
     z-index: 5;
 }
 
 #potTen
 {
     position: relative;
-    top: 2%;
-    left: -55%;
+    top: 65%;
+    left: -49.3%;
     z-index: -5;
 }
 
 #potEleven
 {
     position: relative;
-    top: 98%;
-    left: 21%;
+    top: 6%;
+    left: 18.3%;
     z-index: -5;
     width: 33vw;
 }
@@ -127,16 +132,16 @@
 #potTwelve
 {
     position: relative;
-    top: -70%;
-    left: 5%;
+    top: -15%;
+    left: 6.3%;
     z-index: -5;
 }
 
 #potVideoOne
 {
     position: relative;
-    top: -58%;
-    left: 32.7%;
+    top: -1%;
+    left: 35.3%;
     z-index: 5;
     width: 30vw;
     height: 30vh;
@@ -146,36 +151,36 @@
 #potGridOne
 {
     position: relative;
-    top: 49%;
-    left: -40.7%;
+    top: 18%;
+    left: -44.7%;
 }
 
 #potGridTwo
 {
     position: relative;
-    top: -64%;
-    left: -19%;
+    top: -35%;
+    left: -16.3%;
 }
 
 #potGridThree
 {
     position: relative;
-    top: 133%;
-    left: -25.5%;
+    top: 33%;
+    left: -32.5%;
 }
 
 #potGridFour
 {
     position: relative;
-    top: -188%;
-    left: -52.9%;
+    top: -9%;
+    left: -44.7%;
 }
 
 #potGridFive
 {
     position: relative;
-    top: 60%;
-    left: -14.7%;
+    top: 33%;
+    left: -16.3%;
     z-index: 1;
 }
 
@@ -184,7 +189,7 @@
 {
     position: relative;
     left: 18.5%;
-    top: 30%;
+    top: 35%;
     width: 14%;
 }
 
@@ -192,7 +197,7 @@
 {
     position: relative;
     left: 18.5%;
-    top: -23%;
+    top: -14%;
     width: 14%;
 }
 
@@ -207,8 +212,8 @@
 #potImageDescriptionFour
 {
     position: relative;
-    left: 35.5%;
-    top: -3%;
+    left: 35.3%;
+    top: 0%;
     width: 14%;
 }
 
@@ -236,7 +241,7 @@
 {
     position: relative;
     width: 30%;
-    height: 12%;
+    height: 8%;
     left: 35.3%;
     top: 30%;
 }

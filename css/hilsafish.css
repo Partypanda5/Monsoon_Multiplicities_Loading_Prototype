@@ -106,8 +106,8 @@
     width: 30vw;
     height: auto;
     position: absolute;
-    top: 60vh;
-    right: 52.5%;
+    top: 38vh;
+    right: 65.5%;
 }
 
 
@@ -163,8 +163,9 @@
     width: 46vw;
     height: auto;
     position: absolute;
-    left: 14vw;
-    top: 35vh;
+    left: -8vw;
+    top: -14vh;
+    z-index: -5;
 }
 
 #fishContainer

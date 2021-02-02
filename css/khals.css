@@ -6,107 +6,157 @@
     z-index: 10;
 }
 
+#khalsSubTwo
+{
+    top: -30vh;
+}
+
+#khalsSubThree
+{
+    top: -18vh;
+}
+
 #khalsSubFour
 {
-    top: -60vh;
+    top: -80vh;
 }
 
 #khalsSubFive
 {
-    top: -90vh;
+    top: -105vh;
 }
 
 #khalsSubSix
 {
-    top: -70vh;
+    top: -85vh;
 }
 
 #khalsSubSeven
 {
-    top: -60vh;
+    top: -70vh;
 }
 
+#khalsSubEight
+{
+    top: -32vh
+}
 
 
 #khalsHorizontalGridOne
 {
-    top: 270vh;
-    left: 14.7vw;
+    top: 33%;
+    left: -39.4%;
     z-index: 1;
+    position: relative;
     pointer-events: none;
 }
 
 #khalsGridTwo
 {
-    top: 60vh;
-    left: 7.5vw;
+    top: 25%;
+    left: -44.7%;
     z-index: 1;
+    position: relative;
     pointer-events: none;
 }
 
 #khalsGridThree
 {
-    top: 52vh;
-    left: 29vw;
+    top: -17%;
+    left: -16.3%;
     z-index: 1;
+    position: relative;
     pointer-events: none;
 }
 
 #khalsGridFour
 {
-    top: 150vh;
-    left: 13vw;
+    top: 24%;
+    left: -44.7%;
     z-index: 1;
+    position: relative;
+    pointer-events: none;
+}
+
+#khalsGridFive
+{
+    top: 20%;
+    left: 4.8%;
+    z-index: 1;
+    position: relative;
     pointer-events: none;
 }
 
 #khalsVideoOne
 {
-    position: absolute;
-    top: 65%;
-    left: 18.3%;
-    z-index: 0;
+    position: relative;
+    top: 54%;
+    left: -32.8%;
+    width: 45.8vw;
+    height: 45.8vh;
+    z-index: -5;
 }
 
-#khalsVideoThree {
-    position: absolute;
-    top: 50%;
-    left: 18.3%;
-    z-index: 0;
+#khalsVideoTwo
+{
+    position: relative;
+    width: 30vw;
+    height: 30vh;
+    z-index: -5;
+    left: 3%;
 }
 
-#khalsVideoFour {
-    position: absolute;
-    top: 50%;
-    left: 18.3%;
+#khalsVideoThree 
+{
+    position: relative;
+    top: 57%;
+    left: -32.8%;
     z-index: 0;
+    width: 45.8vw;
+    height: 45.8vh;
 }
 
-#khalsVideoFive {
-    position: absolute;
-    top: -20%;
-    left: 5%;
+#khalsVideoFour 
+{
+    position: relative;
+    top: 20%;
+    left: 16%;
     z-index: 0;
+    width: 45.5vw;
+    height: 45.5vh;
 }
 
-#khalsVideoSix {
-    position: absolute;
-    top: 42%;
-    left: 1.5%;
+#khalsVideoFive 
+{
+    position: relative;
+    top: 44%;
+    left: -43.3%;
+    z-index: 5;
+    width: 45.5vw;
+    height: 45.5vh;
+}
+
+#khalsVideoSix 
+{
+    position: relative;
+    top: 30%;
+    left: 0.2%;
     z-index: -1;
 }
 
-#khalsVideoSeven {
-    position: absolute;
-    top: -50%;
-    left: 12.5%;
+#khalsVideoSeven 
+{
+    position: relative;
+    top: 55%;
+    left: -32.7%;
     z-index: -2;
 }
 
 #khalsQuoteOne
 {
-    top: 44vh;
-    left: 10%;
+    top: 27%;
+    left: 8.3%;
+    position: relative;
 }
 
 /* #khalsVideoTwo
@@ -116,66 +166,79 @@
 
 #khalsImageDescriptionOne
 {
-    position: absolute;
-    top: 98%;
-    left: 35%;
+    position: relative;
+    top: 34%;
+    left: 35.3%;
+    width: 14%;
 }
 
 #khalsImageDescriptionTwo
 {
-    position: absolute;
-    top: 105%;
-    left: 36%;
+    position: relative;
+    top: -15%;
+    left: 35.3%;
+    width: 14%;
 }
 
 #khalsImageDescriptionThree
 {
-    position: absolute;
-    top: 60%;
-    left: 36%;
+    position: relative;
+    top: 22%;
+    left: 35.3%;
+    width: 14%;
 }
 
 #khalsImageDescriptionFour
 {
-    position: absolute;
+    position: relative;
     top: 85%;
     left: 36%;
 }
 
 #khalsImageDescriptionFive
 {
-    position: absolute;
-    top: 120%;
-    left: 36%;
+    position: relative;
+    top: 32%;
+    left: 35.3%;
+    width: 14%;
 }
 
 #khalsImageDescriptionSix
 {
-    position: absolute;
-    top: 115%;
-    left: 36%;
+    position: relative;
+    top: 39%;
+    left: 35.3%;
+}
+
+#khalsImageDescriptionSeven
+{
+    position: relative;
+    top: 50%;
+    left: 35.3%;
+    width: 14%;
 }
 
 #khalsGridOne
 {
-    top: 35%;
-    left: 13.5%;;
+    top: 17.5%;
+    left: 4.8%;
+    position: relative;
 }
 
 .khalsMapContainer
 {
-    width: 46vw;
+    width: 45.5vw;
     height: auto;
-    position: absolute;
-    top: 70vh;
-    left: 18%;
+    position: relative;
+    top: 30%;
+    left: 18.7%;
 }
 
 .endLineKhals
 {
     width: 64.5vw;
     height: 1vh;
-    position: absolute;
+    position: relative;
     top: -15%;
     left: 0%;
     border-bottom: 1px solid black;
@@ -183,18 +246,21 @@
 
 #oneRefKhals
 {
-    top: -10%;
-    left: 36%;
+    top: -12%;
+    left: 35.3%;
+    position: relative;
 }
 
 #twoRefKhals
 {
-    top: -5%;
-    left: 36%;
+    top: -11%;
+    left: 35.3%;
+    position: relative;
 }
 
 #threeRefKhals
 {
-    top: -1%;
-    left: 36%;
+    top: -10%;
+    left: 35.3%;
+    position: relative;
 }

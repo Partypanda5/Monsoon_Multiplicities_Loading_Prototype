@@ -94,14 +94,14 @@
 {
     position: relative;
     top: -35%;
-    left: 7.3%;
+    left: 7.5%;
 }
 
 #tanksEight
 {
     position: relative;
     top: 25%;
-    left: 7.3%;
+    left: 7.7%;
 }
 
 #tanksGridOne
@@ -128,14 +128,14 @@
 #tanksGridFour
 {
     position: relative;
-    left: -45%;
+    left: -44.7%;
     top: -34%;
 }
 
 #tanksGridFive
 {
     position: relative;
-    left: -45%;
+    left: -44.7%;
     top: 25%;
 }
 
@@ -149,7 +149,7 @@
 #tanksGridSeven
 {
     position: relative;
-    left: -45%;
+    left: -44.7%;
     top: -0%;
 }
 
@@ -163,7 +163,7 @@
 #tanksGridNine
 {
     position: relative;
-    left: -45%;
+    left: -44.7%;
     top: 30%;
 }
 
