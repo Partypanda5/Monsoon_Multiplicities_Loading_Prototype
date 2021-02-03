@@ -990,6 +990,12 @@ video:focus { outline:none; }
     padding: 5px;
 }
 
+.whiteText
+{
+    color: white;
+    font-weight: 300;
+}
+
 #gridImage
 {
     width: 14.5vw;

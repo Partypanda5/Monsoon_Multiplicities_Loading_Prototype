@@ -62,10 +62,11 @@ var atmosphereSmallTabHeading = document.querySelector('#Atmosphere');
 var spaceSmallTabHeading = document.querySelector('#Space');
 var chennaiSmallTabHeading = document.querySelector('#ChennaiNav');
 var drawingSmallTabHeading = document.querySelector('#Drawing');
+var yangonSmallTabHeading = document.querySelector('#YangonNav');
 
 let smallTabHeadingArray =  
 [
-  hilsaSmallTabHeading, snakesSmallTabHeading, saltSmallTabHeading, dhakaSmallTabHeading, khalsSmallTabHeading, timeSmallTabHeading, sedimentSmallTabHeading, airSmallTabHeading, potsSmallTabHeading, weedsSmallTabHeading, londonSmallTabHeading, tanksSmallTabHeading, tanksSmallTabHeading, groundwaterSmallTabHeading, ethnographySmallTabHeading, atmosphereSmallTabHeading, spaceSmallTabHeading, chennaiSmallTabHeading
+  hilsaSmallTabHeading, snakesSmallTabHeading, saltSmallTabHeading, dhakaSmallTabHeading, khalsSmallTabHeading, timeSmallTabHeading, sedimentSmallTabHeading, airSmallTabHeading, potsSmallTabHeading, weedsSmallTabHeading, londonSmallTabHeading, tanksSmallTabHeading, tanksSmallTabHeading, groundwaterSmallTabHeading, ethnographySmallTabHeading, atmosphereSmallTabHeading, spaceSmallTabHeading, chennaiSmallTabHeading, yangonSmallTabHeading
 ];
 
 let bigHeadingArray = 
@@ -374,6 +375,28 @@ monsoonalMultiplicitiesTitle.addEventListener('click', function()
 
   $('#backgroundVideo').fadeIn(3000);
 });
+
+yangonSubchapter.addEventListener('click', function() 
+{
+  setTabHeadingStyling(yangonSmallTabHeading, smallTabHeadingArray);
+  setTabHeadingStyling(yangonSubchapter, bigHeadingArray);
+
+  imageInCorner.style.display = "none";
+  imageInCorner.src = '';
+
+  $('#backgroundVideo').fadeOut(2000);
+
+  FadeInOut(() => 
+  {
+    $(".Layout__wrapper-container").load("yangon.html"); 
+  });
+
+  setTimeout(function()
+  { 
+    imageInCorner.style.display = "block";
+  }, 5000);
+});
+
 
 hilsaSubchapter.addEventListener('click', function() 
 {
