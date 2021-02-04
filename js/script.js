@@ -63,10 +63,11 @@ var spaceSmallTabHeading = document.querySelector('#Space');
 var chennaiSmallTabHeading = document.querySelector('#ChennaiNav');
 var drawingSmallTabHeading = document.querySelector('#Drawing');
 var yangonSmallTabHeading = document.querySelector('#YangonNav');
+var pedagogySmallTabHeading = document.querySelector('#Pedagogy');
 
 let smallTabHeadingArray =  
 [
-  hilsaSmallTabHeading, snakesSmallTabHeading, saltSmallTabHeading, dhakaSmallTabHeading, khalsSmallTabHeading, timeSmallTabHeading, sedimentSmallTabHeading, airSmallTabHeading, potsSmallTabHeading, weedsSmallTabHeading, londonSmallTabHeading, tanksSmallTabHeading, tanksSmallTabHeading, groundwaterSmallTabHeading, ethnographySmallTabHeading, atmosphereSmallTabHeading, spaceSmallTabHeading, chennaiSmallTabHeading, yangonSmallTabHeading
+  hilsaSmallTabHeading, snakesSmallTabHeading, saltSmallTabHeading, dhakaSmallTabHeading, khalsSmallTabHeading, timeSmallTabHeading, sedimentSmallTabHeading, airSmallTabHeading, potsSmallTabHeading, weedsSmallTabHeading, londonSmallTabHeading, tanksSmallTabHeading, tanksSmallTabHeading, groundwaterSmallTabHeading, ethnographySmallTabHeading, atmosphereSmallTabHeading, spaceSmallTabHeading, chennaiSmallTabHeading, yangonSmallTabHeading, pedagogySmallTabHeading
 ];
 
 let bigHeadingArray = 
@@ -374,6 +375,27 @@ monsoonalMultiplicitiesTitle.addEventListener('click', function()
   chennaiSmallTabHeading.style.textDecoration = 'none';
 
   $('#backgroundVideo').fadeIn(3000);
+});
+
+pedagogySubchapter.addEventListener('click', function() 
+{
+  setTabHeadingStyling(pedagogySmallTabHeading, smallTabHeadingArray);
+  setTabHeadingStyling(pedagogySubchapter, bigHeadingArray);
+
+  imageInCorner.style.display = "none";
+  imageInCorner.src = '';
+
+  $('#backgroundVideo').fadeOut(2000);
+
+  FadeInOut(() => 
+  {
+    $(".Layout__wrapper-container").load("pedagogy.html"); 
+  });
+
+  setTimeout(function()
+  { 
+    imageInCorner.style.display = "block";
+  }, 5000);
 });
 
 yangonSubchapter.addEventListener('click', function() 

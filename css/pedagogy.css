@@ -1,0 +1,876 @@
+.pedagogyContainer
+{
+    max-width: 100vw;
+    flex: 100%;
+    display: block;
+    z-index: 10;
+}
+
+#pedagogySubTwo
+{
+    top: 10vh;
+}
+
+#pedagogySubThree
+{
+    top: 45vh;
+}
+
+#pedagogySubFour
+{
+    top: 630vh;
+}
+
+#pedagogySubFive
+{
+    top: 810vh;
+}
+
+#pedagogySubSix
+{
+    top: 855vh;
+}
+
+#pedagogySubSeven
+{
+    top: 1495vh;
+}
+
+#pedagogySubEight
+{
+    top: 1477vh;
+}
+
+#pedagogySubNine
+{
+    top: 1880vh;
+}
+
+#pedagogyOne
+{
+    position: relative;
+    z-index: -5;
+    top: 0%;
+    left: -4%;
+    width: 102vw;
+    height: auto;
+}
+
+#pedagogyTwo
+{
+    position: relative;
+    z-index: -5;
+    top: -13%;
+    left: 7.2%;
+}
+
+#pedagogyThree
+{
+    position: relative;
+    z-index: -5;
+    top: -10%;
+    left: -58%;
+    width: 17vw;
+}
+
+#pedagogyFour
+{
+    position: relative;
+    z-index: -5;
+    top: -14%;
+    left: -57%;
+}
+
+#pedagogyFive
+{
+    position: relative;
+    z-index: -5;
+    top: -50%;
+    left: 45%;
+    width: 21vw;
+}
+
+#pedagogySix
+{
+    position: relative;
+    z-index: -5;
+    top: -50%;
+    left: 0.3%;
+    width: 32vw;
+}
+
+#pedagogySeven
+{
+    position: relative;
+    z-index: -5;
+    top: -103.5%;
+    left: 34.5%;
+    width: 32vw;
+}
+
+#pedagogyEight
+{
+    position: relative;
+    z-index: -5;
+    top: -102.5%;
+    left: 1.2%;
+    width: 31vw;
+}
+
+#pedagogyNine
+{
+    position: relative;
+    z-index: -5;
+    top: -154.5%;
+    left: 34.7%;
+    width: 31vw;
+}
+
+#pedagogyTen
+{
+
+}
+
+#pedagogyEleven
+{
+
+}
+
+#pedagogyTwelve
+{
+    position: relative;
+    z-index: -5;
+    top: -232.5%;
+    left: 0.2%;
+    width: 31vw;
+}
+
+#pedagogyThirteen
+{
+    position: relative;
+    z-index: -5;
+    top: -285%;
+    left: 34%;
+    width: 32.5vw;
+}
+
+#pedagogyFourteen
+{
+    position: relative;
+    z-index: -5;
+    top: -284%;
+    left: 7%;
+    width: 57.5vw;
+}
+
+#pedagogyFifteen
+{
+    position: relative;
+    z-index: -5;
+    top: -280%;
+    left: 7.3%;
+    width: 18vw;
+}
+
+#pedagogySixteen
+{
+    position: relative;
+    z-index: -5;
+    top: -325%;
+    left: 28.3%;
+    width: 18vw;
+}
+
+#pedagogySeventeen
+{
+    position: relative;
+    z-index: -5;
+    top: -370%;
+    left: 49%;
+    width: 18vw;
+}
+
+#pedagogyEighteen
+{
+    position: relative;
+    z-index: -5;
+    top: 11%;
+    left: 1%;
+    width: 15.4vw;
+}
+
+#pedagogyNineteen
+{
+    position: relative;
+    z-index: -5;
+    top: -14.2%;
+    left: 17.8%;
+    width: 15.4vw;
+}
+
+#pedagogyTwenty
+{
+    position: relative;
+    z-index: -5;
+    top: -39.5%;
+    left: 34.7%;
+    width: 31vw;
+}
+
+#pedagogyTwentyOne
+{
+    position: relative;
+    z-index: -5;
+    top: -38%;
+    left: 1%;
+    width: 15.4vw;
+}
+
+#pedagogyTwentyTwo
+{
+    position: relative;
+    z-index: -5;
+    top: -63.3%;
+    left: 17.8%;
+    width: 15.4vw;
+}
+
+#pedagogyTwentyThree
+{
+    position: relative;
+    z-index: -5;
+    top: -88.5%;
+    left: 34.7%;
+    width: 31vw;
+}
+
+#pedagogyTwentyFour
+{
+    position: relative;
+    z-index: -5;
+    top: 16%;
+    left: 34.7%;
+}
+
+#pedagogyTwentyFive
+{
+    position: relative;
+    z-index: -5;
+    top: 12%;
+    left: -4%;
+    width: 101.5vw;
+    height: auto;
+}
+
+#pedagogyTwentySix
+{
+    position: relative;
+    z-index: -5;
+    top: -9%;
+    left: 8.7%;
+}
+
+#pedagogyTwentySeven
+{
+    position: relative;
+    z-index: -5;
+    top: -85%;
+    left: 34.7%;
+    width: 31vw;
+}
+
+#pedagogyTwentyEight
+{
+    position: relative;
+    z-index: -5;
+    top: -94%;
+    left: 7.7%;
+    width: 24.8vw;
+}
+
+#pedagogyTwentyNine
+{
+    position: relative;
+    z-index: -5;
+    top: -138%;
+    left: 34.5%;
+    width: 27vw;
+}
+
+#pedagogyThirty
+{
+    position: relative;
+    z-index: -5;
+    top: -135%;
+    left: 1.3%;
+    width: 62.5vw;
+}
+
+#pedagogyThirtyOne
+{
+    position: relative;
+    z-index: -5;
+    top: -134%;
+    left: 1.3%;
+    width: 62.5vw;
+}
+
+#pedagogyThirtyTwo
+{
+    position: relative;
+    z-index: -5;
+    top: -134%;
+    left: 1.3%;
+    width: 62.5vw;
+}
+
+#pedagogyThirtyThree
+{
+    position: relative;
+    z-index: -5;
+    top: -133%;
+    left: 1.3%;
+    width: 62.5vw;
+}
+
+#pedagogyThirtyFour
+{
+    position: relative;
+    z-index: -5;
+    top: -131%;
+    left: 7.7%;
+    width: 28.5vw;
+}
+
+#pedagogyThirtyFive
+{
+    position: relative;
+    z-index: -5;
+    top: -178%;
+    left: 38.3%;
+    width: 27.5vw;
+}
+
+#pedagogyThirtySix
+{
+    position: relative;
+    z-index: -5;
+    top: 7%;
+    left: -32.9%;
+    width: 61.5vw;
+}
+
+#pedagogyThirtySeven
+{
+    position: relative;
+    z-index: -5;
+    top: 1%;
+    left: -32.9%;
+    width: 61.5vw;
+}
+
+#pedagogyThirtyEight
+{
+    position: relative;
+    z-index: -5;
+    top: -5%;
+    left: -32.9%;
+    width: 61.5vw;
+}
+
+#pedagogyThirtyNine
+{
+    position: relative;
+    z-index: -5;
+    top: -11%;
+    left: -32.9%;
+    width: 61.5vw;
+}
+
+#pedagogyForty
+{
+    position: relative;
+    z-index: -5;
+    top: -17%;
+    left: -32.9%;
+    width: 61.5vw;
+}
+
+#pedagogyFortyOne
+{
+    position: relative;
+    z-index: -5;
+    top: -23%;
+    left: -32.9%;
+    width: 61.5vw;
+}
+
+#pedagogyFortyTwo
+{
+    position: relative;
+    z-index: -5;
+    top: 2%;
+    left: -32.9%;
+    width: 61.5vw;
+}
+
+#pedagogyFortyThree
+{
+    position: relative;
+    z-index: -5;
+    top: -1%;
+    left: -32.9%;
+    width: 61.5vw;
+}
+
+#pedagogyFortyFour
+{
+    position: relative;
+    z-index: -5;
+    top: -3%;
+    left: -32.9%;
+    width: 61.5vw;
+}
+
+.pedagogyCopyTextOne
+{
+    position: relative;
+    top: 0%;
+    width: 26%;
+}
+
+.pedagogyCopyTextThree
+{
+    position: relative;
+    top: 15%;
+    width: 26%;
+}
+
+.pedagogyCopyTextFour
+{
+    position: relative; 
+    top: -151%;
+    width: 20%;
+    left: 8.3%;
+}
+
+.pedagogyCopyTextFive
+{
+    position: relative;
+    top: 8.5%;
+    width: 20%;
+    left: 35.3%;
+}
+
+.pedagogyCopyTextSix
+{
+    position: relative;
+    top: 19%;
+    width: 23%;
+    left: 35.3%;
+}
+
+.pedagogyCopyTextSeven
+{
+    position: relative;
+    top: -28.5%;
+    width: 17%;
+    left: 8.3%;
+}
+
+.pedagogyCopyTextEight
+{
+    position: relative;
+    top: 2%;
+    width: 25%;
+    left: 35.3%;
+}
+
+.pedagogyCopyTextNine
+{
+    position: relative;
+    top: -8.5%;
+    width: 20%;
+    left: 8.3%;
+}
+
+#pedagogyImageDescriptionOne
+{
+    position: relative;
+    top: -21%;
+    left: 8.3%;
+    width: 14%;
+}
+
+#pedagogyImageDescriptionTwo
+{
+    position: relative;
+    top: 0%;
+    left: 35.3%;
+    width: 14%;
+}
+
+#pedagogyImageDescriptionThree
+{
+    position: relative;
+    top: -12%;
+    left: 8.3%;
+    width: 14%;
+}
+
+#pedagogyImageDescriptionFour
+{
+    position: relative;
+    top: -50%;
+    left: 8.3%;
+    width: 14%;
+}
+
+#pedagogyImageDescriptionFive
+{
+    position: relative;
+    top: -103%;
+    left: 8.3%;
+    width: 14%;
+}
+
+#pedagogyImageDescriptionSix
+{
+    position: relative;
+    top: -169%;
+    left: 35.3%;
+    width: 14%;
+}
+
+#pedagogyImageDescriptionSeven
+{
+    position: relative;
+    top: -235%;
+    left: 8.3%;
+    width: 14%;
+}
+
+#pedagogyImageDescriptionEight
+{
+    position: relative;
+    top: -285%;
+    left: 8.3%;
+    width: 14%;
+}
+
+#pedagogyImageDescriptionNine
+{
+    position: relative;
+    top: -282%;
+    left: 8.3%;
+    width: 14%;
+}
+
+#pedagogyImageDescriptionTen
+{
+    position: relative;
+    top: -368%;
+    left: 8.3%;
+    width: 14%;
+}
+
+#pedagogyImageDescriptionEleven
+{
+    position: relative;
+    top: 11%;
+    left: 8.3%;
+    width: 14%;
+}
+
+#pedagogyImageDescriptionTwelve
+{
+    position: relative;
+    top: -113%;
+    left: 8.3%;
+    width: 14%;
+}
+
+#pedagogyImageDescriptionThirteen
+{
+    position: relative;
+    top: -95%;
+    left: 8.3%;
+    width: 14%;
+}
+
+#pedagogyImageDescriptionFourteen
+{
+    position: relative;
+    top: -87%;
+    left: 35.3%;
+    width: 14%;
+}
+
+#pedagogyImageDescriptionFifteen
+{
+    position: relative;
+    top: 13%;
+    left: 8.3%;
+    width: 14%;
+}
+
+#pedagogyImageDescriptionSixteen
+{
+    position: relative;
+    top: -97%;
+    left: 8.3%;
+    width: 17%;
+}
+
+#pedagogyImageDescriptionSeventeen
+{
+    position: relative;
+    top: -138%;
+    left: 8.3%;
+    width: 17%;
+}
+
+#pedagogyImageDescriptionEighteen
+{
+    position: relative;
+    top: -135%;
+    left: 8.3%;
+    width: 17%;
+}
+
+#pedagogyImageDescriptionNineteen
+{
+    position: relative;
+    top: -133%;
+    left: 8.3%;
+    width: 17%;
+}
+
+#pedagogyImageDescriptionTwenty
+{
+    position: relative;
+    top: -132%;
+    left: 8.3%;
+    width: 17%;
+}
+
+#pedagogyImageDescriptionTwentyOne
+{
+    position: relative;
+    top: -177%;
+    left: 8.3%;
+    width: 17%;
+}
+
+#pedagogyImageDescriptionTwentyTwo
+{
+    position: relative;
+    top: -180%;
+    left: 8.3%;
+    width: 17%;
+}
+
+#pedagogyImageDescriptionTwentyThree
+{
+    position: relative;
+    top: 8%;
+    left: 8.3%;
+    width: 15%;
+}
+
+#pedagogyImageDescriptionTwentyFour
+{
+    position: relative;
+    top: 14%;
+    left: 8.3%;
+    width: 15%;
+}
+
+#pedagogyImageDescriptionTwentyFive
+{
+    position: relative;
+    top: 5%;
+    left: 8.3%;
+    width: 15%;
+}
+
+#pedagogyImageDescriptionTwentySix
+{
+    position: relative;
+    top: -5%;
+    left: 8.3%;
+    width: 10%;
+}
+
+#pedagogyImageDescriptionTwentySeven
+{
+    position: relative;
+    top: -17%;
+    left: 8.3%;
+    width: 10%;
+}
+
+#pedagogyImageDescriptionTwentyEight
+{
+    position: relative;
+    top: 0%;
+    left: 8.3%;
+    width: 13%;
+}
+
+#pedagogyImageDescriptionTwentyNine
+{
+    position: relative;
+    top: -3%;
+    left: 8.3%;
+    width: 12%;
+}
+
+#pedagogyImageDescriptionThirty
+{
+    position: relative;
+    top: -5%;
+    left: 8.3%;
+    width: 16%;
+}
+
+
+#PedagogyVideoOne
+{
+    position: relative;
+    width: 61.5vw;
+    height: 61.5vh;
+    top: 7%;
+    left: -18.3%;
+    z-index: -5;
+}
+
+#PedagogyVideoTwo
+{
+    position: relative;
+    width: 61.5vw;
+    height: 61.5vh;
+    top: 15%;
+    left: -32.9%;
+    z-index: -5;
+}
+
+#PedagogyVideoThree
+{
+    position: relative;
+    width: 35vw;
+    height: 31.5vh;
+    margin-left: 17px;
+}
+
+#pedagogyGridOne
+{
+    position: relative;
+    top: 5%;
+    left: -43.2%;
+}
+
+#pedagogyGridTwo
+{
+    position: relative;
+    top: 28%;
+    left: -79.1%;
+    width: 14%;
+}
+
+#pedagogyGridThree
+{
+    position: relative;
+    top: -89%;
+    left: -32.7%;
+}
+
+#pedagogyGridFour
+{
+    position: relative;
+    top: -32.5%;
+    left: -43.3%;
+}
+
+#pedagogyGridFive
+{
+    position: relative;
+    top: -49%;
+    left: -16.7%;
+}
+
+#pedagogyGridSix
+{
+    position: relative;
+    top: -69.3%;
+    left: -43.2%; 
+}
+
+#pedagogyGridSeven
+{
+    position: relative;
+    top: -175%;
+    left: -31.7%;
+}
+
+.pedagogyMapContainerOne
+{
+    position: relative;
+    left: 8.3%;
+    top: -157%;
+    z-index: 5;
+    width: 20.8vw;
+}
+
+.pedagogyMapContainerTwo
+{
+    position: relative;
+    left: 35.3%;
+    top: -238%;
+    z-index: 5;
+    width: 30vw;
+}
+
+#gridImagePedagogy
+{
+    width: 25vw;
+    margin-left: 29px;
+    height: auto;
+}
+
+#gridImagePedagogyTwo
+{
+    width: 17.7vw;
+    margin-left: 29px;
+    height: auto
+}
+
+.endlinePedagogy
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: absolute;
+    top: 5%;
+    left: 0%;
+    border-bottom: 1px solid black;
+}
+
+.endlinePedagogyTwo
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: absolute;
+    top: 23%;
+    left: 0%;
+    border-bottom: 1px dotted black;
+}
+
+.endlinePedagogyThree
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: absolute;
+    top: 90%;
+    left: 0%;
+    border-bottom: 1px dotted black;
+}

@@ -996,6 +996,11 @@ video:focus { outline:none; }
     font-weight: 300;
 }
 
+.whiteTextHighLight
+{
+    background-color: white;
+}
+
 #gridImage
 {
     width: 14.5vw;
