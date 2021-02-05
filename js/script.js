@@ -64,10 +64,11 @@ var chennaiSmallTabHeading = document.querySelector('#ChennaiNav');
 var drawingSmallTabHeading = document.querySelector('#Drawing');
 var yangonSmallTabHeading = document.querySelector('#YangonNav');
 var pedagogySmallTabHeading = document.querySelector('#Pedagogy');
+var dragonflySmallTabHeading = document.querySelector('#DragonFlies');
 
 let smallTabHeadingArray =  
 [
-  hilsaSmallTabHeading, snakesSmallTabHeading, saltSmallTabHeading, dhakaSmallTabHeading, khalsSmallTabHeading, timeSmallTabHeading, sedimentSmallTabHeading, airSmallTabHeading, potsSmallTabHeading, weedsSmallTabHeading, londonSmallTabHeading, tanksSmallTabHeading, tanksSmallTabHeading, groundwaterSmallTabHeading, ethnographySmallTabHeading, atmosphereSmallTabHeading, spaceSmallTabHeading, chennaiSmallTabHeading, yangonSmallTabHeading, pedagogySmallTabHeading
+  hilsaSmallTabHeading, snakesSmallTabHeading, saltSmallTabHeading, dhakaSmallTabHeading, khalsSmallTabHeading, timeSmallTabHeading, sedimentSmallTabHeading, airSmallTabHeading, potsSmallTabHeading, weedsSmallTabHeading, londonSmallTabHeading, tanksSmallTabHeading, tanksSmallTabHeading, groundwaterSmallTabHeading, ethnographySmallTabHeading, atmosphereSmallTabHeading, spaceSmallTabHeading, chennaiSmallTabHeading, yangonSmallTabHeading, pedagogySmallTabHeading, dragonflySmallTabHeading
 ];
 
 let bigHeadingArray = 
@@ -376,6 +377,28 @@ monsoonalMultiplicitiesTitle.addEventListener('click', function()
 
   $('#backgroundVideo').fadeIn(3000);
 });
+
+dragonSubchapter.addEventListener('click', function() 
+{
+  setTabHeadingStyling(dragonflySmallTabHeading, smallTabHeadingArray);
+  setTabHeadingStyling(dragonSubchapter, bigHeadingArray);
+
+  imageInCorner.style.display = "none";
+  imageInCorner.src = '';
+
+  $('#backgroundVideo').fadeOut(2000);
+
+  FadeInOut(() => 
+  {
+    $(".Layo  ut__wrapper-container").load("dragonfly.html"); 
+  });
+
+  setTimeout(function()
+  { 
+    imageInCorner.style.display = "block";
+  }, 5000);
+});
+
 
 pedagogySubchapter.addEventListener('click', function() 
 {
