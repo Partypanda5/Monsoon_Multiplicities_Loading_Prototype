@@ -390,13 +390,14 @@ dragonSubchapter.addEventListener('click', function()
 
   FadeInOut(() => 
   {
-    $(".Layo  ut__wrapper-container").load("dragonfly.html"); 
+    $(".Layout__wrapper-container").load("dragonfly.html"); 
   });
 
   setTimeout(function()
   { 
     imageInCorner.style.display = "block";
   }, 5000);
+
 });
 
 
@@ -946,3 +947,4 @@ section.on('click', checkInactiveAccordian);
 
 checkActiveAccordian();
 checkInactiveAccordian();
+

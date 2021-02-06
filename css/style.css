@@ -648,10 +648,10 @@ video:focus { outline:none; }
 
 #collaboratorsSection
 {
-  height: 50%;
-  width: auto;
-  position: relative;
-  top: 1500vh;
+    height: 15%;
+    width: auto;
+    position: relative;
+    top: 1500vh;
 }
 
 #acknowledgementSection
@@ -659,7 +659,7 @@ video:focus { outline:none; }
     height: 50%;
     width: auto;
     position: relative;
-    top: 1320vh;
+    top: 1505vh;
 }
 
 #assemblagesSection
@@ -667,7 +667,7 @@ video:focus { outline:none; }
     height: 50%;
     width: auto;
     position: relative;
-    top: 1240vh;
+    top: 1421vh;
 }
 
 .glossaryRow 
@@ -728,7 +728,7 @@ video:focus { outline:none; }
     height: 1vh;
     position: absolute;
     top: 2565vh;
-    left: -33vw;
+    left: -105%;
     border-bottom: 1px solid black;
 }
 

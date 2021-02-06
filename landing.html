@@ -162,7 +162,7 @@
                     </p>
                   </div>
 
-                  <div id="glossarySection">
+                  <!-- <div id="glossarySection">
                     <div class="glossaryRow">
                       <div class="glossaryColumn">
                         <p class="rightSideSmallerText">
@@ -990,7 +990,7 @@
 
                 </div>
               </div>
-            </div>
+            </div> -->
 
             <div id="collaboratorsSection">
               <p class="rightSideTextMM">
@@ -1124,4 +1124,121 @@
   </div>
 </div>
 </main>
+
+<script>
+
+var aboutNav = document.querySelector('#aboutPanelNav');
+var eventsNav = document.querySelector('#EventsPanelNav');
+var residencyNav = document.querySelector('#ResidencyPanelNav');
+var landingPageRightContainer = document.querySelector('#RightTextContainer');
+var MonsoonalPanelNav = document.querySelector('#GlossaryNav');
+var CollabPanelNav = document.querySelector('#CollabPanelNav');
+var acknowledgementsNav = document.querySelector('#AcknowledgementPanelNav');
+var MonsoonPanelNav = document.querySelector('#MonsoonPanelNav');
+
+var residencySection = document.querySelector('#residency');
+var eventsSection = document.querySelector('#events');
+var aboutSection = document.querySelector('#about');
+var glossarySection = document.querySelector('#glossarySection');
+var collaboratorsSection = document.querySelector('#collaboratorsSection');
+var acknowledgementSection = document.querySelector('#acknowledgementSection');
+var assemblagesSection = document.querySelector('#assemblagesSection');
+
+
+  // $(".navbarTitles").click(function() {
+     
+  //    $(this).parent().prepend($(this));
+  //    console.log('hey');
+  //   });
+
+     aboutNav.addEventListener('click', () => 
+{
+  aboutSection.scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"});  
+  residencyNav.classList.remove("activeNavbarTitle");
+  aboutNav.classList.add("activeNavbarTitle");
+  eventsNav.classList.remove("activeNavbarTitle");
+  CollabPanelNav.classList.remove("activeNavbarTitle");
+  MonsoonalPanelNav.classList.remove("activeNavbarTitle");
+  acknowledgementsNav.classList.remove("activeNavbarTitle");
+  MonsoonPanelNav.classList.remove("activeNavbarTitle");
+
+  console.log('scroll to about');
+});
+
+eventsNav.addEventListener('click', () => 
+{
+  eventsSection.scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"});  
+  residencyNav.classList.remove("activeNavbarTitle");
+  aboutNav.classList.remove("activeNavbarTitle");
+  eventsNav.classList.add("activeNavbarTitle");
+  MonsoonalPanelNav.classList.remove("activeNavbarTitle");
+  CollabPanelNav.classList.remove("activeNavbarTitle");
+  acknowledgementsNav.classList.remove("activeNavbarTitle");
+  MonsoonPanelNav.classList.remove("activeNavbarTitle");
+});
+
+residencyNav.addEventListener('click', () => 
+{
+  residencySection.scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"}); 
+  aboutNav.classList.remove("activeNavbarTitle");
+  residencyNav.classList.add("activeNavbarTitle");
+  eventsNav.classList.remove("activeNavbarTitle");
+  MonsoonalPanelNav.classList.remove("activeNavbarTitle");
+  CollabPanelNav.classList.remove("activeNavbarTitle");
+  acknowledgementsNav.classList.remove("activeNavbarTitle");
+  MonsoonPanelNav.classList.remove("activeNavbarTitle");
+});
+
+// MonsoonalPanelNav.addEventListener('click', () => 
+// {
+//   glossarySection.scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"}); 
+//   aboutNav.classList.remove("activeNavbarTitle");
+//   residencyNav.classList.remove("activeNavbarTitle");
+//   eventsNav.classList.remove("activeNavbarTitle");
+//   MonsoonalPanelNav.classList.add("activeNavbarTitle");
+//   CollabPanelNav.classList.remove("activeNavbarTitle");
+//   acknowledgementsNav.classList.remove("activeNavbarTitle");
+//   MonsoonPanelNav.classList.remove("activeNavbarTitle");
+// });
+
+CollabPanelNav.addEventListener('click', () => 
+{
+  collaboratorsSection.scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"}); 
+  aboutNav.classList.remove("activeNavbarTitle");
+  residencyNav.classList.remove("activeNavbarTitle");
+  eventsNav.classList.remove("activeNavbarTitle");
+  MonsoonalPanelNav.classList.remove("activeNavbarTitle");
+  CollabPanelNav.classList.add("activeNavbarTitle");
+  acknowledgementsNav.classList.remove("activeNavbarTitle");
+  MonsoonPanelNav.classList.remove("activeNavbarTitle");
+
+  console.log('hey girl hey');
+});
+
+acknowledgementsNav.addEventListener('click', () => 
+{
+  acknowledgementSection.scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"}); 
+  aboutNav.classList.remove("activeNavbarTitle");
+  residencyNav.classList.remove("activeNavbarTitle");
+  eventsNav.classList.remove("activeNavbarTitle");
+  MonsoonalPanelNav.classList.remove("activeNavbarTitle");
+  CollabPanelNav.classList.remove("activeNavbarTitle");
+  acknowledgementsNav.classList.add("activeNavbarTitle");
+  MonsoonPanelNav.classList.remove("activeNavbarTitle");
+});
+
+MonsoonPanelNav.addEventListener('click', () => 
+{
+  assemblagesSection.scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"}); 
+  aboutNav.classList.remove("activeNavbarTitle");
+  residencyNav.classList.remove("activeNavbarTitle");
+  eventsNav.classList.remove("activeNavbarTitle");
+  MonsoonalPanelNav.classList.remove("activeNavbarTitle");
+  CollabPanelNav.classList.remove("activeNavbarTitle");
+  acknowledgementsNav.classList.remove("activeNavbarTitle");
+  MonsoonPanelNav.classList.add("activeNavbarTitle");
+});
+     
+
+</script>
 </div>
