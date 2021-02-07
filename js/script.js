@@ -332,50 +332,52 @@ Array.from(groupedFocusedSubtitles).forEach(subtitle => {
 monsoonalMultiplicitiesTitle.addEventListener('click', function() 
 {
   leftHandSideMM = false;
-  checkLeftHandSideMM(); 
+  location.reload();
+  
+  // checkLeftHandSideMM(); 
 
-  FadeInOut(() => 
-  {
-    $(".Layout__wrapper-container").load("landing.html"); 
-  });
+  // FadeInOut(() => 
+  // {
+  //   $(".Layout__wrapper-container").load("landing.html"); 
+  // });
 
-  hilsaSmallTabHeading.style.textDecoration = "none";
-  snakesSmallTabHeading.style.textDecoration = "none";
-  khalsSmallTabHeading.style.textDecoration = "none";
-  saltSmallTabHeading.style.textDecoration = "none";
-  tankSubchapter.style.textDecoration = 'none';
-  londonSubchapter.style.textDecoration = 'none';
-  weedsSubchapter.style.textDecoration = 'none';
-  dhakaSmallTabHeading.style.textDecoration = "none";
-  timeSubchapter.style.textDecoration = "none";
-  sedimentSmallTabHeading.style.textDecoration = "none";
-  airSmallTabHeading.style.textDecoration = "none";
-  potsSmallTabHeading.style.textDecoration = 'none';
-  groundwaterSubchapter.style.textDecoration = 'none';
-  atmosphereSubchapter.style.textDecoration = 'none';
-  ethnographySubchapter.style.textDecoration = 'none';
-  spaceSubchapter.style.textDecoration = 'none';
-  chennaiSubchapter.style.textDecoration = 'none';
+  // hilsaSmallTabHeading.style.textDecoration = "none";
+  // snakesSmallTabHeading.style.textDecoration = "none";
+  // khalsSmallTabHeading.style.textDecoration = "none";
+  // saltSmallTabHeading.style.textDecoration = "none";
+  // tankSubchapter.style.textDecoration = 'none';
+  // londonSubchapter.style.textDecoration = 'none';
+  // weedsSubchapter.style.textDecoration = 'none';
+  // dhakaSmallTabHeading.style.textDecoration = "none";
+  // timeSubchapter.style.textDecoration = "none";
+  // sedimentSmallTabHeading.style.textDecoration = "none";
+  // airSmallTabHeading.style.textDecoration = "none";
+  // potsSmallTabHeading.style.textDecoration = 'none';
+  // groundwaterSubchapter.style.textDecoration = 'none';
+  // atmosphereSubchapter.style.textDecoration = 'none';
+  // ethnographySubchapter.style.textDecoration = 'none';
+  // spaceSubchapter.style.textDecoration = 'none';
+  // chennaiSubchapter.style.textDecoration = 'none';
 
-  hilsaSubchapter.style.textDecoration = "none";
-  weedsSmallTabHeading.style.textDecoration = 'none';
-  groundwaterSmallTabHeading.style.textDecoration = 'none';
-  snakesSubchapter.style.textDecoration = "none";
-  saltSubchapter.style.textDecoration = "none";
-  tanksSmallTabHeading.style.textDecoration = 'none';
-  dhakaSubchapter.style.textDecoration = "none";
-  khalsSubchapter.style.textDecoration = "none";
-  timeSmallTabHeading.style.textDecoration = "none";
-  londonSmallTabHeading.style.textDecoration = 'none';
-  sedimentSubchapter.style.textDecoration = "none";
-  airSubchapter.style.textDecoration = "none";
-  pipesPotsSubchapter.style.textDecoration = 'none';
-  ethnographySmallTabHeading.style.textDecoration = 'none';
-  spaceSmallTabHeading.style.textDecoration = 'none';
-  atmosphereSmallTabHeading.style.textDecoration = 'none';
-  chennaiSmallTabHeading.style.textDecoration = 'none';
+  // hilsaSubchapter.style.textDecoration = "none";
+  // weedsSmallTabHeading.style.textDecoration = 'none';
+  // groundwaterSmallTabHeading.style.textDecoration = 'none';
+  // snakesSubchapter.style.textDecoration = "none";
+  // saltSubchapter.style.textDecoration = "none";
+  // tanksSmallTabHeading.style.textDecoration = 'none';
+  // dhakaSubchapter.style.textDecoration = "none";
+  // khalsSubchapter.style.textDecoration = "none";
+  // timeSmallTabHeading.style.textDecoration = "none";
+  // londonSmallTabHeading.style.textDecoration = 'none';
+  // sedimentSubchapter.style.textDecoration = "none";
+  // airSubchapter.style.textDecoration = "none";
+  // pipesPotsSubchapter.style.textDecoration = 'none';
+  // ethnographySmallTabHeading.style.textDecoration = 'none';
+  // spaceSmallTabHeading.style.textDecoration = 'none';
+  // atmosphereSmallTabHeading.style.textDecoration = 'none';
+  // chennaiSmallTabHeading.style.textDecoration = 'none';
 
-  $('#backgroundVideo').fadeIn(3000);
+  // $('#backgroundVideo').fadeIn(3000);
 });
 
 dragonSubchapter.addEventListener('click', function() 
