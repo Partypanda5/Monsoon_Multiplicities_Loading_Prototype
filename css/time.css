@@ -8,98 +8,135 @@
 
 #timeOne
 {
-    position: absolute;
-    left: 6.6vw;
-    top: 15vh;
+    position: relative;
+    z-index: -5;
+    top: 0%;
+    left: -4%;
+    width: 102vw;
+    height: auto;
 }
 
 #timeTwo
 {
-    position: absolute;
-    left: 1.6vw;
-    top: 45vh;
+    position: relative;
+    left: 34.7%;
+    top: 11%;
 }
 
 #timeThree
 {
-    position: absolute;
-    left: 12vw;
-    top: 102vh;
+    position: relative;
+    left: 1%;
+    top: -13%;
     z-index: 5;
-    width: 20vw;
-    height: auto;
-    display: block;
-    padding: 10px;
 }
 
 #timeFour
 {
-    position: absolute;
+    position: relative;
     left: 12vw;
     top: 40vh;
 }
 
 #timeFive
 {
-    position: absolute;
-    left: 0.1vw;
-    top: 80vh;
+    position: relative;
+    left: -33%;
+    top: -25%;
+    z-index: -5;
 }
 
 #timeSix
 {
-    position: absolute;
-    left: 0.1vw;
-    top: 60vh;
+    position: relative;
+    left: -16.9%;
+    top: 42%;
 }
-
 
 #timeSeven
 {
-    position: absolute;
-    left: 1.5%;
-    top: 105vh;
+    position: relative;
+    left: -83%;
+    top: 55%;
+}
+
+#timeEight
+{
+    position: relative;
+    left: 7.5%;
+    top: -6%;
+}
+
+#timeNine
+{
+    position: relative;
+    left: -31.9%;
+    top: -2%;
+    width: 63vw;
+}
+
+#timeTen
+{
+    position: relative;
+    left: 29.1%;
+    top: -48%;
+    z-index: 0;
+    width: 36.2vw;
+}
+
+#timeEleven
+{
+    position: relative;
+    left: 34.7%;
+    top: -45%;
+    z-index: 0;
 }
 
 #timeSubTwo
 {
     position: relative;
-    top: -110vh;
+    top: -40vh;
 }
 
 #timeSubThree
 {
-    top: -155vh;
+    top: -20vh;
 }
 
 #timeSubFour
 {
-    top: -145vh;
+    top: -30vh;
 }
 
 #timeSubFive
 {
-    top: -85vh;
+    top: -25vh;
 }
 
 #timeSubSix
 {
-    top: -115vh;
+    top: 55vh;
 }
 
 #timeSubSeven
 {
-    top: -95vh;
+    top: 132vh;
 }
 
 #timeSubEight
 {
-    top: -130vh;
+    top: 170vh;
 }
 
 #timeSubNine
 {
-    top: -120vh;
+    top: 130vh;
+}
+
+#timeSubTen
+{
+    top: 110vh;
+    height: 50vh;
 }
 
 #gridImageMiddleLarge
@@ -110,90 +147,107 @@
 
 #timeGridOne
 {
-    top: 50%;
-    left: 56.5%;
+    top: 64%;
+    left: 5.3%;
     z-index: 1;
     pointer-events: none;
 }
 
 #timeGridTwo
 {
-    position: absolute;
-    left: 13vw;
-    top: 85vh;
+    position: relative;
+    left: -43.3%;
+    top: 0%;
+    z-index: 5;
 }
 
 #timeGridThree
 {
-    position: absolute;
-    left: 25.5%;
-    top: -9vh;
+    position: relative;
+    left: -43.3%;
+    top: 15%;
+    z-index: -5;
 }
 
 #timeGridFour
 {
-    position: absolute;
-    left: 2.3vw;
-    top: 60vh;
+    position: relative;
+    left: -43.3%;
+    top: -43%;
+    z-index: 5;
 }
 
 #timeGridFive
 {
-    position: absolute;
+    position: relative;
     left: 40.7%;
     top: 140vh;
 }
 
 #timeGridSix
 {
-    position: absolute;
-    left: 13.5%;
-    top: 178%;
+    position: relative;
+    left: -44.7%;
+    top: -22%;
+}
+
+#timeGridSeven
+{
+    position: relative;
+    left: -48.5%;
+    top: -14%;
+}
+
+#timeGridEight
+{
+    position: relative;
+    left: -14.7%;
+    top: -80%;
 }
 
 #timeHorizontalGridOne
 {
-    top: 65vh;
-    left: 0;
+    top: 42%;
+    left: 1.3%;
     z-index: 1;
     pointer-events: none;
 }
 
 #timeHorizontalGridTwo
 {
-    top: 100vh;
-    left: 0;
+    top: 72%;
+    left: 0.3%;
     z-index: 1;
     pointer-events: none;
 }
 
 #timeHorizontalGridThree
 {
-    top: 141vh;
-    left: 0;
+    top: 102%;
+    left: 0.3%;
     z-index: 1;
     pointer-events: none;
 }
 
 #timeHorizontalGridFour
 {
-    top: 182vh;
-    left: 0;
+    top: 132%;
+    left: 1.3%;
     z-index: 1;
     pointer-events: none;
 }
 
 #timeVideoOne
 {
-    position: absolute;
-    top: 35%;
-    left: 1.6vw;
+    position: relative;
+    top: 0%;
+    left: -33%;
     z-index: 0;
 }
 
 #timeVideoTwo
 {
-    position: absolute;
+    position: relative;
     top: 40%;
     left: 1.6vw;
     z-index: 0;
@@ -203,7 +257,7 @@
 
 #timeVideoThree
 {
-    position: absolute;
+    position: relative;
     top: 17%;
     left: 8vw;
     z-index: 0;
@@ -212,7 +266,7 @@
 
 #timeVideoFour
 {
-    position: absolute;
+    position: relative;
     top: 42%;
     left: 9.5vw;
     z-index: 0;
@@ -221,36 +275,176 @@
 
 #timeVideoFive
 {
-    position: absolute;
-    top: 40%;
-    left: 0vw;
+    position: relative;
+    top: 44%;
+    left: -32.9%;
     z-index: 0;
+}
+
+#timeVideoSix
+{
+    position: relative;
+    width: 61.5vw;
+    height: 61.5vh;
+    top: 15%;
+    left: -32.9%;
+}
+
+#timeVideoSeven
+{
+    position: relative;
+    width: 30vw;
+    height: 36vh;
+}
+
+#timeVideoEight
+{
+    position: relative;
+    width: 61.5vw;
+    height: 61.5vh;
+    top: 15%;
+    left: -32.9%;
+}
+
+#timeVideoNine
+{
+    position: relative;
+    top: 3%;
+    width: 30vw;
+    margin-top: 3vh;
+    height: 30vh;
+}
+
+#timeVideoTen
+{
+    position: relative;
+    top: -30%;
+    left: -32.9%;
+    width: 61.5vw;
+    height: 61.5vh;
 }
 
 #timeImageDescriptionOne
 {
-    top: 70%;
-    left: 36%;
+    top: 82%;
+    left: 35.3%;
     z-index: 1;
     pointer-events: none;
-    width: 14%;
+    width: 13%;
 }
 
 #timeImageDescriptionTwo
 {
     top: 78%;
-    left: 3%;
+    left: 51%;
     z-index: 1;
     pointer-events: none;
     width: 20%;
+}
+
+#timeImageDescriptionThree
+{
+    top: 78%;
+    left: 51.7%;
+    z-index: 1;
+    pointer-events: none;
+    width: 20%;
+}
+
+#timeImageDescriptionFour
+{
+    top: 70%;
+    left: 35.3%;
+    z-index: 1;
+    pointer-events: none;
+    width: 12%;
+}
+
+#timeImageDescriptionFive
+{
+    top: 5%;
+    left: 35.3%;
+    z-index: 1;
+    pointer-events: none;
+    width: 23%;
+}
+
+#timeImageDescriptionSix
+{
+    top: 25%;
+    left: 35.3%;
+    z-index: 1;
+    pointer-events: none;
+    width: 24%;
+}
+
+.timeCopyOne
+{
+    position: relative;
+    top: 60%;
+    width: 26%; 
+}
+
+.timeCopyTwo
+{
+    position: relative;
+    top: 10%;
+    width: 26%;
+}
+
+.timeCopyThree
+{
+    position: relative;
+    top: 15%;
+    width: 26%;
+}
+
+#gridImageTime
+{
+    width: 23.7vw;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
+}
+
+#gridImageTimeTwo
+{
+    width: 30vw;
+    margin-left: 23px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
+}
+
+#gridImageTimeThree
+{
+    width: 30vw;
+    margin-left: 18px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
 }
 
 .endLineTime
 {
     width: 64.5vw;
     height: 1vh;
-    position: absolute;
-    top: -15%;
+    position: relative;
+    top: 0%;
     left: 0%;
     border-bottom: 1px solid black;
+}
+
+.endLineTimeTwo
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 16%;
+    left: 0%;
+    border-bottom: 2px dotted black;
 }

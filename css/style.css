@@ -950,19 +950,6 @@ video:focus { outline:none; }
     text-align: left;
 }
 
-.mainTitleRight
-{
-    position: absolute;
-    top: 16.7%;
-    left: 1.5%;
-    display: block;
-    font-family: 'Roboto', sans-serif;
-    font-size: 34px;
-    font-weight: 400;
-    line-height: 37px;
-    text-align: left;
-}
-
 
 .copyText
 {
@@ -1077,7 +1064,7 @@ video:focus { outline:none; }
 {
     position: relative;
     top: 13%;
-    left: 35.4%;
+    left: 35.1%;
     display: block;
     font-family: 'Roboto', sans-serif;
     font-size: 34px;
