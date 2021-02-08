@@ -52,6 +52,33 @@ video
     overflow: hidden;
 }
 
+#navbarTitlesContainer
+{
+    position: fixed;
+    top: 27.3%;
+    left: 4.5%;
+}
+
+.navbarTitles
+{
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 37px;
+}
+
+.navbarTitles:hover
+{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.activeNavbarTitle
+{
+    text-decoration: underline;
+}
+
 .headings
 {
     position: absolute;
@@ -559,13 +586,6 @@ a
 .MMContainer{
     max-width: 100vw;
     flex: 100%;
-}
-
-#navbarTitlesContainer
-{
-    position: fixed;
-    top: 27.3%;
-    left: 4.5%;
 }
 
 #bottomRightHandCornerImage
@@ -1161,4 +1181,10 @@ video:focus { outline:none; }
     font-weight: 400;
     line-height: 30px;
     font-family: 'Roboto', sans-serif;
+}
+
+#rightSideQuote
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 34px;
 }

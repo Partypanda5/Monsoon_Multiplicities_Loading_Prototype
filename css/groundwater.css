@@ -42,6 +42,7 @@
     top: 18%;
     left: -32%;
     width: 63vw;
+    z-index: -5;
 }
 
 #groundwaterTwo
