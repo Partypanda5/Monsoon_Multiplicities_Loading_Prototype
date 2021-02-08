@@ -8,54 +8,56 @@
 
 #weedsSubTwo
 {
-    top: -70vh;
+    top: -40vh;
 }
 
 #weedsSubThree
 {
-    top: -120vh;
+    top: -90vh;
 }
 
 #weedsSubFour
 {
-    top: -95vh;
+    top: -65vh;
 }
 
 #weedsSubFive
 {
-    top: 55vh;
+    top: 75vh;
 }
 
 #weedsSubSix
 {
-    top: 25vh;
+    top: 40vh;
 }
 
 #weedsSubSeven
 {
-    top: 5vh;
+    top: 55vh;
 }
 
 #weedsOne
 {
     position: relative;
-    top: 15%;
-    left: -41%;
     z-index: -5;
+    top: 0%;
+    left: -4%;
+    width: 102vw;
+    height: auto;
 }
 
 #weedsTwo
 {
     position: relative;
     top: 14%;
-    left: -33.5%;
+    left: -32.65%;
     z-index: -5;
 }
 
 #weedsThree
 {
     position: relative;
-    top: 11%;
+    top: 13.8%;
     left: -32.5%;
     z-index: -5;
 }
@@ -63,24 +65,24 @@
 #weedsFour
 {
     position: relative;
-    top: -4%;
-    left: 15.7%;
+    top: -31%;
+    left: 7.7%;
     z-index: -2;
 }
 
 #weedsFive
 {
     position: relative;
-    top: -3%;
-    left: 37%;
+    top: -25%;
+    left: 34.8%;
     z-index: -2;
 }
 
 #weedsSix
 {
     position: relative;
-    top: 23%;
-    left: -31.8%;
+    top: 14%;
+    left: -32.8%;
     z-index: -5;
     width: 61.5vw;
 }
@@ -88,8 +90,8 @@
 #weedsSeven
 {
     position: relative;
-    top: 5%;
-    left: 13.5%;
+    top: -57%;
+    left: 7.6%;
     z-index: 0;
 }
 
@@ -97,15 +99,15 @@
 {
     position: relative;
     top: 14%;
-    left: 35%;
+    left: 34.7%;
     z-index: 0;
 }
 
 #weedsNine
 {
     position: relative;
-    top: -10%;
-    left: -32.5%;
+    top: 15%;
+    left: -32.9%;
     z-index: 0;
 }
 
@@ -129,7 +131,7 @@
 #weedsCopyFour
 {
     position: relative;
-    top: 7%;
+    top: 4%;
     left: 35.5%;
     z-index: -6;
 }
@@ -138,7 +140,7 @@
 {
     position: relative;
     top: 15%;
-    left: 35.5%;
+    left: 35.3%;
     z-index: -6;
 }
 
@@ -153,8 +155,8 @@
 #weedsCopyTwo
 {
     position: relative;
-    top: -22%;
-    left: 35.5%;
+    top: -23%;
+    left: 35.2%;
     z-index: -6;
 }
 
@@ -162,62 +164,62 @@
 {
     position: relative;
     top: -32%;
-    left: -31%;
+    left: -43.4%;
     z-index: 0;
 }
 
 #weedsGridTwo
 {
     position: relative;
-    top: -92%;
-    left: -50.8%;
+    top: -50%;
+    left: -43.2%;
     z-index: 0;
 }
 
 #weedsGridThree
 {
     position: relative;
-    top: -69%;
-    left: -14.3%;
+    top: -82%;
+    left: -16.3%;
     z-index: 0;
 }
 
 #weedsGridFour
 {
     position: relative;
-    top: -42%;
-    left: -46.1%;
+    top: -33%;
+    left: -43.35%;
     z-index: 0;
 }
 
 #weedsGridFive
 {
     position: relative;
-    top: -110%;
-    left: -18.3%;
+    top: -85%;
+    left: -16.3%;
     z-index: 0;
 }
 
 #weedsGridSix
 {
     position: relative;
-    top: -15%;
-    left: -43%;
+    top: -45%;
+    left: -43.4%;
     z-index: 0;
 }
 
 #weedsGridSeven
 {
     position: relative;
-    top: 35%;
-    left: -41%;
+    top: -27%;
+    left: -43.3%;
     z-index: 0;
 }
 
 #weedsGridEight
 {
     position: relative;
-    top: 7%;
+    top: -122%;
     left: -32.5%;
     z-index: 0;
 }
@@ -225,8 +227,8 @@
 #weedsVideoOne
 {
     position: relative;
-    top: 10%;
-    left: 17.7%;
+    top: 5%;
+    left: 18.3%;
     z-index: -5;
     overflow: hidden;
 }
@@ -241,16 +243,38 @@
     border-bottom: 1px solid black;
 }
 
-#referenceBlockWeeds
+.endlineWeedsTwo
 {
-    position: relative;
-    top: 5%;
-    left: 35.5%;
-    width: 100%;
-    display: block;
+    width: 64.5vw;
+    height: 1vh;
+    position: absolute;
+    top: 20%;
+    left: 0%;
+    border-bottom: 2px dotted black;
 }
 
-.referencesWeeds
+.endlineWeedsThree
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: absolute;
+    top: 11%;
+    left: 0%;
+    border-bottom: 2px dotted black
+}
+
+
+#weedsGridImage
+{
+    width: 23.7vw;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
+}
+
+.referenceWeeds
 {
     position: relative;
     font-family: 'Roboto', sans-serif;
@@ -260,4 +284,34 @@
     width: 30%;
     height: 50%;
     text-align: left;
+    top: 2%;
+    left: 35.2%;
+}
+
+.referencesWeedsTwo
+{
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    width: 30%;
+    height: 50%;
+    text-align: left;
+    top: -37%;
+    left: 35.3%;    
+}
+
+.referencesWeedsThree
+{
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    width: 30%;
+    height: 50%;
+    text-align: left;
+    top: -79%;
+    left: 35.3%;   
 }
