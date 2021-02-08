@@ -6,260 +6,249 @@
     display: block;
 }
 
-#snakesTitle
+#snakeSubTwo
 {
-    display: block;
-    font-family: 'Roboto', sans-serif;
-    font-size: 34px;
-    font-weight: 400;
-    line-height: 37px;
-    position: absolute;
-    top: 25.5%;
-    left: 4.5%;
+    top: -55vh;
 }
 
-#snakesIntroText
+#snakeSubThree
 {
-    width: 28%;
-    position: absolute;
-    top: 24.5%;
-    left: 36%;
-    z-index: -3;
-    font-size: 34px;
-    font-weight: 400;
-    line-height: 37px;
-    font-family: 'Roboto', sans-serif;
+    top: 70vh;
 }
 
-#MariammanTitle
+#snakeSubFour
 {
-    font-size: 34px;
-    font-weight: 400;
-    line-height: 37px;
-    font-family: 'Roboto', sans-serif;
-    position: absolute;
-    left: 31.5%;
-    top: -9.5vh;
+    top: 275vh;
 }
 
-#MariammanText
+#snakeSubFive
 {
-    width: 35%;
-    text-align: left;
-    position: absolute;
-    font-size: 20px;
-    font-weight: 400;
-    line-height: 25px;
-    font-family: 'Roboto', sans-serif;
-    left: 31.5%;
-    top: -2vh;
+    top: 385vh;
 }
 
-.largeImage
+#snakeSubSix
 {
-    width: 46vw;
-    height: auto;
-    position: absolute;
-    z-index: -5;
-}
-
-.middleSmallImage
-{
-    width: 25vw;
-    height: auto;
-    display: block;
-    padding: 10px;
-}
-
-.middleImage
-{
-    width: 31vw;
-    height: auto;
-    display: block;
-    padding: 10px;
-}
-
-.smallImage
-{
-    width: 14.5vw;
-    height: auto;
-    padding: 5px;
+    top: 488vh;
+    height: 15vh;
 }
 
 #snakeOne
 {
-    left: 12.5vw;
-    top: 50vh;
+    position: relative;
+    top: 0%;
+    left: -4%;
+    z-index: -5;
+    width: 102vw;
 }
 
 #snakeTwo
 {
-    position: absolute;
-    left: 33.3vw;
-    top: 108vh;
-}
-
-.snakeContainer
-{
-    width: 50%;
-    height: 100%;
-    display: inline-grid;
-    position: absolute;
-}
-
-#snakeContainerOne
-{
-    top: 65vh;
-    left: 18.4vw;
-}
-
-#snakeContainerTwo
-{
-    top: 32vh;
-    left: 23.4vw;
-}
-
-#snakeContainerThree
-{
-    top: -120vh;
-    left: -7.7vw;
-}
-
-#snakeContainerFour
-{
-    width: 50%;
-    height: 100%;
-    display: block;
-    position: absolute;
-    top: -4vh;
-    left: 23vw;
-}
-
-#ManasaTitle
-{
-    font-size: 34px;
-    font-weight: 400;
-    line-height: 37px;
-    font-family: 'Roboto', sans-serif;
-    position: absolute;
-    left: 38.5%;
-    text-align: left;
-    top: 0vh;
-}
-
-#ManasaText
-{
-    width: 35%;
-    text-align: left;
-    position: absolute;
-    font-size: 20px;
-    font-weight: 400;
-    line-height: 25px;
-    font-family: 'Roboto', sans-serif;
-    left: 38.5%;
-    top: 12vh;
-}
-
-#NagaTitle
-{
-    font-size: 34px;
-    font-weight: 400;
-    line-height: 37px;
-    font-family: 'Roboto', sans-serif;
-    position: absolute;
-    left: 31.5%;
-    text-align: left;
-    top: -67vh;
-}
-
-#NagaText
-{
-    width: 35%;
-    text-align: left;
-    position: absolute;
-    font-size: 20px;
-    font-weight: 400;
-    line-height: 25px;
-    font-family: 'Roboto', sans-serif;
-    left: 31.5%;
-    top: -57vh;
+    position: relative;
+    top: 21%;
+    left: 7.5%;
 }
 
 #snakeThree
 {
-    position: absolute;
-    top: -120vh;
-    left: 2.6vw;
+    position: relative;
+    top: 15%;
+    left: -32.9%;
 }
 
 #snakeFour
 {
-    top: 200vh;
-    left: 7.7vw;
-}
-
-#snakeContainerFive
-{
-    top: 135vh;
-    left: -0.5vw;
+    position: relative;
+    top: -45%;
+    left: 34.7%
 }
 
 #snakeFive
 {
-    position: absolute;
-    left: 18.2vw;
-    top: -53vh;
-}
-
-#snakeContainerSix
-{
-    top: -34vh;
-    left: 17.8vw;
-}
-
-#human-snakeTitle
-{
-    font-size: 34px;
-    font-weight: 400;
-    line-height: 37px;
-    font-family: 'Roboto', sans-serif;
-    position: absolute;
-    left: 24.5%;
-    text-align: left;
-    top: -98vh;
-}
-
-#human-snakeText
-{
-    width: 35%;
-    text-align: left;
-    position: absolute;
-    font-size: 20px;
-    font-weight: 400;
-    line-height: 25px;
-    font-family: 'Roboto', sans-serif;
-    left: 24.5%;
-    top: -92vh;
-}
-
-#snakeContainerSeven
-{
-    top: 65vh;
-    left: -0.6vw;
+    position: relative;
+    top: -40%;
+    left: -32.9%;
+    z-index: -5;
 }
 
 #snakeSix
 {
-    position: absolute;
-    top: -58vh;
-    left: 18vw;
+    position: relative;
+    top: 21%;
+    left: 7.5%;
 }
 
 #snakeSeven
 {
-    position: absolute;
-    top: 143vh;
-    left: 5.3vw;
+    position: relative;
+    top: 15%;
+    left: -32.9%;
+}
+
+#snakeEight
+{
+    position: relative;
+    top: -37.5%;
+    left: 34.7%;
+}
+
+#snakeNine
+{
+    position: relative;
+    top: 21%;
+    left: 7.5%;
+}
+
+#snakeTen
+{
+    position: relative;
+    top: -56%;
+    left: -32.9%;
+    z-index: -5;
+}
+
+#snakeEleven
+{
+    position: relative;
+    top: 20%;
+    left: 7.5%;
+}
+
+#snakeTwelve
+{
+    position: relative;
+    top: 17%;
+    left: -32.9%;
+    z-index: -5;
+}
+
+#snakeThirteen
+{
+    position: relative;
+    top: 13%;
+    left: 7.5%;
+}
+
+#snakeGridOne 
+{
+    position: relative;
+    top: 8.5%;
+    left: -43.3%;
+}
+
+#snakeGridTwo 
+{
+    position: relative;
+    top: -43%;
+    left: -39%;
+}
+
+#snakeGridThree 
+{
+    position: relative;
+    top: -12%;
+    left: -43.3%;
+}
+
+#snakeGridFour
+{
+    position: relative;
+    top: -50%;
+    left: -16.3%;
+}
+
+#snakeImageDescriptionOne
+{
+    position: relative;
+    top: -45%;
+    left: 35.3%;
+    width: 11%;
+}
+
+#snakeImageDescriptionTwo
+{
+    position: relative;
+    top: 20%;
+    left: 35.3%;
+    width: 11%;
+}
+
+.snakesCopyOne
+{
+    position: relative;
+    top: -47%;
+    left: 35.3%;
+    width: 26%;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.snakesCopyTwo
+{
+    top: 14%;
+}
+
+.snakesCopyThree
+{
+    top: -5%;
+}
+
+#gridImageMiddleSnakes
+{
+    width: 23.6vw;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
+}
+
+#gridImageMiddleSnakesHor
+{
+    width: 23.6vw;
+    margin-left: 1vw;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
+}
+
+#SnakeVideoOne
+{
+    position: relative;
+    top: -36%;
+    left: -32.9%;
+    width: 55.2vw;
+    height: 55.2vh;
+}
+
+#SnakeVideoTwo
+{
+    position: relative;
+    top: -48%;
+    left: -32.9%;
+    width: 55.3vw;
+    height: 55.3vh;
+}
+
+#SnakeVideoThree
+{
+    position: relative;
+    top: 15%;
+    left: -32.9%;
+    width: 55.3vw;
+    height: 55.3vh;
+}
+
+#SnakeVideoFour
+{
+    position: relative;
+    top: -3%;
+    left: -32.9%;
+    width: 61.5vw;
+    height: 61.5vh;
 }
 
 .endLineSnakes
@@ -267,7 +256,7 @@
     width: 64.5vw;
     height: 1vh;
     position: relative;
-    top: -60vh;
-    left: -9.5vw;
+    top: 0%;
+    left: 0%;
     border-bottom: 1px solid black;
 }

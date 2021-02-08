@@ -829,7 +829,7 @@ video:focus { outline:none; }
 
 .extraLarge
 {
-    width: 64.5vw;
+    width: 61.5vw;
     height: auto;
 }
 
@@ -1148,4 +1148,17 @@ video:focus { outline:none; }
     position: relative;
     left: -2%;
     top: 0%;
+}
+
+.copyTextBigger
+{
+    top: -72.5%;
+    left: 35.2%;
+    width: 28%;
+    text-align: left;
+    position: relative;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 30px;
+    font-family: 'Roboto', sans-serif;
 }
