@@ -69,7 +69,7 @@
     top: -9%;
     width: 23.5vw;
     height: 25vh;
-    z-index: -5;
+    z-index: 5;
 }
 
 #DragonVideoFour
@@ -213,6 +213,11 @@
 {
     position: relative;
     top: 14%;
+}
+
+.dragonCopyTwo
+{
+    width: 27%;
 }
 
 #dragonGridOne

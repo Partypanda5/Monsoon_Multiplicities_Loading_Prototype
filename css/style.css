@@ -33,7 +33,7 @@ body
 
 sup
 {
-    font-size: 15px;
+    font-size: 12px;
     line-height: 0;
 }
 
@@ -664,7 +664,7 @@ video:focus { outline:none; }
 
 #acknowledgementSection
 {
-    height: 31%;
+    height: 35%;
     width: auto;
     position: relative;
 }

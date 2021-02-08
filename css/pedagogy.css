@@ -33,17 +33,17 @@
 
 #pedagogySubSeven
 {
-    top: 1495vh;
+    top: 1508vh;
 }
 
 #pedagogySubEight
 {
-    top: 1477vh;
+    top: 1490vh;
 }
 
 #pedagogySubNine
 {
-    top: 1880vh;
+    top: 1896vh;
 }
 
 #pedagogyOne
@@ -142,14 +142,14 @@
     z-index: -5;
     top: -232.5%;
     left: 0.2%;
-    width: 31vw;
+    width: 32vw;
 }
 
 #pedagogyThirteen
 {
     position: relative;
     z-index: -5;
-    top: -285%;
+    top: -286%;
     left: 34%;
     width: 32.5vw;
 }
@@ -267,14 +267,15 @@
     position: relative;
     z-index: -5;
     top: -9%;
-    left: 8.7%;
+    left: 4.9%;
+    width: 28vw;
 }
 
 #pedagogyTwentySeven
 {
     position: relative;
     z-index: -5;
-    top: -85%;
+    top: -94%;
     left: 34.7%;
     width: 31vw;
 }
@@ -293,7 +294,7 @@
     position: relative;
     z-index: -5;
     top: -138%;
-    left: 34.5%;
+    left: 34.6%;
     width: 27vw;
 }
 
@@ -789,14 +790,14 @@
 {
     position: relative;
     top: -32.5%;
-    left: -43.3%;
+    left: -43.2%
 }
 
 #pedagogyGridFive
 {
     position: relative;
     top: -49%;
-    left: -16.7%;
+    left: -16.4%;
 }
 
 #pedagogyGridSix
@@ -816,7 +817,7 @@
 .pedagogyMapContainerOne
 {
     position: relative;
-    left: 8.3%;
+    left: 11.4%;
     top: -157%;
     z-index: 5;
     width: 20.8vw;
@@ -825,7 +826,7 @@
 .pedagogyMapContainerTwo
 {
     position: relative;
-    left: 35.3%;
+    left: 35.2%;
     top: -238%;
     z-index: 5;
     width: 30vw;
