@@ -13,7 +13,7 @@
 
 #chennaiSubThree
 {
-    top: 160vh;
+    top: 165vh;
 }
 
 #chennaiSubFour
@@ -23,37 +23,37 @@
 
 #chennaiSubFive
 {
-    top: 560vh;
+    top: 545vh;
 }
 
 #chennaiSubSix
 {
-    top: 720vh;
+    top: 695vh;
 }
 
 #chennaiSubSeven
 {
-    top: 755vh;
+    top: 725vh;
 }
 
 #chennaiSubEight
 {
-    top: 790vh;
+    top: 750vh;
 }
 
 #chennaiSubNine
 {
-    top: 1255vh;
+    top: 1180vh;
 }
 
 #chennaiSubTen
 {
-    top: 1410vh;
+    top: 1335vh;
 }
 
 #chennaiSubEleven
 {
-    top: 1440vh;
+    top: 1365vh;
 }
 
 #ChennaiVideoOne
@@ -71,17 +71,17 @@
     position: relative;
     left: -33%;
     top: -70%;
-    width: 56vw;
-    height: 56vh;
+    width: 55.1vw;
+    height: 55.1vh;
 }
 
 #ChennaiVideoThree
 {
     position: relative;
     left: -33%;
-    top: -8%;
-    width: 56vw;
-    height: 56vh;
+    top: -10%;
+    width: 55vw;
+    height: 55vh;
 }
 
 #ChennaiVideoFour
@@ -89,8 +89,8 @@
     position: relative;
     left: -33%;
     top: 15%;
-    width: 56vw;
-    height: 56vh;
+    width: 55.3vw;
+    height: 55.3vh;
 }
 
 #ChennaiVideoFive
@@ -98,8 +98,8 @@
     position: relative;
     left: -33%;
     top: 15%;
-    width: 31vw;
-    height: 31vh;
+    width: 30.7vw;
+    height: 30.7vh;
 }
 
 #chennaiOne
@@ -108,7 +108,7 @@
     left: -32.9%;
     top: -45%;
     z-index: 0;
-    width: 56vw;
+    width: 55.2vw;
 }
 
 #chennaiTwo
@@ -117,12 +117,13 @@
     left: -16.7%;
     top: 15%;
     z-index: 0;
+    width: 55.4vw;
 }
 
 #chennaiThree
 {
     position: relative;
-    left: -77.9%;
+    left: -77.6%;
     top: 30%;
     z-index: 0;
 }
@@ -130,7 +131,7 @@
 #chennaiFour
 {
     position: relative;
-    left: 7.5%;
+    left: 7.8%;
     top: 3%;
     z-index: 0;
 }
@@ -147,7 +148,7 @@
 #chennaiSix
 {
     position: relative;
-    left: 7.5%;
+    left: 7.8%;
     top: -35%;
     z-index: 0;
 }
@@ -171,8 +172,8 @@
 #chennaiNine
 {
     position: relative;
-    left: 7.7%;
-    top: -42%;
+    left: 7.8%;
+    top: -32%;
     z-index: 0;
 }
 
@@ -180,7 +181,7 @@
 {
     position: relative;
     left: -32.9%;
-    top: -48%;
+    top: -45%;
     z-index: 0;
     width: 61.3vw;
 }
@@ -224,9 +225,9 @@
 {
     position: relative;
     left: 34.9%;
-    top: -156.3%;
+    top: -154.3%;
     z-index: 0;
-    width: 31vw;
+    width: 37vw;
 }
 
 #chennaiSixteen
@@ -250,7 +251,7 @@
 #chennaiEighteen
 {
     position: relative;
-    left: -72.5%;
+    left: -72.95%;
     top: 18%;
     z-index: 0;
     width: 18vw;
@@ -268,7 +269,7 @@
 #chennaiTwenty
 {
     position: relative;
-    left: 7.5%;
+    left: 7.8%;
     top: -25%;
     z-index: 0;
 }
@@ -276,7 +277,7 @@
 #chennaiTwentyOne
 {
     position: relative;
-    left: 7.5%;
+    left: 7.8%;
     top: -24%;
     z-index: -6;
 }
@@ -292,7 +293,7 @@
 #chennaiTwentyThree
 {
     position: relative;
-    left: 7.5%;
+    left: 7.8%;
     top: -25%;
     z-index: -5;
 }
@@ -319,16 +320,16 @@
     left: -32.5%;
     top: 15%;
     z-index: -5;
-    width: 58vw;
+    width: 57vw;
 }
 
 #chennaiTwentySeven
 {
     position: relative;
-    left: 5.5%;
+    left: 7.8%;
     top: 15%;
     z-index: -5;
-    width: 36vw;
+    width: 33vw;
 }
 
 #chennaiTwentyEight
@@ -342,15 +343,16 @@
 #chennaiTwentyNine
 {
     position: relative;
-    left: -13.7%;
-    top: 14%;
+    left: -12.2%;
+    top: 13%;
     z-index: -5;
+    width: 46vw;
 }
 
 #chennaiThirty
 {
     position: relative;
-    left: -79.3%;
+    left: -77.8%;
     top: 32%;
     z-index: -5;
 }
@@ -358,9 +360,9 @@
 #chennaiThirtyOne
 {
     position: relative;
-    left: -32.3%;
+    left: -32.9%;
     top: 0%;
-    width: 55vw;
+    width: 55.5vw;
 }
 
 #chennaiThirtyTwo
@@ -369,13 +371,13 @@
     left: -32.7%;
     top: -4%;
     z-index: -5;
-    width: 54vw;
+    width: 56vw;
 }
 
 #chennaiThirtyThree
 {
     position: relative;
-    left: 7%;
+    left: 7.9%;
     top: -8%;
 }
 
@@ -395,6 +397,15 @@
     top: -15%;
     z-index: -5;
     width: 62vw;
+}
+
+#chennaiThirtySix
+{
+    position: relative;
+    left: -16.5%;
+    top: 15%;
+    z-index: -5;
+    width: 19vw;
 }
 
 .chennaiMapContainerOne
@@ -419,7 +430,7 @@
 {
     position: relative;
     top: -50%;
-    left: 7.5%;
+    left: 8.3%;
     width: 14%;
 }
 
@@ -427,7 +438,7 @@
 {
     position: relative;
     top: 2%;
-    left: 8%;
+    left: 8.3%;
     width: 14%;
 }
 
@@ -435,7 +446,7 @@
 {
     position: relative;
     top: -35%;
-    left: 8%;
+    left: 8.3%;
     width: 14%;
 }
 
@@ -443,7 +454,7 @@
 {
     position: relative;
     top: -35%;
-    left: 8%;
+    left: 8.3%;
     width: 14%;
 }
 
@@ -474,7 +485,7 @@
 #chennaiImageDescriptionEight
 {
     position: relative;
-    top: -165%;
+    top: -171%;
     left: 35.3%;
     width: 25%;
 }
@@ -483,7 +494,7 @@
 {
     position: relative;
     top: 14%;
-    left: 8.8%;
+    left: 8.3%;
     width: 15%;
 }
 
@@ -498,7 +509,7 @@
 #chennaiImageDescriptionEleven
 {
     position: relative;
-    top: -13%;
+    top: -15%;
     left: 35.5%;
     width: 15%;
 }
@@ -507,7 +518,7 @@
 {
     position: relative;
     top: 26%;
-    left: 5.5%;
+    left: 8.3%;
     width: 15%;
 }
 
@@ -515,7 +526,7 @@
 {
     position: relative;
     top: -1%;
-    left: 5.5%;
+    left: 8.3%;
     width: 15%;
 }
 
@@ -523,7 +534,7 @@
 {
     position: relative;
     top: -6%;
-    left: 10.3%;
+    left: 8.3%;
     width: 12%;
 }
 
@@ -531,7 +542,7 @@
 {
     position: relative;
     top: -10%;
-    left: 10.5%;
+    left: 8.3%;
     width: 12%;
 }
 
@@ -539,15 +550,15 @@
 {
     position: relative;
     top: 10%;
-    left: 7.5%;
+    left: 8.3%;
     width: 15%;
 }
 
 #chennaiImageDescriptionSeventeen
 {
     position: relative;
-    top: -82%;
-    left: 35.5%;
+    top: -80.5%;
+    left: 35.3%;
     width: 15%;
 }
 
@@ -555,7 +566,7 @@
 {
     position: relative;
     top: 18%;
-    left: 9.5%;
+    left: 8.3%;
     width: 15%;
 }
 
@@ -569,7 +580,7 @@
 {
     position: relative;
     top: -32%;
-    left: 8%;
+    left: 8.3%;
     width: 23%;
 }
 
@@ -592,8 +603,8 @@
 .chennaiCopyFive
 {
     position: relative;
-    top: -38%;
-    left: 8.5%;
+    top: -32%;
+    left: 8.3%;
     width: 20%;
 }
 
@@ -601,7 +612,7 @@
 {
     position: relative;
     top: -67%;
-    left: 7%;
+    left: 8.3%;
     width: 20%;
 }
 
@@ -609,7 +620,7 @@
 {
     position: relative;
     top: 10%;
-    left: 35.5%;
+    left: 35.3%;
     width: 25%;
 }
 
@@ -625,7 +636,7 @@
 {
     position: relative;
     top: -107%;
-    left: 8%;
+    left: 8.3%;
     width: 25%;
 }
 
@@ -641,7 +652,7 @@
 {
     position: relative;
     top: -3%;
-    left: 6.3%;
+    left: 8.3%;
     width: 18%;
 }
 
@@ -680,16 +691,16 @@
 {
     position: relative;
     top: -71.5%;
-    left: 7.3%;
+    left: 8.3%;
     width: 25%;
 }
 
 .chennaiCopySeventeen
 {
     position: relative;
-    top: -86.5%;
-    left: 9.3%;
-    width: 21%;
+    top: -85%;
+    left: 8.3%;
+    width: 18%;
 }
 
 .chennaiCopyNineteen
@@ -711,35 +722,35 @@
 {
     position: relative;
     top: -50%;
-    left: -44.7%;  
+    left: -43.5%;
 }
 
 #chennaiGridThree
 {
     position: relative;
     top: -77%;
-    left: -44.7%;
+    left: -43.4%;
 }
 
 #chennaiGridFour
 {
     position: relative;
     top: 10%;
-    left: -44.7%;
+    left: -43.3%;
 }
 
 #chennaiGridFive
 {
     position: relative;
     top: 5%;
-    left: -43.3%;
+    left: -39.1%;
 }
 
 #chennaiGridSix
 {
     position: relative;
     top: -30%;
-    left: -44.7%;
+    left: -43.3%;
 }
 
 #chennaiGridSeven
@@ -852,8 +863,26 @@
 .referenceBlockChennaiThree
 {
     width: 90%;
-    height: 6%;
+    height: 70%;
     position: relative;
     top: 46%;
     left: 35.2%;
+    padding-bottom: 3vh;
+}
+
+#gridImageMiddleChennai 
+{
+    width: 23.8vw;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;   
+}
+
+#gridImageMiddleChennaiTwo
+{
+    width: 23.8vw;
+    margin-left: 20px;
+    height: auto;
 }
