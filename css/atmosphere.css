@@ -4,50 +4,62 @@
     flex: 100%;
     display: block;
     z-index: 10;
+    height: 200vh;
+}
+
+#atmosphereSubTwo
+{
+    top: 3vh;
+}
+
+#atmosphereSubThree
+{
+    top: 0vh;
 }
 
 #atmosphereSubFour
 {
-    top: 20vh;
+    top: 30vh;
 }
 
 #atmosphereSubFive
 {
-    top: -45vh;
+    top: -25vh;
 }
 
 #atmosphereSubSix
 {
-    top: -65vh;
+    top: -45vh;
 }
 
 #atmosphereSubSeven
 {
-    top: -120vh;
+    top: -80vh;
 }
 
 #atmosphereSubEight
 {
-    top: -150vh;
+    top: -100vh;
 }
 
 #atmosphereSubNine
 {
-    top: -185vh;
+    top: -140vh;
 }
 
 #atmosOne
 {
     position: relative;
-    top: 32%;
+    top: 34%;
     left: -32%;
     width: 63vw;
+    z-index: -5;    
 }
 
 #atmosTwo
 {
     position: relative;
-    top: 38%;
+    top: 30%;
     left: -32%;
     width: 63vw;
 }
@@ -55,24 +67,24 @@
 #atmosThree
 {
     position: relative;
-    top: 32%;
+    top: 23%;
     left: -32%;
-    width: 63vw;
+    width: 63vw
 }
 
 #atmosFour
 {
     position: relative;
-    top: 32%;
-    left: -32%;
-    width: 63vw;
+    top: 36%;
+    left: -2%;
+    width: 102vw;
 }
 
 .copyTextAtmosOne
 {
     position: relative;
     top: 26%;
-    left: 8%;
+    left: 8.3%;
     width: 17%;
 }
 
@@ -80,81 +92,114 @@
 {
     position: relative;
     top: 27%;
-    left: 35.5%;
+    left: 35.3%;
+    width: 14%;
+}
+
+#atmosImageDescriptionTwo
+{
+    position: relative;
+    top: 27%;
+    left: 8.3%;
+    width: 14%;
+}
+
+#atmosImageDescriptionThree
+{
+    position: relative;
+    top: 18%;
+    left: 35.3%;
+    width: 14%;
+}
+
+#atmosImageDescriptionFour
+{
+    position: relative;
+    top: 5%;
+    left: 35.3%;
+    width: 14%;
+}
+
+#atmosImageDescriptionFive
+{
+    position: relative;
+    top: 0%;
+    left: 35.3%;
     width: 14%;
 }
 
 #AtmosVideoOne
 {
     position: relative;
-    left: -31.3%;
-    top: 30%;
-    width: 64.6vw;
-    height: 21vh;
+    left: -32.9%;
+    top: 32.9%;
+    width: 61.5vw;
+    height: 19.8vh;
+    z-index: -5;
 }
 
 #AtmosVideoTwo
 {
     position: relative;
-    left: -31.6%;
+    left: -32.9%;
     top: 30%;
-    width: 64vw;
-    height: 64vh;
+    width: 61.5vw;
+    height: 61.5vh;
 }
 
 #AtmosVideoThree
 {
     position: relative;
-    left: -31.6%;
+    left: -32.9%;
     top: 30%;
-    width: 64vw;
-    height: 64vh;
+    width: 61.5vw;
+    height: 61.5vh;
 }
 
 #AtmosVideoFour
 {
     position: relative;
-    left: -31.6%;
-    top: 30%;
-    width: 64vw;
-    height: 64vh;
+    left: -32.9%;
+    top: 19%;
+    width: 61.5vw;
+    height: 61.5vh;
 }
 
 #AtmosVideoFive
 {
     position: relative;
-    left: -31.6%;
+    left: -32.9%;
     top: 30%;
-    width: 64vw;
-    height: 64vh;
+    width: 61.5vw;
+    height: 61.5vh;
     z-index: -5;
 }
 
 #AtmosVideoSix
 {
     position: relative;
-    left: -31.6%;
+    left: -32.9%;
     top: 10%;
-    width: 64vw;
-    height: 64vh;
+    width: 61.5vw;
+    height: 61.5vh;
     z-index: -5;
 }
 
 #AtmosVideoSeven
 {
     position: relative;
-    left: -31.6%;
-    top: 31%;
-    width: 64vw;
-    height: 64vh;
+    left: -32.9%;
+    top: 46%;
+    width: 61.5vw;
+    height: 61.5vh;
     z-index: -5;
 }
 
 #atmosGridOne
 {
     position: relative;
-    top: 30%;
-    left: -44.7%;
+    top: 28%;
+    left: -43.3%;
 }
 
 #atmosGridTwo
@@ -168,13 +213,13 @@
 {
     position: relative;
     top: 35%;
-    left: -32.7%;
+    left: -32.5%;
 }
 
 #gridImageAtmos
 {
     width: 14.5vw;
-    margin-left: 9px;
+    margin-left: 13px;
     height: auto;
 }
 
@@ -193,9 +238,9 @@
     width: 64.5vw;
     height: 1vh;
     position: relative;
-    top: 40%;
+    top: 10%;
     left: 0%;
-    border-bottom: 1px dotted black;
+    border-bottom: 2px dotted black;
 }
 
 .endlineAtmosThree
@@ -232,9 +277,33 @@
     position: relative;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
-    font-size: 14px;
-    line-height: 16px;
-    width: 30%;
-    height: 50%;
+    font-size: 13px;
+    line-height: 17px;
+    width: 17%;
     text-align: left;
+    left: 35%;
+    top: 7%;
+}
+
+.referencesAtmosTwo
+{
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 17px;
+    width: 17%;
+    text-align: left;
+    left: 35%;
+    top: 14%;
+}
+
+#gridImageMiddleAtmos 
+{
+    width: 23.5vw;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
 }
