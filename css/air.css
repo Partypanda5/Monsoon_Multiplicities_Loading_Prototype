@@ -4,171 +4,195 @@
     flex: 100%;
     display: block;
     z-index: 10;
+    height: 100%;
 }
 
 #airSubTwo
 {
-    top: -55vh;
+    top: -42vh;
 }
 
 #airSubThree
 {
-    top: -100vh;
+    top: -90vh;
 }
 
 #airSubFour
 {
-    top: -155vh;
+    top: -125vh;
 }
 
 #airSubFive
 {
-    top: -240vh;
+    top: -210vh;
 }
 
 #airSubSix
 {
-    top: -310vh;
+    top: -250vh;
 }
 
 #airSubSeven
 {
-    top: -340vh;
+    top: -220vh;
 }
 
 #airSubEight
 {
-    top: -395vh;
+    top: -175vh;
 }
 
 #airSubNine
 {
-    top: -455vh;
+    top: -210vh;
 }
 
 #airSubTen
 {
-    top: -445vh;
+    top: -175vh;
 }
 
 #airSubEleven
 {
-    top: -540vh;
+    top: -270vh;
 }
 
 #airSubTwelve
 {
-    top: -410vh;
+    top: -305vh;
+    height: 30vh;
 }
 
 #airVideoOne 
 {
     position: relative;
-    top: 28%;
-    left: -52%;
+    top: 32%;
+    width: 61.5vw;
+    height: 61.5vh;
+    left: -32.9%;
     z-index: -2;
 }
 
 #airVideoTwo 
 {
     position: relative;
-    top: 75%;
-    left: -43.5%;
-    z-index: -2;
+    top: 45%;
+    width: 61.5vw;
+    height: 61.5vh;
+    left: -32.9%;
 }
 
 #airVideoThree
 {
     position: relative;
-    top: -25%;
-    left: -55%;
+    top: 40%;
+    width: 61.5vw;
+    height: 61.5vh;
+    left: -32.9%;
+    z-index: -5;
 }
 
 #airVideoFour
 {
     position: relative;
-    top: -10%;
-    left: -52%;
+    top: 41%;
+    width: 61.5vw;
+    height: 61.5vh;
+    left: -32.9%;
+    z-index: 5;
 }
 
 #airOne
 {
     position: relative;
-    top: 30%;
-    left: 43%;
+    top: 18%;
+    left: 34.7%;
     z-index: -2;
 }
 
 #airTwo
 {
     position: relative;
-    top: 65%;
-    left: 37%;
+    top: -10%;
+    left: 30%;
 }
 
 #airThree
 {
     position: relative;
-    top: 90%;
-    left: 9.5%;
+    top: 27%;
+    left: 1.2%;
 }
 
 #airFour
 {
     position: relative;
-    top: 30%;
-    left: -32.5%;
-    width: 61.5vw;
-}
+    top: 44%;
+    left: -32.9%;
+    z-index: -5;
+}   
 
 #airFive
 {
     position: relative;
-    top: 85%;
-    left: 40%;
+    top: 25%;
+    left: 34.7%;
 }
 
 #airSix
 {
     position: relative;
-    top: 42%;
-    left: -46.3%;
+    top: 32%;
+    left: -0.5%;
+    width: 45.7vw;
+    height: auto;
+    z-index: -5;
 }
 
 #airSeven
 {
     position: relative;
-    top: 30%;
-    left: -32.5%;
-    width: 61.5vw;
+    top: 40%;
+    left: -32.9%;
+    z-index: -5;
 }
 
 #airEight
 {
     position: relative;
-    top: -190%;
-    left: 27%;
+    top: -35%;
+    left: 34.7%;
 }
 
 #airNine
 {
     position: relative;
-    top: -35%;
-    left: -1.5%;
+    top: 23%;
+    left: 1%;
 }
 
 #airTen
 {
     position: relative;
-    top: -95%;
-    left: -4.5%;
+    top: 30%;
+    left: 1.2%;
 }
 
 #airEleven
 {
     position: relative;
-    top: 85%;
-    left: 37.5%;
+    top: 23%;
+    left: 34.7%;
+}
+
+#airTwelve
+{
+    position: relative;
+    top: 71%;
+    left: -49.7%;
+    width: 45.7vw;
+    height: auto;
+    z-index: -5;
 }
 
 .verticalGridContainerAir
@@ -176,14 +200,102 @@
     width: 50%;
     height: 53%;
     display: inline-grid;
-    position: absolute;
+    position: relative;
 }
 
 #airGridOne
 {
-    position: absolute;
+    position: relative;
+    top: 27%;
+    left: -50%;
+}
+
+#airImageDescriptionOne
+{
+    position: relative;
+    top: -1%;
+    left: 35.3%;
+    width: 9%;
+}
+
+#airImageDescriptionTwo
+{
+    position: relative;
+    top: 39%;
+    left: 35.3%;
+    width: 9%;
+}
+
+#airImageDescriptionThree
+{
+    position: relative;
+    top: 25%;
+    left: 35.3%;
+    width: 9%;
+}
+
+#airImageDescriptionFour
+{
+    position: relative;
+    top: 35%;
+    left: 35.3%;
+    width: 9%;
+}
+
+#airImageDescriptionFive
+{
+    position: relative;
+    top: 25%;
+    left: 35.3%;
+    width: 9%;
+}
+
+#airImageDescriptionSix
+{
+    position: relative;
+    top: 65%;
+    left: 35.3%;
+    width: 9%;
+}
+
+#airImageDescriptionSeven
+{
+    position: relative;
+    top: 35%;
+    left: 35.3%;
+    width: 9%;
+}
+
+#airImageDescriptionEight
+{
+    position: relative;
     top: 15%;
-    left: -2.5%;
+    left: 35.3%;
+    width: 9%;
+}
+
+#airImageDescriptionNine
+{
+    position: relative;
+    top: 18.5%;
+    left: 35.3%;
+    width: 9%;
+}
+
+#airImageDescriptionTen
+{
+    position: relative;
+    top: 24%;
+    left: 35.3%;
+    width: 9%;
+}
+
+#airImageDescriptionEleven
+{
+    position: relative;
+    top: 2%;
+    left: 35.3%;
+    width: 14%;
 }
 
 .endlineAir
@@ -191,7 +303,27 @@
     width: 64.5vw;
     height: 1vh;
     position: relative;
-    top: -170vh;
+    top: 0%;
     left: 0vw;
     border-bottom: 1px solid black;
+}
+
+#gridImageMiddleAir
+{
+    width: 23.5vw;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
+}
+
+#gridImageMiddleAirLarger
+{
+    width: 30vw;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
 }
