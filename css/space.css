@@ -2,50 +2,52 @@
 {
     max-width: 100vw;
     flex: 100%;
+    height: 100%;
     display: block;
     z-index: 10;
 }
 
 #spaceSubTwo
 {
-    top: -85vh; 
+    top: -35vh; 
 }
 
 #spaceSubThree
 {
-    top: -105vh; 
+    top: -70vh; 
 }
 
 #spaceSubFour
 {
-    top: -130vh; 
+    top: -70vh; 
 }
 
 #spaceSubFive
 {
-    top: -175vh; 
+    top: -120vh; 
 }
 
 #spaceSubSix
 {
-    top: -180vh; 
+    top: -130vh; 
 }
 
 #spaceSubSeven
 {
-    top: -200vh; 
+    top: -130vh; 
 }
 
 #spaceSubEight
 {
-    top: -190vh; 
+    top: -95vh; 
+    height: 80vh;
 }
 
 .copyTextSpace
 {
     position: relative;
-    top: 45%;
-    left: 8%;
+    top: 24%;
+    left: 8.3%;
     width: 17%;
 }
 
@@ -53,17 +55,40 @@
 {
     position: relative;
     top: 25%;
-    left: 7%;
+    left: 8.3%;
     width: 20%;
     text-align: left; 
+}
+
+.copyTextSpaceThree
+{
+    position: relative;
+    top: 17%;
+    left: 35.3%;
+    width: 25%;
+}
+
+.copyTextSpaceFour
+{
+    position: relative;
+    top: 6%;
+    left: 35.3%;
+    width: 25%;
+}
+
+.copyTextSpaceFive
+{
+
+    width: 28%;
 }
 
 #spaceOne
 {
     position: relative;
-    top: -8%;
-    left: 7.5%;
+    top: 20%;
+    left: -5%;
     z-index: -5;
+    width: 102vw;
 }
 
 #spaceTwo
@@ -76,7 +101,7 @@
 #spaceThree 
 {
     position: relative;
-    top: -9%;
+    top: -5%;
     left: 30%;
     z-index: -6;
 }
@@ -84,22 +109,22 @@
 #spaceGridOne
 {
     position: relative;
-    top: 25%;
-    left: -44.7%;
+    top: 14%;
+    left: 6.3%;
 }
 
 #spaceGridTwo
 {
     position: relative;
     top: 25%;
-    left: -44.7%;
+    left: -43.25%;
 }
 
 #spaceGridThree
 {
     position: relative;
     top: 20%;
-    left: 4.7%;
+    left: 6.28%;
 }
 
 #spaceImageDescriptionOne
@@ -145,16 +170,40 @@
 #spaceImageDescriptionSix
 {
     position: relative;
-    top: 60%;
+    top: 81%;
     left: 35.3%;
     width: 14%;
+}
+
+#spaceImageDescriptionSeven
+{
+    position: relative;
+    top: 16%;
+    left: 8.3%;
+    width: 14%;
+}
+
+#spaceImageDescriptionEight
+{
+    position: relative;
+    top: 5%;
+    left: 35.3%;
+    width: 24%;
+}
+
+#spaceImageDescriptionNine
+{
+    position: relative;
+    top: 8%;
+    left: 35.3%;
+    width: 25%;
 }
 
 #SpaceVideoOne
 {
     position: relative;
-    left: -32.6%;
-    top: -10%;
+    left: -32.8%;
+    top: 57%;
     width: 46vw;
     height: 46vh;
     z-index: -5;
@@ -164,7 +213,7 @@
 {
     position: relative;
     left: 16.7%;
-    top: 55%;
+    top: 79%;
     width: 46vw;
     height: 46vh;
     z-index: -5;
@@ -174,7 +223,7 @@
 {
     position: relative;
     left: -49.6%;
-    top: 37%;
+    top: 54%;
     width: 46vw;
     height: 46vh;
     z-index: -6;
@@ -194,7 +243,7 @@
 {
     position: relative;
     left: 16.7%;
-    top: 30%;
+    top: 45%;
     width: 46vw;
     height: 46vh;
     z-index: -10;
@@ -204,7 +253,7 @@
 {
     position: relative;
     left: -49.3%;
-    top: 50%;
+    top: 73%;
     width: 46vw;
     height: 46vh;
     z-index: -6;
@@ -214,7 +263,7 @@
 {
     position: relative;
     left: 0.3%;
-    top: 40%;
+    top: 58%;
     width: 46vw;
     height: 46vh;
     z-index: -5;
@@ -224,7 +273,7 @@
 {
     position: relative;
     left: -32.7%;
-    top: 65%;
+    top: 86%;
     width: 46vw;
     height: 46vh;
     z-index: -6;
@@ -245,19 +294,9 @@
     width: 64.5vw;
     height: 1vh;
     position: relative;
-    top: 28%;
+    top: 6%;
     left: 0%;
-    border-bottom: 1px dotted black;
-}
-
-.endlineSpaceThree
-{
-    width: 64.5vw;
-    height: 1vh;
-    position: relative;
-    top: 40%;
-    left: 0%;
-    border-bottom: 2px solid black;
+    border-bottom: 2px dotted black;
 }
 
 .referencesSpace
@@ -288,4 +327,14 @@
     position: relative;
     top: 35%;
     left: 35.2%;
+}
+
+#gridImageMiddleSpace
+{
+    width: 23.5vw;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
 }
