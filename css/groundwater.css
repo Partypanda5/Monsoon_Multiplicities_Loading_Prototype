@@ -3,6 +3,7 @@
     max-width: 100vw;
     flex: 100%;
     display: block;
+    height: 200vh;
     z-index: 10;
 }
 
@@ -18,22 +19,28 @@
 
 #groundwaterSubFour
 {
-    top: -35vh;
+    top: -50vh;
 }
 
 #groundwaterSubFive
 {
-    top: -35vh;
+    top: -55vh;
 }
 
 #groundwaterSubSix
 {
-    top: -60vh;
+    top: -90vh;
 }
 
 #groundwaterSubSeven
 {
-    top: -120vh;
+    top: -150vh;
+}
+
+#groundwaterSubEight
+{
+    top: -155vh;
+    height: 40vh;
 }
 
 #groundwaterOne
@@ -98,7 +105,7 @@
 #groundwaterGridTwo
 {
     position: relative;
-    top: -2%;
+    top: 3%;
     left: -16.3%;
 }
 
@@ -106,14 +113,14 @@
 {
     position: relative;
     top: -48%;
-    left: -44.7%;
+    left: -43.2%;
 }
 
 #groundwaterGridFour
 {
     position: relative;
     top: 28%;
-    left: -44.7%;
+    left: -43.2%;
 }
 
 #groundwaterGridFive
@@ -127,14 +134,14 @@
 {
     position: relative;
     top: 8%;
-    left: 4.7%;
+    left: 6.3%;
 }
 
 #groundwaterGridSeven
 {
     position: relative;
     top: -60%;
-    left: -44.7%;
+    left: -43.2%;;
 }
 
 .copyTextGroundWaterOne
@@ -148,7 +155,7 @@
 {
     position: relative;
     top: 25%;
-    left: 8%;
+    left: 8.3%;
     width: 22%;
 }
 
@@ -171,7 +178,7 @@
 #groundwaterImageDescriptionTwo
 {
     position: relative;
-    top: 0%;
+    top: 5%;
     left: 35.5%;
     width: 14%;
 }
@@ -180,7 +187,7 @@
 {
     position: relative;
     top: -45%;
-    left: 7%;
+    left: 8.3%;
     width: 14%;
 }
 
@@ -188,7 +195,7 @@
 {
     position: relative;
     top: 30%;
-    left: 7%;
+    left: 8.3%;
     width: 14%;
 }
 
@@ -196,8 +203,25 @@
 {
     position: relative;
     top: 4%;
-    left: 7.1%;
+    left: 8.3%;
     width: 14%;
+}
+
+#groundwaterImageDescriptionSix
+{
+    position: relative;
+    top: 4%;
+    left: 8.3%;
+    width: 23%;
+}
+
+#groundwaterImageDescriptionSeven
+{
+
+    position: relative;
+    top: 7%;
+    left: 8.3%;
+    width: 21%;
 }
 
 .endlineGroundWater
@@ -215,9 +239,9 @@
     width: 64.5vw;
     height: 1vh;
     position: relative;
-    top: 25%;
+    top: 5%;
     left: 0%;
-    border-bottom: 1px dotted black;
+    border-bottom: 2px dotted black;
 }
 
 .endlineGroundWaterThree
@@ -259,4 +283,14 @@
     width: 30%;
     height: 50%;
     text-align: left;
+}
+
+#groundwaterGridImage
+{
+    width: 23.5vw;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
 }
