@@ -77,6 +77,7 @@ video
 .activeNavbarTitle
 {
     text-decoration: underline;
+    font-weight: 800;
 }
 
 .headings
@@ -684,7 +685,7 @@ video:focus { outline:none; }
 
 #acknowledgementSection
 {
-    height: 35%;
+    height: 30%;
     width: auto;
     position: relative;
 }
@@ -735,6 +736,7 @@ video:focus { outline:none; }
       width: 14.3vw;
       height: auto;
       position: relative;
+      margin-top: 2vh;
   }
 
   #logoOne
@@ -746,6 +748,7 @@ video:focus { outline:none; }
   #logoTwo
   {
     margin-top: 5vh;
+    width: 12vw;
   }
 
   .endLineLanding
