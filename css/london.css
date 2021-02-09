@@ -4,6 +4,7 @@
     flex: 100%;
     display: block;
     z-index: 10;
+    height: 200vh;
 }
 
 #londonSubTwo
@@ -14,16 +15,18 @@
 #londonSubThree
 {
     top: -120vh;
+    z-index: 5;
 }
 
 #londonSubFour
 {
-    top: -155vh;
+    top: -140vh;
 }
 
 #londonSubFive
 {
-    top: -135vh;
+    top: -115vh;
+    height: 40vh;
 }
 
 #londonOne
@@ -46,19 +49,25 @@
 #titleTwo
 {
     position: relative;
-    top: 70vh;
+    top: 80vh;
+}
+
+.titleThree 
+{
+    position: relative;
+    top: 40vh;
 }
 
 #copyTwo
 {
     position: relative;
-    top: 62vh;
+    top: 71vh;
 }
 
 #londonLinks
 {
     position: relative;
-    top: 28vh;
+    top: 35vh;
     width: 26%;
     padding: 0;
     margin: 0;
@@ -112,10 +121,20 @@
 {
     width: 64.5vw;
     height: 1vh;
-    position: absolute;
+    position: relative;
     top: 0%;
     left: 0%;
     border-bottom: 1px solid black;
+}
+
+.endlineLondonTwo
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 7%;
+    left: 0%;
+    border-bottom: 2px dotted black;
 }
 
 #referenceBlockLondon
@@ -137,4 +156,18 @@
     width: 30%;
     height: 50%;
     text-align: left;
+}
+
+.referencesLondonTwo
+{
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    width: 30%;
+    height: 50%;
+    text-align: left;
+    top: 10%;
+    left: 35.3%;
 }
