@@ -127,7 +127,7 @@
     top: 4%;
     left: -1.5%;
     z-index: -5;
-    width: 50vw;
+    width: 46vw;
 }
 
 #potTwelve
@@ -136,6 +136,7 @@
     top: -15%;
     left: 6.3%;
     z-index: -5;
+    width: 46vw;
 }
 
 #potVideoOne
@@ -173,7 +174,7 @@
 #potGridFour
 {
     position: relative;
-    top: -30%;
+    top: -25%;
     left: -44.7%;
 }
 

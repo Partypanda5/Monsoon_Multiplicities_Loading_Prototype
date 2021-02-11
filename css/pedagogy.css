@@ -38,12 +38,12 @@
 
 #pedagogySubEight
 {
-    top: 1490vh;
+    top: 1470vh;
 }
 
 #pedagogySubNine
 {
-    top: 1896vh;
+    top: 1875vh;
 }
 
 #pedagogyOne
@@ -684,7 +684,7 @@
     position: relative;
     top: 14%;
     left: 8.3%;
-    width: 15%;
+    width: 28%;
 }
 
 #pedagogyImageDescriptionTwentyFive
@@ -735,6 +735,14 @@
     width: 16%;
 }
 
+#pedagogyImageDescriptionThirtyOne
+{
+    position: relative;
+    top: 40%;
+    left: 8.3%;
+    width: 16%;
+}
+
 
 #PedagogyVideoOne
 {
@@ -753,7 +761,7 @@
     height: 61.5vh;
     top: 15%;
     left: -32.9%;
-    z-index: -5;
+    z-index: 5;
 }
 
 #PedagogyVideoThree
@@ -871,7 +879,7 @@
     width: 64.5vw;
     height: 1vh;
     position: absolute;
-    top: 90%;
+    top: 75%;
     left: 0%;
     border-bottom: 1px dotted black;
 }

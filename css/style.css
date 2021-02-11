@@ -33,7 +33,7 @@ body
 
 sup
 {
-    font-size: 12px;
+    font-size: 10px;
     line-height: 0;
 }
 
@@ -1177,4 +1177,5 @@ video:focus { outline:none; }
 {
     font-family: 'Roboto', sans-serif;
     font-size: 34px;
+    line-height: 37px;
 }
