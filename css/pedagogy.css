@@ -23,27 +23,27 @@
 
 #pedagogySubFive
 {
-    top: 810vh;
+    top: 815vh;
 }
 
 #pedagogySubSix
 {
-    top: 855vh;
+    top: 860vh;
 }
 
 #pedagogySubSeven
 {
-    top: 1508vh;
+    top: 1515vh;
 }
 
 #pedagogySubEight
 {
-    top: 1470vh;
+    top: 1475vh;
 }
 
 #pedagogySubNine
 {
-    top: 1875vh;
+    top: 1880vh;
 }
 
 #pedagogyOne
@@ -149,7 +149,7 @@
 {
     position: relative;
     z-index: -5;
-    top: -286%;
+    top: -286.85%;
     left: 34%;
     width: 32.5vw;
 }
@@ -586,15 +586,15 @@
 #pedagogyImageDescriptionTwelve
 {
     position: relative;
-    top: -113%;
+    top: -110%;
     left: 8.3%;
-    width: 14%;
+    width: 13%
 }
 
 #pedagogyImageDescriptionThirteen
 {
     position: relative;
-    top: -95%;
+    top: -94%;
     left: 8.3%;
     width: 14%;
 }
@@ -738,7 +738,7 @@
 #pedagogyImageDescriptionThirtyOne
 {
     position: relative;
-    top: 40%;
+    top: 45%;
     left: 8.3%;
     width: 16%;
 }
@@ -767,9 +767,9 @@
 #PedagogyVideoThree
 {
     position: relative;
-    width: 35vw;
-    height: 31.5vh;
-    margin-left: 17px;
+    width: 33.7vw;
+    height: 32.7vh;
+    margin-left: 22px;
 }
 
 #pedagogyGridOne
@@ -852,6 +852,13 @@
     width: 17.7vw;
     margin-left: 29px;
     height: auto
+}
+
+#gridImagePedagogyThree
+{
+    width: 26vw;
+    margin-left: 17px;
+    height: auto;
 }
 
 .endlinePedagogy

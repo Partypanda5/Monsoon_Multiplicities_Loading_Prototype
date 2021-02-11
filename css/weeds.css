@@ -13,27 +13,27 @@
 
 #weedsSubThree
 {
-    top: -90vh;
+    top: -70vh;
 }
 
 #weedsSubFour
 {
-    top: -65vh;
+    top: -70vh;
 }
 
 #weedsSubFive
 {
-    top: 75vh;
+    top: 55vh;
 }
 
 #weedsSubSix
 {
-    top: 40vh;
+    top: 25vh;
 }
 
 #weedsSubSeven
 {
-    top: 55vh;
+    top: 40vh;
 }
 
 #weedsOne
@@ -90,7 +90,7 @@
 #weedsSeven
 {
     position: relative;
-    top: -57%;
+    top: -42%;
     left: 7.6%;
     z-index: 0;
 }
@@ -122,8 +122,8 @@
 #weedsCopyThree
 {
     position: relative;
-    top: 15%;
-    left: 9%;
+    top: 11%;
+    left: 8.3%;
     z-index: -6;
     width: 16%;
 }
@@ -163,7 +163,7 @@
 #weedsGridOne
 {
     position: relative;
-    top: -32%;
+    top: -20%;
     left: -43.4%;
     z-index: 0;
 }
@@ -187,7 +187,7 @@
 #weedsGridFour
 {
     position: relative;
-    top: -33%;
+    top: -23%;
     left: -43.35%;
     z-index: 0;
 }
@@ -195,7 +195,7 @@
 #weedsGridFive
 {
     position: relative;
-    top: -85%;
+    top: -78%;
     left: -16.3%;
     z-index: 0;
 }
@@ -228,9 +228,11 @@
 {
     position: relative;
     top: 5%;
-    left: 18.3%;
+    left: 18.5%;
     z-index: -5;
     overflow: hidden;
+    width: 45.7vw;
+    height: 51vh;
 }
 
 .endlineWeeds
