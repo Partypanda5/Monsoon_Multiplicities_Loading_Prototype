@@ -169,7 +169,7 @@
     position: relative;
     top: 20%;
     left: 35.3%;
-    width: 11%;
+    width: 15%;
 }
 
 .snakesCopyOne
@@ -222,6 +222,7 @@
     left: -32.9%;
     width: 55.2vw;
     height: 55.2vh;
+    z-index: 5;
 }
 
 #SnakeVideoTwo
