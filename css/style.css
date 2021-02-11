@@ -47,6 +47,12 @@ sup
     margin: 0;;
 }
 
+.noPaddingBottom
+{
+    padding-bottom: 1vh;
+    margin: 0;
+}
+
 video
 {
     overflow: hidden;
@@ -1123,8 +1129,11 @@ video:focus { outline:none; }
 #websites
 {
     width: 103%;
-    top: 5%;
+    top: 2.5%;
     position: relative;
+    padding: 0;
+    margin-bottom: 3px;
+    margin-top: 0;
 }
 
 .captionSup 
