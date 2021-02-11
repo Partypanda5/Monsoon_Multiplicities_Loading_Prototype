@@ -135,6 +135,7 @@
     position: relative;
     top: 8%;
     left: 6.3%;
+    z-index: 6;
 }
 
 #groundwaterGridSeven

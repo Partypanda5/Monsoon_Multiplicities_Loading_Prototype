@@ -8,47 +8,48 @@
 
 #yangonSubTwo
 {
-    top: 10vh;
+    top: 15vh;
 }
 
 #yangonSubThree
 {
-    top: 55vh;
+    top: 52vh;
 }
 
 #yangonSubFour
 {
-    top: 200vh;
+    top: 197vh;
 }
 
 #yangonSubFive
 {
-    top: 300vh;
+    top: 286vh;
 }
 
 #yangonSubSix
 {
-    top: 540vh;
+    top: 525vh;
 }
 
 #yangonSubSeven
 {
-    top: 695vh; 
+    top: 679vh;
 }
 
 #yangonSubEight
 {
-    top: 910vh; 
+    top: 893vh;
 }
 
 #yangonSubNine
 {
-    top: 1075vh; 
+    top: 1045vh;
+
 }
 
 #yangonSubTen
 {
-    top: 1335vh;
+    top: 1305vh;
 }
 
 #yangonOne
@@ -65,15 +66,16 @@
 {
     position: relative;
     z-index: -5;
-    top: 12%;
-    left: 5%;
+    top: 15.5%;
+    left: 10%;
+    width: 20vw;
 }
 
 #yangonThree
 {
     position: relative;
     z-index: -5;
-    top: -17%;
+    top: -11%;
     left: 33.3%;
 }
 
@@ -257,7 +259,7 @@
 {
     position: relative;
     z-index: -5;
-    top: -75%;
+    top: -75.3%;
     left: 34.7%;
 }
 
@@ -298,11 +300,11 @@
 #YangonVideoOne
 {
     position: relative;
-    width: 43.2%;
-    height: 48.1%;
-    top: -7%;
-    left: -59%;
-    z-index: -5;
+    width: 50vw;
+    height: 89vh;
+    top: -12%;
+    left: -49%;
+    z-index: -6;
 }
 
 #YangonVideoTwo
@@ -427,7 +429,7 @@
 #yangonImageDescriptionOne
 {
     position: relative;
-    top: -35%;
+    top: -45%;
     left: 52%;
     width: 14%;
 }
@@ -614,6 +616,14 @@
     top: -53%;
     left: 52.1%;
     width: 14%;
+}
+
+#yangonImageDescriptionTwentyFive
+{
+    position: relative;
+    top: 8%;
+    left: 35.3%;
+    width: 26%;
 }
 
 #gridImageMiddleYangon

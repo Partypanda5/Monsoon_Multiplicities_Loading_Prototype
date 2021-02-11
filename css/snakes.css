@@ -23,12 +23,12 @@
 
 #snakeSubFive
 {
-    top: 385vh;
+    top: 392vh;
 }
 
 #snakeSubSix
 {
-    top: 488vh;
+    top: 495vh;
     height: 15vh;
 }
 
@@ -239,8 +239,8 @@
     position: relative;
     top: 15%;
     left: -32.9%;
-    width: 55.3vw;
-    height: 55.3vh;
+    width: 61.5vw;
+    height: 61.3vh;
 }
 
 #SnakeVideoFour
