@@ -37,6 +37,12 @@ sup
     line-height: 0;
 }
 
+.titleSup
+{
+    font-size: 16px;
+    line-height: 0;
+}
+
 .nopadding
 {
     padding: 0;

@@ -115,27 +115,27 @@
 
 #timeSubSix
 {
-    top: 55vh;
+    top: 65vh;
 }
 
 #timeSubSeven
 {
-    top: 132vh;
+    top: 142vh;
 }
 
 #timeSubEight
 {
-    top: 170vh;
+    top: 175vh;
 }
 
 #timeSubNine
 {
-    top: 130vh;
+    top: 133vh;
 }
 
 #timeSubTen
 {
-    top: 110vh;
+    top: 113vh;
     height: 50vh;
 }
 
@@ -215,7 +215,7 @@
 
 #timeHorizontalGridTwo
 {
-    top: 72%;
+    top: 74%;
     left: 0.25%;
     z-index: 1;
     pointer-events: none;
@@ -223,7 +223,7 @@
 
 #timeHorizontalGridThree
 {
-    top: 102%;
+    top: 106%;
     left: 0.25%;
     z-index: 1;
     pointer-events: none;
@@ -231,7 +231,7 @@
 
 #timeHorizontalGridFour
 {
-    top: 132%;
+    top: 138%;
     left: 1.25%;
     z-index: 1;
     pointer-events: none;
@@ -241,8 +241,10 @@
 {
     position: relative;
     top: 0%;
-    left: -33%;
+    left: -32.9%;
     z-index: 0;
+    width: 61.5vw;
+    height: 61.5vh;
 }
 
 #timeVideoTwo
@@ -279,6 +281,8 @@
     top: 44%;
     left: -32.9%;
     z-index: 0;
+    width: 61.5vw;
+    height: 61.5vh;
 }
 
 #timeVideoSix
@@ -335,7 +339,7 @@
 
 #timeImageDescriptionTwo
 {
-    top: 78%;
+    top: 81%;
     left: 51%;
     z-index: 1;
     pointer-events: none;
@@ -344,7 +348,7 @@
 
 #timeImageDescriptionThree
 {
-    top: 78%;
+    top: 81%;
     left: 51.7%;
     z-index: 1;
     pointer-events: none;

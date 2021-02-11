@@ -209,7 +209,7 @@
 #fishGridTwo
 {
     position: relative;
-    top: -12.7%;
+    top: -14%;
     left: -16.25%;
 }
 
@@ -328,4 +328,14 @@
     top: -3%;
     left: 0%;
     border-bottom: 2px dotted black
+}
+
+#gridImageMiddleFish
+{
+    width: 23.5vw;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
 }

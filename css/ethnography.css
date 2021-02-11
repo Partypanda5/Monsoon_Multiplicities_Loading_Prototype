@@ -23,12 +23,12 @@
 
 #ethnographySubFive
 {
-    top: 155vh;
+    top: 165vh;
 }
 
 #ethnographySubSix
 {
-    top: 187vh;
+    top: 205vh;
 }
 
 #ethnographySubSeven
@@ -38,14 +38,18 @@
 
 #ethnographySubEight
 {
-    top: 350vh;  
+    top: 365vh;  
 }
 
 #ethnographySubNine
 {
-    top: 310vh;
+    top: 325vh;
 }
 
+#doingsTitle
+{
+    top: 2%;
+}
 
 #ethnoOne
 {
@@ -88,8 +92,8 @@
 #ethnoSix
 {
     position: relative;
-    top: 9%;
-    left: 34.7%;
+    top: -7%;
+    left: 34.7%;    
 }
 
 #ethnoSeven
@@ -125,7 +129,7 @@
 #ethnoEleven
 {
     position: relative;
-    top: 15%;
+    top: 17.5%;
     left: 34.7%;
 }
 
@@ -208,8 +212,8 @@
 #EthnoGridSix
 {
     position: relative;
-    top: -46%;
-    left: 6.35%;
+    top: -47%;
+    left: -43.35%;
 }
 
 #EthnoGridSeven
@@ -258,7 +262,7 @@
 {
     position: relative;
     top: 10.3%;
-    left: -32.25%;
+    left: -32.6%;
 }
 
 .copyTextEthnoOne
@@ -280,7 +284,7 @@
 .copyTextEthnoThree
 {
     position: relative;
-    top: 3%;
+    top: 1%;
     left: 8.3%;
     width: 17%;
 }
@@ -303,7 +307,7 @@
 .ethnoTextCopySix
 {
     position: relative;
-    top: 0%;
+    top: -9%;
     left: 35.3%;
 }
 
@@ -330,6 +334,14 @@
     width: 17%;
 }
 
+.copyTextEthnoTen
+{
+    position: relative;
+    top: 10%;
+    left: 8.3%;
+    width: 17%;
+}
+
 #EthnoVideoOne
 {
     position: relative;
@@ -344,7 +356,7 @@
 {
     position: relative;
     left: -32.9%;
-    top: 5%;
+    top: -5%;
     width: 61.5vw;
     height: 61.5vh;
     z-index: -5;
@@ -403,30 +415,33 @@
 #EthnoVideoTen
 {
     position: relative;
-    left: 3.3%;
-    top: 3vh;
+    top: 10%;
+    left: 3.4%;
+    overflow: hidden;
     width: 23.5vw;
-    height: 23.5vh;
-    z-index: -5;
+    height: 27.5vh;
+    z-index: 5;
 }
 
 #EthnoVideoEleven
 {
     position: relative;
-    left: -49.5%;
-    top: 5%;
+    top: -43.2%;
+    left: 1.75%;
+    overflow: hidden;
     width: 46vw;
-    height: 46vh;
+    height: 55.5vh;
     z-index: -5;
 }
 
 #EthnoVideoTwelve
 {
     position: relative;
-    left: -35%;
-    top: -33%;
-    width: 25.5vw;
-    height: 25.5vh;
+    top: -70%;
+    left: 35.35%;
+    overflow: hidden;
+    width: 23.5vw;
+    height: 27.5vh;
     z-index: 5;
 }
 
@@ -458,7 +473,7 @@
 {
     position: relative;
     top: 8%;
-    left: 35.3%;
+    left: 35.25%;
 }
 
 .endlineEthnographyTwo
@@ -496,7 +511,7 @@
 {
     width: 14vw;
     margin-left: 20px;
-    margin-right: 5px;
+    margin-right: 3px;
     margin-top: 3vh;
     height: auto;
     pointer-events: none;

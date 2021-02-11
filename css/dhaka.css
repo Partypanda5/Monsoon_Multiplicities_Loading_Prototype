@@ -23,32 +23,32 @@
 
 #dhakaSubFive
 {
-    top: 230vh;
+    top: 237vh;
 }
 
 #dhakaSubSix
 {
-    top: 425vh;
+    top: 450vh;
 }
 
 #dhakaSubSeven
 {
-    top: 450vh;
+    top: 472vh;
 }
 
 #dhakaSubEight
 {
-    top: 635vh;
+    top: 657vh;
 }
 
 #dhakaSubNine
 {
-    top: 700vh;
+    top: 720vh;
 }
 
 #dhakaSubTen
 {
-    top: 755vh;
+    top: 775vh;
 }
 
 #dhakaOne
@@ -209,9 +209,9 @@
 #dhakaImageDescriptionFour
 {
     position: relative;
-    top: 32%;
+    top: 33.7%;
     left: 8.3%;
-    width: 13%;
+    width: 16%;
 }
 
 #dhakaImageDescriptionFive
@@ -225,7 +225,7 @@
 #dhakaImageDescriptionSix
 {
     position: relative;
-    top: -6.5%;
+    top: -6.2%;
     left: 52%;
     width: 8%;
 }
@@ -233,7 +233,7 @@
 #dhakaImageDescriptionSeven
 {
     position: relative;
-    top: -52.5%;
+    top: -52.8%;
     left: 52%;
     width: 8%;
 }
@@ -281,7 +281,7 @@
 #dhakaImageDescriptionThirteen
 {
     position: relative;
-    top: 30%;
+    top: 28.4%;
     left: 1.7%;
     width: 13%;
 }
@@ -305,7 +305,7 @@
 #dhakaImageDescriptionSixteen
 {
     position: relative;
-    top: 9%;
+    top: 7%;
     left: 1.7%;
     width: 12%;
 }
@@ -313,7 +313,7 @@
 #dhakaImageDescriptionSeventeen
 {
     position: relative;
-    top: 0%;
+    top: -5.2%;
     left: 1.7%;
     width: 12%;
 }
@@ -321,7 +321,7 @@
 #dhakaImageDescriptionEighteen
 {
     position: relative;
-    top: -24%;
+    top: -20%;
     left: 1.7%;
     width: 12%;
 }
@@ -350,6 +350,14 @@
     width: 15%;
 }
 
+#dhakaImageDescriptionTwentyTwo
+{
+    position: relative;
+    top: 45%;
+    left: 8.3%;
+    width: 12%;
+}
+
 .leftQuoteDhaka
 {
     position: relative;
@@ -372,6 +380,14 @@
     position: relative;
     top: 25%;
     left: 1.7%;
+    width: 22%; 
+}
+
+.leftQuoteDhakaFour
+{
+    position: relative;
+    top: 22%;
+    left: 8.3%;
     width: 22%; 
 }
 
@@ -400,7 +416,7 @@
 {
     position: relative;
     left: -49.5%;
-    top: 13%;
+    top: 13.5%;
 }
 
 #dhakaGridFive
@@ -413,7 +429,7 @@
 #dhakaGridSix
 {
     position: relative;
-    left: -32.7%;
+    left: -32.85%;
     top: 21%;
 }
 
