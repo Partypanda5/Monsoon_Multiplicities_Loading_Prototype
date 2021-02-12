@@ -20,7 +20,7 @@ var contentText = document.querySelector('.contentText');
 var cityTitle = document.querySelector('.cityTitle');
 var leftHandHeadings = document.querySelector('.headings');
 
-var imageInCorner = document.querySelector('#imageInCorner');
+//var imageInCorner = document.querySelector('#imageInCorner');
 var airSubchapter = document.querySelector('#airFocus');
 var atmosphereSubchapter = document.querySelector('#atmosphereFocus');
 var groundwaterSubchapter = document.querySelector('#groundwaterFocus');
@@ -211,115 +211,115 @@ function toggleAccordion()
   $(this).addClass('active');
 }
 
-dragonSubchapter.addEventListener('mouseover', function() 
-{
-  imageInCorner.src = 'assets/images/bottomRightImages/Dragonfly.jpg';
-});
+// dragonSubchapter.addEventListener('mouseover', function() 
+// {
+//   imageInCorner.src = 'assets/images/bottomRightImages/Dragonfly.jpg';
+// });
 
-hilsaSubchapter.addEventListener('mouseover', function() 
-{
-  imageInCorner.src = 'assets/images/bottomRightImages/Hilsa-fish2.jpg';
-});
+// hilsaSubchapter.addEventListener('mouseover', function() 
+// {
+//   imageInCorner.src = 'assets/images/bottomRightImages/Hilsa-fish2.jpg';
+// });
 
-snakesSubchapter.addEventListener('mouseover', function() 
-{
-  imageInCorner.src = 'assets/images/bottomRightImages/snakes.gif';
-});
+// snakesSubchapter.addEventListener('mouseover', function() 
+// {
+//   imageInCorner.src = 'assets/images/bottomRightImages/snakes.gif';
+// });
 
-weedsSubchapter.addEventListener('mouseover', function() 
-{
-  imageInCorner.src = 'assets/images/bottomRightImages/weed.jpg';
-});
+// weedsSubchapter.addEventListener('mouseover', function() 
+// {
+//   imageInCorner.src = 'assets/images/bottomRightImages/weed.jpg';
+// });
 
-airSubchapter.addEventListener('mouseover', function() 
-{
-  imageInCorner.src = 'assets/images/bottomRightImages/air.gif';
-});
+// airSubchapter.addEventListener('mouseover', function() 
+// {
+//   imageInCorner.src = 'assets/images/bottomRightImages/air.gif';
+// });
 
-atmosphereSubchapter.addEventListener('mouseover', function() 
-{
-  imageInCorner.src = 'assets/images/bottomRightImages/atmosphere3.gif';
-});
+// atmosphereSubchapter.addEventListener('mouseover', function() 
+// {
+//   imageInCorner.src = 'assets/images/bottomRightImages/atmosphere3.gif';
+// });
 
-groundwaterSubchapter.addEventListener('mouseover', function() 
-{
-  imageInCorner.src = 'assets/images/bottomRightImages/Groundwater.jpg';
-});
+// groundwaterSubchapter.addEventListener('mouseover', function() 
+// {
+//   imageInCorner.src = 'assets/images/bottomRightImages/Groundwater.jpg';
+// });
 
-oceanSubchapter.addEventListener('mouseover', function() 
-{
-  imageInCorner.src = 'assets/images/bottomRightImages/OCEAN.jpg';
-});
+// oceanSubchapter.addEventListener('mouseover', function() 
+// {
+//   imageInCorner.src = 'assets/images/bottomRightImages/OCEAN.jpg';
+// });
 
-saltSubchapter.addEventListener('mouseover', function() 
-{
-  imageInCorner.src = 'assets/images/bottomRightImages/salt.jpg';
-});
+// saltSubchapter.addEventListener('mouseover', function() 
+// {
+//   imageInCorner.src = 'assets/images/bottomRightImages/salt.jpg';
+// });
 
-sedimentSubchapter.addEventListener('mouseover', function() 
-{
-  imageInCorner.src = 'assets/images/bottomRightImages/sediment2.gif';
-});
+// sedimentSubchapter.addEventListener('mouseover', function() 
+// {
+//   imageInCorner.src = 'assets/images/bottomRightImages/sediment2.gif';
+// });
 
-khalsSubchapter.addEventListener('mouseover', function() 
-{
-  imageInCorner.src = 'assets/images/bottomRightImages/Khals.jpg';
-});
+// khalsSubchapter.addEventListener('mouseover', function() 
+// {
+//   imageInCorner.src = 'assets/images/bottomRightImages/Khals.jpg';
+// });
 
-tankSubchapter.addEventListener('mouseover', function() 
-{
-  imageInCorner.src = 'assets/images/bottomRightImages/Tanks2.jpg';
-});
+// tankSubchapter.addEventListener('mouseover', function() 
+// {
+//   imageInCorner.src = 'assets/images/bottomRightImages/Tanks2.jpg';
+// });
 
-pipesPotsSubchapter.addEventListener('mouseover', function() 
-{
-  imageInCorner.src = 'assets/images/bottomRightImages/PipesPots.jpg';
-});
+// pipesPotsSubchapter.addEventListener('mouseover', function() 
+// {
+//   imageInCorner.src = 'assets/images/bottomRightImages/PipesPots.jpg';
+// });
 
-timeSubchapter.addEventListener('mouseover', function() 
-{
-  imageInCorner.src = 'assets/images/bottomRightImages/time.gif';
-});
+// timeSubchapter.addEventListener('mouseover', function() 
+// {
+//   imageInCorner.src = 'assets/images/bottomRightImages/time.gif';
+// });
 
-pedagogySubchapter.addEventListener('mouseover', function() 
-{
-  imageInCorner.src = 'assets/images/bottomRightImages/pedagogy2.gif';
-});
+// pedagogySubchapter.addEventListener('mouseover', function() 
+// {
+//   imageInCorner.src = 'assets/images/bottomRightImages/pedagogy2.gif';
+// });
 
-spaceSubchapter.addEventListener('mouseover', function() 
-{
-  imageInCorner.src = 'assets/images/bottomRightImages/space.gif';
-});
+// spaceSubchapter.addEventListener('mouseover', function() 
+// {
+//   imageInCorner.src = 'assets/images/bottomRightImages/space.gif';
+// });
 
-drawingSubchapter.addEventListener('mouseover', function() 
-{
-  imageInCorner.src = 'assets/images/bottomRightImages/Drawing.jpg';
-});
+// drawingSubchapter.addEventListener('mouseover', function() 
+// {
+//   imageInCorner.src = 'assets/images/bottomRightImages/Drawing.jpg';
+// });
 
-ethnographySubchapter.addEventListener('mouseover', function() 
-{
-  imageInCorner.src = 'assets/images/bottomRightImages/ethnography.gif';
-});
+// ethnographySubchapter.addEventListener('mouseover', function() 
+// {
+//   imageInCorner.src = 'assets/images/bottomRightImages/ethnography.gif';
+// });
 
-chennaiSubchapter.addEventListener('mouseover', function() 
-{
-  imageInCorner.src = 'assets/images/bottomRightImages/chennai.gif';
-});
+// chennaiSubchapter.addEventListener('mouseover', function() 
+// {
+//   imageInCorner.src = 'assets/images/bottomRightImages/chennai.gif';
+// });
 
-dhakaSubchapter.addEventListener('mouseover', function() 
-{
-  imageInCorner.src = 'assets/images/bottomRightImages/dhaka.gif';
-});
+// dhakaSubchapter.addEventListener('mouseover', function() 
+// {
+//   imageInCorner.src = 'assets/images/bottomRightImages/dhaka.gif';
+// });
 
-londonSubchapter.addEventListener('mouseover', function() 
-{
-  imageInCorner.src = 'assets/images/bottomRightImages/London.jpg';
-});
+// londonSubchapter.addEventListener('mouseover', function() 
+// {
+//   imageInCorner.src = 'assets/images/bottomRightImages/London.jpg';
+// });
 
-yangonSubchapter.addEventListener('mouseover', function() 
-{
-  imageInCorner.src = 'assets/images/bottomRightImages/Yangon.gif';
-});
+// yangonSubchapter.addEventListener('mouseover', function() 
+// {
+//   imageInCorner.src = 'assets/images/bottomRightImages/Yangon.gif';
+// });
 
 Array.from(groupedFocusedSubtitles).forEach(subtitle => {
   subtitle.addEventListener('click', function(event) 
@@ -385,8 +385,8 @@ dragonSubchapter.addEventListener('click', function()
   setTabHeadingStyling(dragonflySmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(dragonSubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+  //imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -397,7 +397,7 @@ dragonSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+    //imageInCorner.style.display = "block";
   }, 5000);
 
 });
@@ -408,8 +408,8 @@ pedagogySubchapter.addEventListener('click', function()
   setTabHeadingStyling(pedagogySmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(pedagogySubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+  //imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -429,8 +429,8 @@ yangonSubchapter.addEventListener('click', function()
   setTabHeadingStyling(yangonSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(yangonSubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+  //imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -441,7 +441,7 @@ yangonSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+    //imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -451,8 +451,8 @@ hilsaSubchapter.addEventListener('click', function()
   setTabHeadingStyling(hilsaSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(hilsaSubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+  //imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -463,7 +463,7 @@ hilsaSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+    //imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -472,8 +472,8 @@ snakesSubchapter.addEventListener('click', function()
   setTabHeadingStyling(snakesSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(snakesSubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+ // imageInCorner.style.display = "none";
+  //imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
   
@@ -484,7 +484,7 @@ snakesSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+    //imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -493,8 +493,8 @@ saltSubchapter.addEventListener('click', function()
   setTabHeadingStyling(saltSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(saltSubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+ // imageInCorner.style.display = "none";
+  //imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
   
@@ -506,15 +506,15 @@ saltSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+    //imageInCorner.style.display = "block";
   }, 5000);
 });
 
 dhakaSubchapter.addEventListener('click', function() 
 {
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+ // imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
   setTabHeadingStyling(dhakaSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(dhakaSubchapter, bigHeadingArray);
@@ -529,7 +529,7 @@ dhakaSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+   // imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -538,8 +538,8 @@ khalsSubchapter.addEventListener('click', function()
   setTabHeadingStyling(khalsSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(khalsSubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+  //imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -550,7 +550,7 @@ khalsSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+    //imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -559,8 +559,8 @@ timeSubchapter.addEventListener('click', function()
   setTabHeadingStyling(timeSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(timeSubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+  //imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -572,7 +572,7 @@ timeSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+   // imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -581,8 +581,8 @@ sedimentSubchapter.addEventListener('click', function()
   setTabHeadingStyling(sedimentSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(sedimentSubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+  //imageInCorner.src = '';
 
 
   $('#backgroundVideo').fadeOut(2000);
@@ -594,7 +594,7 @@ sedimentSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+    //imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -604,8 +604,8 @@ airSubchapter.addEventListener('click', function()
   setTabHeadingStyling(airSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(airSubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+  //imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -617,7 +617,7 @@ airSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+   // imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -626,8 +626,8 @@ pipesPotsSubchapter.addEventListener('click', function()
   setTabHeadingStyling(potsSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(pipesPotsSubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+  //imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -638,7 +638,7 @@ pipesPotsSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+   // imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -648,8 +648,8 @@ weedsSubchapter.addEventListener('click', function()
   setTabHeadingStyling(weedsSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(weedsSubchapter, bigHeadingArray);
   
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+  //imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -661,7 +661,7 @@ weedsSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+   // imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -670,8 +670,8 @@ londonSubchapter.addEventListener('click', function()
   setTabHeadingStyling(londonSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(londonSubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+ // imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -682,7 +682,7 @@ londonSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+   // imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -692,8 +692,8 @@ tankSubchapter.addEventListener('click', function()
   setTabHeadingStyling(tanksSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(tankSubchapter, bigHeadingArray);
   
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+//  imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -705,7 +705,7 @@ tankSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+  //  imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -714,8 +714,8 @@ groundwaterSubchapter.addEventListener('click', function()
   setTabHeadingStyling(groundwaterSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(groundwaterSubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+ // imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -727,7 +727,7 @@ groundwaterSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+   // imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -736,8 +736,8 @@ ethnographySubchapter.addEventListener('click', function()
   setTabHeadingStyling(ethnographySmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(ethnographySubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+ // imageInCorner.style.display = "none";
+//  imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -748,7 +748,7 @@ ethnographySubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+  //  imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -757,8 +757,8 @@ atmosphereSubchapter.addEventListener('click', function()
   setTabHeadingStyling(atmosphereSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(atmosphereSubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+ // imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -769,7 +769,7 @@ atmosphereSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+    //imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -779,8 +779,8 @@ spaceSubchapter.addEventListener('click', function()
   setTabHeadingStyling(spaceSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(spaceSubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+//  imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
 
   $('#backgroundVideo').fadeOut(2000);
@@ -793,7 +793,7 @@ spaceSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+ //   imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -803,8 +803,8 @@ chennaiSubchapter.addEventListener('click', function()
   setTabHeadingStyling(chennaiSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(chennaiSubchapter, bigHeadingArray);
   
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+//  imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -815,7 +815,7 @@ chennaiSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+   // imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -825,8 +825,8 @@ drawingSubchapter.addEventListener('click', function()
   setTabHeadingStyling(drawingSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(drawingSubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+ // imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -837,7 +837,7 @@ drawingSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+   // imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -846,8 +846,8 @@ oceanSubchapter.addEventListener('click', function()
   setTabHeadingStyling(drawingSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(drawingSubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+//  imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -858,7 +858,7 @@ oceanSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+  //  imageInCorner.style.display = "block";
   }, 5000);
 });
 

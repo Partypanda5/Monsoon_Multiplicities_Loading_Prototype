@@ -1,36 +1,222 @@
-@media (min-width: 1000px) and (max-width: 1399px)
-{
-    /* #grid
-    {
-        bottom: 192px;
-    } */
-    .cityTitle
-    {
-        top: 13.5vh;
-        left: -3.4vw;
-        font-size: 16px;
+/* -------------------------- Katie's dope resposive code ---------------------------------*/
+/*--- left panel , right accordian ---*/
+/* boss lady screen size - 1280x582, common - 1280x720, 1280x800*/
+@media(max-width: 1299px) {
+    h2 {
+        font-size: 12px;
     }
-
-    .navbarTitles 
-    {
+    .headings {
+        width: 3.2vw;
+    }
+    .cityTitle {
+        font-size: 12px;
+        top: 18.5vh;
+        left: -8px;
+    }
+    #Interlocutors {
+        top: 10vh;
+        right: 0.9vw;
+    }
+    .tabSubtitles {
+        font-size: 12px;
+    }
+    .subtitleContainer {
+        top: 66vh;
+        right: 5.7vw;
+    }
+    li {
+        padding: 18px;
+        width: 40px;
+        border-left: 2px solid black;
+    }
+    li.active {
+        width: 255px;
+    }
+    #Infrastructure {
+        top: 15.5vh;
+        right: 45px;
+    }
+    #subtitleContainerTwo {
+        right: 10.85vw;
+        top: 64vh;
+    }
+    #Framings {
+        top: 7.9vh;
+        left: -1px;
+    }
+    #subtitleContainerThree {
+        right: 3.9vw;
+        top: 68vh;
+    }
+    #Matters {
+        position: relative;
+        top: 7.2vh;
+        left: 3px;
+    }
+    #subtitleContainerFour {
+        right: 3.2vw;
+        top: 71.5vh;
+    }
+    #UrbanAssemblages {
+        position: relative;
+        top: 12.8vh;
+        right: 30px;
+    }
+    #subtitleContainerFive {
+        right: 8.38vw;
+        top: 61.5vh;
+    }
+    .focusedSingleSubtitle {
+        font-size: 23px;
+        line-height: 25px;
+    }
+    #focusedSubtitlesOne {
+        bottom: 24.5vh;
+        left: -3.7vw;
+        text-align: left;
+    }
+    #focusedSubtitlesTwo {
+        bottom: 28.8vh;
+        left: -9.2vw;
+        text-align: left;
+    }
+    #focusedSubtitlesThree {
+        left: -2.1vw;
+        bottom: 24.5vh;
+        text-align: left;
+    }
+    #focusedSubtitlesFour {
+        left: -1.5vw;
+        bottom: 20.2vh;
+        text-align: left;
+    }
+    #focusedSubtitlesFive {
+        left: -6.8vw;
+        bottom: 28.8vh;
+        text-align: left;
+    }
+    /*--- Page Navigation & general content ---*/	
+    #navbarTitlesContainer {
+        top: 51%;
+    }
+    .navbarTitles, #rightSideQuote, .rightSideTextMM {
         font-size: 22px;
-        line-height: 23px;
+        line-height: 25px;
     }
-
-    #navbarTitlesContainer 
-    {
-        top: 30%;
+    #about {
+        height: 31%;
     }
-
-    #rightSideQuote {
-        font-size: 20px;
-        line-height: 21px;
+    #RightTextContainerMM {
+        top: 8.5%;
     }
-
-
-    .rightSideText
-    {
+    .MMHeading, .CollabTitle {
         font-size: 22px;
-        line-height: 23px;
     }
-} 
+    .CollabTitle {
+        line-height: 20px;
+    }
+    .rightSideSmallerText {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    #events {
+        height: 57%;
+    }
+    #residency {
+        height: 12.5%;
+    }
+    #glossarySection {
+        height: 218.5%;
+    }
+    .rightSideSmallerSmallerText {
+        font-size: 10.5px;
+        line-height: 13px;
+    }
+    #landingOne {
+        left: -2.4%;
+    }
+    .middleLarge {
+        width: 31.6vw;
+    }
+    #collaboratorsSection {
+        height: 166.9%;
+    }
+    #acknowledgementSection {
+        height: 37%;
+    }
+    #assemblagesSection {
+        height: 12.6%;
+    }
+    .references {
+        font-size: 10px;
+        line-height: 13px;
+    }
+    /*---Subpage applicable tags---*/
+    .mainTitle {
+        top: 32%;
+        font-size: 22px;
+        line-height: 25px
+    }
+    .headingTitle {
+        right: 0;
+        font-size: 12px;
+        top: 7.4vh;
+    }
+    .headingItem {
+        font-size: 11px;
+    }
+    #eventsNav, #residencyNav, #glossaryNav, #collaboratorsNav, #acknowledgementsNav, #monsoonAssemblagesNav {
+        left: 0.1vw;
+    }
+    .copyText {
+        font-size: 13px;
+        line-height: 17px;
+        top: 32.4%;
+    }
+    .TemplateImageDescription {
+        font-size: 9px;
+        line-height: 12px;
+    }
+    }
+    /* common - 1366×768 */
+    @media (min-width: 1300px) and (max-width: 1399px) {
+    h2 {
+        font-size: 13px;
+    }
+        
+        .headings {
+        width: 3.2vw;
+        }
+        
+        .cityTitle {
+        top: 14.8vh;
+        left: -5.5px;
+        font-size: 13px;
+        }
+        .tabSubtitles {
+        font-size: 13px;	
+        }
+    }
+    /* common - 1440×900 */
+    @media (min-width: 1400px) and (max-width: 1499px) {
+        
+    }
+    /* common - 1536×731*/
+    @media (min-width: 1500px) and (max-width: 1599px) {
+        
+    }
+    /* common - 1680×1050, 1600×900 */
+    @media (min-width: 1600px) and (max-width: 1699px) {
+        
+    }
+    @media (min-width: 1700px) and (max-width: 1799px) {
+        
+    }
+    @media (min-width: 1800px) and (max-width: 1899px) {
+        
+    }
+    /* common - 2560×1440*/
+    @media (min-width: 2000px){
+        
+    }
+    

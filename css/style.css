@@ -20,7 +20,7 @@ html
 
 body 
 {
-    font-family: 'Lato';
+    font-family: 'Roboto', sans-serif; /* changed from Lato to Roboto*/
     -webkit-font-smoothing: antialiased;
     -moz-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -178,7 +178,9 @@ video
 .cityTitle
 {
     transform: rotate(90deg);
+	-moz-transform-origin: 50%  53%; /* katie issue*/
     -webkit-transform-origin: 50%  53%;
+	transform-origin: 50%  53%;
     white-space: nowrap;
     position: fixed;
     top: 13vh;
@@ -240,7 +242,7 @@ video
     height: 3px;
     left: 50%;
     position: absolute;
-    background: black;
+    background-color: black;/* katie changes code here*/
     transition: width 0.3s ease 0s, left 0.3s ease 0s;
     width: 0;
   }
@@ -809,7 +811,7 @@ video:focus { outline:none; }
     left: 35.5%;
     width: 20%;
     text-align: left;
-    position: absolute;
+    /*position: absolute;*//* Katie - issue here*/
     font-size: 20px;
     font-weight: 400;
     line-height: 25px;
@@ -973,7 +975,7 @@ video:focus { outline:none; }
     left: 35.2%;
     width: 25%;
     text-align: left;
-    position: absolute;
+    /*position: absolute;*//* Katie - issue here*/
     font-size: 20px;
     font-weight: 400;
     line-height: 25px;
@@ -987,7 +989,7 @@ video:focus { outline:none; }
     left: 35.5%;
     width: 29%;
     text-align: left;
-    position: absolute;
+    /*position: absolute;*/ /* Katie - issue here*/
     font-size: 34px;
     font-weight: 400;
     line-height: 38px;
@@ -1001,7 +1003,7 @@ video:focus { outline:none; }
     left: 5%;
     width: 30%;
     text-align: left;
-    position: absolute;
+    /*position: absolute;*/ /* Katie - issue here*/
     font-size: 20px;
     font-weight: 400;
     line-height: 25px;
