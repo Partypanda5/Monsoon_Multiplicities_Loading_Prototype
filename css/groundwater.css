@@ -295,3 +295,174 @@
     height: auto;
     pointer-events: none;
 }
+
+@media(max-width: 1299px) 
+{
+
+    #groundwaterSubTwo 
+    {
+        top: -35vh;
+    }
+
+    #groundwaterSubThree 
+    {
+        top: -40vh;
+    }
+
+    #groundwaterSubFour 
+    {
+        top: 28vh;
+    }
+
+    #groundwaterSubFive 
+    {
+        top: 60vh;
+    }
+
+    #groundwaterSubSix 
+    {
+        top: 55vh;
+    }
+
+    #groundwaterSubSeven 
+    {
+        top: 15vh;
+    }
+
+    #groundwaterSubEight 
+    {
+        top: 46vh;
+        height: 40vh;
+    }
+
+    #groundwaterOne 
+    {
+        top: 22%;
+    }
+
+    #groundwaterTwo 
+    {
+        top: 52%;
+        left: 34.45%;
+    }
+
+    #groundwaterThree 
+    {
+        top: 0%;
+        left: -33%;
+    }
+
+    #groundwaterFour 
+    {
+        top: -19%;
+        left: 34.7%;
+    }
+
+    #groundwaterFive 
+    {
+        top: 30%;
+        left: 0.9%;
+    }
+
+    #imagewaterThree 
+    {
+        top: 27%;
+        left: 7.5%;
+    }
+
+    #groundwaterSix 
+    {
+        top: 31%;
+        left: -32.7%;
+    }
+
+    .copyTextGroundWaterOne 
+    {
+        top: 7%;
+    }
+
+    .copyTextGroundWaterTwo 
+    {
+        top: 30%;
+        left: 8.3%;
+    }
+
+    .copyTextGroundWaterThree 
+    {
+        top: -35%;
+        left: 35.4%;
+    }
+
+    #groundwaterImageDescriptionFour 
+    {
+        top: 48%;
+        left: 8.3%;
+    }
+
+    #groundwaterImageDescriptionFive 
+    {
+        top: -27%;
+        left: 8.3%;
+    }
+
+    #groundwaterImageDescriptionSix 
+    {
+        top: 5%;
+        left: 8.3%;
+    }
+
+    #groundwaterImageDescriptionSeven 
+    {
+        top: 7%;
+        left: 8.3%;
+        padding-bottom: 5vh;
+    }
+
+    #groundwaterGridOne 
+    {
+        top: -30%;
+        left: -50.4%;
+    }
+
+    #groundwaterGridTwo 
+    {
+        top: 2%;
+        left: -17.1%;
+    }
+
+    #groundwaterGridThree 
+    {
+        top: -63%;
+        left: -44.1%;
+    }
+
+    #groundwaterGridFour 
+    {
+        top: 46%;
+        left: -44.1%;
+    }
+
+    #groundwaterGridFive 
+    {
+        top: -36%;
+        left: -17.1%;
+    }
+
+    #groundwaterGridSix 
+    {
+        top: 32%;
+        left: -44.1%;
+    }
+
+    #groundwaterGridSeven 
+    {
+        top: -60%;
+        left: -44.2%;
+    }
+
+    #groundwaterImageDescriptionTwo 
+    {
+        top: 3%;
+        left: 35.3%;
+    }
+}

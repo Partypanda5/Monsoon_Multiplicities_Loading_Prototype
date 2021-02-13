@@ -327,3 +327,224 @@
     height: auto;
     pointer-events: none;
 }
+
+@media(max-width: 1299px) 
+{
+
+    #airSubTwo
+    {
+        top: -20vh;
+    }
+
+    #airSubThree 
+    {
+        top: -55vh;
+    }
+
+    #airSubFour 
+    {
+        top: -75vh;
+    }
+
+    #airSubFive 
+    {
+        top: -140vh;
+    }
+
+    #airSubSix 
+    {
+        top: -170vh;
+    }
+
+    #airSubSeven 
+    {
+        top: -110vh;
+    }
+
+    #airSubEight 
+    {
+        top: -25vh;
+    }
+
+    #airSubNine 
+    {
+        top: -50vh;
+    }
+
+    #airSubTen 
+    {
+        top: 25vh;
+    }
+
+    #airSubEleven
+    {
+        top: -45vh;
+    }
+
+    #airSubTwelve 
+    {
+        top: -58vh;
+        height: 30vh;
+    }
+
+    #airVideoOne 
+    {
+        top: 42%;
+        left: -32.9%;
+    }
+
+    #airVideoTwo 
+    {
+        top: 57%;
+        left: -32.9%;
+    }
+
+    #airVideoThree 
+    {
+        top: 50%;
+        left: -32.9%;
+    }
+
+    #airVideoFour 
+    {
+        top: 53%;
+        left: -32.9%;
+    }
+
+    #airOne 
+    { 
+        top: 30%;
+        left: 34.5%;
+    }
+
+    #airTwo 
+    {
+        top: -15%;
+        left: 30%;
+    }
+
+    #airThree 
+    {
+        top: 35%;
+        left: 0.8%;
+    }
+
+    #airFour 
+    {
+        top: 52%;
+        left: -32.9%;
+    }
+
+    #airFive 
+    {
+        top: 25%;
+        left: 34.45%;
+    }
+
+    #airSix 
+    {
+        top: 35%;
+        left: 0.1%;
+    }
+
+    #airSeven 
+    {
+        top: 50%;
+        left: -32.9%;
+    }
+
+    #airEight 
+    {
+        top: -40%;
+        left: 34.4%;
+    }    
+
+    #airNine 
+    {
+        top: 35%;
+        left: 0.9%;
+    }
+
+    #airTen 
+    {
+        top: 30%;
+        left: 0.9%;
+    }
+
+    #airEleven 
+    {
+        top: 23%;
+        left: 34.45%;
+    }
+
+    #airTwelve 
+    {
+        top: 83%;
+        left: -49.7%;
+    }
+
+    #airImageDescriptionOne 
+    {
+        top: -7%;
+        left: 35.3%;
+    }
+
+    #airImageDescriptionTwo 
+    {
+        top: 52%;
+    }
+
+    #airImageDescriptionThree 
+    {
+        top: 32%;
+        left: 35.3%;
+    }
+
+    #airImageDescriptionFour 
+    {
+        top: 45%;
+        left: 35.3%;
+    }
+
+    #airImageDescriptionFive 
+    {
+        top: 27%;
+        left: 35.3%;
+    }
+
+    #airImageDescriptionSix 
+    {
+        top: 80%;
+        left: 35.3%;
+    }
+
+    #airImageDescriptionSeven 
+    {
+        top: 48%;
+        left: 35.3%;
+    }
+
+    #airImageDescriptionEight 
+    {
+        top: 20%;
+        left: 35.3%;
+    }
+
+    #airImageDescriptionNine 
+    {
+        top: 31.5%;
+        left: 35.3%;
+    }
+
+    #airImageDescriptionEleven 
+    {
+        top: 23%;
+        left: 35.3%;
+    }
+
+    #airGridOne 
+    {
+        top: 27%;
+        left: -50.8%;
+    }
+}

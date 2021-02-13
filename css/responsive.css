@@ -10,18 +10,14 @@
     }
     .cityTitle {
         font-size: 12px;
-        top: 18.5vh;
+            top: 15.8vh;
         left: -8px;
-    }
-    #Interlocutors {
-        top: 10vh;
-        right: 0.9vw;
     }
     .tabSubtitles {
         font-size: 12px;
     }
     .subtitleContainer {
-        top: 66vh;
+        top: 48.5vh;
         right: 5.7vw;
     }
     li {
@@ -32,72 +28,76 @@
     li.active {
         width: 255px;
     }
+	    #Interlocutors {
+        top: 7.1vh;
+        right: 0.9vw;
+    }
     #Infrastructure {
-        top: 15.5vh;
+        top: 12.7vh;
         right: 45px;
     }
     #subtitleContainerTwo {
         right: 10.85vw;
-        top: 64vh;
+        top: 46.9vh;
     }
     #Framings {
-        top: 7.9vh;
+        top: 5vh;
         left: -1px;
     }
     #subtitleContainerThree {
         right: 3.9vw;
-        top: 68vh;
+        top: 50.7vh;
     }
     #Matters {
         position: relative;
-        top: 7.2vh;
+        top: 4.35vh;
         left: 3px;
     }
     #subtitleContainerFour {
         right: 3.2vw;
-        top: 71.5vh;
+        top: 54.2vh;
     }
     #UrbanAssemblages {
         position: relative;
-        top: 12.8vh;
+        top: 10.05vh;
         right: 30px;
     }
     #subtitleContainerFive {
         right: 8.38vw;
-        top: 61.5vh;
+        top: 44.4vh;
     }
     .focusedSingleSubtitle {
         font-size: 23px;
         line-height: 25px;
     }
     #focusedSubtitlesOne {
-        bottom: 24.5vh;
+        bottom: 42vh;
         left: -3.7vw;
         text-align: left;
     }
     #focusedSubtitlesTwo {
-        bottom: 28.8vh;
+        bottom: 46.3vh;
         left: -9.2vw;
         text-align: left;
     }
     #focusedSubtitlesThree {
         left: -2.1vw;
-        bottom: 24.5vh;
+        bottom: 42vh;
         text-align: left;
     }
     #focusedSubtitlesFour {
         left: -1.5vw;
-        bottom: 20.2vh;
+        bottom: 37.8vh;
         text-align: left;
     }
     #focusedSubtitlesFive {
         left: -6.8vw;
-        bottom: 28.8vh;
+        bottom: 46.2vh;
         text-align: left;
     }
     /*--- Page Navigation & general content ---*/	
     #navbarTitlesContainer {
-        top: 51%;
+        top: 33.6%;
     }
     .navbarTitles, #rightSideQuote, .rightSideTextMM {
         font-size: 22px;
@@ -107,7 +107,7 @@
         height: 31%;
     }
     #RightTextContainerMM {
-        top: 8.5%;
+        top: 5.35%;
     }
     .MMHeading, .CollabTitle {
         font-size: 22px;
@@ -120,13 +120,13 @@
         line-height: 18px;
     }
     #events {
-        height: 57%;
+        height: 55.5%;
     }
     #residency {
         height: 12.5%;
     }
     #glossarySection {
-        height: 218.5%;
+        height: 219%;
     }
     .rightSideSmallerSmallerText {
         font-size: 10.5px;
@@ -153,25 +153,71 @@
     }
     /*---Subpage applicable tags---*/
     .mainTitle {
-        top: 32%;
+        top: 20.6%;;
         font-size: 22px;
-        line-height: 25px
+        line-height: 25px;
     }
     .headingTitle {
         right: 0;
         font-size: 12px;
-        top: 7.4vh;
+        top: 4.7vh;
     }
     .headingItem {
-        font-size: 11px;
+        font-size: 9.5px;
     }
+
+    .copyTextLeft{
+        font-size: 13px;
+        line-height: 17px;
+    }
+
+    .mainTitleRight {
+        font-size: 23px;
+        line-height: 25px;
+    }
+
+    .copyTextLarger{
+        font-size: 23px;
+        line-height: 25px;
+        top: 20%;
+    }
+
+    .copyTextBigger{
+        font-size: 23px;
+        line-height: 25px;
+        top: 20%;
+    }
+
+	
+#monsoonAssemblagesNav {
+    top: 59.5vh;
+}
+#acknowledgementsNav {
+    top: 48vh;
+}
+
+#collaboratorsNav {
+    top: 40.9vh;
+}
+
+#glossaryNav {
+    top: 37.5vh;
+}
+
+#residencyNav {
+    top: 33vh;
+}
+#eventsNav {
+    top: 31vh;
+}
+
     #eventsNav, #residencyNav, #glossaryNav, #collaboratorsNav, #acknowledgementsNav, #monsoonAssemblagesNav {
         left: 0.1vw;
     }
     .copyText {
         font-size: 13px;
         line-height: 17px;
-        top: 32.4%;
+        top: 21%;
     }
     .TemplateImageDescription {
         font-size: 9px;
@@ -219,4 +265,3 @@
     @media (min-width: 2000px){
         
     }
-    

@@ -259,7 +259,7 @@
 
 @media (max-width: 1299px) {
 .copyTextSpaceThree {
-	top: 32.5% !important;
+    top: 20.7% !important;
 }
 #spaceOne {
 	top: 35%;
@@ -268,88 +268,88 @@
 	top: 20% !important;
 }
 #spaceSubTwo {
-	top: -2vh;
+    top: 4vh;
 }
 .copyTextSpace {
 	top: 43% !important;
 }
 #spaceGridOne {
-	left: -44.3%;
-	top: 40%;
+    left: -44.3%;
+    top: 29%;
 }
 #spaceImageDescriptionSeven {
 	top: 32%;
 }
 #SpaceVideoOne {
-	top: 30%;
-	height: 54vh;
+    top: 15%;
 }
 #spaceSubThree {
 	top: -17vh;
 }
 #SpaceVideoThree {
-	top: 82.5%;
-	height: 54vh;
+    top: 65%;
+    height: 54vh;
 }
 #SpaceVideoTwo {
-	top: 107%;
-	height: 54vh;
+    top: 95%;
+    height: 54vh;
 }
 #spaceSubFour {
 	top: 12vh;
 }
 .copyTextSpaceTwo {
-	top: 42% !important;
+    top: 30% !important;
 }
 #spaceGridTwo {
-	top: 44%;
-	left: -44.3%;
+    top: 35%;
+    left: -44.3%;
 }
 #spaceThree {
-	top: 11%;
+    top: -2%;
 }
 #spaceSubFive {
 	top: -15vh;
 }
 #spaceGridThree {
-	position: relative;
-	top: 48%;
-	left: -44.4%;
+    position: relative;
+    top: 35%;
+    left: -44.4%;
 }
 #SpaceVideoFour {
-	top: -5%;
-	height: 54vh;
+    top: -21%;
+    height: 54vh;
 }
 #spaceImageDescriptionFour {
-	top: 1%;
+    top: -12%;
 }
 #spaceSubSix {
-	top: 8vh;
+    top: 4vh;
 }
+
 #SpaceVideoFive {
-	left: 17.3%;
-	top: 70%;
-	height: 54vh;
+    left: 17.3%;
+    top: 55%;
+    height: 54vh;
 }
 #SpaceVideoSix {
-	top: 102%;
-	height: 54vh;
+    top: 85%;
+    height: 54vh;
 }
 #spaceSubSeven {
-	top: 43vh;
+    top: 30vh;
 }
 #SpaceVideoSeven {
-	top: 88.5%;
-	height: 54vh;
+    top: 70%;
+    height: 54vh;
 }
 #SpaceVideoEight {
-	top: 120%;
-	height: 54vh;
+    top: 102%;
+    height: 54vh;
 }
 #spaceImageDescriptionSix {
-	top: 116%;
+    top: 99%;
 }
 #spaceSubEight {
-	top: 140vh;
+    top: 100vh;
 }
 }

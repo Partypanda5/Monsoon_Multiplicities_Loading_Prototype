@@ -99,7 +99,7 @@
 {
     position: relative;
     top: 13%;
-    left: 7.9%;
+    left: 7.5%;
 }
 
 #tanksEight
@@ -224,7 +224,7 @@
 #tanksGridSix
 {
     position: relative;
-    left: -39.2%;
+    left: -39%;
     top: 13%;
 }
 
@@ -309,6 +309,7 @@
     top: 8%;
     left: 8.3%;
     width: 20%;
+    padding-bottom: 5vh;
 }
 
 
@@ -404,4 +405,241 @@
     margin-top: 3vh;
     height: auto;
     pointer-events: none;
+}
+
+/* -------------------------- Andy's dope resposive code ---------------------------------*/
+
+@media(max-width: 1299px) 
+{
+    #tanksSubTwo 
+    {
+        top: -10vh;
+    }
+
+    #tanksSubThree 
+    {
+        top: 75vh;
+    }
+
+    #tanksSubFour 
+    {
+        top: 235vh;
+    }
+
+    #tanksSubFive 
+    {
+        top: 350vh;
+    }
+
+    #tanksSubSeven 
+    {
+        top: 485vh;
+    }
+
+    #tanksSubEight 
+    {
+        top: 580vh;
+    }
+
+    #tanksSubNine 
+    {
+        top: 680vh;
+        height: 65vh;
+    }
+
+    .copyTanksOne 
+    {
+        top: -10%;
+    }
+
+    .copyTanksTwo 
+    {
+        top: -13.5%;
+        left: 35.3%;
+    }
+
+    .copyTanksThree 
+    {
+        top: -16%;
+        left: 35.3%;
+    }
+
+    .copyTanksFour 
+    {
+        top: -40%;
+        left: 35.3%;
+    }
+
+    #tanksImageDescriptionOne 
+    {
+        top: 12%;
+    }
+
+    #tanksImageDescriptionTwo 
+    {
+        top: 14%;
+        left: 8.3%;
+    }
+
+    #tanksImageDescriptionThree 
+    {
+        top: 10%;
+        left: 8.3%;
+    }
+
+    #tanksImageDescriptionFour 
+    {
+        top: -27%;
+        left: 8.3%;
+    }
+
+    #tanksImageDescriptionFive 
+    {
+        top: 14%;
+        left: 8.3%;
+    }
+
+    #tanksGridOne 
+    {
+        top: -11%;
+    }
+
+    #tanksGridTwo 
+    {
+        left: -44.1%;
+        top: -20%;
+    }
+
+    #tanksGridThree
+    {
+        left: -17.3%;
+        top: -64%;
+    }
+
+    #tanksGridFour 
+    {
+        left: -48.5%;
+        top: -10%;
+    }
+
+    #tanksGridFive 
+    { 
+        left: -17.3%;
+        top: -74%;
+    }
+
+    #tanksGridSix 
+    {
+        left: -38.8%;
+        top: 13%;
+    }
+
+    #tanksGridSeven 
+    {
+        left: -17.3%;
+        top: -80%;
+    }
+
+    #tanksGridEight 
+    {
+        left: -44.2%;
+        top: 1%;
+    }
+
+    #tanksGridNine 
+    {
+        left: -17.3%;
+        top: -115%;
+    }
+
+    #tanksGridEleven 
+    {       
+        left: -44.1%;
+        top: -8%;
+    }
+
+    #tanksThree 
+    {
+        top: -16%;
+        left: 7.5%;
+    }
+
+    #tanksSix 
+    {
+        top: 15%;
+        left: -32.9%;
+    }
+
+    #tanksSeven 
+    {
+        top: 18%;
+        left: 7.5%;
+    }
+
+    #tanksEight 
+    {
+        top: -6%;
+        left: -25.9%;
+    }
+
+    #tanksNine 
+    {
+        top: -12%;
+        left: 7.6%;
+    }
+
+    #tanksTen 
+    {
+        top: -49%;
+        left: -40%;
+        width: 8vw;
+    }
+
+    #tanksEleven 
+    {
+        top: -21%;
+        left: -49.4%;
+    }
+
+    #tanksTwelve 
+    {
+        top: -31%;
+        left: 7.5%;
+    }
+
+    #tanksThirteen 
+    {
+        top: -18%;
+        left: -32.9%;
+    }
+
+    #gridImageMiddleTanksTwo 
+    {
+        width: 30vw;
+        margin-left: 2px;
+        margin-right: 2px;
+    }
+
+    #tanksGridOne 
+    {
+        left: -32.3%;
+        top: -10%;
+    }
+
+    #tanksTwelve 
+    {
+        top: -31%;
+        left: 7.5%;
+    }
+
+    #gridImageMiddleTanksThree 
+    {
+        width: 23.5vw;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-top: 3vh;
+        height: auto;
+        pointer-events: none;
+    }
+    
 }

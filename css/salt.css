@@ -245,3 +245,105 @@
     left: 0%;
     border-bottom: 2px dotted black
 }
+
+/*----------------- Responisve Code Start ---------------------*/
+
+@media (max-width: 1299px) {
+#saltTwo {
+    top: -48%;
+left: 7.5%;
+}
+
+.saltCopyOne {
+    top: -87%;
+    left: 35.2%;
+}
+
+#saltImageDescriptionOne {
+    top: -58%;
+}
+
+#saltVideoOne {
+    height: 56.5vh;
+    top: -53%;
+}
+#saltSubTwo {
+    top: 54vh;
+}
+
+#saltThree {
+    top: 46%;
+}
+
+#saltFour {
+    top: 42%;
+}
+#saltImageDescriptionTwo {
+ 	top: 37.5%;
+}
+
+#saltSubThree {
+    top: 148vh;
+}
+#saltFive {
+    top: 44.5%;
+}
+
+#saltSix {
+    top: 41%;
+}
+
+#saltImageDescriptionThree {
+    top: 15%;
+}
+#saltSubFour {
+    top: 182vh;
+}
+.saltQuote {
+    top: 31%;
+}
+#saltSeven {
+    top: 19%;
+}
+
+#saltImageDescriptionFour {
+    top: 37.5%;
+}
+
+#saltEight {
+    top: 19%;
+    left: 0.9%;
+}
+
+#saltNine {
+    top: -27.5%;
+    left: 34.4%;
+}
+#saltSubFive {
+    top: 239vh;
+}
+
+#saltTen {
+    top: 30%;
+}
+#saltImageDescriptionFive {
+    top: 21.3%;
+}
+#saltSubSix {
+    top: 175vh;
+}
+#saltEleven {
+    top: 40%;
+}
+.saltQuoteTwo {
+    top: 32%;
+}
+#saltImageDescriptionSix {
+    top: 36.5%;
+}
+
+#saltSubSeven {
+    top: 165vh;
+}
+
+}

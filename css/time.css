@@ -452,3 +452,238 @@
     left: 0%;
     border-bottom: 2px dotted black;
 }
+
+@media(max-width: 1299px) 
+{
+    #timeSubTwo 
+    {
+        position: relative;
+        top: -12vh;
+    }
+
+    #timeSubThree 
+    {
+        top: 20vh;
+    }
+
+    #timeSubFour 
+    {
+        top: 40vh;
+    }
+
+    #timeSubFive 
+    {
+        top: 65vh;
+    }
+
+    #timeSubSix 
+    {
+        top: 222vh;
+    }
+
+    #timeSubSeven 
+    {
+        top: 310vh;
+    }
+
+    #timeSubEight 
+    {
+        top: 380vh;
+    }
+
+    #timeSubNine 
+    {
+        top: 345vh;
+    }
+
+    #timeSubTen 
+    {
+        top: 360vh;
+        height: 50vh;
+    }  
+
+    #timeVideoOne
+    {
+        top: -5%;
+        left: -32.9%;
+    }
+
+    .timeCopyOne 
+    {
+        top: 57%;
+    }
+
+    #timeTwo 
+    {
+        left: 34.5%;
+        top: 10%;
+    }
+
+    #timeThree 
+    {
+        left: 0.8%;
+        top: -20%;
+    }
+
+    #timeSix 
+    {
+        left: -16.9%;
+        top: 53%;
+    }
+
+    #timeSeven 
+    {
+        left: -83%;
+        top: 71%;
+    }
+
+    #timeEight 
+    {
+        left: 7.5%;
+        top: -9%;
+    }
+
+    #timeNine 
+    {
+        left: -31.9%;
+        top: -10%;
+    }
+
+    #timeTen 
+    {
+        left: 29.1%;
+        top: -61%;
+    }
+
+    #timeEleven 
+    {
+        left: 34.5%;
+        top: -61%; 
+    }
+
+    #timeGridTwo 
+    {
+        left: -44.3%;
+        top: 0%;
+    }
+
+    #timeGridThree 
+    {
+        left: -44.2%;
+        top: 15%;
+    }
+
+    #timeGridFour 
+    {
+        left: -44.2%;
+        top: -55%;
+    }   
+
+    #timeGridSix 
+    {
+        left: -45.7%;   
+        top: -24%;
+    }
+
+    #timeGridSeven 
+    {
+        left: -48.4%;
+        top: -19%;
+    }
+
+    #timeGridEight 
+    {
+        left: -14.7%;
+        top: -85%;
+    }
+
+    #timeHorizontalGridOne 
+    {
+        top: 52%;
+        left: 1.25%;
+    }
+
+    #timeHorizontalGridTwo 
+    {
+        top: 93%;
+        left: 0.5%;
+    }
+
+    #timeHorizontalGridThree 
+    {
+        top: 132%;
+        left: 0.5%;
+    }
+
+    #timeHorizontalGridFour 
+    {
+        top: 173%;
+        left: 1.25%;
+    }
+
+    #timeImageDescriptionOne 
+    {
+        top: 84%;
+        left: 35.3%;
+    }
+
+    #timeImageDescriptionTwo 
+    {
+        top: 87%;
+        left: 51%;
+    }
+
+    #timeImageDescriptionThree 
+    {
+        top: 86%;
+        left: 52.2%;
+    }
+
+    #timeImageDescriptionFour 
+    {
+        top: 87%;
+    }
+
+    #timeVideoSix 
+    {
+        top: 15%;
+        left: -32.9%;
+    }
+
+    #timeVideoSeven 
+    {
+        height: 45vh;
+    }
+
+    #timeVideoEight 
+    {
+        top: 14%;
+        left: -32.9%;
+    }
+
+    #timeVideoFive 
+    {
+        top: 52%;
+        left: -32.9%;
+    }
+
+    #gridImageTimeTwo 
+    {
+        width: 30vw;
+        margin-left: 7px;
+        margin-right: 5px;
+        margin-top: 3vh;
+    }
+
+    #gridImageTimeThree 
+    {
+        width: 29.8vw;
+        margin-left: 10px;
+        margin-right: 0px;
+    }
+
+    .endLineTimeTwo 
+    {
+        top: 21%;
+    }
+}

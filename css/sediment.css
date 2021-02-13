@@ -133,20 +133,6 @@
     top: 16.1%;
 }
 
-.copyTextLeft
-{
-    position: absolute;
-    top: 23%;
-    left: 1.8%;
-    width: 26%;
-    text-align: left;
-    position: absolute;
-    font-size: 20px;
-    font-weight: 400;
-    line-height: 25px;
-    font-family: 'Roboto', sans-serif;
-}
-
 /* #sedimentOne
 {
     top: 7vh;
@@ -611,6 +597,12 @@
     left: 1.9%;
 }
 
+#sedimentCopyEight
+{
+    position: relative;
+    top: 5%;
+}
+
 #sedimentGridImage
 {
     position: relative;
@@ -629,3 +621,266 @@
     height: auto;
     pointer-events: none
 }
+/* 
+@media(max-width: 1299px) 
+{
+    #sedimentCopy 
+    {
+        font-size: 22px;
+        line-height: 25px;
+        top: 20%;
+    }
+
+    #sedimentSubTwo 
+    {
+        top: 60vh;
+    }
+
+    #sedimentSubThree 
+    {
+        top: 80vh;
+    }
+
+    #sedimentSubFive 
+    {
+        top: -55vh;
+    }
+
+    #sedimentSubSix {
+        top: 10vh;
+    }
+
+    #sedimentSubFour 
+    {
+        top: 10vh;
+    }
+
+    #sedimentSubSeven 
+    {
+        top: 155vh;
+    }
+
+    #sedimentSubEight 
+    {
+        top: 100vh;
+    }
+
+    #sedimentSubNine 
+    {
+        top: 50vh;
+    }
+
+    #sedimentSubTen 
+    {
+        top: 110vh;
+    }
+
+    #sedimentCopyOne 
+    {
+        font-size: 22px;
+        line-height: 25px;
+        top: 20.1%;
+    }
+
+    .sedimentCopyThree 
+    {
+        top: 60%;
+        left: 8.3%;
+    }
+
+    .sedimentCopyFour 
+    {
+        top: -3%;
+        left: 8.3%;
+    }
+
+    .sedimentCopySix 
+    {
+        top: 30%;
+        left: 8.3%;
+    }
+
+    .sedimentcopySeven 
+    {
+        top: 33%;
+        left: 1.9%;
+    }
+
+    #sedimentCopyEight
+    {
+        top: 30%;
+        left: 1.6%;
+    }
+
+    .sedimentCopyOne 
+    {
+        width: 24%;
+    }
+
+    .sedimentCopyFive 
+    {
+        top: 30%;
+        left: 1.7%;
+    }
+
+    #sedimentGridOne 
+    {
+        top: 4%;
+        left: -44.1%;
+    }
+
+    #sedimentGridTwo 
+    {
+        top: -92%;
+        left: -17.1%;
+    }
+
+    #sedimentGridSix 
+    {
+        top: 89%;
+        left: 1%;
+    }
+
+    #sedimentGridTen 
+    {
+        top: 6%;
+        left: -16.8%;
+    }
+
+    #sedimentGridThirteen
+    {
+        left: -17.3%;
+        top: -94%;
+    }
+
+    #sedimentGridEleven 
+    {
+        top: 20%;
+        left: -16.7%;
+    }
+
+    #sedimentThree 
+    {
+        left: 26vw;
+        top: -146%;
+    }
+
+    #sedimentFour 
+    {
+        left: 34.5%;
+        top: -29%;
+        width: 31.6vw;
+    }
+
+    #sedimentFifteen 
+    {
+        left: 1%;
+        top: 43%;
+    }
+
+    #sedimentNine 
+    {
+        left: -32.9%;
+        top: -13%;
+    }
+
+    #sedimentSeven 
+    {
+        position: absolute;
+        left: 34.2%;
+        top: 21%;
+    }
+
+    #sedimentEight
+    {
+        left: 34.2%;
+        top: 88%;
+    }
+
+    #sedimentTen 
+    {
+        left: 7.4%;
+        top: -60%;
+    }
+
+    #sedimentVideoOne 
+    {
+        left: 0.2%;
+        top: -8%;
+    }
+
+    #sedimentVideoTwo 
+    {
+        left: -32.8%;
+        top: 21%;
+    }
+
+    #sedimentVideoThree 
+    {
+        left: -13.5%;
+        top: 44%;
+        width: 115vw;
+        height: 130vh;
+    }
+
+    #sedimentVideoFive 
+    {
+        bottom: 7%;
+        left: 4%;
+    }
+
+    #sedimentVideoFour
+    {
+        left: -32.7%;
+        top: -54%;
+    }
+
+    #sedimentImageDescriptionOne 
+    {
+        left: 35.3%;
+        top: -154%;
+    }
+
+    #sedimentImageDescriptionThree 
+    {
+        left: 8.3%;
+        top: 1%;
+        width: 13%;
+    }
+
+    #sedimentImageDescriptionFive 
+    {
+        left: 8.3%;
+        top: 10%;   
+    }
+
+    #sedimentImageDescriptionSix 
+    {
+        top: -14%;
+    }
+
+    #sedimentImageDescriptionSeven 
+    {
+        left: 52%;
+        top: 9%;
+    }
+
+    #sedimentImageDescriptionEight 
+    {
+        left: 35.3%;
+        top: -55%;
+    }
+
+    #sedimentImageDescriptionEleven 
+    {
+        left: 8.3%;
+        top: -114%;
+        width: 14%;
+    }
+
+    #sedimentImageDescriptionTwelve 
+    {
+        left: 8.3%;
+        top: 8%;
+    }
+} */

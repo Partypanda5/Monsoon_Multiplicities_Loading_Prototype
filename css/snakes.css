@@ -261,3 +261,147 @@
     left: 0%;
     border-bottom: 1px solid black;
 }
+
+@media(max-width: 1299px) 
+{
+    .copyTextBigger
+    {
+        top: -88%;
+    }
+
+    #snakeSubTwo 
+    {
+        top: -25vh;
+    }
+
+    #snakeSubThree 
+    {
+        top: 165vh;
+    }
+
+    #snakeSubFour 
+    {
+        top: 425vh;
+    }
+
+    #snakeSubFive {
+        top: 600vh;
+    }
+
+    #snakeSubSix {
+        top: 745vh;
+        height: 15vh;
+    }
+
+    #snakeImageDescriptionOne 
+    {
+        top: -56%;
+        left: 35.3%;
+    }
+
+    #snakeGridOne 
+    {
+        top: 9.5%;
+        left: -44.1%;
+    }
+
+    .snakesCopyOne 
+    {
+        top: -60%;
+        font-size: 14px;
+        line-height: 17px;
+        width: 25%;
+    }
+
+    .snakesCopyTwo
+    {
+        top: 14%;
+    }
+
+    .snakesCopyThree 
+    {
+        top: -7%;
+    }
+
+    #snakeTwo 
+    {
+        top: 23%;
+        left: 7.5%;
+    }
+
+    #snakeFour 
+    {
+        top: -58%;
+        left: 34.5%;
+    }
+
+    #snakeFive 
+    {
+        top: -52%;
+        left: -32.9%;
+    }
+
+    #snakeEight 
+    {
+        top: -50.7%;
+        left: 34.5%;
+    }
+
+    #snakeNine 
+    {
+        top: 22%;
+    }
+
+    #snakeTen 
+    {
+        top: -67%;
+        left: -32.9%;
+    }
+    #snakeEleven 
+    {
+        top: 22%;
+        left: 7.5%;
+    }
+
+    #SnakeVideoOne 
+    {
+        top: -49%;
+    }
+
+    #SnakeVideoTwo 
+    {
+        top: -59%;
+        left: -32.9%;
+    }
+
+    #SnakeVideoFour
+    {
+        top: -5%;
+        left: -32.9%;
+    }
+
+    #snakeGridTwo 
+    {
+        top: -55%;
+        left: -39.1%;
+    }
+
+    #snakeGridThree 
+    {
+        top: -19%;
+        left: -44.1%;
+    }
+
+    #snakeGridFour 
+    {
+        top: -62%;
+        left: -17.3%;
+    }
+
+    #gridImageMiddleSnakesHor 
+    {
+        width: 23.6vw;
+        margin-left: 0.7vw;
+        margin-right: 0px;
+    }
+}
