@@ -499,6 +499,21 @@
         left: 8.3%;
     }
 
+    #tanksImageDescriptionFive 
+    {
+        top: 14%;
+        left: 8.3%;
+    }
+
+    #tanksImageDescriptionSix
+    {
+        position: relative;
+        top: 8%;
+        left: 8.3%;
+        width: 20%;
+    }
+
+
     #tanksGridOne 
     {
         top: -11%;

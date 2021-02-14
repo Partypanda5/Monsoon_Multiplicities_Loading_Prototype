@@ -271,3 +271,93 @@
     height: 30vh;
     margin-top: 3vh;
 }
+
+/* ------------------ Responsive Code ----------------------*/
+@media (max-width: 1299px) {
+#DragonVideoOne {
+    left: -25%;
+}
+#DragonVideoTwo {
+    height: 76.1vh;
+}
+#dragonSubThree {
+    top: -57.5vh;
+}
+#dragonTwo {
+    position: relative;
+    top: -15%;
+    left: 7.57%;
+}
+#dragonImageDescriptionTwo {
+    top: -13%;
+}
+#dragonThree {
+    top: -10.5%;
+}
+#dragonFour {
+    top: -16.5%;
+}
+#dragonSubFour {
+    top: 115vh;
+}
+#DragonVideoThree {
+    left: -66.4%;
+    top: -13.8%;
+    width: 23.9vw;
+    height: 28.5vh;
+}
+#dragonImageDescriptionThree {
+    top: -15.5%;
+}
+#DragonVideoFour {
+    left: -32.9%;
+    top: -13.5%;
+    height: 76.1vh;
+}
+#dragonSubFive {
+    top: 120vh;
+}
+#dragonImageDescriptionFour {
+    top: 7%;
+}
+#dragonFive {
+    top: 11%;
+}
+#dragonSix {
+    top: 7%;
+    left: -64.6%;
+}
+
+#dragonSubSix {
+    top: 209vh;
+}
+#dragonImageDescriptionFive {
+    top: 8.4%;
+}
+#dragonSeven {
+    top: 11%;
+}
+#dragonSubSeven {
+    top: 258vh;
+}
+
+#DragonVideoFive {
+    height: 76.1vh;
+}
+#dragonSubEight {
+    top: 253vh;
+}
+#DragonVideoGrid {
+    width: 66.1vh;
+    height: 37.23vh;
+}
+#dragonGridTwo {
+    top: -92.3%;
+}
+.endlineDragonThree {
+    top: -87%;
+}
+#dragonImageDescriptionEight {
+    top: -82%;
+}
+}
