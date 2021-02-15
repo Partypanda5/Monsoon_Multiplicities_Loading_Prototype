@@ -47,8 +47,8 @@
     position: relative;
     left: -10%;
     top: -15%;
-    width: 142vw;
-    height: 130vh;
+    width: 125vw;
+    height: auto;
     z-index: -5;
 }
 
@@ -280,8 +280,12 @@
 #DragonVideoTwo {
     height: 76.1vh;
 }
+
+#dragonSubTwo {
+    top: -33vh;
+}
 #dragonSubThree {
-    top: -57.5vh;
+    top: -32vh;
 }
 #dragonTwo {
     position: relative;
@@ -298,7 +302,7 @@
     top: -16.5%;
 }
 #dragonSubFour {
-    top: 115vh;
+    top: 140vh;
 }
 #DragonVideoThree {
     left: -66.4%;
@@ -315,7 +319,7 @@
     height: 76.1vh;
 }
 #dragonSubFive {
-    top: 120vh;
+    top: 140vh;
 }
 #dragonImageDescriptionFour {
     top: 7%;
@@ -329,7 +333,7 @@
 }
 
 #dragonSubSix {
-    top: 209vh;
+    top: 225vh;
 }
 #dragonImageDescriptionFive {
     top: 8.4%;
@@ -338,14 +342,14 @@
     top: 11%;
 }
 #dragonSubSeven {
-    top: 258vh;
+    top: 275vh;
 }
 
 #DragonVideoFive {
     height: 76.1vh;
 }
 #dragonSubEight {
-    top: 253vh;
+    top: 270vh;
 }
 #DragonVideoGrid {
     width: 66.1vh;

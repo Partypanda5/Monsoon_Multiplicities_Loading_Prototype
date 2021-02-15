@@ -9,7 +9,7 @@
 
 #atmosphereSubTwo
 {
-    top: 3vh;
+    top: 8vh;
 }
 
 #atmosphereSubThree
@@ -80,6 +80,14 @@
     width: 102vw;
 }
 
+#atmosFive 
+{
+    position: relative;
+    top: 33%;
+    left: -5%;
+    width: 102vw;
+}
+
 .copyTextAtmosOne
 {
     position: relative;
@@ -142,7 +150,7 @@
 {
     position: relative;
     left: -32.9%;
-    top: 30%;
+    top: 29%;
     width: 61.5vw;
     height: 61.5vh;
 }
