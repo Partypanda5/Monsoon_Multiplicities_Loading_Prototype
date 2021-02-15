@@ -686,7 +686,7 @@
     height: auto;
     pointer-events: none
 }
-/* 
+
 @media(max-width: 1299px) 
 {
     #sedimentCopy 
@@ -708,36 +708,37 @@
 
     #sedimentSubFive 
     {
-        top: -55vh;
+        top: -60vh;
     }
 
-    #sedimentSubSix {
-        top: 10vh;
+    #sedimentSubSix 
+    {
+        top: 3vh;
     }
 
     #sedimentSubFour 
     {
-        top: 10vh;
+        top: 5vh;
     }
 
     #sedimentSubSeven 
     {
-        top: 155vh;
+        top: 150vh;
     }
 
     #sedimentSubEight 
     {
-        top: 100vh;
+        top: 88vh;
     }
 
     #sedimentSubNine 
     {
-        top: 50vh;
+        top: 27vh;
     }
 
     #sedimentSubTen 
     {
-        top: 110vh;
+        top: 65vh;
     }
 
     #sedimentCopyOne 
@@ -751,6 +752,11 @@
     {
         top: 60%;
         left: 8.3%;
+    }
+
+    #sedimentCopyEleven 
+    {
+        top: 28%;
     }
 
     .sedimentCopyFour 
@@ -777,15 +783,31 @@
         left: 1.6%;
     }
 
+    #sedimentCopyNine 
+    {
+        top: 30%;
+    }
+
     .sedimentCopyOne 
     {
         width: 24%;
+        top: 2%;
     }
 
     .sedimentCopyFive 
     {
         top: 30%;
         left: 1.7%;
+    }
+
+    #sedimentCopyTen 
+    {
+        top: 31%;
+    }
+
+    #sedimentCopyTwelve
+    {
+        top: 29%;
     }
 
     #sedimentGridOne 
@@ -802,25 +824,25 @@
 
     #sedimentGridSix 
     {
-        top: 89%;
-        left: 1%;
+        top: -25%;
+        left: -49%;
     }
 
     #sedimentGridTen 
     {
-        top: 6%;
+        top: -1%;
         left: -16.8%;
     }
 
-    #sedimentGridThirteen
+    #sedimentGridThirteen 
     {
         left: -17.3%;
-        top: -94%;
+        top: -100%;
     }
 
     #sedimentGridEleven 
     {
-        top: 20%;
+        top: 10%;
         left: -16.7%;
     }
 
@@ -837,10 +859,15 @@
         width: 31.6vw;
     }
 
+    #sedimentCopyFourteen 
+    {
+        top: 28%;
+    }
+
     #sedimentFifteen 
     {
         left: 1%;
-        top: 43%;
+        top: -25%;
     }
 
     #sedimentNine 
@@ -853,31 +880,31 @@
     {
         position: relative;
         left: 34.2%;
-        top: 21%;
+        top: -1%;
     }
 
-    #sedimentEight
+    #sedimentEight 
     {
         left: 34.2%;
-        top: 88%;
+        top: -123%;
     }
 
     #sedimentTen 
     {
         left: 7.4%;
-        top: -60%;
+        top: -66%;
     }
 
     #sedimentVideoOne 
     {
         left: 0.2%;
-        top: -8%;
+        top: -10%;
     }
 
     #sedimentVideoTwo 
     {
         left: -32.8%;
-        top: 21%;
+        top: 19%;   
     }
 
     #sedimentVideoThree 
@@ -916,24 +943,24 @@
     #sedimentImageDescriptionFive 
     {
         left: 8.3%;
-        top: 10%;   
+        top: -134%; 
     }
 
     #sedimentImageDescriptionSix 
     {
-        top: -14%;
+        top: -1%;
     }
 
     #sedimentImageDescriptionSeven 
     {
         left: 52%;
-        top: 9%;
+        top: -1%;
     }
 
     #sedimentImageDescriptionEight 
     {
         left: 35.3%;
-        top: -55%;
+        top: -65%;
     }
 
     #sedimentImageDescriptionEleven 
@@ -946,6 +973,61 @@
     #sedimentImageDescriptionTwelve 
     {
         left: 8.3%;
-        top: 8%;
+        top: -0.5%;
     }
-} */
+
+    #sedimentImageDescriptionTwo 
+    {
+        top: -29%;
+    }
+
+    #sedimentImageDescriptionFourteen 
+    {
+        left: 35.3%;
+        top: 3%;
+        width: 15%;
+    }
+
+    #sedimentImageDescriptionFifteen 
+    {
+        left: 52.2%;
+        top: -36%;
+        width: 14%;
+    }
+
+    #sedimentImageDescriptionThirteen 
+    {
+        left: 52.5%;
+        top: -152%;
+    }
+
+    #sedimentImageDescriptionTen 
+    {
+        left: 53.3%;
+        top: -134%;
+    }
+
+    .endlineSedimentThree 
+    {
+        top: -161%;
+        left: 0%;
+    }
+
+    #sedimentGridSeven
+    {
+        top: -10%;
+        left: -46.3%;
+    }
+
+    #sedimentGridTwelve 
+    {
+        top: -30%;
+        left: -47%;
+    }
+
+    #sedimentCopyThirteen 
+    {
+        top: 30%;
+        left: 1.7%;
+    }
+}

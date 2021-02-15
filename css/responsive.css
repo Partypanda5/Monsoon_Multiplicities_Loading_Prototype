@@ -5,6 +5,18 @@
     h2 {
         font-size: 12px;
     }
+
+    sup
+    {
+        font-size: 9px;
+        line-height: 0;
+    }
+
+.titleSup
+    {
+        font-size: 10px;
+        line-height: 0;
+    }
     .headings {
         width: 3.2vw;
     }
