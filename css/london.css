@@ -97,18 +97,86 @@
     text-align: left;
 }
 
-#londonLinksTwo
+.londonEventsContainerOne
 {
+    margin-bottom: 10vh;
     position: relative;
-    top: 35vh;
+    top: 36vh;
+    left: 35.2%;
+    width: 26%;
+    padding: 0;
+    margin: 0
+}
+
+.londonEventsContainerTwo
+{
+    margin-bottom: 10vh;
+    position: relative;
+    top: 41.5vh;
+    left: 35.2%;
     width: 26%;
     padding: 0;
     margin: 0;
 }
 
-.londonEventsContainer
+.londonEventsContainerThree
 {
     margin-bottom: 10vh;
+    position: relative;
+    top: 44vh;
+    left: 35.2%;
+    width: 26%;
+    padding: 0;
+    margin: 0;
+}
+
+.londonEventsContainerFour
+{
+    margin-bottom: 10vh;
+    position: relative;
+    top: 56vh;
+    left: 35.2%;
+    width: 26%;
+    padding: 0;
+    margin: 0;
+}
+
+.copyLondon
+{
+    position: relative;
+    top: 5%;
+    left: 0%;
+    width: 96%;
+}
+
+.copyLondonTwo
+{
+    position: relative;
+    top: 5%;
+    left: 0%;
+    width: 108%;
+}
+
+.copyLondonThree
+{
+    position: relative;
+    top: 5%;
+    left: 0%;
+    width: 108%;
+}
+
+.copyLondonFour
+{
+    position: relative;
+    top: 5%;
+    left: 0%;
+    width: 108%;
+}
+
+.containerOne
+{
+    position: relative;
+    top: 5%;
 }
 
 #londonGridOne
