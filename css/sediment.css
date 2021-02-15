@@ -19,7 +19,7 @@
 
 #sedimentTwo
 {
-    position: absolute;
+    position: relative;
     left: -6.2vw;
     top: 51%;
 }
@@ -42,7 +42,7 @@
 
 #sedimentFive
 {
-    position: absolute;
+    position: relative;
     left: 8.2%;
     top: 45%;
     width: 19vw;
@@ -50,21 +50,21 @@
 
 #sedimentSix
 {
-    position: absolute;
+    position: relative;
     left: 15.5%;
     top: 10%;
 }
 
 #sedimentSeven
 {
-    position: absolute;
+    position: relative;
     left: 34.2%;
     top: 19%; 
 }
 
 #sedimentEight
 {
-    position: absolute;
+    position: relative;
     left: 34.2%;
     top: 75%;
     width: 32vw;
@@ -90,14 +90,14 @@
 
 #sedimentEleven
 {
-    position: absolute;
+    position: relative;
     left: 40.5%;
     top: 134%;
 }
 
 #sedimentTwelve
 {
-    position: absolute;
+    position: relative;
     left: 12.8%;
     top: 2%;
 }
@@ -111,7 +111,7 @@
 
 #sedimentFourteen
 {
-    position: absolute;
+    position: relative;
     left: 32.2%;
     top: -14%;
 }
@@ -207,28 +207,28 @@
 
 #sedimentGridFour
 {
-    position: absolute;
+    position: relative;
     top: 60vh;
     left: 33vw;
 }
 
 #sedimentGridFive
 {
-    position: absolute;
+    position: relative;
     top: 60vh;
     left: 48.7vw;
 }
 
 #sedimentGridSix 
 {
-    position: absolute;
+    position: relative;
     top: 75%;
     left: 1vw;
 }
 
 #sedimentGridEight
 {
-    position: absolute;
+    position: relative;
     top: 1%;
     left: 15%;
 }
@@ -242,7 +242,7 @@
 
 #sedimentGridNine
 {
-    position: absolute;
+    position: relative;
     top: 1%;
     left: 31%;
 }
@@ -302,7 +302,7 @@
 
 #sedimentImageDescriptionFour
 {
-    position: absolute;
+    position: relative;
     left: 1%;
     top: 135%;
     width: 25%;
@@ -394,7 +394,7 @@
 {
     width: 64.5vw;
     height: 1vh;
-    position: absolute;
+    position: relative;
     top: 0%;
     left: 0%;
     border-bottom: 1px solid black;
@@ -404,7 +404,7 @@
 {
     width: 64.5vw;
     height: 1vh;
-    position: absolute;
+    position: relative;
     top: 230%;
     left: 0%;
     border-bottom: 2px solid black;
@@ -414,7 +414,7 @@
 {
     width: 64.5vw;
     height: 1vh;
-    position: absolute;
+    position: relative;
     top: 142%;
     left: 0%;
     border-bottom: 1px dotted black;
@@ -424,7 +424,7 @@
 {
     width: 69%;
     height: 35%;
-    position: absolute;
+    position: relative;
     top: 2%;
     border-bottom: black dotted 1px;
 }
@@ -440,7 +440,7 @@
 
 #referenceBlockTwo
 {
-    position: absolute;
+    position: relative;
     top: 5%;
     left: 27%;
     width: 70%;
@@ -786,7 +786,7 @@
 
     #sedimentSeven 
     {
-        position: absolute;
+        position: relative;
         left: 34.2%;
         top: 21%;
     }
