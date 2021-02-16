@@ -242,6 +242,10 @@
         h2 {
               font-size: 13px;
           }
+          .titleSup {
+            font-size: 10px;
+            line-height: 0;
+        }
           .headings {
               width: 3.2vw;
           }
@@ -403,6 +407,22 @@
           .headingItem {
               font-size: 9.5px;
           }
+
+          .copyTextLeft{
+            font-size: 13px;
+            line-height: 17px;
+        }
+    
+        .mainTitleRight {
+            font-size: 23px;
+            line-height: 25px;
+        }
+    
+        .copyTextBigger{
+            font-size: 23px;
+            line-height: 25px;
+            top: 20%;
+        }
       
       #monsoonAssemblagesNav {
           top: 59.5vh;

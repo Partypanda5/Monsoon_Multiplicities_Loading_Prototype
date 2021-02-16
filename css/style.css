@@ -88,7 +88,7 @@ video
 
 .activeNavbarTitle
 {
-    text-decoration: underline;
+    /* text-decoration: underline; */
     font-weight: 800;
 }
 
@@ -437,6 +437,17 @@ a
     text-decoration: none;
 }
 
+.inactiveForNow
+{
+    color: grey;
+    pointer-events: none;
+}
+
+.inactiveForNow:hover
+{
+    cursor: pointer;
+}
+
 /* width */
 ::-webkit-scrollbar {
     width: 3px;
@@ -610,7 +621,7 @@ a
     position: absolute;
     bottom: -20px;
     right: 0px;
-    z-index: -5;
+    z-index: 0;
     overflow: hidden;
 }
 

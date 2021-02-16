@@ -757,3 +757,232 @@
     }
 
 }
+
+@media (min-width: 1300px) and (max-width: 1399px) 
+{
+    #ethnographySubTwo 
+    {
+        top: -55vh;
+    }
+
+    #ethnographySubThree 
+    {
+        top: -50vh;
+    }
+
+    #ethnographySubFour 
+    {
+        top: 65vh;
+    }
+
+    #ethnographySubFive 
+    {
+        top: 170vh;
+    }
+
+    #ethnographySubNine 
+    {
+        top: 327vh;
+    }
+
+    #enthoThree 
+    {
+        top: 27%;
+        left: -32.9%;
+    }
+
+    #ethnoFour 
+    {
+        top: -16%;
+        left: 34.5%;    
+    }    
+
+    #ethnoFive
+    {
+        top: 43%;
+        left: 7.6%;
+    }
+
+    #ethnoSix 
+    {
+        top: -6%;
+        left: 34.6%;
+    }
+
+    #ethnoEight 
+    {
+        top: -15%;
+        left: 34.5%;
+    }
+
+    #ethnoEleven 
+    {
+        top: 17.5%;
+        left: 34.6%;
+    }
+    
+    #ethnoTwelve 
+    {
+        top: 7%;
+        left: -32.9%;
+    }    
+
+    #ethnoThirteen 
+    {
+        top: -6%;
+        left: -33%;
+    }
+
+    #ethnoSixteen 
+    {
+        top: -30%;
+        left: -49.3%;
+    }
+
+    #EthnoGridOne 
+    {
+        top: 15%;
+        left: -44%;
+    }
+
+    #EthnoGridTwelve 
+    {
+        top: -5.5%;
+        left: -44%;
+    }
+
+    #EthnoGridFour 
+    {
+        top: -104%;
+        left: -17%;
+    }
+
+    #EthnoGridFive
+    {
+        top: -99%;
+        left: -44%;
+    }
+
+    #EthnoGridSix 
+    {
+        top: -47%;
+        left: -43.8%;
+    }
+
+    #EthnoGridSeven 
+    {
+        top: -42%;
+        left: -44%;
+    }
+
+    #EthnoGridEight 
+    {
+        top: -99%;
+        left: -17%;
+    }
+
+    #EthnoGridNine 
+    {
+        top: -6%;
+        left: -43.9%;
+    }
+
+    #EthnoGridThirteen 
+    {
+        top: 10.3%;
+        left: -32.5%;
+    }
+
+    .copyTextEthnoTwo 
+    {
+        top: -19%;
+        left: 35.3%;
+    }
+
+    .copyTextEthnoThree 
+    {
+        top: 6%;
+        left: 8.3%;
+    }
+
+    .ethnoTextCopyFive 
+    {
+        top: 83%;
+        left: 35.3%;
+    }
+
+    .copyTextEthnoOne 
+    {
+        top: -1%;
+        left: 8.3%;
+    }
+
+    .copyTextEthnoFour 
+    {
+        top: -41%;
+        left: 35.3%;
+    }
+
+    .copyTextEthnoSeven 
+    {
+        top: -34%;
+        left: 35.3%;
+    }
+
+    .copyTextEthnoEight 
+    {
+        top: 26%;
+        left: 8.3%;
+    }
+    
+    .copyTextEthnoNine 
+    {
+        position: relative;
+        top: 28%;
+        left: 8.3%;
+        width: 17%;
+    }
+
+    #ethnoNine 
+    {
+        top: -42%;
+        left: 34.5%;
+    }
+
+    #ethnoFourteen 
+    {
+        top: 10.5%;
+        left: 34.5%;
+    }
+
+    #ethnoFifteen 
+    {
+        top: 12%;
+        left: -32.9%;
+    }
+
+    #EthnoVideoOne 
+    {
+        left: -32.9%;
+        top: -21%;
+    }
+
+    #EthnoVideoTen 
+    {
+        top: 10%;
+        left: 4.5%;
+    }
+
+    #EthnoVideoNine 
+    {
+        left: -32.5%;
+        top: 22%;
+    }
+
+    #gridImageSmallEthno 
+    {
+        width: 14vw;
+        margin-left: 6px;
+        margin-right: 3px;
+    }
+}

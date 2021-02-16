@@ -658,3 +658,142 @@
     }
     
 }
+
+@media (min-width: 1300px) and (max-width: 1399px) 
+{
+
+    #tanksSubThree 
+    {
+        top: -5vh;
+    }
+
+    #tanksSubFour 
+    {
+        top: 90vh;
+    }
+
+    #tanksSubFive 
+    {
+        top: 160vh;
+    }
+
+    #tanksSubSeven 
+    {
+        top: 230vh;
+    }    
+
+    #tanksSubEight 
+    {
+        top: 285vh;
+    }
+
+    #tanksSubNine 
+    {
+        top: 355vh;
+        height: 65vh;
+    }
+
+    #tanksGridOne 
+    { 
+        left: -32.5%;
+        top: -8%;
+    }
+
+    #tanksGridTwo 
+    {
+        left: -44%;
+        top: -20%;
+    }
+
+    #tanksGridThree 
+    {
+        left: -17%;
+        top: -54%;
+    }
+
+    #tanksGridFour 
+    {
+        left: -48.7%;
+        top: -10%;
+    }
+
+    #tanksGridFive 
+    {
+        left: -17%;
+        top: -62.5%;
+    }    
+
+    #tanksGridSix 
+    {
+        left: -39%;
+        top: 13%;
+    }    
+
+    #tanksGridSeven 
+    {
+        left: -17%;
+        top: -71%;
+    }
+
+    #tanksGridEight 
+    {
+        left: -44%;
+        top: -1%;
+    }
+
+    #tanksGridNine 
+    {
+        left: -17%;
+        top: -97%;
+    }
+
+    #tanksGridEleven 
+    {
+        left: -44%;
+        top: -6%;
+    }
+
+    #gridImageMiddleTanksTwo 
+    {
+        width: 30vw;
+        margin-left: 5px;
+        margin-right: 0px;
+    }
+
+    #gridImageMiddleTanksThree 
+    {
+        width: 23.5vw;
+        margin-left: 3px;
+        margin-right: 5px;
+    }
+
+    #tanksThree 
+    {
+        top: -14%;
+        left: 7.7%;
+    }
+
+    #tanksFive 
+    {
+        top: -6%;
+        left: -32.9%;
+    }
+
+    #tanksSeven 
+    {
+        top: 13%;
+        left: 7.7%;
+    }
+
+    #tanksNine 
+    {
+        top: -14%;
+        left: 7.6%;
+    }
+
+    #tanksTwelve
+     {
+        top: -29%;
+        left: 7.5%;
+    }
+}

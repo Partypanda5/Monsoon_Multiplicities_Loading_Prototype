@@ -405,3 +405,91 @@
         margin-right: 0px;
     }
 }
+
+@media (min-width: 1300px) and (max-width: 1399px) 
+{
+
+    #snakeSubFour 
+    {
+        top: 270vh;
+    }
+
+    #snakeCopyFour
+    {
+        top: -69%;
+    }
+
+    #snakeSubFive 
+    {
+        top: 395vh;
+    }
+
+    .snakesCopyOne 
+    {
+        font-size: 14px;
+        line-height: 17px;
+        width: 25%;
+    }
+
+    #snakeGridOne 
+    {
+        top: 8.5%;
+        left: -44%;
+    }
+
+    #snakeGridTwo 
+    {
+        top: -43%;
+        left: -38.5%;
+    }
+
+    #snakeGridThree
+    {
+        top: -12%;
+        left: -44%;
+    }
+
+    #snakeGridFour 
+    {
+        top: -50%;
+        left: -17%;
+    }
+
+    #snakeFour 
+    {
+        top: -45%;
+        left: 34.6%;
+    }
+
+    #snakeEight 
+    {
+        top: -37%;
+        left: 34.6%;
+    }
+
+    #snakeNine 
+    {
+        top: 21%;
+        left: 7.6%;
+    }
+
+    #snakeTen 
+    {
+        top: -52%;
+        left: -32.9%;
+    }
+
+    #snakeThirteen 
+    {
+        top: 13%;
+        left: 7.6%;
+    }
+    
+    #gridImageMiddleSnakesHor 
+    {
+        width: 23.6vw;
+        margin-left: 0.5vw;
+        margin-right: 5px;
+        margin-top: 3vh;
+    }
+}

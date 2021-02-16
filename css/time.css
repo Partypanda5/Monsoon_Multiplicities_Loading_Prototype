@@ -687,3 +687,120 @@
         top: 21%;
     }
 }
+
+@media (min-width: 1300px) and (max-width: 1399px) 
+{
+    #timeSubFive 
+    {
+        top: -30vh;
+    }
+
+    #timeSubSix 
+    {
+        top: 60vh;
+    }
+
+    #timeSubSeven 
+    {
+        top: 135vh;
+    }
+
+    #timeSubEight 
+    {
+        top: 159vh;
+    }
+
+    #timeSubNine 
+    {
+        top: 110vh;
+    }
+
+    #timeSubTen 
+    {
+        top: 95vh;
+        height: 50vh;
+    }
+
+    #timeGridTwo
+    {
+        left: -44%;
+    }
+
+    #timeGridThree 
+    {
+        left: -44%;
+        top: 15%;
+    }
+
+    #timeGridFour 
+    {
+        left: -44%;
+        top: -43%;
+    }
+
+    #timeGridSix 
+    {
+        left: -45.4%;
+        top: -22%;
+    }
+
+    #timeEleven 
+    {
+        left: 34.5%;
+        top: -47%;
+    }
+
+    #timeTwo 
+    {   
+        left: 34.5%;
+        top: 11%;
+    }
+
+    #timeThree 
+    {
+        left: 0.65%;
+        top: -12%;
+    }
+
+    #timeSix 
+    {
+        left: -16.9%;
+        top: 45%;
+    }
+
+    #timeSeven 
+    {
+        left: -83.5%;
+        top: 59%;
+    }
+
+    #gridImageTimeTwo 
+    {
+        margin-left: 8px;
+        margin-right: 5px;
+    }
+
+    #gridImageTimeThree 
+    {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    #timeImageDescriptionFour 
+    {
+        top: 73%;
+        left: 35.3%;    
+    }
+
+    #timeHorizontalGridTwo 
+    {
+        top: 74%;
+        left: 0.8%;
+    }
+
+    #timeHorizontalGridThree 
+    {
+        top: 106%;
+        left: 0.8%;
+    }
+}

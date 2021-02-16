@@ -566,3 +566,169 @@
 }
 
 }
+
+@media (min-width: 1300px) and (max-width: 1399px) 
+{
+    #oceanSubTwo 
+    {
+        top: -65vh;
+    }
+
+    #oceanSubThree 
+    {
+        top: -30vh;
+    }
+
+    #oceanSubFour 
+    {
+        top: -20vh;
+    }
+
+    #oceanSubFive 
+    {
+        top: -20vh;
+    }
+
+    #oceanSubSix 
+    {
+        top: -33vh;
+    }
+
+    #oceanSubSeven 
+    {
+        top: 202vh;
+        height: 15vh;
+    }
+
+    #oceanOne 
+    {
+        top: 32%;
+        left: -2%;
+    }
+
+    #oceanTwo 
+    {
+        top: 40%;
+        left: -32.9%;
+    }
+
+    #oceanThree 
+    {
+        top: 36%;
+        left: -32.9%;
+    }
+
+    #oceanFour 
+    {
+        top: 35%;
+        left: 1.5%;
+    }
+
+    #oceanSeven 
+    {
+        top: -35.2%;
+        left: 35.3%;
+    }
+
+    #oceanEight 
+    {
+        top: 29%;
+        left: -32.3%;
+    }
+
+    #oceanNine 
+    {
+        top: 22%;
+        left: 0.9%;
+    }
+
+    #oceanTen 
+    {
+        top: 11%;
+        left: 34.3%;
+    }
+
+    #oceanTwelve 
+    {
+        top: 24%;
+        left: 34.5%;
+    }
+
+    #oceanThirteen 
+    {
+        top: 28%;
+        left: 7.8%;
+    }
+
+    #oceanFourteen 
+    {
+        top: 15%;
+        left: 18.5%;
+    }
+
+    #oceanFifteen 
+    {
+        top: 10%;
+        left: 34.6%;
+    }
+
+    #oceanSixteen 
+    {
+        top: -34%;
+        left: 34.5%;
+    }
+
+    #oceanSeventeen 
+    {
+        top: -40%;
+        left: 7.8%;
+    }
+
+    #oceanEighteen 
+    {
+        top: -49%;
+        left: 18.4%;
+    }
+
+    #oceanNinteen 
+    {
+        top: -55%;
+        left: 34.5%;
+    }
+
+    .oceanCopyOne 
+    {
+        top: 28%;
+        left: 8.3%;
+    }
+
+    #oceanImageDescriptionOne 
+    {
+        top: 31%;
+        left: 35.3%;
+    }
+
+    #oceanImageDescriptionThree
+    {
+        top: -1%;
+        left: 8.3%;
+    }
+
+    #oceanGridOne 
+    {
+        top: -15%;
+        left: -45.4%;
+    }
+
+    #OceanVideoTwo 
+    {
+        top: 0%;
+        left: -66.4%;
+    }
+
+    .oceanCopyThree 
+    {
+        top: -33%;
+        left: 35.3%;
+    }
+}

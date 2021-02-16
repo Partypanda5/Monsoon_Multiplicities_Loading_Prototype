@@ -548,3 +548,139 @@
         left: -50.8%;
     }
 }
+
+@media (min-width: 1300px) and (max-width: 1399px) 
+{
+    #airSubOne
+    {
+        top: -5vh;
+    }
+
+    #airSubTwo 
+    {
+        top: -48vh;
+    }
+
+    #airSubThree 
+    {
+        top: -102vh;
+    }
+
+    #airSubFour
+    {
+        top: -140vh;
+    }
+
+    #airSubFive 
+    {
+        top: -230vh;
+    }    
+
+    #airSubSix 
+    {
+        top: -278vh;
+    }
+
+    #airSubSeven 
+    {
+        top: -255vh;
+    }
+
+    #airSubEight 
+    {
+        top: -218vh;
+    }
+
+    #airSubNine 
+    {
+        top: -258vh;
+    }
+
+    #airSubTen 
+    {
+        top: -230vh;
+    }
+
+    #airSubEleven 
+    {
+        top: -320vh;
+    }    
+
+    #airSubTwelve 
+    {
+        top: -360vh;
+        height: 30vh;
+    }
+
+    #airVideoOne 
+    {
+        top: 34%;
+        left: -32.9%;
+    }
+
+    #airOne 
+    {
+        top: 21%;
+        left: 34.5%;
+    }
+
+    #airThree 
+    {
+        top: 27%;
+        left: 0.8%;
+    }
+
+    #airNine
+    {
+        top: 30%;
+        left: 0.8%;
+    }
+
+    #airTen 
+    {
+        top: 30%;
+        left: 0.8%;
+    }
+
+    #airFive 
+    {
+        top: 25%;
+        left: 34.5%;
+    }
+
+    #airSix 
+    {
+        top: 32%;
+        left: 0%;
+    }
+
+    #airEleven 
+    {
+        top: 20%;
+        left: 34.5%;
+    }
+
+    #airGridOne 
+    {
+        top: 27%;
+        left: -50.8%;
+    }
+
+    #airImageDescriptionNine 
+    {
+        top: 27.5%;
+        left: 35.3%;
+    }
+
+    #airImageDescriptionTen 
+    {
+        top: 21%;
+        left: 35.3%;
+    }
+
+    #airImageDescriptionEleven 
+    {
+        top: 8%;
+        left: 35.3%;
+    }
+}
