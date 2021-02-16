@@ -797,3 +797,12 @@
         left: 7.5%;
     }
 }
+
+@media (min-width: 1400px) and (max-width: 1499px) 
+{
+    #tanksSubNine 
+    {
+        top: 384.5vh;
+        height: 65vh;
+    }
+}

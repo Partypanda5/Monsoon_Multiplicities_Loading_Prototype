@@ -459,9 +459,232 @@
               line-height: 12px;
           }
           }
-    /* common - 1440×900 */
-    @media (min-width: 1400px) and (max-width: 1499px) {
-        
+    /* common - 1440×766 */
+    @media (min-width: 1400px) and (max-width: 1499px) 
+    {
+        h2 {
+            font-size: 13px;
+        }
+        .titleSup {
+          font-size: 10px;
+          line-height: 0;
+      }
+        .headings {
+            width: 3.2vw;
+        }
+       .cityTitle {
+        font-size: 13px;
+        top: 13vh;
+        left: -9.3px;
+    }
+        .tabSubtitles {
+            font-size: 13px;
+        }
+        .subtitleContainer {
+            top: 40.2vh;
+            right: 5.1vw;
+        }
+     .copyTextLarger{
+            font-size: 23px;
+            line-height: 25px;
+            top: 20%;
+        }
+    li {
+        padding: 18px;
+        width: 44px;
+        border-left: 2px solid black;
+    }
+    li.active {
+        width: 290px;
+    }
+    #Interlocutors {
+        right: 0.5vw;
+        top: 5vh;
+    }
+    #Infrastructure {
+        right: 43px;
+        top: 9.7vh;
+    }
+    #subtitleContainerTwo {
+        right: 10.1vw;
+        top: 39.1vh;
+    }
+    #Framings {
+        left: 2.9px;
+        top: 3.4vh;
+    }
+    #subtitleContainerThree {
+        right: 3.4vw;
+        top: 42.2vh;
+    }
+    #Matters {
+        left: 9.7px;
+        top: 2.8vh;
+    }
+    #subtitleContainerFour {
+        right: 2.6vw;
+        top: 44.8vh;
+    }
+    #UrbanAssemblages {
+        right: 24px;
+    }
+    #subtitleContainerFive {
+        right: 7.5vw;
+        top: 36.8vh;
+    }
+        .focusedSingleSubtitle {
+            font-size: 23px;
+            line-height: 25px;
+        }
+        #focusedSubtitlesOne {
+            bottom: 52.4vh;
+            left: -3.5vw;
+            text-align: left;
+        }
+        #focusedSubtitlesTwo {
+            bottom: 55.4vh;
+            left: -8.9vw;
+            text-align: left;
+        }
+        #focusedSubtitlesThree {
+            left: -2.1vw;
+            bottom: 52.3vh;
+            text-align: left;
+        }
+        #focusedSubtitlesFour {
+            left: -1.4vw;
+            bottom: 49vh;
+            text-align: left;
+        }
+        #focusedSubtitlesFive {
+            left: -6.4vw;
+            bottom: 55.5vh;
+            text-align: left;
+        }
+        /*--- Page Navigation & general content ---*/
+        #navbarTitlesContainer {
+            top: 29%;
+        }
+        .navbarTitles, #rightSideQuote, .rightSideTextMM {
+            font-size: 22px;
+            line-height: 25px;
+        }
+    #about {
+        height: 21.9%;
+    }
+        #RightTextContainerMM {
+            top: 4.7%;
+        }
+        .MMHeading, .CollabTitle {
+            font-size: 22px;
+        }
+        .CollabTitle {
+            line-height: 20px;
+        }
+    .rightSideSmallerText {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    #events {
+        height: 46%;
+    }
+    #residency {
+        height: 9.3%;
+    }
+    #glossarySection {
+        height: 188.5%;
+    }
+    #glossaryOne {
+        top: 0.1%;
+    }
+    .rightSideSmallerSmallerText {
+        font-size: 12px;
+        line-height: 15px;
+    }
+        #landingOne {
+            left: -2.4%;
+        }
+        .middleLarge {
+            width: 31.6vw;
+        }
+    #collaboratorsSection {
+        height: 147%;
+    }
+    #acknowledgementSection {
+        height: 29.9%;
+    }
+    #assemblagesSection {
+        height: 9.5%;
+    }
+        .references {
+            font-size: 10px;
+            line-height: 13px;
+        }
+        /*---Subpage applicable tags---*/
+        .mainTitle {
+            top: 20.6%;;
+            font-size: 22px;
+            line-height: 25px
+        }
+        .headingTitle {
+            right: 0;
+            font-size: 12px;
+            top: 4.7vh;
+        }
+        .headingItem {
+            font-size: 9.5px;
+        }
+
+        .copyTextLeft{
+          font-size: 13px;
+          line-height: 17px;
+      }
+  
+      .mainTitleRight {
+          font-size: 23px;
+          line-height: 25px;
+      }
+  
+      .copyTextBigger{
+          font-size: 23px;
+          line-height: 25px;
+          top: 20%;
+      }
+    
+    #monsoonAssemblagesNav {
+        top: 59.5vh;
+    }
+    #acknowledgementsNav {
+        top: 48vh;
+    }
+    
+    #collaboratorsNav {
+        top: 40.9vh;
+    }
+    
+    #glossaryNav {
+        top: 37.5vh;
+    }
+    
+    #residencyNav {
+        top: 33vh;
+    }
+    #eventsNav {
+        top: 31vh;
+    }
+    
+        #eventsNav, #residencyNav, #glossaryNav, #collaboratorsNav, #acknowledgementsNav, #monsoonAssemblagesNav {
+            left: 0.1vw;
+        }
+        .copyText {
+            font-size: 14px;
+            line-height: 18px;
+            top: 21%;
+        }
+        .TemplateImageDescription {
+            font-size: 9px;
+            line-height: 12px;
+        }
     }
     /* common - 1536×731*/
     @media (min-width: 1500px) and (max-width: 1599px) {
