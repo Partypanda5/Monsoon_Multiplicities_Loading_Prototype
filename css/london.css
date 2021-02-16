@@ -328,3 +328,8 @@
         line-height: 12px;
     }
 }
+
+@media (min-width: 1300px) and (max-width: 1399px) 
+{
+    
+}
