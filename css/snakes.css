@@ -421,27 +421,27 @@
 
     #snakeSubThree 
     {
-        top: 51.3vh;
+        top: 58vh;
     }
 
     #snakeSubFour 
-    {
-        top: 244vh;
+    {     
+        top: 255vh;
     }
 
     #snakeCopyFour
     {
-        top: -67%
+        top: -68.5%
     }
 
     #snakeSubFive
     {
-        top: 361.5vh;
+        top: 378vh;
     }
 
     #snakeSubSix 
     {
-        top: 458vh;
+        top: 480vh;
         height: 17vh;
     }
     

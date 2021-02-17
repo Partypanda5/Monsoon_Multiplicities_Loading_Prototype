@@ -420,26 +420,26 @@ height: 76.1vh;
 
 #atmosphereSubOne
 {
-    top: -5vh;
+    top: -5vh   ;
 }
 
 .copyTextAtmosOne {
     top: 27.5%;
 }
 #atmosphereSubTwo {
-    top: -8vh;
+    top: -7vh;
 }
 #atmosOne {
     top: 36%;
 }
 #atmosImageDescriptionOne {
-    top: 27%;
+    top: 29%;
 }
 #AtmosVideoThree {
-    top: -22vh;
+    top: 32%;
 }
 #atmosphereSubThree {
-    top: -92vh;
+    top: -19.1vh;
 }
 #atmosThree {
     top: 24.5%;
@@ -454,16 +454,16 @@ height: 76.1vh;
     top: 22%;
 }
 #atmosphereSubFour {
-    top: -75.5vh;
+    top: -1.5vh;
 }
 #atmosphereSubFive {
-    top: -141vh;
+    top: -67vh;
 }
 #atmosphereSubSix {
-    top: -178vh;
+    top: -104vh;
 }
 #atmosphereSubSeven {
-    top: -225vh;
+    top: -152vh;
 }
 #atmosGridOne {
     left: -44%;
@@ -472,17 +472,15 @@ height: 76.1vh;
     left: -17%;
 }
 #atmosphereSubEight {
-    top: -253vh;
+    top: -181vh;
 }
 #gridImageAtmos {
     width: 14.1vw;
     margin-left: 10px;
 }
 #atmosphereSubNine {
-    top: -294vh;
-    height: 130vh;
+    top: -231vh;
 }
-
 .referencesAtmos, .referencesAtmosTwo {
     font-size: 9px;
     line-height: 12px;

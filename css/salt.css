@@ -359,7 +359,7 @@ left: 7.5%;
 
 .saltCopyOne 
 {
-    top: -66%;
+    top: -68%;
 }
 #saltTwo 
 {
@@ -374,7 +374,7 @@ left: 7.5%;
     left: -49.7%;
 }
 #saltSubTwo {
-    top: -1vh;
+    top: 4vh;
 }
 #saltThree {
     top: 39%;
@@ -386,7 +386,7 @@ left: 7.5%;
     top: 29%;
 }
 #saltSubThree {
-    top: 39vh;
+    top: 47vh;
 }
 #saltFive {
     top: 39%;
@@ -399,7 +399,7 @@ left: 7.5%;
     top: 13%;
 }
 #saltSubFour {
-    top: 33vh;
+    top: 45vh;
 }
 .saltQuote {
     top: 26%;
@@ -412,7 +412,7 @@ left: 34.5%;
     top: 32%;
 }
 #saltNine {
-    top: -16%;
+    top: -17%;
     left: 34.5%;
 }
 #saltEight {
@@ -420,10 +420,10 @@ left: 34.5%;
     left: 0.8%;
 }
 #saltSubFive {
-    top: 34vh;
+    top: 49vh;
 }
 #saltSubSix {
-    top: -55vh;
+    top: -37vh;
 }
 #saltEleven {
     top: 37%;
@@ -435,7 +435,7 @@ left: 34.5%;
     top: 31.5%;
 }
 #saltSubSeven {
-    top: -93vh;
+    top: -76vh;
     height: 60vh;
 }
 }
