@@ -451,6 +451,89 @@ left: 7.5%;
 
 #weedsGridEight {
     left: -32.3%;
+}	
 }
-	
+
+@media (min-width: 1300px) and (max-width: 1399px) {
+
+#weedsSubOne
+{
+    top: -5vh;
+}
+
+#weedsSubTwo 
+{
+    top: -50vh;
+}
+#weedsSubThree {
+    top: -90vh;
+}
+#weedsFour {
+    top: -30.8%;
+    left: 7.6%;
+}
+
+#weedsSubFour {
+    top: -70vh;
+}
+#weedsFive {
+    top: -25%;
+    left: 34.4%;
+}
+#weedsGridTwo {
+    position: relative;
+    top: -47%;
+    left: -44%;
+}
+#weedsGridOne {
+    position: relative;
+    top: -20%;
+    left: -44%;
+    z-index: 0;
+}
+#weedsGridThree {
+    top: -83.5%;
+    left: -17%;
+}
+#weedsGridFour {
+    top: -23%;
+    left: -44%;
+}
+#weedsGridFive {
+    top: -78%;
+    left: -17%;
+}
+#weedsSubFive {
+    top: 37.5vh;
+}
+#weedsGridSix {
+    top: -41%;
+    left: -44.1%;
+}
+#weedsEight {
+    top: 13%;
+    left: 34.5%;
+}
+#weedsCopyFive {
+    top: 15%;
+    left: 35.3%;
+}
+#weedsSubSix {
+    top: -1vh;
+}
+#weedsGridSeven {
+    left: -44%;
+}
+#weedsSubSeven {
+    top: 1vh;
+}
+#gridImageSmallerMargin {
+    width: 14.05vw;
+    margin-left: 10px;
+}
+
+.referenceWeeds,.referencesWeedsTwo, .referencesWeedsThree {
+    font-size: 9px;
+    line-height: 12px;
+}
 }

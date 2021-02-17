@@ -476,3 +476,82 @@
     left: 35.3%;
 }
 }
+
+@media (min-width: 1300px) and (max-width: 1399px) 
+{
+
+#hilsaMainTitle
+{
+    top: 26vh;   
+}
+#fishTwo {
+    top: 4%;
+}
+#fishSubTwo {
+    top: -16vh;
+}
+.fishQuoteOne {
+    top: 27%;
+}
+#fishThree {
+    top: 29.5%;
+}
+#fishImageDescriptionTwo {
+    top: 25%;
+}
+#fishSubThree {
+    top: -53vh;
+}
+#fishVideoOne {
+    top: 38%;
+
+}
+#fishImageDescriptionThree {
+    top: 34%;
+}
+#fishGridOne {
+    position: relative;
+    top: 35%;
+    left: -44%;
+}
+#fishGridTwo {
+    top: -6.4%;
+    left: -17%;
+}
+#fishFour {
+    top: -2%;
+}
+
+#fishImageDescriptionFour {
+    top: -6%;
+}
+#fishSubFour {
+    top: 74.5vh;
+}
+	#fishSeven {
+    position: relative;
+    left: -32.9%;
+    top: 34%;
+	}
+	#fishFive {
+    top: 36%;
+}
+#fishSubFive {
+    top: 204.2vh;
+}
+#fishSubSix {
+    top: 229.2vh;
+}
+#fishSubSeven {
+    top: 257.7vh;
+}
+#fishSubEight {
+    top: 250vh;
+}
+
+#fishImageDescriptionTen 
+{
+    top: -16.5%;
+}
+	
+}

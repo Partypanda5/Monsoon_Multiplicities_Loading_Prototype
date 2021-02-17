@@ -696,6 +696,12 @@
 
 @media (min-width: 1300px) and (max-width: 1399px) 
 {
+
+    #timeMainTitle
+    {
+        top: 17%;
+    }
+
     #timeSubFive 
     {
         top: -30vh;

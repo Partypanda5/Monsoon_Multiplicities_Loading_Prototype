@@ -390,3 +390,71 @@
     height: 70vh;
 }
 }
+
+@media (min-width: 1300px) and (max-width: 1399px) {
+    
+#potSubOne
+{
+    top: -5vh;
+}
+
+#potSubTwo 
+{
+    top: -50vh;
+}
+
+#potOne {
+    top: 35%;
+}
+#potSubTwo .copyText {
+    top: 17.5%;
+}
+#potFour {
+    left: -33.5%;
+}
+#potSix {
+    left: 34.5%;
+
+}
+#potFive {
+    left: 0.8%;
+
+}
+#potSubThree {
+    top: 64.2vh;
+}
+#potGridOne {
+    left: -44%;
+    top: 12%;
+}
+#potGridTwo {
+    left: -17%;
+    top: -29%;
+}
+#potNine {
+    left: 17.2%;
+
+}
+#potSubFive {
+    top: 13.5vh;
+}
+#potGridThree {
+    top: 32%;
+}
+#potSubSix {
+    top: 45vh;
+}
+#potGridFour {
+    left: -45.2%;
+}
+#potSubSeven {
+    top: 40vh;
+}
+#potGridFive {
+    left: -17%;
+}
+#potSubEight {
+    top: 52vh;
+    height: 52vh;
+}
+}

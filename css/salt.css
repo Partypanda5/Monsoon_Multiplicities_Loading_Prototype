@@ -4,6 +4,7 @@
     flex: 100%;
     display: block;
     z-index: 10;
+    height: 100%;
 }
 
 #saltSubTwo
@@ -346,4 +347,95 @@ left: 7.5%;
     top: 165vh;
 }
 
+}
+
+@media (min-width: 1300px) and (max-width: 1399px) 
+{
+
+#saltSubOne
+{
+    top: -5vh;
+}
+
+.saltCopyOne 
+{
+    top: -66%;
+}
+#saltTwo 
+{
+    top: -38%;
+    left: 7.6%;
+}
+#saltImageDescriptionOne {
+    top: -46%;
+}
+#saltVideoOne {
+    top: -40.5%;
+    left: -49.7%;
+}
+#saltSubTwo {
+    top: -1vh;
+}
+#saltThree {
+    top: 39%;
+}
+#saltFour {
+    top: 34%;
+}
+#saltImageDescriptionTwo {
+    top: 29%;
+}
+#saltSubThree {
+    top: 39vh;
+}
+#saltFive {
+    top: 39%;
+}
+#saltSix {
+    top: 34%;
+    left: 7.6%;
+}
+#saltImageDescriptionThree {
+    top: 13%;
+}
+#saltSubFour {
+    top: 33vh;
+}
+.saltQuote {
+    top: 26%;
+}
+#saltSeven {
+    top: 20%;
+left: 34.5%;
+}
+#saltImageDescriptionFour {
+    top: 32%;
+}
+#saltNine {
+    top: -16%;
+    left: 34.5%;
+}
+#saltEight {
+    top: 20.5%;
+    left: 0.8%;
+}
+#saltSubFive {
+    top: 34vh;
+}
+#saltSubSix {
+    top: -55vh;
+}
+#saltEleven {
+    top: 37%;
+}
+.saltQuoteTwo {
+    top: 28%;
+}
+#saltImageDescriptionSix {
+    top: 31.5%;
+}
+#saltSubSeven {
+    top: -93vh;
+    height: 60vh;
+}
 }

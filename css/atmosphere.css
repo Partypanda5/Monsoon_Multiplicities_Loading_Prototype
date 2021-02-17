@@ -414,3 +414,79 @@ height: 76.1vh;
     width: 20%;
 }
 }
+
+@media (min-width: 1300px) and (max-width: 1399px)
+{
+
+#atmosphereSubOne
+{
+    top: -5vh;
+}
+
+.copyTextAtmosOne {
+    top: 27.5%;
+}
+#atmosphereSubTwo {
+    top: -8vh;
+}
+#atmosOne {
+    top: 36%;
+}
+#atmosImageDescriptionOne {
+    top: 27%;
+}
+#AtmosVideoThree {
+    top: -22vh;
+}
+#atmosphereSubThree {
+    top: -92vh;
+}
+#atmosThree {
+    top: 24.5%;
+}
+#atmosTwo {
+    top: 31.5%;
+}
+#atmosImageDescriptionThree {
+    top: 19.5%;
+}
+#AtmosVideoFour {
+    top: 22%;
+}
+#atmosphereSubFour {
+    top: -75.5vh;
+}
+#atmosphereSubFive {
+    top: -141vh;
+}
+#atmosphereSubSix {
+    top: -178vh;
+}
+#atmosphereSubSeven {
+    top: -225vh;
+}
+#atmosGridOne {
+    left: -44%;
+}
+#atmosGridTwo {
+    left: -17%;
+}
+#atmosphereSubEight {
+    top: -253vh;
+}
+#gridImageAtmos {
+    width: 14.1vw;
+    margin-left: 10px;
+}
+#atmosphereSubNine {
+    top: -294vh;
+    height: 130vh;
+}
+
+.referencesAtmos, .referencesAtmosTwo {
+    font-size: 9px;
+    line-height: 12px;
+    width: 20%;
+}
+	
+}
