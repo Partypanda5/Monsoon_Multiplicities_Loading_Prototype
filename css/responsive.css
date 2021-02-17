@@ -242,10 +242,17 @@
         h2 {
               font-size: 13px;
           }
-          .titleSup {
-            font-size: 10px;
-            line-height: 0;
-        }
+          sup
+          {
+              font-size: 8px;
+              line-height: 0;
+          }
+      
+      .titleSup
+          {
+              font-size: 10px;
+              line-height: 0;
+          }
           .headings {
               width: 3.2vw;
           }

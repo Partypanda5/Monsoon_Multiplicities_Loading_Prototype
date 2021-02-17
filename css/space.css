@@ -356,7 +356,10 @@
 
 @media (min-width: 1300px) and (max-width: 1399px) 
 {
-	
+#spaceMainTitle
+{
+	top: 17%;
+}	
 #spaceSubTwo {
     top: -54.4vh;
 }

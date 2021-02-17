@@ -476,8 +476,8 @@ snakesSubchapter.addEventListener('click', function()
   setTabHeadingStyling(snakesSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(snakesSubchapter, bigHeadingArray);
 
- imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+ //imageInCorner.style.display = "none";
+  //imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
   
@@ -488,7 +488,7 @@ snakesSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    ////imageInCorner.style.display = "block";
+    //imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -497,8 +497,8 @@ saltSubchapter.addEventListener('click', function()
   setTabHeadingStyling(saltSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(saltSubchapter, bigHeadingArray);
 
- imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+ //imageInCorner.style.display = "none";
+  //imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
   

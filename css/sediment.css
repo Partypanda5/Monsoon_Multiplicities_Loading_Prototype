@@ -1075,11 +1075,16 @@
         top: -200vh;
     }
 
+    #sedimentMainTitle
+    {
+        top: 17%;
+    }
+
     #sedimentCopy 
     {
         font-size: 22px;
         line-height: 25px;
-        top: 20%;
+        top: 16%;
     }
 
     .sedimentCopySix 
@@ -1200,6 +1205,12 @@
     {
         left: 8.3%;
         top: 0%;
+    }
+
+    #sedimentImageDescriptionTen
+    {
+        left: 52.3%;
+        top: -104%;
     }
 
     #sedimentImageDescriptionTwelve 

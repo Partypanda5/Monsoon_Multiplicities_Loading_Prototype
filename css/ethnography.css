@@ -877,7 +877,13 @@
     #EthnoGridTwelve 
     {
         top: -5.5%;
-        left: -44%;
+        left: -43.8%;
+    }
+
+    #EthnoGridThree 
+    {
+        top: -55%;
+        left: -43.8%;
     }
 
     #EthnoGridFour 
@@ -943,6 +949,12 @@
     .copyTextEthnoOne 
     {
         top: -1%;
+        left: 8.3%;
+    }
+
+    .copyTextGroundWaterTwo 
+    {
+        top: 25%;
         left: 8.3%;
     }
 
