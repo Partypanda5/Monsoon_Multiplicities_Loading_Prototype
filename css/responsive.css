@@ -474,14 +474,14 @@
         }
        .cityTitle {
         font-size: 13px;
-        top: 13vh;
+        top: 13.5vh;
         left: -2.3px;
     }
         .tabSubtitles {
             font-size: 13px;
         }
         .subtitleContainer {
-            top: 40.2vh;
+            top: 40vh;
             right: 5.1vw;
         }
      .copyTextLarger{
@@ -494,11 +494,16 @@
         width: 44px;
         border-left: 2px solid black;
     }
+
+    .headings 
+    {
+        border-right: 2px solid black;
+    }
     li.active {
         width: 290px;
     }
     #Interlocutors {
-        right: 0.5vw;
+        right: 0.2vw;
         top: 5vh;
     }
     #Infrastructure {
@@ -507,15 +512,15 @@
     }
     #subtitleContainerTwo {
         right: 10.1vw;
-        top: 39.1vh;
+        top: 38.7vh;
     }
     #Framings {
-        left: 2.9px;
+        left: 5.9px;
         top: 3.4vh;
     }
     #subtitleContainerThree {
-        right: 3.4vw;
-        top: 42.2vh;
+        right: 3.2vw;
+        top: 41.8vh;
     }
     #Matters {
         left: 9.7px;
@@ -523,14 +528,15 @@
     }
     #subtitleContainerFour {
         right: 2.6vw;
-        top: 44.8vh;
+        top: 44.5vh;
     }
     #UrbanAssemblages {
-        right: 24px;
+        right: 22px;
+        top: 7.5vh;
     }
     #subtitleContainerFive {
         right: 7.5vw;
-        top: 36.8vh;
+        top: 36.6vh;
     }
         .focusedSingleSubtitle {
             font-size: 23px;
@@ -538,12 +544,12 @@
         }
         #focusedSubtitlesOne {
             bottom: 52.4vh;
-            left: -3.7vw;
+            left: -3.6vw;
             text-align: left;
         }
         #focusedSubtitlesTwo {
             bottom: 55.4vh;
-            left: -8.9vw;
+            left: -8.7vw;
             text-align: left;
         }
         #focusedSubtitlesThree {
@@ -552,12 +558,12 @@
             text-align: left;
         }
         #focusedSubtitlesFour {
-            left: -1.4vw;
+            left: -1.35vw;
             bottom: 49vh;
             text-align: left;
         }
         #focusedSubtitlesFive {
-            left: -6.4vw;
+            left: -6.2vw;
             bottom: 55.5vh;
             text-align: left;
         }

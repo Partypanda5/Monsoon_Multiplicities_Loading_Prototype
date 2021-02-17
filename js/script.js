@@ -65,10 +65,11 @@ var drawingSmallTabHeading = document.querySelector('#Drawing');
 var yangonSmallTabHeading = document.querySelector('#YangonNav');
 var pedagogySmallTabHeading = document.querySelector('#Pedagogy');
 var dragonflySmallTabHeading = document.querySelector('#DragonFlies');
+var oceanSmallTabHeading = document.querySelector('#Ocean');
 
 let smallTabHeadingArray =  
 [
-  hilsaSmallTabHeading, snakesSmallTabHeading, saltSmallTabHeading, dhakaSmallTabHeading, khalsSmallTabHeading, timeSmallTabHeading, sedimentSmallTabHeading, airSmallTabHeading, potsSmallTabHeading, weedsSmallTabHeading, londonSmallTabHeading, tanksSmallTabHeading, tanksSmallTabHeading, groundwaterSmallTabHeading, ethnographySmallTabHeading, atmosphereSmallTabHeading, spaceSmallTabHeading, chennaiSmallTabHeading, yangonSmallTabHeading, pedagogySmallTabHeading, dragonflySmallTabHeading
+  hilsaSmallTabHeading, snakesSmallTabHeading, saltSmallTabHeading, dhakaSmallTabHeading, khalsSmallTabHeading, timeSmallTabHeading, sedimentSmallTabHeading, airSmallTabHeading, potsSmallTabHeading, weedsSmallTabHeading, londonSmallTabHeading, tanksSmallTabHeading, tanksSmallTabHeading, groundwaterSmallTabHeading, ethnographySmallTabHeading, atmosphereSmallTabHeading, spaceSmallTabHeading, chennaiSmallTabHeading, yangonSmallTabHeading, pedagogySmallTabHeading, dragonflySmallTabHeading, oceanSmallTabHeading
 ];
 
 let bigHeadingArray = 
@@ -846,8 +847,8 @@ drawingSubchapter.addEventListener('click', function()
 
 oceanSubchapter.addEventListener('click', function() 
 {
-  setTabHeadingStyling(drawingSmallTabHeading, smallTabHeadingArray);
-  setTabHeadingStyling(drawingSubchapter, bigHeadingArray);
+  setTabHeadingStyling(oceanSmallTabHeading, smallTabHeadingArray);
+  setTabHeadingStyling(oceanSubchapter, bigHeadingArray);
 
    //imageInCorner.style.display = "none";
  // imageInCorner.src = '';
