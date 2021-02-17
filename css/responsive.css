@@ -425,25 +425,25 @@
         }
       
       #monsoonAssemblagesNav {
-          top: 59.5vh;
+        top: 57.5vh;
       }
       #acknowledgementsNav {
-          top: 48vh;
+        top: 46vh;
       }
       
       #collaboratorsNav {
-          top: 40.9vh;
+        top: 38.9vh;
       }
       
       #glossaryNav {
-          top: 37.5vh;
+        top: 34.5vh;
       }
       
       #residencyNav {
-          top: 33vh;
+        top: 29vh;
       }
       #eventsNav {
-          top: 31vh;
+        top: 26vh;
       }
       
           #eventsNav, #residencyNav, #glossaryNav, #collaboratorsNav, #acknowledgementsNav, #monsoonAssemblagesNav {

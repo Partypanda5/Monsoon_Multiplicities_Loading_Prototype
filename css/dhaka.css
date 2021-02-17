@@ -1001,49 +1001,54 @@ figure.containerZoom:hover
 @media (min-width: 1300px) and (max-width: 1399px) 
 {
 
+    #dhakaSubOne
+    {
+        top: -5vh;
+    }
+
     #dhakaSubTwo
     {
-        top: -43vh;
+        top: -48vh;
     }
 
     #dhakaSubThree 
     {
-        top: -39vh;
+        top: -50vh;
     }
 
     #dhakaSubFour 
     {
-        top: 52vh;
+        top: 35vh;
     }
 
     #dhakaSubFive 
     {
-        top: 223vh;
+        top: 198vh;
     }
 
     #dhakaSubSix 
     {
-        top: 423vh;
+        top: 390vh;
     }
 
     #dhakaSubSeven 
     {
-        top: 433vh;
+        top: 396vh;
     }
 
     #dhakaSubEight 
     {
-        top: 613vh;
+        top: 569vh;
     }
 
     #dhakaSubNine 
     {
-        top: 663vh;
+        top: 614vh;
     }
 
     #dhakaSubTen 
     {
-        top: 718vh;
+        top: 662vh;
     }
 
     #dhakaOne 
@@ -1077,8 +1082,9 @@ figure.containerZoom:hover
 
     #dhakaSeven 
     {
-        top: -27.5%;
-        left: 18.5%;
+        top: -26.8%;
+        left: 18.9%;
+        width: 31.3vw;
     }
 
     #dhakaNine 
@@ -1119,7 +1125,7 @@ figure.containerZoom:hover
 
     #dhakaGridFive 
     {
-        left: -50%;
+        left: -48.7%;
         top: -2%;
     }
 

@@ -569,34 +569,40 @@
 
 @media (min-width: 1300px) and (max-width: 1399px) 
 {
+
+    #oceanSubOne
+    {
+        top: -5vh;
+    }
+
     #oceanSubTwo 
     {
-        top: -65vh;
+        top: -77vh;
     }
 
     #oceanSubThree 
     {
-        top: -30vh;
+        top: -47vh;
     }
 
     #oceanSubFour 
     {
-        top: -20vh;
+        top: -44vh;
     }
 
     #oceanSubFive 
     {
-        top: -20vh;
+        top: -49vh;
     }
 
     #oceanSubSix 
     {
-        top: -33vh;
+        top: -64vh;
     }
 
     #oceanSubSeven 
     {
-        top: 202vh;
+        top: 163vh;
         height: 15vh;
     }
 

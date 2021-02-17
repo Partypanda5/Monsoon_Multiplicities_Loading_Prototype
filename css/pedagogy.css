@@ -913,12 +913,14 @@
     font-size: 23px;
     line-height: 25px;
 }
-	#pedagogyGridOne {
 
-    left: -44.2%;
+#pedagogyGridOne 
+ {
+
+        left: -43.95%;
 }
 	
-	#PedagogyVideoOne {
+#PedagogyVideoOne {
     height: 76vh;
     top: 8%;
     left: -17.8%;
@@ -926,7 +928,7 @@
 
 #pedagogyGridTwo {
     top: 34%;
-left: -80.1%;
+    left: -79.95%;
 }
 
 #pedagogySubThree {
@@ -1082,6 +1084,7 @@ top: 12%;
 #gridImagePedagogyThree {
     position: relative;
     left: 1.3%;
+    width: 26.25vw;
 }
 
 #pedagogyImageDescriptionThirteen {
@@ -1091,9 +1094,10 @@ top: 12%;
 #pedagogySubFive {
     top: 1139vh;
 }
+
 #pedagogyGridFour {
-    top: -41.69%;
-left: -44.2%;
+    top: -42.69%;
+    left: -44.2%;
 }
 
 #pedagogyTwentyFour {
@@ -1226,5 +1230,10 @@ left: 7.4%
 
 #pedagogyImageDescriptionEight {
     top: -362%;
-}	
+}
+
+#gridImageMiddleYangon 
+{
+    margin-top: 3vh;
+}
 }

@@ -609,6 +609,7 @@
         left: -32.4%;
     }
 
+
     #EthnoGridTwelve 
     {
         position: relative;
@@ -707,6 +708,19 @@
         left: -33%;
     }
 
+    #ethnoFourteen 
+    {
+        top: 7.2%;
+        left: 34.5%;
+    }
+    
+    #ethnoFifteen 
+    {
+        top: 9%;
+        left: -32.9%;
+    }
+
+
     #ethnoSixteen 
     {
         top: -42%;
@@ -760,29 +774,44 @@
 
 @media (min-width: 1300px) and (max-width: 1399px) 
 {
+
+    #ethnographySubOne
+    {
+        top: -5vh;
+    }
+
     #ethnographySubTwo 
     {
-        top: -55vh;
+        top: -62vh;
     }
 
     #ethnographySubThree 
     {
-        top: -50vh;
+        top: -62vh;
     }
 
     #ethnographySubFour 
-    {
-        top: 65vh;
+        {
+        top: 37vh;
     }
-
     #ethnographySubFive 
     {
-        top: 170vh;
+        top: 139vh;
+    }
+
+    #ethnographySubSix 
+    {
+        top: 162vh;
+    }
+
+    #ethnographySubEight 
+    {
+        top: 307vh;
     }
 
     #ethnographySubNine 
     {
-        top: 327vh;
+        top: 268vh;
     }
 
     #enthoThree 

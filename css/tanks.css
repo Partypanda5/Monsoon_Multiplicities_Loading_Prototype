@@ -576,7 +576,7 @@
     #tanksThree 
     {
         top: -16%;
-        left: 7.5%;
+        left: 7.95%;
     }
 
     #tanksSix 
@@ -662,34 +662,44 @@
 @media (min-width: 1300px) and (max-width: 1399px) 
 {
 
-    #tanksSubThree 
+    #tanksSubOne
     {
         top: -5vh;
     }
 
+    #tanksSubTwo
+    {
+        top: -50vh;
+    }
+
+    #tanksSubThree 
+    {
+        top: -20vh;
+    }
+
     #tanksSubFour 
     {
-        top: 90vh;
+        top: 65vh;
     }
 
     #tanksSubFive 
     {
-        top: 160vh;
+        top: 130vh;
     }
 
     #tanksSubSeven 
     {
-        top: 230vh;
-    }    
+        top: 195vh;
+    }
 
     #tanksSubEight 
     {
-        top: 285vh;
+        top: 245vh;
     }
 
     #tanksSubNine 
     {
-        top: 355vh;
+        top: 310vh;
         height: 65vh;
     }
 
@@ -798,7 +808,7 @@
     }
 }
 
-@media (min-width: 1400px) and (max-width: 1499px) 
+@media (min-width: 1400px) and (max-width: 1499px)
 {
     #tanksSubNine 
     {

@@ -409,21 +409,42 @@
 @media (min-width: 1300px) and (max-width: 1399px) 
 {
 
+    #snakeSubOne
+    {
+        top: -5vh;
+    }
+
+    #snakeSubTwo 
+    {
+        top: -62vh;
+    }
+
+    #snakeSubThree 
+    {
+        top: 51.3vh;
+    }
+
     #snakeSubFour 
     {
-        top: 270vh;
+        top: 244vh;
     }
 
     #snakeCopyFour
     {
-        top: -69%;
+        top: -67%
     }
 
-    #snakeSubFive 
+    #snakeSubFive
     {
-        top: 395vh;
+        top: 361.5vh;
     }
 
+    #snakeSubSix 
+    {
+        top: 458vh;
+        height: 17vh;
+    }
+    
     .snakesCopyOne 
     {
         font-size: 14px;

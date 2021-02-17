@@ -284,7 +284,7 @@
     #londonGridOne 
     {
         top: 27%;
-        left: 4.4%;
+        left: 5.5%;
     }
 
     .londonEventsContainerOne 
@@ -294,19 +294,19 @@
 
     .londonEventsContainerTwo 
     {
-        top: 49.5vh;
+        top: 48vh;
         left: 35.2%;
     }
 
     .londonEventsContainerThree 
     {
-        top: 54vh;
+        top: 51vh;
         left: 35.2%;
     }
 
     .londonEventsContainerFour 
     {
-        top: 68vh;
+        top: 63vh;
         left: 35.2%;
     }
 
@@ -331,25 +331,31 @@
 
 @media (min-width: 1300px) and (max-width: 1399px) 
 {
+
+    #londonSubOne
+    {
+        top: -5vh;
+    }
+
     #londonSubTwo 
     {
-        top: -60vh;
+        top: -71vh;
     }
 
     #londonSubThree 
     {
-        top: -131vh;
+        top: -148vh;
         z-index: 5;
     }
 
     #londonSubFour 
     {
-        top: -170vh;
+        top: -191vh;
     }
 
     #londonSubFive 
     {
-        top: -137vh;
+        top: -165vh;
         height: 15vh;
     }
 

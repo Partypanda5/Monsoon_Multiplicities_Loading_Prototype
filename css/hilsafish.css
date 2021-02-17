@@ -387,7 +387,7 @@
 
 #fishGridTwo {
     top: -13%;
-    left: -16.25%;
+    left: -17.25%;
 }
 #fishFour {
     top: -9%;
@@ -409,14 +409,14 @@
 }
 #fishGridThree {
     top: 28%;
-    left: -37.9%;
+    left: -39.1%;
 }
 #fishSix {
     top: 25%;
 }
 #fishGridFour {
     top: 10%;
-    left: -37.9%;
+    left: -39.1%;
 }
 #fishImageDescriptionSix {
     top: 5%;
@@ -430,11 +430,11 @@
 }
 #fishGridFive {
     top: 33.5%;
-    left: -37.9%;
+    left: -39.1%;
 }
 #fishGridSix {
     top: 27%;
-    left: -37.9%;
+    left: -39.1%;
 }
 #fishImageDescriptionSeven {
     top: 22%;
@@ -449,11 +449,11 @@
 }
 #fishGridSeven {
     top: 37%;
-    left: -37.9%;
+    left: -39.1%;
 }
 #fishGridEight {
     top: 30.7%;
-    left: -37.9%;
+    left: -39.1%;
 }
 #fishImageDescriptionEight {
     top: 26%;
@@ -469,5 +469,10 @@
 }
 #fishVideoFive {
     height: 37vh;
+}
+#fishImageDescriptionTen 
+{
+    top: -21%;
+    left: 35.3%;
 }
 }

@@ -508,6 +508,12 @@
         left: -32.9%;
     }
 
+    #timeVideoTen 
+    {
+        top: -28%;
+        left: -32.9%;
+    }
+
     .timeCopyOne 
     {
         top: 57%;
@@ -611,13 +617,13 @@
 
     #timeHorizontalGridThree 
     {
-        top: 132%;
+        top: 134%;
         left: 0.5%;
     }
 
     #timeHorizontalGridFour 
     {
-        top: 173%;
+        top: 175%;
         left: 1.25%;
     }
 
@@ -635,7 +641,7 @@
 
     #timeImageDescriptionThree 
     {
-        top: 86%;
+        top: 87%;
         left: 52.2%;
     }
 
@@ -644,10 +650,10 @@
         top: 87%;
     }
 
-    #timeVideoSix 
+    #timeGridSix 
     {
-        top: 15%;
-        left: -32.9%;
+        left: -44.5%;
+        top: -24%;
     }
 
     #timeVideoSeven 
@@ -742,6 +748,18 @@
     {
         left: -45.4%;
         top: -22%;
+    }
+
+    #timeGridSeven 
+    {
+        left: -48.5%;
+        top: -13%;
+    }
+    
+    #timeGridEight 
+    {
+        left: -14.7%;
+        top: -79%;
     }
 
     #timeEleven 
