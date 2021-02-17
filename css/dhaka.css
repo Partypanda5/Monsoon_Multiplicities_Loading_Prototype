@@ -1274,3 +1274,253 @@ figure.containerZoom:hover
     }
 
 }
+
+@media (min-width: 1400px) and (max-width: 1499px) 
+{
+    #dhakaSubTwo 
+    {
+        top: -39vh;
+    }
+
+    #dhakaSubThree 
+    {
+        top: -25vh;
+    }
+
+    #dhakaSubFour 
+    {
+        top: 78.5vh;
+    }
+
+    #dhakaSubFive 
+    {
+        top: 265vh;
+    }
+
+    #dhakaSubSix
+    {
+        top: 485vh;
+    }
+
+    #dhakaSubSeven
+    {
+        top: 503vh;
+    }
+
+    #dhakaSubEight 
+    {
+        top: 699vh;
+    }
+
+    #dhakaSubNine 
+    {
+        top: 776.5vh;
+    }
+
+    #dhakaSubTen 
+    {
+        top: 833vh;
+    }
+
+    #dhakaGridTen 
+    {
+        left: -43.9%;
+        top: 39%;
+    }
+
+    #dhakaGridEleven 
+    {
+        left: -16.7%;
+        top: -35%;
+    }
+
+    #dhakaGridTwelve 
+    {
+        left: -50.4%;
+        top: 0%;
+    }
+
+    #dhakaGridThirteen 
+    {
+        left: -16.8%;
+        top: -71%;
+    }
+
+    #dhakaGridFourteen 
+    {
+        left: -32.4%;
+        top: -69%;
+    }
+
+    #dhakaGridFifteen 
+    {
+        left: -32.5%;
+        top: 1%;
+    }
+
+    #dhakaGridSixteen
+    {
+        left: -32.5%;
+    }
+
+    #dhakaGridSeventeen 
+    {
+        top: -24%;
+        left: -32.5%;
+    }
+
+    .copyDhaka
+    {
+        top: 18.2%;
+    }
+
+    #dhakaOne 
+    {
+        top: 30%;
+    }
+
+    #dhakaTwo 
+    {
+        top: 4%;
+        left: 7.7%;
+    }
+
+    #dhakaThree 
+    {
+        top: -9%;
+        left: 34.6%;
+    }
+
+    #dhakaFour 
+    {
+        top: 27%;
+        left: -32.9%;
+    }
+
+    #dhakaFive 
+    {
+        top: 2%;
+        left: 30.7%;
+    }
+
+    #DhakaVideoTwo 
+    {
+        left: -32.9%;
+        top: 18%;
+    }
+
+    #DhakaVideoFour 
+    {
+        left: -32.9%;
+        top: 27%;
+    }
+
+    #dhakaImageDescriptionOne 
+    {
+        top: 86%;
+        left: 8.3%;
+    }
+
+    #dhakaImageDescriptionTwo 
+    {
+        top: 23%;
+        left: 35.3%;
+    }
+
+    #dhakaImageDescriptionSeven 
+    {
+        top: -54.2%;
+        left: 52%;
+    }
+
+    #dhakaImageDescriptionEighteen
+    {
+        top: -20.1%;
+        left: 1.7%; 
+    }
+
+    #dhakaImageDescriptionNineteen 
+    {
+        top: -25%;
+        left: 18.5%;
+    }
+
+    #dhakaImageDescriptionTwenty 
+    {
+        top: -55.3%;
+        left: 35.3%;
+    }
+
+    #dhakaImageDescriptionTwentyOne 
+    {
+        top: -84.1%;
+        left: 52%;
+        padding-bottom: 12vh;
+    }
+
+    .leftQuoteDhaka 
+    {
+        top: 25%;
+        left: 8.3%;
+        width: 17%;
+    }
+
+    #dhakaGridOne 
+    {
+        left: -43.8%;
+        top: 11%;
+    }
+
+    #dhakaGridTwo 
+    {
+        left: -16.8%;
+        top: -63%;
+    }
+
+    #dhakaGridThree 
+    {
+        left: -49.4%;
+        top: 25%;
+    }
+
+    #dhakaGridFour 
+    {
+        left: -49.4%;
+        top: 13.5%;
+    }
+
+    #dhakaGridFive 
+    {
+        left: -49.9%;
+        top: -0.5%;
+    }
+
+    #dhakaGridSix 
+    {
+        left: -32.4%;
+        top: 21%;
+    }
+
+    #dhakaGridSeven 
+    {
+        left: -32.5%;
+        top: 16%;
+    }
+
+    #gridImageMiddleDhakaTwo 
+    {
+        width: 14.1vw;
+        margin-left: 11px;
+    }
+
+    .dhakaMapContainerTwo 
+    {
+        top: -35%;
+        left: 1.7%;
+    }
+
+    .copyDhakaOne 
+    {
+        top: 0.5%;
+    }
+}

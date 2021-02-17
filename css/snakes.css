@@ -514,3 +514,94 @@
         margin-top: 3vh;
     }
 }
+
+@media (min-width: 1400px) and (max-width: 1499px)
+{
+    #snakeSubTwo 
+    {
+        top: -49vh;
+    }
+
+    #snakeSubThree 
+    {
+        top: 84vh;
+    }
+
+    #snakeSubFour 
+    {
+        top: 293vh;
+    }
+
+    #snakeSubFive 
+    {
+        top: 426vh;
+    }
+
+    #snakeSubSix 
+    {
+        top: 532vh;
+        height: 15vh;
+    }
+
+    .snakesCopyOne 
+    {
+        font-size: 14px;
+        line-height: 17px;
+    }
+
+    #snakeGridOne 
+    {
+        top: 8.5%;
+        left: -43.9%;
+    }
+
+    #snakeGridTwo 
+    {
+        top: -43%;
+        left: -39.18%;
+    }
+
+    #snakeGridThree 
+    {
+        top: -12%;
+        left: -43.9%;
+    }
+
+    #snakeGridFour 
+    {
+        top: -50%;
+        left: -16.9%;
+    }
+    
+    #snakeFour 
+    {
+        top: -45%;
+        left: 34.6%;
+    }
+
+    #snakeEight 
+    {
+        top: -36.5%;
+        left: 34.7%;
+    }
+
+    #snakeTen 
+    {
+        top: -53%;
+        left: -32.9%;
+    }
+    
+    #snakeImageDescriptionOne 
+    {
+        top: -40%;
+        left: 35.3%;
+    }
+
+    #gridImageMiddleSnakesHor 
+    {
+        width: 23.6vw;
+        margin-left: 0.8vw;
+        margin-right: 0px;
+        margin-top: 3vh;
+    }
+}

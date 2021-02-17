@@ -412,3 +412,95 @@
         line-height: 12px;
     }
 }
+
+@media (min-width: 1400px) and (max-width: 1499px) 
+{
+   .londonCopy
+   {
+       top: 17.5%;
+       font-size: 22px;
+       line-height: 25px;
+   } 
+
+   #londonSubThree 
+   {
+        top: -133vh;
+        z-index: 5;
+    }
+
+    #londonSubFour 
+    {
+        top: -162vh;
+    }
+
+    #londonSubFive 
+    {
+        top: -131vh;
+        height: 20vh;
+    }
+
+   .londonCopyOne
+   {
+       top: 18%;
+   }
+
+   #titleTwo 
+    {
+        top: 72vh;
+    }
+
+    #copyTwo 
+    {
+        top: 64vh;
+    }
+
+    .londonEventsContainerOne 
+    {
+        top: 38vh;
+    }
+
+    .londonEventsContainerTwo 
+    {
+        top: 45.2vh;
+    }
+
+    .londonEventsContainerThree 
+    {
+        top: 51.5vh;
+    }
+
+    .londonEventsContainerFour 
+    {
+        top: 65.1vh;
+    }
+
+    #londonGridOne 
+    {
+        top: 23%;
+        left: 4.7%;
+    }    
+
+    .londonHeading 
+    {
+        font-size: 22px;
+        line-height: 25px;
+    }
+    
+    .londonReferences 
+    {
+        font-size: 10px;
+        line-height: 12px;
+    }
+
+    .referencesLondon 
+    {
+        font-size: 9px;
+        line-height: 12px;
+    }
+
+    .referencesLondonTwo
+    {
+        font-size: 9px;
+        line-height: 12px;
+    }
+}

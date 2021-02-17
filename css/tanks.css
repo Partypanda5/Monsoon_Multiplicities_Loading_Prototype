@@ -810,9 +810,172 @@
 
 @media (min-width: 1400px) and (max-width: 1499px)
 {
+
+    #tanksSubOne
+    {
+        top: -4vh;
+    }
+
+    #tanksSubTwo 
+    {
+        top: -41vh;
+    }
+
+    #tanksSubThree 
+    {
+        top: 4vh;
+    }
+
+    #tanksSubFour 
+    {
+        top: 105vh;
+    }
+
+    #tanksSubFive 
+    {
+        top: 181vh;
+    }
+    
+    #tanksSubSeven
+    {
+        top: 257vh;
+    }
+
+    #tanksSubEight 
+    {
+        top: 321vh;
+    }
+
     #tanksSubNine 
     {
-        top: 384.5vh;
+        top: 385.5vh;
         height: 65vh;
+    }
+
+    #gridImageMiddleTanksTwo 
+    {
+        width: 30vw;
+        margin-left: 4px;
+    }
+
+    #gridImageMiddleTanksThree 
+    {
+        width: 23.5vw;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    #tanksImageDescriptionFour 
+    {
+        top: -33%;
+        left: 8.3%;
+    }
+
+    #tanksImageDescriptionFive 
+    {
+        top: 10.7%;
+        left: 8.3%;
+    }
+
+    #tanksGridOne 
+    {
+        left: -32.4%;
+        top: -8%;
+    }
+
+    #tanksGridTwo 
+    {
+        left: -43.8%;
+        top: -22%;
+    }
+
+    #tanksGridThree
+    {
+        left: -16.85%;
+        top: -58%;
+    }
+
+    #tanksGridFour 
+    {
+        left: -48.7%;
+        top: -10%;
+    }
+
+    #tanksGridFive 
+    {
+        left: -16.9%;
+        top: -65%;
+    }
+
+    #tanksGridSix 
+    {   
+        left: -39%;
+        top: 13%;
+    }
+
+    #tanksGridSeven 
+    {
+        left: -16.9%;
+        top: -76%;
+    }
+
+    #tanksGridEight 
+    {
+        left: -43.8%;
+        top: 1%;
+    }
+
+    #tanksGridNine 
+    {
+        left: -16.8%;
+        top: -99%;
+    }
+
+    #tanksGridEleven 
+    {
+        left: -43.8%;
+        top: -8%;
+    }
+
+    #tanksThree 
+    {
+        top: -13%;
+        left: 7.9%;
+    }
+
+    #tanksSeven 
+    {
+        top: 13%;
+        left: 7.7%;
+    }
+
+    #tanksNine 
+    {
+        top: -17%;
+        left: 7.6%;
+    }
+
+    #tanksTen 
+    {
+        top: -47%;
+        left: -45.3%;
+    } 
+    
+    #tanksTwelve 
+    {
+        top: -29%;
+        left: 7.6%;
+    }
+
+    #tanksThirteen 
+    {
+        top: -18%;
+        left: -32.9%;
+    }
+
+    .copyTanksTwo 
+    {
+        top: -10%;
+        left: 35.3%;
     }
 }

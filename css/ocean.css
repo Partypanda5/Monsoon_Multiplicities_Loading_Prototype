@@ -738,3 +738,205 @@
         left: 35.3%;
     }
 }
+
+@media (min-width: 1400px) and (max-width: 1499px) 
+{
+
+    #oceanSubTwo 
+    {
+        top: -64vh;
+    }
+
+    #oceanSubThree 
+    {
+        top: -25vh;
+    }
+
+    #oceanSubFour 
+    {
+        top: -12vh;
+    }
+
+    #oceanSubFive 
+    {
+        top: -9vh;
+    }
+
+    #oceanSubSix 
+    {
+        top: -16vh;
+    }
+
+    #oceanSubSeven 
+    {
+        top: 237vh;
+        height: 15vh;
+    }
+
+    .oceanCopyThree 
+    {
+        top: -34%;
+        left: 35.3%;
+        width: 26%;
+    }
+
+    .oceanCopyFour
+    {
+        top: 18.5%;
+    }
+
+    .oceanCopyOne 
+    {
+        top: 25%;
+    }
+
+    #oceanGridOne 
+    {
+        top: -21%;
+        left: -45.3%;
+    }
+
+    #oceanOne 
+    {
+        top: 30%;
+    }
+
+    #oceanSeven 
+    {
+        top: -42.2%;
+        left: 35.4%;    
+    }
+
+    #oceanFive 
+    {
+        top: 3%;
+        left: 33.7%;
+    }
+
+    #oceanEight 
+    {
+        top: 26%;
+        left: -32.3%;
+    }
+
+    #oceanNine 
+    {
+        top: 20%;
+        left: 0.9%;
+    }    
+
+    #oceanTen 
+    {   
+        top: 8.3%;
+        left: 34.2%;
+    }
+
+    #oceanTwelve 
+    {
+        top: 24%;
+        left: 34.55%;
+    }
+
+    #oceanThirteen
+    {
+        top: 28%;
+        left: 7.7%;
+    }
+
+    #oceanFourteen 
+    {
+        top: 15%;
+        left: 17.9%;
+        width: 47vw;
+    }
+
+    #oceanFifteen 
+    {
+        top: 10%;
+        left: 34.55%;   
+    }
+
+    #oceanSixteen 
+    {
+        top: -36%;
+        left: 34.5%;
+    }
+
+    #oceanSeventeen 
+    {
+        top: -40%;
+        left: 7.7%;
+    }
+
+    #oceanEighteen 
+    {
+        top: -49%;
+        left: 17.8%;
+        width: 47vw;
+    }
+
+    #oceanNinteen 
+    {
+        top: -55%;
+        left: 34.65%;
+    }
+
+    #oceanImageDescriptionOne 
+    {
+        top: 28%;
+    }
+
+    #oceanImageDescriptionTwo 
+    {
+        top: -40%;
+        left: 35.3%;
+    }
+
+    #oceanImageDescriptionThree
+    {
+        top: -5%;
+        left: 8.3%;
+    }
+
+    #oceanImageDescriptionFour 
+    {
+        top: 14%;
+        left: 35.3%;
+    }
+
+    #oceanImageDescriptionFive 
+    {
+        top: 88%;
+        left: 35.3%;
+        width: 21%;
+    }
+
+    #oceanImageDescriptionSix 
+    {
+        top: 37%;
+        left: 35.3%;
+        width: 21%;
+    }
+
+    .endlineOceanTwo 
+    {
+        top: 57%;
+        left: 0%;
+        border-bottom: 1px dotted black;
+    }
+
+    #OceanVideoTwo 
+    {
+        top: 0%;
+        left: -66.5%;
+        width: 25vw;
+        height: 97vh;
+    }
+
+    .oceanCopyTwo 
+    {
+        top: -57%;
+        left: 35.3%;
+        width: 26%;
+    }
+}

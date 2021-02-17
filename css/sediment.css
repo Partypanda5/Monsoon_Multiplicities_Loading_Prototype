@@ -533,7 +533,7 @@
 #sedimentVideoFour
 {
     position: relative;
-    left: -32.7%;
+    left: -32.9%;
     top: -35%;
     width: 61.5vw;
     height: 61.5vh;
@@ -1295,6 +1295,320 @@
         width: 14.3vw;
         margin-left: 4px;
         height: auto;
+    }
+
+}
+
+@media (min-width: 1400px) and (max-width: 1499px) 
+{
+    #sedimentCopy 
+    {
+        font-size: 22px;
+        line-height: 25px;
+        top: 17.5%;
+    }
+
+    #sedimentSubTwo 
+    {
+        top: 21vh;
+    }
+
+    #sedimentSubThree 
+    {
+        top: 31vh;
+    }
+
+    #sedimentSubFour 
+    {
+        top: -62vh;
+    }    
+
+    #sedimentSubFive 
+    {
+        top: -133vh;
+    }
+
+    #sedimentSubSix 
+    {
+        top: -95vh;
+    }
+
+    #sedimentSubSeven 
+    {
+        top: 1vh;
+    }
+
+    #sedimentSubEight 
+    {
+        top: -91vh;
+    }
+
+    #sedimentSubNine 
+    {
+        top: -165vh;
+    }
+
+    #sedimentSubTen 
+    {
+        top: -158vh;
+    }
+
+    .sedimentCopyTwo 
+    {
+        top: -3%;
+        left: 8.3%;
+        width: 16%;
+    }
+
+    .sedimentCopyFour 
+    {
+        top: 3%;
+        left: 8.3%;
+        width: 22%;
+    }
+
+    .sedimentCopyFive 
+    {
+        top: 27%;
+        left: 1.7%;
+        width: 25%;
+    }
+
+    #sedimentCopyNine 
+    {
+        top: 24%;
+        left: 1.7%;
+        width: 25%;
+    }
+
+    #sedimentCopyEleven 
+    {
+        top: 22%;
+        width: 27%;
+        left: 1.7%;
+    }
+
+    #sedimentCopyFourteen 
+    {
+        top: 24%;
+        width: 17%;
+        left: 8.3%;
+    }
+
+    .sedimentCopySix 
+    {
+        top: 24%;
+        left: 8.3%;
+        width: 16%;
+    }
+
+    .sedimentcopySeven 
+    {
+        top: 26%;
+        left: 1.9%;
+    }
+
+    #sedimentFifteen 
+    {
+        left: 1%;
+        top: -18.9%;
+        width: 31.2vw;
+    }
+
+    #sedimentEight 
+    {
+        left: 34.2%;
+        top: -103%;
+    }
+
+    #sedimentTen 
+    {
+        left: 7.8%;
+        top: -52%;
+    }
+
+    #sedimentCopyTen 
+    {
+        top: 25%;
+        width: 23%;
+        left: 1.7%;
+    }
+
+    #sedimentGridOne 
+    {
+        top: 15%;
+        left: -43.8%;
+    }
+
+    #sedimentGridTwo 
+    {
+        top: -73.2%;
+        left: -16.85%;
+    }
+
+    #sedimentGridSix 
+    {
+        top: -20%;
+        left: -49%;
+    }
+
+    #sedimentGridEleven 
+    {
+        top: 11.5%;
+        left: -16.5%;
+    }
+
+    #sedimentGridThirteen 
+    {
+        left: -16.9%;
+        top: -80%;
+    }
+
+    #sedimentGridTen 
+    {
+        top: 2.5%;
+        left: -16.6%;
+    }
+
+    #sedimentGridSeven 
+    {
+        top: -3%;
+        left: -46.5%;
+    }
+
+    #sedimentThree 
+    {
+        left: 26vw;
+        top: -122%;
+    }
+
+    #sedimentFour 
+    {
+        left: 34.6%;
+        top: -20%;
+        width: 31.3vw;
+    }
+
+    #sedimentSeven 
+    {
+        left: 34.7%;
+        top: 1.4%;
+    }
+
+    #sedimentNine 
+    {
+        left: -32.9%;
+        top: -4.5%;
+        width: 30vw;
+    }
+
+    #sedimentImageDescriptionOne 
+    {
+        left: 8.3%;
+        top: -171.5%;
+    }
+
+    #sedimentImageDescriptionTwo 
+    {
+        left: 35.3%;
+        top: -18%;
+        width: 13%;
+    }
+
+    #sedimentImageDescriptionThree 
+    {
+        left: 8.3%;
+        top: 9.8%;
+        width: 13%;
+        z-index: 5;
+    }
+
+    #sedimentImageDescriptionEleven 
+    {
+        left: 8.3%;
+        top: -85.7%;
+    }
+
+    #sedimentImageDescriptionFive 
+    {
+        left: 8.3%;
+        top: -111%;
+        width: 14%;
+    }
+
+    #sedimentImageDescriptionSix 
+    {
+        left: 8.3%;
+        top: -5%;
+    }
+
+    #sedimentImageDescriptionTwelve 
+    {
+        left: 8.3%;
+        top: 3.6%;
+    }
+
+    #sedimentImageDescriptionEight 
+    {
+        left: 35.3%;
+        top: -51%;
+    }
+
+    #sedimentImageDescriptionThirteen 
+    {
+        left: 52.5%;
+        top: -125.5%;
+    }
+
+    #sedimentImageDescriptionFourteen 
+    {
+        left: 35.3%;
+        top: 2%;
+    }
+
+    #sedimentImageDescriptionTen 
+    {
+        left: 52.3%;
+        top: -108.4%;
+    }
+
+    #sedimentVideoOne 
+    {
+        left: 0.1%;
+        top: -4.2%;
+    }
+
+    #sedimentVideoTwo 
+    {
+        left: -32.8%;
+        top: 24.5%;
+    }
+
+    #sedimentVideoThree 
+    {
+        left: -8.5%;
+        top: 48%;
+        width: 108vw;
+        height: 108vh;
+    }
+
+    #sedimentVideoFive 
+    {
+        bottom: 7%;
+        left: 3.4%;
+        width: 30vw;
+        height: 30vh;
+    }
+
+    .endlineSedimentThree 
+    {
+        top: -133%;
+    }
+
+    #gridImageSediment 
+    {
+        width: 14.3vw;
+        margin-left: 5px;
     }
 
 }
