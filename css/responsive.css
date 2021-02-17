@@ -475,7 +475,7 @@
        .cityTitle {
         font-size: 13px;
         top: 13vh;
-        left: -9.3px;
+        left: -2.3px;
     }
         .tabSubtitles {
             font-size: 13px;
@@ -538,7 +538,7 @@
         }
         #focusedSubtitlesOne {
             bottom: 52.4vh;
-            left: -3.5vw;
+            left: -3.7vw;
             text-align: left;
         }
         #focusedSubtitlesTwo {

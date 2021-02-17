@@ -388,8 +388,8 @@ dragonSubchapter.addEventListener('click', function()
   setTabHeadingStyling(dragonflySmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(dragonSubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -400,7 +400,7 @@ dragonSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+    ////imageInCorner.style.display = "block";
   }, 5000);
 
 });
@@ -411,8 +411,8 @@ pedagogySubchapter.addEventListener('click', function()
   setTabHeadingStyling(pedagogySmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(pedagogySubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -423,7 +423,7 @@ pedagogySubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+    ////imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -432,8 +432,8 @@ yangonSubchapter.addEventListener('click', function()
   setTabHeadingStyling(yangonSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(yangonSubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -444,7 +444,7 @@ yangonSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+    ////imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -454,8 +454,8 @@ hilsaSubchapter.addEventListener('click', function()
   setTabHeadingStyling(hilsaSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(hilsaSubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -466,7 +466,7 @@ hilsaSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+    ////imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -487,7 +487,7 @@ snakesSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+    ////imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -509,15 +509,15 @@ saltSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+    ////imageInCorner.style.display = "block";
   }, 5000);
 });
 
 dhakaSubchapter.addEventListener('click', function() 
 {
 
- imageInCorner.style.display = "none";
- imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
   setTabHeadingStyling(dhakaSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(dhakaSubchapter, bigHeadingArray);
@@ -532,7 +532,7 @@ dhakaSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-   imageInCorner.style.display = "block";
+   ////imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -541,8 +541,8 @@ khalsSubchapter.addEventListener('click', function()
   setTabHeadingStyling(khalsSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(khalsSubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -553,7 +553,7 @@ khalsSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+    ////imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -562,8 +562,8 @@ timeSubchapter.addEventListener('click', function()
   setTabHeadingStyling(timeSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(timeSubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -575,7 +575,7 @@ timeSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-   imageInCorner.style.display = "block";
+   //imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -584,8 +584,8 @@ sedimentSubchapter.addEventListener('click', function()
   setTabHeadingStyling(sedimentSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(sedimentSubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
 
   $('#backgroundVideo').fadeOut(2000);
@@ -597,7 +597,7 @@ sedimentSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+    //imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -607,8 +607,8 @@ airSubchapter.addEventListener('click', function()
   setTabHeadingStyling(airSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(airSubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -620,7 +620,7 @@ airSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-   imageInCorner.style.display = "block";
+   //imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -629,8 +629,8 @@ pipesPotsSubchapter.addEventListener('click', function()
   setTabHeadingStyling(potsSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(pipesPotsSubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -641,7 +641,7 @@ pipesPotsSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-   imageInCorner.style.display = "block";
+   //imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -651,8 +651,8 @@ weedsSubchapter.addEventListener('click', function()
   setTabHeadingStyling(weedsSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(weedsSubchapter, bigHeadingArray);
   
-  imageInCorner.style.display = "none";
-  imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -664,7 +664,7 @@ weedsSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-   imageInCorner.style.display = "block";
+   //imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -673,8 +673,8 @@ londonSubchapter.addEventListener('click', function()
   setTabHeadingStyling(londonSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(londonSubchapter, bigHeadingArray);
 
- imageInCorner.style.display = "none";
- imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -685,7 +685,7 @@ londonSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-   imageInCorner.style.display = "block";
+   //imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -695,8 +695,8 @@ tankSubchapter.addEventListener('click', function()
   setTabHeadingStyling(tanksSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(tankSubchapter, bigHeadingArray);
   
-imageInCorner.style.display = "none";
-imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -708,7 +708,7 @@ imageInCorner.src = '';
 
   setTimeout(function()
   { 
-   imageInCorner.style.display = "block";
+   //imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -717,8 +717,8 @@ groundwaterSubchapter.addEventListener('click', function()
   setTabHeadingStyling(groundwaterSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(groundwaterSubchapter, bigHeadingArray);
 
- imageInCorner.style.display = "none";
- imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -730,7 +730,7 @@ groundwaterSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+    //imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -739,8 +739,8 @@ ethnographySubchapter.addEventListener('click', function()
   setTabHeadingStyling(ethnographySmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(ethnographySubchapter, bigHeadingArray);
 
- imageInCorner.style.display = "none";
- imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -751,7 +751,7 @@ ethnographySubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+    //imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -760,8 +760,8 @@ atmosphereSubchapter.addEventListener('click', function()
   setTabHeadingStyling(atmosphereSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(atmosphereSubchapter, bigHeadingArray);
 
- imageInCorner.style.display = "none";
- imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -772,7 +772,7 @@ atmosphereSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+    //imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -782,8 +782,8 @@ spaceSubchapter.addEventListener('click', function()
   setTabHeadingStyling(spaceSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(spaceSubchapter, bigHeadingArray);
 
- imageInCorner.style.display = "none";
- imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
 
   $('#backgroundVideo').fadeOut(2000);
@@ -796,7 +796,7 @@ spaceSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+    //imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -806,8 +806,8 @@ chennaiSubchapter.addEventListener('click', function()
   setTabHeadingStyling(chennaiSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(chennaiSubchapter, bigHeadingArray);
   
- imageInCorner.style.display = "none";
- imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -818,7 +818,7 @@ chennaiSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-   imageInCorner.style.display = "block";
+   //imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -828,8 +828,8 @@ drawingSubchapter.addEventListener('click', function()
   setTabHeadingStyling(drawingSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(drawingSubchapter, bigHeadingArray);
 
- imageInCorner.style.display = "none";
- imageInCorner.src = '';
+  //imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -840,7 +840,7 @@ drawingSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+    //imageInCorner.style.display = "block";
   }, 5000);
 });
 
@@ -849,8 +849,8 @@ oceanSubchapter.addEventListener('click', function()
   setTabHeadingStyling(drawingSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(drawingSubchapter, bigHeadingArray);
 
-  imageInCorner.style.display = "none";
- imageInCorner.src = '';
+   //imageInCorner.style.display = "none";
+ // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -861,7 +861,7 @@ oceanSubchapter.addEventListener('click', function()
 
   setTimeout(function()
   { 
-    imageInCorner.style.display = "block";
+    //imageInCorner.style.display = "block";
   }, 5000);
 });
 
