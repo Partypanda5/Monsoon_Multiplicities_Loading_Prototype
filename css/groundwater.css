@@ -774,3 +774,151 @@
         left: 8.3%;
     }
 }
+
+@media (min-width: 1500px) and (max-width: 1599px) 
+{
+
+    #groundwaterSubThree 
+    {
+        top: -69vh;
+    }
+
+    #groundwaterSubTwo {
+        top: -45vh;
+    }
+
+    #groundwaterSubFour {
+        top: 8vh;
+    }
+
+    #groundwaterSubFive {
+        top: 12vh;
+    }
+
+    #groundwaterSubSix {
+        top: -6vh;
+    }
+
+    #groundwaterSubSeven {
+        top: -54vh;
+    }
+
+    #groundwaterSubEight {
+        top: -32vh;
+        height: 36vh;
+    }
+
+    #groundwaterOne 
+    {
+        top: 23%;
+        left: -32%;
+    }
+
+    #groundwaterFive 
+    {
+        top: 26%;
+        left: 1%;
+    }
+
+    #imagewaterThree 
+    {
+        top: 29%;
+        left: 7.5%;
+    }
+
+    .copyTextGroundWaterOne 
+    {
+        top: 7%;
+        width: 22%;
+    }
+
+    .copyTextGroundWaterTwo 
+    {
+        top: 30%;
+        left: 8.3%;
+    }
+
+    .copyTextGroundWaterThree 
+    {
+        top: -35%;
+        left: 35.4%;
+    }
+
+    #groundwaterTwo 
+    {
+        top: 40%;
+        left: 34.7%;
+        z-index: -5;
+    }
+
+    #groundwaterThree 
+    {
+        top: 51%;
+        left: -33%;
+    }
+
+    #groundwaterFour 
+    {
+        top: 14%;
+        left: 34.7%;
+    }
+
+    #groundwaterSix {
+        top: 25%;
+        left: -29.7%;
+    }
+
+    #groundwaterGridTwo 
+    {
+        top: 3%;
+        left: -17.6%;
+    }
+
+    #groundwaterGridThree 
+    {
+        top: -51%;
+        left: -43.6%;
+    }
+
+    #groundwaterGridFour {
+        top: 34%;
+        left: -43.6%;
+    }
+
+    #groundwaterGridFive 
+    {
+        top: -37%;
+        left: -17.6%;
+    }
+
+    #groundwaterGridSix 
+    {
+        top: 8%;
+        left: 6.2%;
+        z-index: 6;
+    }
+
+    #groundwaterGridSeven 
+    {
+        top: -66%;
+        left: -43.6%;
+    }    
+
+    #groundwaterImageDescriptionThree 
+    {
+        top: -49%;
+        left: 8.5%;
+    }
+
+    #groundwaterImageDescriptionTwo 
+    {
+        top: 5%;
+        left: 35.3%;
+    }
+
+    #groundwaterImageDescriptionFour 
+    {
+        top: 36%;
+        left: 8.5%;
+    }
+}

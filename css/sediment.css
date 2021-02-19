@@ -1612,3 +1612,49 @@
     }
 
 }
+
+@media (min-width: 1500px) and (max-width: 1599px) 
+{
+    #sedimentCopy 
+    {
+        font-size: 25px;
+        line-height: 28px;
+        top: 19.1%;
+    }
+
+    #sedimentSubTwo 
+    {
+        top: 35vh;
+    }
+
+    #sedimentGridOne 
+    {
+        top: 14%;
+        left: -43.7%;
+    }
+
+    #sedimentGridTwo {
+        top: -85.5%;
+        left: -17.5%;
+    }
+
+    .sedimentCopyOne 
+    {
+        top: -1%;
+        left: 1.7%;
+        width: 31%;
+    }
+
+    #sedimentThree 
+    {
+        left: 26vw;
+        top: -130%;
+        width: 40vw;
+    }
+
+    #sedimentImageDescriptionOne 
+    {
+        left: 8.3%;
+        top: -180%;
+    }
+}

@@ -712,6 +712,10 @@
         left: -4px;
         font-size: 14px;
     }
+    sup
+    {
+        font-size: 8px;
+    }
     li .section-title {
         right: 3vw;
         bottom: 43vh;
@@ -848,9 +852,10 @@
         line-height: 28px;
     }
     .copyText {
-        top: 19.55%;
+        top: 19.8%;
         font-weight: 400;
-        line-height: 23px;
+        font-size: 17px;
+        line-height: 20px;
     }
     .headingTitle {
         top: 4.8vh;
@@ -892,6 +897,17 @@
     #monsoonAssemblagesNav {
         top: 60.1vh;
         left: 0.1vw;
+    }
+
+    .copyTextBigger {
+        top: -84.8%;
+        font-size: 25px;
+        line-height: 28px;
+    }
+
+    .TemplateImageDescription {
+        font-size: 9px;
+        line-height: 12px;
     }
     }
     /* common - 1680×1050, 1600×900 */

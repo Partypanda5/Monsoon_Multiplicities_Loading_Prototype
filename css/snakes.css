@@ -605,3 +605,155 @@
         margin-top: 3vh;
     }
 }
+
+@media (min-width: 1500px) and (max-width: 1599px) 
+{
+    #snakeSubTwo {
+        top: -31.2vh;
+    }
+
+    #snakeSubThree {
+        top: 143vh;
+    }
+
+    #snakeSubFour {
+        top: 386vh;
+    }
+
+    #snakeSubFive {
+        top: 544.5vh;
+    }
+
+    #snakeTwo {
+        top: 22%;
+        left: 7.7%;
+    }
+
+    #snakeGridOne {
+        top: 8.5%;
+        left: -43.7%;
+    }
+
+    #snakeGridTwo {
+        top: -53%;
+        left: -39%;
+    }
+
+    #snakeGridThree {
+        top: -16.9%;
+        left: -43.7%;
+    }
+
+    #snakeGridFour {
+        top: -63%;
+        left: -16.7%;
+    }
+
+    #snakeSubFive {
+        top: 544.5vh;
+    }
+
+    #snakeSubSix {
+        top: 671vh;
+        height: 15vh;
+    }
+
+    .snakesCopyOne {
+        top: -58%;
+        left: 35.3%;
+        font-size: 17px;
+        line-height: 20px;
+    }
+
+    .snakesCopyTwo
+    {
+        top: 10%;
+        left: 35.3%;
+        font-size: 17px;
+        line-height: 20px;
+    }
+
+    .snakesCopyThree
+    {
+        top: -11%;
+        left: 35.3%;
+        font-size: 17px;
+        line-height: 20px;
+    }
+
+    #snakeFour {
+        top: -54%;
+        left: 34.7%;
+    }
+
+    #snakeFive {
+        top: -49%;
+        left: -32.9%;
+    }
+
+    #snakeSix {
+        top: 22%;
+        left: 7.5%;
+    }
+
+    #snakeEleven { 
+        top: 20%;
+        left: 7.7%;
+    }
+
+    #snakeEight {
+        top: -47.5%;
+        left: 34.7%;
+    }
+
+    #snakeNine {
+        top: 21.5%;
+        left: 7.65%;
+    }
+
+    #snakeTen {
+        top: -65%;
+        left: -32.9%;
+    }
+
+    #snakeEleven {
+        top: 20%;
+        left: 7.7%;
+    }
+
+    #snakeThirteen {
+        top: 10%;
+        left: 7.5%;
+    }
+
+    #snakeTwelve {
+        top: 15%;
+        left: -32.9%;
+    }
+
+    #snakeImageDescriptionOne {
+        top: -54%;
+        left: 35.3%;
+    }
+
+    #SnakeVideoOne {
+        top: -46%;
+        left: -32.9%;
+    }
+
+    #SnakeVideoTwo {
+        top: -57.5%;
+        left: -32.9%;
+    }
+
+    #SnakeVideoFour {
+        top: -10%;
+        left: -32.9%;
+    }
+
+    #gridImageMiddleSnakesHor {
+        width: 23.6vw;
+        margin-left: 0.3vw;
+        margin-right: 5px;
+    }
+}

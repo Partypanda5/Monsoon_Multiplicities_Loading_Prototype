@@ -886,3 +886,160 @@
     }
 
 }
+
+@media (min-width: 1500px) and (max-width: 1599px) 
+{
+    #airSubThree 
+    {
+        top: -86vh;
+    }
+
+    #airSubFour {
+        top: -107vh;
+    }    
+
+    #airSubFive {
+        top: -184vh;
+    }
+
+    #airSubSix {
+        top: -234vh;
+    }
+
+    #airSubSeven {
+        top: -188vh;
+    }
+
+    #airSubNine {
+        top: -154vh;
+    }
+
+    #airSubEight {
+        top: -122vh;
+    }
+
+    #airSubTen {
+        top: -103vh;
+    }
+
+    #airSubEleven {
+        top: -191vh;
+    }
+
+    #airSubTwelve {
+        top: -213vh;
+        height: 30vh;
+    }
+
+    #airVideoOne 
+    {
+        top: 38%;
+    }
+
+    #airVideoTwo 
+    {
+        top: 57%;
+    }
+
+    #airVideoFour 
+    {
+        top: 51%;
+        left: -32.9%;
+    }
+
+    #airGridOne 
+    {
+        top: 27%;
+        left: -50.4%;
+    }
+
+    #airImageDescriptionOne 
+    {
+        top: -6%;
+        left: 35.3%;
+    }
+
+    #airImageDescriptionTwo 
+    {
+        top: 52%;
+        left: 35.3%;
+    }
+
+    #airImageDescriptionThree 
+    {
+        top: 31%;
+        left: 35.3%;
+    }
+
+    #airImageDescriptionSix 
+    {
+        top: 73%;
+        left: 35.3%;
+    }
+
+    #airImageDescriptionSeven 
+    {
+        top: 46%;
+        left: 35.3%;
+    }
+
+    #airImageDescriptionEight 
+    {
+        top: 11%;
+        left: 35.3%;
+    }
+    
+    #airImageDescriptionNine 
+    {
+        top: 25%;
+        left: 35.3%;
+    }
+
+    #airImageDescriptionEleven 
+    {
+        top: 12%;
+        left: 35.3%;
+    }
+
+    #airImageDescriptionTen 
+    {
+        top: 26%;
+        left: 35.3%;
+    }
+
+    #airThree 
+    {
+        top: 27%;
+        left: 0.9%;
+    }
+
+    #airTwelve 
+    {
+        top: 78%;
+        left: -49.7%;
+    }
+
+    #airSix 
+    {
+        top: 32%;
+        left: -0.12%;
+    }
+
+    #airNine {
+        top: 29%;
+        left: 1%;
+    }
+
+    #airTen 
+    {
+        top: 30%;
+        left: 0.9%;
+    }
+
+    #airEleven {
+        top: 26%;
+        left: 34.55%;
+    }
+
+    
+}

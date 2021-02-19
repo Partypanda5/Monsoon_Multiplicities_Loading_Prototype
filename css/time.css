@@ -1018,3 +1018,218 @@
         left: 1.25%;
     }
 }
+
+@media (min-width: 1500px) and (max-width: 1599px) 
+{
+    #timeSubTwo 
+    {
+        top: -21vh;
+    }
+
+    #timeSubFour {
+        top: 4vh;
+    }
+
+    #timeSubFive {
+        top: 28.5vh;
+    }
+
+    #timeSubThree {
+    top: -8vh;
+    }
+
+    #timeSubSix {
+        top: 161vh;
+    }
+
+    #timeSubSeven {
+        top: 248vh;
+    }
+
+    #timeSubEight {
+        top: 295vh;
+    }
+
+    #timeSubNine {
+        top: 260vh;
+    }    
+
+    #timeSubTen {
+        top: 257vh;
+        height: 50vh;
+    }    
+
+    #timeVideoOne 
+    {
+        top: -5%;
+        left: -32.9%;
+    }
+
+    #timeThree 
+    {
+        left: 1%;
+        top: -19.5%;
+    }
+
+    #timeFive 
+    {
+        left: -33%;
+        top: -33%;
+    }
+
+    #timeSix 
+    {
+        left: -16.9%;
+        top: 52%;
+    }
+
+    #timeSeven 
+    {
+        left: -84%;
+        top: 65%;
+    }
+
+    #timeEight 
+    {
+        left: 7.5%;
+        top: -12%;
+        z-index: -5;
+    }
+    
+    #timeNine 
+    {
+        left: -31.9%;
+        top: -17%;
+        z-index: -6;
+    }
+
+    #timeTen 
+    {
+        left: 29.1%;
+        top: -56%;
+    }
+
+    #timeEleven 
+    {
+        left: 34.7%;
+        top: -54%;
+        z-index: 0;
+    }
+
+    #timeImageDescriptionOne 
+    {
+        top: 86%;
+        left: 35.3%;
+    }
+
+    #timeImageDescriptionTwo 
+    {
+        top: 86%;
+        left: 51%;
+    }
+
+    #timeImageDescriptionThree 
+    {
+        top: 85%;
+        left: 51.4%;
+    }
+
+    #timeImageDescriptionFour 
+    {
+        top: 83%;
+        left: 35.3%;
+    }
+
+    #timeGridTwo 
+    {
+        left: -43.8%;
+        top: 0%;
+        z-index: 5;
+    }    
+
+    #timeGridThree 
+    {
+        left: -43.8%;
+        top: 15%;
+        z-index: -5;
+    }
+
+    #timeGridFour 
+    {
+        left: -43.8%;
+        top: -54%;
+        z-index: 5;
+    }
+
+    #timeGridSix
+    {
+        left: -44.6%;
+        top: -30%;
+    }
+
+    #timeGridSeven 
+    {
+        left: -48.35%;
+        top: -19%;
+    }
+
+    #timeGridEight {
+        left: -14.7%;
+        top: -85%;
+    }
+
+    #timeHorizontalGridOne 
+    {
+        top: 51%;
+        left: 1.25%;
+    }
+
+    #timeHorizontalGridTwo 
+    {
+        top: 88%;
+        left: 1%;
+    }
+
+    #timeHorizontalGridThree 
+    {
+        top: 125%;
+        left: 1%;
+    }
+
+    #timeHorizontalGridFour 
+    {
+        top: 162%;
+        left: 1.25%;
+    }
+
+    #timeVideoFive 
+    {
+        top: 53%;
+        left: -32.9%;
+    }
+
+    #timeVideoSeven 
+    {
+        width: 30vw;
+        height: 43vh;
+    }
+
+    #timeVideoTen 
+    {
+        top: -37%;
+        left: -32.9%;
+    }
+
+    #gridImageTimeTwo 
+    {
+        margin-left: 12px;
+    }
+
+    #gridImageTimeThree 
+    {
+        width: 30vw;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+}

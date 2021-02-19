@@ -940,3 +940,214 @@
         width: 26%;
     }
 }
+
+@media (min-width: 1500px) and (max-width: 1599px) 
+{
+
+    #oceanSubTwo {
+        top: -52vh;
+    }
+
+    #oceanSubThree {
+        top: 8vh;
+    }
+
+    #oceanSubFour {
+        top: 41vh;
+    }
+
+    #oceanSubFive {
+        top: 63vh;
+    }
+
+    #oceanSubSix {
+        top: 67vh;
+    }
+
+    #oceanSubSeven {
+        top: 333vh;
+        height: 15vh;
+    }
+
+    #oceanOne 
+    {
+        top: 33%;
+    }
+
+    #oceanTwo 
+    {
+        top: 43%;   
+    }
+
+    #oceanThree 
+    {
+        top: 38%;
+    }
+
+    #oceanFour 
+    {
+        top: 38%;
+        left: 1.8%;
+    }
+
+    #oceanFive 
+    {
+        top: 2%;
+        left: 33.7%;
+    }
+
+    #oceanSeven 
+    {
+        top: -45.6%;
+        left: 35.4%;
+        width: 24.2vw;
+    }
+
+    #oceanEight 
+    {
+        top: 27%;
+    }
+
+    #oceanNine 
+    {
+        top: 21%;
+        left: 0.9%;
+    }
+
+    #oceanEleven 
+    {
+        top: 43%;
+        left: -32.9%;
+    }
+
+    #oceanTwelve
+    {
+        top: 28%;
+        left: 34.7%;
+    }
+
+    #oceanThirteen 
+    {
+        top: 28%;
+        left: 7.6%;
+    }
+
+    #oceanFifteen 
+    {
+        top: 7%;
+        left: 34.6%;
+    }
+
+    #oceanSixteen
+    {
+        top: -46%;
+        left: 34.7%;
+    }
+
+    #oceanSeventeen 
+    {
+        top: -55%;
+        left: 7.6%;
+    }
+
+    #oceanEighteen 
+    {
+        top: -65%;
+        left: 18.3%;
+    }
+
+    #oceanNinteen 
+    {
+        top: -73%;
+        left: 34.6%;
+    }
+
+    #oceanGridOne 
+    {
+        top: -23%;
+        left: -44.7%;
+    }
+
+    #oceanImageDescriptionOne
+    {
+        top: 33%;
+    }
+
+    #oceanImageDescriptionTwo
+    {
+        top: -44%;
+        left: 35.3%;
+    }
+
+    #oceanImageDescriptionThree 
+    {
+        top: -6%;
+        left: 8.3%;
+        width: 14%;
+    }
+
+    #oceanImageDescriptionFour 
+    {
+        top: 17%;
+        left: 35.3%;
+        width: 14%;
+    }
+
+    #oceanImageDescriptionSix 
+    {
+        top: 36%;
+        left: 35.3%;
+        width: 21%;
+    }
+
+    #oceanImageDescriptionFive 
+    {
+        top: 89%;
+        left: 35.3%;
+        width: 21%;
+    }
+
+    .oceanCopyOne 
+    {
+        top: 27%;
+        left: 8.3%;
+    }
+
+    .oceanCopyTwo 
+    {
+        top: -63%;
+        left: 35.3%;
+        width: 26%;
+    }
+
+    .oceanCopyThree 
+    {
+        top: -45%;
+        left: 35.3%;
+        width: 26%;
+    }
+
+    #OceanVideoOne 
+    {
+        top: 22%;
+        left: -49.7%;
+    }
+     
+    #OceanVideoTwo 
+    {
+        top: 0%;
+        left: -66.5%;
+    }
+    
+    #OceanVideoThree 
+    {
+        top: -84%;
+        left: -33%;
+    }
+
+    .endlineOceanTwo 
+    {
+        top: 60%;
+        left: 0%;
+    }
+}

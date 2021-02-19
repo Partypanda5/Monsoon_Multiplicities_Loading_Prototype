@@ -504,3 +504,20 @@
         line-height: 12px;
     }
 }
+
+@media (min-width: 1500px) and (max-width: 1599px) 
+{
+    #londonSubTwo {
+        top: -45vh;
+    }
+
+    #titleTwo 
+    {
+        top: 89vh;
+    }
+
+    #copyTwo 
+    {
+        top: 80vh;
+    }
+}
