@@ -537,3 +537,90 @@ left: 7.5%;
     line-height: 12px;
 }
 }
+
+@media (min-width: 1400px) and (max-width: 1499px) 
+{
+	#weedsSubOne .copyText{
+top: 18%;
+}
+#weedsSubTwo {
+    top: -35.5vh;
+}
+#weedsTwo {
+    left: -32.9%;
+}
+#weedsGridOne {
+    left: -43.8%;
+}
+#weedsSubThree {
+    top: -64.5vh;
+}
+#weedsThree {
+    left: -32.9%;
+}
+#weedsFour {
+    left: 7.6%;
+}
+#weedsFive {
+    left: 34.5%;
+}
+#weedsGridTwo {
+    left: -43.8%;
+}
+#weedsGridThree {
+    left: -17%;
+}
+#weedsSubFour {
+    top: -29.8vh;
+}
+#weedsGridFour {
+    left: -43.8%;
+}
+#weedsGridFive {
+    left: -17%;
+}
+#weedsSubFive {
+    top: 96vh;
+}
+#weedsGridSix {
+    left: -43.8%;
+}
+#weedsEight {
+    top: 13.5%;
+    left: 34.55%;
+}
+#weedsSubSix {
+    top: 73.5vh;
+}
+#weedsSubSeven {
+    top: 91vh;
+}
+.referenceWeeds {
+    top: 5%;
+    font-size: 9px;
+    line-height: 12px;
+
+}
+.referencesWeedsTwo {
+top: -31%;
+font-size: 9px;
+line-height: 12px;
+}
+#weedsGridEight {
+    top: -118%;
+}
+.referencesWeedsThree {
+    top: -73.5%;
+    font-size: 9px;
+    line-height: 12px;
+}
+.endlineWeedsTwo {
+    top: 17%;
+}
+	.endlineWeedsThree {
+    top: 26%;
+	}
+	#weedsNine {
+    top: 14%;
+	}
+}

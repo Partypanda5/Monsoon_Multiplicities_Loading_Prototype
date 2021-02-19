@@ -458,3 +458,90 @@
     height: 52vh;
 }
 }
+
+@media (min-width: 1400px) and (max-width: 1499px) 
+{
+#potSubOne .copyText {
+top: 18%;
+}
+#potSubTwo {
+    top: -43vh;
+}
+#potSubTwo .copyText {
+    top: 17.2%;
+}
+#potFour {
+    width: 61.3vw;
+}
+#potSubThree {
+    top: 76.7vh;
+}
+#gridImagePots {
+    width: 23.8vw;
+}
+#potGridOne {
+    left: -44%;
+}
+#potGridTwo {
+    top: -26.6%;
+	left: -17%;
+}
+#potSubFour {
+    top: 40vh;
+}
+.copyPotsOne {
+    top: 22%;
+}
+#potSubFour {
+    top: 50vh;
+}
+#potNine {
+    left: 17.1%;
+}
+#potSubFive {
+    top: 40.5vh;
+}
+#gridImageSmallerMargin {
+    width: 14.2vw;
+    margin-left: 9px;
+}
+#potSubSix {
+    top: 81vh;
+}
+#potVideoOne {
+    height: 31.8vh;
+}
+	#potSubThree .copyText {
+top:17%
+}
+#potSubFive .copyText{
+top:17%
+}
+#potSubSix .copyText{
+top:17%
+}
+#potSubSeven .copyText{
+top:17%
+}
+#potGridFive {
+    left: -17%;
+}
+#potGridFour {
+    left: -45.3%;
+}
+#potSubSeven {
+    top: 65vh;
+}
+#potImageDescriptionFive {
+    top: 9%;
+}
+#potSubEight {
+    top: 83vh;
+    height: 54vh;
+}
+
+.gridImageMiddlePotResponsive 
+{
+    width: 23.8vw !important;
+}
+}

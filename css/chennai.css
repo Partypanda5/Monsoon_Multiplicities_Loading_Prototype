@@ -1210,3 +1210,226 @@ top: -52%;
 }
 	
 }
+
+@media (min-width: 1400px) and (max-width: 1499px) 
+{
+	#chennaiSubOne .copyTextLarger{
+top:17.2%
+}
+#chennaiSubTwo {
+    top: 32.5vh;
+}
+#chennaiTwo {
+    left: -16.35%;
+    top: 14%;
+}
+#chennaiFour {
+    left: 7.65%;
+}
+#chennaiFive {
+    left: -32.8%;
+}
+#chennaiSix {
+    left: 7.65%;
+}
+#chennaiGridOne {
+    left: -17%;
+}
+#ChennaiVideoTwo {
+    height: 58.2vh;
+}
+#chennaiSubThree {
+    top: 208vh;
+}
+#chennaiNine {
+    left: 7.6%;
+}
+#chennaiSeven {
+    left: -33%;
+    top: 18%;
+}
+#chennaiEight {
+    left: -33%;
+    top: 18%;
+}
+#chennaiImageDescriptionFive {
+    top: -53.5%;
+}
+#chennaiTen {
+    top: -43%;
+width: 61.5vw;
+}
+#chennaiEleven {
+    left: -32.9%;
+    top: -47.5%;
+    width: 61.5vw;
+}
+#chennaiTwelve {
+
+    top: -51.5%;
+}
+#chennaiImageDescriptionSix {
+    top: -56.5%;
+}
+#chennaiSubFour {
+    top: 456vh;
+}
+#chennaiGridTwo {
+    left: -44%;
+}
+#chennaiThirteen {
+    left: -32.9%;
+    top: 14.2%;
+    width: 61.5vw;
+}
+#chennaiFourteen {
+    left: 34.5%;
+}
+#chennaiGridThree {
+    top: -78%;
+    left: -43.95%;
+}
+#chennaiFifteen {
+    top: -159.5%;
+}
+#chennaiSubFive {
+    top: 599vh;
+}
+.chennaiMapContainerOne {
+    top: 14%;
+}
+#chennaiNineteen {
+    left: 18.2%;
+}
+#chennaiTwenty {
+    left: 7.6%;
+}
+#chennaiTwentyOne {
+    left: 7.65%;
+}
+#chennaiTwentyTwo {
+    top: -33%;
+}
+#chennaiTwentyFour {
+    left: 34.6%;
+    top: -54%;
+}
+.chennaiCopyNine {
+    top: -104%;
+}
+#chennaiTwentyThree {
+    left: 7.65%;
+    top: -16.5%;
+}
+#chennaiTwentyFive {
+    left: 34.6%;
+}
+#chennaiSubSix {
+    top: 765vh;
+}
+#chennaiTwentySix {
+    top: 13.8%;
+}
+#chennaiGridFour {
+    left: -44%;
+}
+.chennaiCopyTen {
+    top: -34%;
+}
+#chennaiSubSeven {
+    top: 800.5vh;
+}
+#chennaiTwentySeven {
+    left: 7.6%;
+    top: 13%;
+}
+#chennaiTwentyEight {
+    top: -12%;
+}
+.chennaiCopyTwelve {
+    top: -13.5%;
+}
+#ChennaiVideoThree {
+    left: -32.9%;
+    top: -12.5%;
+    width: 55.3vw;
+    height: 58.5vh;
+}
+#chennaiImageDescriptionEleven {
+    top: -17.5%;
+}
+#chennaiSubEight {
+    top: 822.2vh;
+}
+#chennaiTwentyNine {
+
+    left: -13%;
+    top: 11%;
+}
+#chennaiThirtySix {
+    left: -20%;
+}
+
+#gridImageMiddleChennaiTwo {
+    width: 23.8vw;
+    margin-left: 11px;
+}
+#chennaiSubNine {
+    top: 1315.5vh;
+}
+#chennaiThirtyThree {
+    left: 7.6%;
+}
+#chennaiGridSix {
+    left: -44%;
+}
+#chennaiGridSeven {
+    left: -17%;
+}
+#ChennaiVideoFour {
+    left: -32.8%;
+    top: 14.4%;
+}
+#chennaiSubTen {
+    top: 1475.5vh;
+}
+.chennaiMapContainerTwo {
+    top: 14%;
+}
+#chennaiImageDescriptionEighteen {
+    top: 15.4%;
+}
+.chennaiCopyNineteen {
+    top: 2.7%;
+}
+#chennaiSubEleven {
+    top: 1503vh;
+}
+#gridImageSmallChennai {
+    width: 14vw;
+    margin-left: 10px;
+}
+#chennaiGridTen {
+    top: 20%;
+}
+.endlineChennaiThree {
+    top: 15%;
+}
+.referenceBlockChennaiThree {
+    top: 18%;
+    height: 71%;
+}
+
+#chennaiImageDescriptionNineteen 
+{
+    top: 5%;
+    font-size: 9px;
+}
+
+.referenceChennai 
+{
+    font-size: 9px;
+    line-height: 12px;
+}
+
+}

@@ -986,3 +986,150 @@ left: 7.48%;
     top: 1950vh;
 }
 }
+
+@media (min-width: 1400px) and (max-width: 1499px) 
+{
+	#yangonSubOne .copyText {
+top:18%;
+}
+#yangonSubTwo {
+    top: 12vh;
+}
+#yangonTwo {
+    top: 14%;
+    left: 10%;
+    width: 22vw;
+}
+#yangonThree {
+    top: -14%;
+    left: 35%;
+}
+.yangonCopyTextTwo {
+    top: -19%;
+}
+#yangongGridOne, #yangongGridTwo, #yangongGridThree, #yangongGridFour,#yangongGridFive, #yangongGridSix,#yangongGridSeven {
+    left: -43.8%;
+}
+#yangongGridOne {
+    top: -35%;
+ 
+}
+#YangonVideoTwo, #YangonVideoThree, #YangonVideoSix, #YangonVideoEight, #yangongGridSeven {
+    height: 65.1vh;
+}
+#yangonSubThree {
+    top: 62vh;
+}
+.yangonMapContainerOne {
+    top: 14%;
+}
+
+#yangonSubFour {
+    top: 214.5vh;
+}
+#yangonSix {
+    top: 14.2%;
+}
+ 
+#yangonImageDescriptionSeven {
+    top: -56.8%;
+}
+#yangonSubFive {
+    top: 315vh;
+}
+#yangonEight {
+    top: 14%;
+}
+
+#yangonNine {
+    left: -15%;
+}
+#yangonSubSix {
+    top: 557.5vh;
+}
+	#yangonTen {
+    top: -2%;
+	}
+#yangonThirteen {
+    top: 13.7%;
+}
+#yangonSubSix .copyText{
+top: 17.5%;
+}
+#yangonFourteen {
+    top: -4.7%;
+    left: 29.5%;
+}
+#yangonImageDescriptionFourteen {
+    top: -22%;
+}
+#yangonSixteen {
+    top: -34%;
+}
+#yangonSeventeen {
+    top: -32.5%;
+}
+#yangonSubSeven {
+    top: 726.5vh;
+}
+#yangonEighteen {
+    top: 13%;
+}
+
+#yangongGridFive {
+    top: -52%;
+}
+#yangonSubEight {
+    top: 957.5vh;
+}
+
+#gridImageMiddleYangon {
+    width: 23.6vw;
+}
+
+#yangonTwentyTwo {
+    top: 13%;
+}
+
+#yangonTwentyOne, #yangonTwentyFive,#yangonTwenty, #yangonSixteen, #yangonTwelve {
+    left: 34.55%;
+}
+
+#yangonEleven {
+    left: -32.8%;
+    top: -49.1%;
+}
+
+#yangonSubNine {
+    top: 1124vh;
+}
+#YangonVideoFour, #yangonThirteen, #yangonNineteen, #yangonTwentyThree, #yangonTwentySeven, #yangonTwentyEight {
+    left: 7.65%;
+}
+
+#yangonTwentyNine {
+    left: 24.25%;
+}
+#yangongGridSeven {
+    top: -45%;
+}
+#yangongGridEight {
+    left: -16.9%;
+}
+#yangonSubTen {
+    top: 1411vh;
+    height: 130vh;
+}
+#yangonImageDescriptionTwentyFive {
+    top: 9%;
+}
+.endlineYangonTwo {
+    top: 15%;
+}
+#yangonImageDescriptionTwentyThree {
+    top: 15.6%;
+}
+#yangonImageDescriptionTwentyFour {
+    top:-55.2%;
+}
+}

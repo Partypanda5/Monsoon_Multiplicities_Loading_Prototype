@@ -1237,3 +1237,145 @@ left: 7.4%
     margin-top: 3vh;
 }
 }
+
+@media (min-width: 1400px) and (max-width: 1499px) {
+	.pedagogyCopyTextOne {
+    top: -4%;
+}
+#pedagogyImageDescriptionOne {
+    top: -24%;
+}
+#pedagogySubTwo {
+    top: 9.4vh;
+}
+#pedagogyGridOne {
+    left: -43.8%;
+}
+#pedagogySubTwo .copyText{
+top: 17%;
+}
+#PedagogyVideoOne {
+    height: 65.1vh;
+}
+#pedagogyGridTwo {
+    top: 29.5%;
+    left: -79.8%;
+}
+#pedagogySubThree {
+    top: 56.3vh;
+}
+.pedagogyCopyTextThree {
+    top: 14%;
+}
+#pedagogySeven {
+    top: -106%;
+}
+#pedagogyNine {
+    top: -157.4%;
+}
+.pedagogyMapContainerTwo {
+    top: -244.4%;
+}
+#pedagogyThirteen {
+    top: -290%;
+}
+#pedagogySixteen {
+    top: -326.8%;
+}
+#pedagogySeventeen {
+    top: -373.6%;
+}
+#pedagogyImageDescriptionTen {
+    top: -373%;
+}
+#pedagogySubFour {
+    top: 697.5vh;
+}
+#PedagogyVideoTwo {
+    height: 65.1vh;
+    top: 13.5%;
+}
+#pedagogyNineteen {
+    top: -15%;
+}
+#pedagogyTwenty {
+    top: -41.5%;
+    left: 34.54%;
+    width: 31.3vw;
+}
+#pedagogyTwentyTwo {
+    top: -64.7%;
+}
+#pedagogyTwentyThree {
+    top: -91.4%;
+    left: 34.5%;
+    width: 31.4vw;
+}
+#PedagogyVideoThree {
+    height: 34.5vh;
+}
+#pedagogySubFive {
+    top: 904.5vh;
+}
+#pedagogyGridFour {
+    top: -33.8%;
+    left: -43.8%;
+}
+#pedagogyTwentyFour {
+    top: 13%;
+    left: 34.6%;
+}
+#pedagogyGridSix {
+    left: -43.8%;
+}
+#pedagogyGridFive {
+    left: -17%;
+}
+#pedagogySubSix {
+    top: 945.2vh;
+}
+.pedagogyCopyTextNine {
+    top: -6.5%;
+}
+#pedagogyTwentySeven {
+    top: -97%;
+}
+#pedagogyTwentyNine {
+    top: -140.6%;
+}
+#pedagogyThirty {
+    left: 1.45%;
+}
+#pedagogyThirtyOne {
+    left: 1%;
+    width: 63vw;
+}
+#pedagogyThirtyTwo {
+    left: 1%;
+    width: 62.8vw;
+}
+#pedagogyThirtyThree {
+    left: 1%;
+    width: 62.8vw;
+}
+#pedagogyThirtyFive {
+    top: -180.7%;
+    left: 38.4%;
+    width: 27.6vw;
+}
+#pedagogySubSeven {
+    top: 1641vh;
+}
+#pedagogyImageDescriptionTwentyThree {
+    top: 8.9%;
+}
+#pedagogyImageDescriptionTwentyFour {
+    top: 15.5%;
+}
+#pedagogySubEight {
+    top: 1601vh;
+}
+#pedagogySubNine {
+    top: 2030vh;
+}
+}

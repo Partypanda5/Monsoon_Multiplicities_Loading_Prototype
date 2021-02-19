@@ -439,3 +439,64 @@ left: 34.5%;
     height: 60vh;
 }
 }
+
+@media (min-width: 1400px) and (max-width: 1499px) {
+    .saltContainer .copyText {
+    top: 18%;
+    }	
+        
+    #saltSubOne	.copyText {
+        top: -75.5%;
+    }
+    #saltVideoOne {
+        height: 48.3vh;
+        top: -43%;
+    }
+    #saltSubTwo {
+        top: 20.4vh;
+    }
+    
+    #saltSubThree {
+        top: 71.5vh;
+    }
+        #saltSubFour {
+        top: 74.8vh;
+    }
+    .saltQuote {
+        top: 24% !important;
+    }
+    #saltNine {
+        top: -21%;
+    }
+    #saltEight {
+        top: 18%;
+        left: 1.07%;
+    }
+    #saltSubSix {
+        top: 2.8vh;
+    }
+    #saltEleven {
+        top: 34.6%;
+    }
+    #saltImageDescriptionSix {
+        top: 29%;
+    }
+    
+    .saltQuoteTwo {
+        top: 25.6% !important;
+    }
+    #saltSubSeven {
+        top: -32.5vh;
+        height: 20vh;
+    }
+    #saltImageDescriptionSeven {
+        top: 25%;
+    }
+    .endlineSaltTwo {
+        top: 40%;
+    }
+    #saltImageDescriptionEight {
+        top: 60%;
+    padding-bottom: 4vh;
+    }
+    }

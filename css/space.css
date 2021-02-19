@@ -411,3 +411,105 @@
     height: 85vh;
 }
 }
+
+@media (min-width: 1400px) and (max-width: 1499px) 
+{
+.copyTextSpaceThree {
+    top: 18%;
+}
+		#spaceImageDescriptionSeven {
+    top: 16.4%;
+}
+.copyTextSpaceFour {
+    top: 6.4%;
+}
+#spaceSubTwo {
+    top: -41vh;
+}
+#spaceSubTwo .copyText {
+top: 18%;
+}
+#spaceGridOne {
+    left: 6.1%;
+}
+#SpaceVideoOne {
+    height: 48.5vh;
+}
+#spaceSubThree {
+    top: -80.5vh;
+}
+.copyTextSpaceFive {
+    top: 18%;
+}
+#SpaceVideoThree {
+    top: 52%;
+    height: 48.5vh;
+}
+#SpaceVideoTwo {
+    top: 79%;
+    height: 48.5vh;
+}
+#spaceSubFour {
+    top: -87.3vh;
+}
+#spaceGridTwo {
+    left: -44%;
+}
+		#spaceSubFour .copyText {
+top: 18%;
+}
+		#spaceSubFour .copyTextSpaceTwo {
+top:25%;
+}
+#spaceSubFive {
+    top: -147vh;
+}
+#spaceGridThree {
+    left: 6.1%;
+}
+#SpaceVideoFour {
+    height: 48.5vh;
+	left: -32.7%;
+}
+#spaceSubSix {
+    top: -161vh;
+}
+#SpaceVideoFive {
+left: 17.2%;
+    height: 48.5vh;
+	    top: 47%;
+}
+#SpaceVideoSix {
+    height: 48.5vh;
+left: -49.4%;
+}
+#spaceSubSeven {
+    top: -163.6vh;
+}
+#SpaceVideoSeven {
+    left: 0.6%;
+    height: 48.5vh;
+	top: 57%;
+}
+#SpaceVideoEight {
+    height: 48.5vh;
+}
+#spaceImageDescriptionEight {
+    top: 7.3%;
+}
+.endlineSpaceTwo {
+    top: 11.5%;
+}
+#spaceImageDescriptionNine {
+    top: 16.5%;
+}
+#spaceSubEight {
+    top: -127vh;
+    height: 94vh;
+}
+
+.copyTextSpaceSix
+{
+	top: 18.5%;
+}
+}
