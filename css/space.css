@@ -513,3 +513,80 @@ left: -49.4%;
 	top: 18.5%;
 }
 }
+
+@media (min-width: 1500px) and (max-width: 1599px) {
+	
+	.copyTextSpaceThree {
+		top: 20%;
+	}
+	#spaceOne {
+		top: 22%;
+	}
+	#spaceImageDescriptionSeven {
+		top: 17%;
+	}
+	#spaceSubTwo {
+		top: -18.5vh;
+	}
+	#spaceGridOne {
+		top: 18%;
+	}
+	#SpaceVideoOne {
+		left: -32.8%;
+		top: 64%;
+	}
+	#spaceSubThree {
+		top: -54vh;
+	}
+	#SpaceVideoThree {
+		top: 62%;
+	}
+	#SpaceVideoTwo {
+		top: 87%;
+	}
+	#spaceSubFour {
+		top: -54vh;
+	}
+	#spaceGridTwo {
+		top: 30%;
+		left: -43.7%;
+	}
+	#spaceSubFive {
+		top: -97vh;
+	}
+	#spaceSubSix {
+		top: -103vh;
+	}
+	#SpaceVideoFive {
+		top: 55.5%;
+		left: 17.2%;
+	}
+	#SpaceVideoSix {
+		top: 81%;
+	}
+	#spaceSubSeven {
+		top: -97.5vh;
+	}
+	#SpaceVideoSeven {
+		top: 71%;
+	}
+	#SpaceVideoEight {
+		top: 97%;
+	}
+	#spaceImageDescriptionSix {
+		top: 92%;
+	}
+	#spaceSubEight {
+		top: -47vh;
+		height: 95vh;
+	}
+	#spaceImageDescriptionEight {
+		top: 8%;
+	}
+	.endlineSpaceTwo {
+		top: 12%;
+	}
+	#spaceImageDescriptionNine {
+		top: 17%;
+	}
+	}

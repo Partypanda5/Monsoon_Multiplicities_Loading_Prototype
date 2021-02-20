@@ -1627,15 +1627,81 @@
         top: 35vh;
     }
 
+    #sedimentSubThree {
+        top: 80vh;
+    }
+
+    #sedimentSubFour {
+        top: 5vh;
+    }
+
+    #sedimentSubFive {
+        top: -65vh;
+    }
+
+    #sedimentSubSix {
+        top: -29vh;
+    }
+
+    #sedimentSubSeven {
+        top: 100vh;
+    }
+
+    #sedimentSubEight {
+        top: 30vh;
+    }
+
+    #sedimentSubNine {
+        top: -40vh;
+    }
+
+    #sedimentSubTen {
+        top: -15vh;
+    }
+
     #sedimentGridOne 
     {
-        top: 14%;
+        top: 10%;
         left: -43.7%;
     }
 
     #sedimentGridTwo {
-        top: -85.5%;
-        left: -17.5%;
+        top: -83.7%;
+        left: -17.6%;
+    }
+
+    #sedimentGridSix 
+    {
+        top: -25%;
+        left: -49%;
+    }
+
+    #sedimentGridEleven {
+        top: 8.5%;
+        left: -16.5%;
+    }
+
+    #sedimentGridThirteen 
+    {
+        left: -17.6%;
+        top: -86.9%;
+    }
+
+    #sedimentGridTen {
+        top: -3.1%;
+        left: -16.4%;
+    }
+
+    #sedimentGridSeven 
+    {
+        top: -1%;
+        left: -47.5%;
+    }
+
+    #sedimentGridTwelve 
+    {
+        top: -21%;
+        left: -48.5%;
     }
 
     .sedimentCopyOne 
@@ -1645,6 +1711,76 @@
         width: 31%;
     }
 
+    .sedimentCopyThree 
+    {
+        top: 62%;
+        left: 8.3%;
+    }
+
+    .sedimentCopyFour 
+    {
+        top: -3%;
+        left: 8.3%;
+    }    
+
+    .sedimentCopyFive 
+    {
+        top: 30%;
+        left: 1.7%;
+    }
+
+    .sedimentCopySix {
+        top: 26%;
+        left: 8.3%;
+    }
+
+    .sedimentcopySeven {
+        top: 28%;
+        left: 1.9%;
+    }
+
+    #sedimentCopyTwelve 
+    {
+        top: 28%;
+        left: 1.7%;
+    }
+
+    #sedimentCopyFourteen
+    {
+        top: 26%;
+        left: 8.3%;
+    }
+
+    #sedimentCopyTen 
+    {
+        top: 31%;
+        left: 1.7%;
+    }    
+
+    #sedimentCopyEleven 
+    {
+        top: 26%;
+        left: 1.7%;
+    }
+
+    #sedimentCopyTwelve 
+    {
+        top: 28%;
+        left: 1.7%;
+    }
+
+    #sedimentCopyThirteen 
+    {
+        top: 28%;
+        left: 1.7%;
+    }
+
+    #sedimentCopyThirteen 
+    {
+        top: 28%;
+        left: 1.7%;
+    }    
+
     #sedimentThree 
     {
         left: 26vw;
@@ -1652,9 +1788,140 @@
         width: 40vw;
     }
 
+    #sedimentFour 
+    {
+        left: 34.6%;
+        top: -28.5%;
+    }
+
+    #sedimentSeven
+    {
+        left: 34.7%;
+        top: -2.5%;
+    }
+
+     #sedimentEight 
+     {
+        left: 34.2%;
+        top: -117.5%;
+    }
+
+    #sedimentNine 
+    {
+        left: -32.9%;
+        top: -15.5%;
+    }
+
+    #sedimentTen 
+    {
+        left: 7.4%;
+        top: -62%;
+    }
+
+    #sedimentFifteen
+    {
+        left: 1.1%;
+        top: -25.3%;
+    }
+
     #sedimentImageDescriptionOne 
     {
         left: 8.3%;
-        top: -180%;
+        top: -185%;
+    }
+
+    #sedimentImageDescriptionTwo 
+    {
+        left: 35.3%;
+        top: -26%;
+    }
+
+    #sedimentImageDescriptionThree 
+    {
+        left: 8.3%;
+        top: 2.2%;
+    }
+
+    #sedimentImageDescriptionEleven
+    {
+        left: 8.3%;
+        top: -93%;
+    }
+
+    #sedimentImageDescriptionFive 
+    {
+        left: 8.3%;
+        top: -125.5%;   
+    }
+
+    #sedimentImageDescriptionSix 
+    {
+        left: 8.3%;
+        top: -5%;
+    }
+
+    #sedimentImageDescriptionSeven 
+    {
+        left: 52%;
+        top: -2.5%;
+    }
+
+    #sedimentImageDescriptionEight 
+    {
+        left: 35.3%;
+        top: -61%;
+    }
+
+    #sedimentImageDescriptionTwelve 
+    {
+        left: 8.3%;
+        top: 0%;
+    }
+
+    #sedimentImageDescriptionThirteen 
+    {
+        left: 52.5%;
+        top: -137%;
+    }
+
+    #sedimentImageDescriptionTen 
+    {
+        left: 52.3%;
+        top: -120.5%;
+    }    
+
+    #sedimentVideoOne 
+    {
+        left: -0.05%;
+        top: -11.7%;
+    }
+
+    #sedimentVideoTwo 
+    {
+        left: -32.85%;
+        top: 17%;
+    }
+
+    #sedimentVideoThree 
+    {
+        left: -3.5%;
+        top: 42%;
+    }
+
+    #sedimentVideoFour 
+    {
+        left: -32.9%;
+        top: -36.5%;
+    }
+
+    #sedimentVideoFive 
+    {
+        left: 3.5%;
+    }
+
+    .endlineSedimentThree 
+    {
+        top: -145%;
+        left: 0%;
     }
 }

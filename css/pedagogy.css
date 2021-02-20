@@ -1238,6 +1238,169 @@ left: 7.4%
 }
 }
 
+@media (min-width: 1300px) and (max-width: 1399px) {
+	#pedagogySubOne .mainTitle{
+top: 17%;
+}
+	.pedagogyCopyTextOne {
+    top: -4%;
+}
+#pedagogyImageDescriptionOne {
+    top: -22.5%;
+}
+#pedagogyGridOne {
+    left: -43.9%;
+}
+#pedagogySubTwo {
+    top: 0vh;
+}
+#pedagogySubTwo .copyText{
+    top: 17.5%;
+}
+#pedagogyGridTwo {
+    left: -79.9%;
+}
+#pedagogySubThree {
+    top: 36vh;
+}
+.pedagogyCopyTextThree {
+    top: 14%;
+}
+
+#pedagogyTwelve {
+    top: -232.7%;
+    left: 0.2%;
+}
+#pedagogyEight {
+    left: 1%;
+    width: 31.3vw;
+}
+#pedagogyNine {
+    top: -154.8%;
+    left: 34.6%;
+    width: 31.3vw;
+}
+.pedagogyMapContainerTwo {
+    left: 35.2%;
+    top: -240%;
+}
+#pedagogySixteen {
+    top: -325.5%;
+}
+#pedagogyFifteen {
+    top: -281.5%;
+}
+#pedagogySubFour {
+    top: 618vh;
+}
+#PedagogyVideoTwo {
+    top: 13.5%;
+}
+#pedagogyNineteen {
+    top: -14.5%;
+    left: 17.8%;
+    width: 15.5vw;
+}
+#pedagogyEighteen {
+    top: 10%;
+}
+#pedagogyTwenty {
+    top: -39.8%;
+    left: 34.6%;
+    width: 31.2vw;
+}
+#pedagogyTwentyThree {
+    top: -88.5%;
+    left: 34.6%;
+    width: 31.2vw;
+}
+#PedagogyVideoThree {
+    margin-left: 10px;
+}
+#pedagogyGridThree {
+    left: -32.5%;
+}
+#pedagogySubFive {
+    top: 800vh;
+}
+#pedagogyGridFour {
+    position: relative;
+    top: -31%;
+    left: -43.9%;
+}
+#pedagogyTwentyFour {
+    position: relative;
+    z-index: -5;
+    top: 13%;
+    left: 34.6%;
+}
+#pedagogyGridFive {
+    top: -48%;
+    left: -17%;
+}
+#pedagogyGridSix {
+    position: relative;
+    top: -68.3%;
+    left: -43.9%;
+}
+#pedagogySubSix {
+    top: 827vh;
+}
+#pedagogyImageDescriptionFifteen {
+    top: 12%;
+}
+.pedagogyCopyTextEight {
+    top: 1%;
+}
+.pedagogyCopyTextNine {
+    top: -6.5%;
+}
+#pedagogyThirtyOne {
+    left: 1%;
+    width: 62.9vw;
+}
+#pedagogyThirtyThree {
+    left: 1.1%;
+    width: 62.7vw;
+}
+#pedagogyThirtyFive {
+    left: 38.4%;
+    width: 27.7vw;
+}
+#pedagogyThirtyFour {
+    left: 7.5%;
+    width: 28.7vw;
+}
+#pedagogySubSeven {
+    top: 1471vh;
+}
+#pedagogySubEight {
+    top: 1431vh;
+}
+#pedagogySubNine {
+    top: 1833vh;
+    height: 8vh;
+}
+
+#pedagogyImageDescriptionTwentyEight 
+{
+    top: -17%;
+    left: 8.3%;
+}
+
+#pedagogyImageDescriptionTwentyNine {
+    top: -57%;
+    left: 8.3%;
+}
+
+#pedagogyImageDescriptionThirty {
+    top: -57%;
+    left: 8.3%;
+}
+	
+	
+}
+
 @media (min-width: 1400px) and (max-width: 1499px) {
 	.pedagogyCopyTextOne {
     top: -4%;
@@ -1377,5 +1540,275 @@ top: 17%;
 }
 #pedagogySubNine {
     top: 2030vh;
+}
+}
+
+@media (min-width: 1500px) and (max-width: 1599px) {
+	.pedagogyCopyTextOne {
+    top: -4.5%;
+}
+#pedagogyImageDescriptionOne {
+    top: -31.5%;
+}
+#pedagogySubTwo {
+    top: 34vh;
+}
+#pedagogyGridOne {
+    left: -43.7%;
+}
+#pedagogySubTwo .copyText {
+    top: 17%;
+}
+#PedagogyVideoOne {
+    left: -17.9%;
+}
+#pedagogyGridTwo {
+    top: 32%;
+    left: -79.7%;
+}
+#pedagogySubThree {
+    top: 92vh;
+}
+.pedagogyCopyTextThree {
+    top: 14%;
+}
+#pedagogyTwo {
+    top: -19%;
+    left: 7.6%;
+}
+#pedagogyImageDescriptionThree {
+    top: -19%;
+}
+#pedagogyThree {
+    top: -18%;
+}
+#pedagogyFour {
+    top: -23%;
+}
+#pedagogyFive {
+    top: -58%;
+}
+#pedagogyImageDescriptionFour {
+    top: -57.5%;
+}
+#pedagogySix {
+    top: -56%;
+}
+#pedagogySeven {
+    top: -118.5%;
+}
+#pedagogyImageDescriptionFive {
+    top: -119%;
+}
+#pedagogyEight {
+        top: -118.5%;
+    left: 0.9%;
+    width: 31.5vw;
+}
+#pedagogyNine {
+    top: -180.8%;
+    left: 34.5%;
+    width: 31.5vw;
+}
+.pedagogyCopyTextFour {
+    top: -181%;
+}
+#pedagogyImageDescriptionSix {
+    top: -204%;
+}
+.pedagogyMapContainerOne {
+    top: -192%;
+}
+.pedagogyMapContainerTwo {
+    top: -289.5%;
+}
+#pedagogyImageDescriptionSeven {
+    top: -286%;
+}
+#pedagogyTwelve {
+    top: -285.5%;
+}
+#pedagogyThirteen {
+    top: -349.85%;
+}
+#pedagogyImageDescriptionEight {
+    top: -349%;
+}
+#pedagogyFourteen {
+    top: -348%;
+}
+#pedagogyImageDescriptionNine {
+    top: -347%;
+}
+#pedagogyFifteen {
+    top: -346%;
+}
+#pedagogySixteen {
+    top: -399%;
+}
+#pedagogySeventeen {
+    top: -451.5%;
+}
+#pedagogyImageDescriptionTen {
+    top: -451%;
+}
+#pedagogySubFour {
+    top: 778vh;
+}
+	#PedagogyVideoTwo {
+    top: 13.5%;
+	}
+.pedagogyCopyTextFive {
+    top: 5.5%;
+}
+#pedagogyImageDescriptionEleven {
+    top: 8%;
+}
+#pedagogyEighteen {
+    top: 2%;
+}
+#pedagogyNineteen {
+    top: -27.2%;
+}
+#pedagogyTwenty {
+    top: -57%;
+    left: 34.5%;
+width: 31.3vw;
+}
+#pedagogyTwentyOne {
+    top: -55%;
+}
+#pedagogyTwentyTwo {
+    top: -84.8%;
+}
+#pedagogyTwentyThree {
+    top: -114.5%;
+    left: 34.6%;
+    width: 31.2vw;
+}
+#pedagogyImageDescriptionTwelve {
+    top: -137%;
+}
+#pedagogyGridThree {
+    top: -115%;
+    left: -32.5%;
+}
+#pedagogyImageDescriptionThirteen {
+    top: -120.5%;
+}
+#PedagogyVideoThree {
+    width: 33.7vw;
+    height: 38.6vh;
+    margin-left: 16px;
+}
+#pedagogySubFive {
+    top: 1001vh;
+}
+#pedagogyTwentyFour {
+    top: 12.5%;
+    left: 34.6%;
+}
+#pedagogyGridFour {
+
+    top: -32.5%;
+    left: -43.7%;
+}
+#pedagogyGridSix {
+    top: -76.8%;
+    left: -43.7%;
+}
+#pedagogyGridFive {
+    top: -53%;
+    left: -16.8%;
+}
+#pedagogyImageDescriptionFourteen {
+    position: relative;
+    top: -96%;
+    left: 35.3%;
+    width: 14%;
+}
+#pedagogySubSix {
+    top: 1084vh;
+}
+#pedagogyTwentySeven {
+    top: -109%;
+}
+#pedagogyImageDescriptionSixteen {
+    top: -110%;
+}
+#pedagogyTwentyEight {
+    top: -109.5%;
+}
+#pedagogyTwentyNine {
+    top: -161.5%;
+}
+#pedagogyImageDescriptionSeventeen {
+    top: -162%;
+}
+#pedagogyThirty {
+    top: -162%;
+}
+#pedagogyImageDescriptionEighteen {
+    top: -162%;
+}
+#pedagogyThirtyOne {
+    top: -161%;
+    left: 1%;
+    width: 62.8vw;
+}
+#pedagogyThirtyTwo {
+    top: -160%;
+    left: 1%;
+    width: 62.7vw;
+}
+#pedagogyImageDescriptionNineteen {
+    top: -159%;
+}
+#pedagogyThirtyThree {
+    top: -158%;
+}
+#pedagogyImageDescriptionTwenty {
+    top: -157.5%;
+}
+#pedagogyThirtyFour {
+    top: -158%;
+}
+#pedagogyThirtyFive {
+    top: -213.5%;
+}
+#pedagogyImageDescriptionTwentyOne {
+    top: -213%;
+}
+#pedagogyGridSeven {
+    top: -213%;
+}
+#pedagogyImageDescriptionTwentyTwo {
+    top: -219%;
+}
+#pedagogySubSeven {
+    top: 1857vh;
+}
+#pedagogySubEight {
+    top: 1817vh;
+}
+#pedagogySubNine {
+    top: 2300vh;
+    height: 6vh;
+}
+
+#pedagogyImageDescriptionTwentyEight 
+{
+    top: -17%;
+    left: 8.3%;
+}
+
+#pedagogyImageDescriptionTwentyNine {
+    top: -57%;
+    left: 8.3%;
+}
+
+#pedagogyImageDescriptionThirty {
+    top: -57%;
+    left: 8.3%;
 }
 }

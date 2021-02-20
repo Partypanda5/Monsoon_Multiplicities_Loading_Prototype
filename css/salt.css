@@ -500,3 +500,92 @@ left: 34.5%;
     padding-bottom: 4vh;
     }
     }
+
+    @media (min-width: 1500px) and (max-width: 1599px) {
+        .saltCopyOne {
+        top: -83.9%;
+    }
+    #saltVideoOne {
+        top: -43%;
+    }
+    #saltSubTwo {
+        top: 45vh;
+    }
+    #saltThree {
+        top: 45.5%;
+    }
+    #saltFour {
+        top: 41.5%;
+    }
+    #saltImageDescriptionTwo {
+        top: 36.5%;
+    }
+    #saltSubThree {
+        top: 128vh;
+    }
+    #saltFive {
+        top: 44%;
+    }
+    #saltSix {
+        top: 39%;
+    }
+    #saltSeven {
+        top: 25.5%;
+        left: 34.6%;
+    }
+    #saltEight {
+        top: 24.8%;
+        left: 0.9%;
+    }
+    #saltNine {
+        top: -19.2%;
+        left: 34.6%;
+    }
+    #saltSubFive {
+        top: 193.2vh;
+    }
+    #saltTen {
+        top: 26%;
+    }
+    #saltImageDescriptionThree {
+        top: 14.2%;
+    }
+    #saltSubFour {
+        top: 153.5vh;
+    }
+    #saltSeven {
+        top: 20.5%;
+    }
+    #saltImageDescriptionFive {
+        top: 19.2%;
+    }
+    #saltSubSix {
+        top: 116vh;
+    }
+    #saltEleven {
+        top: 40%;
+    }
+        .saltQuote {
+        top: 24.3%;
+    }
+    .saltQuoteTwo {
+        top: 31%;
+    }
+    #saltImageDescriptionSix {
+        top: 35%;
+    }
+    #saltImageDescriptionSeven {
+        position: relative;
+        top: 7%;
+    }
+    .endlineSaltTwo {
+        top: 13%;
+    }
+    #saltImageDescriptionEight {
+        top: 20%;
+    }
+    #saltSubSeven {
+        top: 103vh;
+        height: 65vh;
+    }
+    }

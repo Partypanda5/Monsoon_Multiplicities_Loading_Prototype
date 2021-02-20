@@ -496,3 +496,66 @@ width: 61.7vw;
     width: 26%;
 }
 }
+
+@media (min-width: 1500px) and (max-width: 1599px) {
+	#dragonSubTwo {
+    top: -41.6vh;
+}
+.dragonCopyOne {
+    top: 13.3%;
+}
+#DragonVideoTwo {
+    top: -7.7%;
+}
+#dragonSubThree {
+    top: -63vh;
+}
+#dragonTwo {
+    top: -9.1%;
+    left: 7.65%;
+}
+#dragonTwo {
+    top: -29.1%;
+    left: 7.65%;
+}
+#dragonImageDescriptionTwo {
+    top: -27.5%;
+    left: 8.3%;
+    width: 14%;
+}
+#dragonThree {
+    top: -18.4%;
+}
+#dragonFour {
+    top: -26%;
+}
+	#DragonVideoFour, #DragonVideoFive {
+    left: -32.9%;
+	}
+#dragonSubFour {
+    top: 77.7vh;
+}
+#dragonSubFive {
+    top: 59.5vh;
+}
+#dragonSubSix {
+    top: 132.8vh;
+}
+#dragonSubSeven {
+    top: 172.5vh;
+}
+#dragonSubEight {
+    top: 150vh;
+}
+.endlineDragonThree {
+    top: -69.5%;
+}
+#dragonImageDescriptionEight {
+    top: -66.7%;
+}
+
+#dragonGridOne {
+    top: 15%;
+    left: -43.3%;
+}
+}

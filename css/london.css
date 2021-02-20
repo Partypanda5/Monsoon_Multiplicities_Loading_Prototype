@@ -507,8 +507,28 @@
 
 @media (min-width: 1500px) and (max-width: 1599px) 
 {
+
+    #londonSubThree {
+        top: -99vh;
+        z-index: 5;
+    }
+
+    #londonSubFour {
+        top: -107vh;
+    }
+
     #londonSubTwo {
         top: -45vh;
+    }
+
+    #londonSubFive {
+        top: -64vh;
+        height: 20vh;
+    }
+
+    #londonGridOne {
+        top: 26.5%;
+        left: 5.3%;
     }
 
     #titleTwo 
@@ -519,5 +539,53 @@
     #copyTwo 
     {
         top: 80vh;
+    }
+
+    .londonHeading 
+    {
+        font-size: 25px;
+        line-height: 28px;
+        top: -1vh;
+    }
+
+    .londonEventsContainerOne 
+    {
+        top: 43vh;
+        left: 35.2%;
+    }
+
+    .londonEventsContainerTwo 
+    {
+        top: 48.5vh;
+        left: 35.2%;
+    }
+
+    .londonEventsContainerThree 
+    {
+        top: 49.5vh;
+        left: 35.2%;
+    }
+
+    .londonEventsContainerFour 
+    {
+        top: 62vh;
+        left: 35.2%;
+    }
+
+    .londonReferences {
+        font-size: 9px;
+        line-height: 12px;
+    }
+
+    .referencesLondon {
+        font-size: 9px;
+        line-height: 12px;
+    }
+
+    .referencesLondonTwo 
+    {
+        font-size: 9px;
+        line-height: 12px;
+        top: 18%;
     }
 }

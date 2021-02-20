@@ -1133,3 +1133,200 @@ top: 17.5%;
     top:-55.2%;
 }
 }
+
+@media (min-width: 1500px) and (max-width: 1599px) {
+    #yangonSubTwo {
+        top: 24vh;
+    }
+    #yangonTwo {
+        top: 15.5%;
+        left: 9%;
+        width: 22vw;
+    }
+        .yangonMapContainerOne {
+        top: 13.5%;
+        }
+    #yangonThree {
+        top: -17%;
+        left: 34.3%;
+    }
+    #yangonImageDescriptionTwo {
+        top: -17%;
+    }
+    .yangonCopyTextTwo {
+        top: -22%;
+    }
+    #yangongGridOne, #yangongGridTwo, #yangongGridThree, #yangongGridFour,#yangongGridFive, #yangongGridSix,#yangongGridSeven {
+        left: -43.7%;
+    }
+    #yangongGridOne {
+        top: -39%;
+    }
+    #yangonTwentyOne, #yangonTwentyFive,#yangonTwenty, #yangonSixteen,  #yangonTwelve {
+        left: 34.5%;
+    }
+    #YangonVideoFour, #yangonThirteen, #yangonNineteen, #yangonTwentyThree, #yangonTwentySeven, #yangonTwentyEight {
+        left: 7.45%;
+    }
+        #YangonVideoTwo {
+        top: -97%;
+    }
+    #yangonImageDescriptionThree {
+        top: -95%;
+    }
+    #yangonSubThree {
+        top: 100.5vh;
+    }
+    .yangonMapContainerOne {
+        top: 13.5%;
+    }
+    #yangongGridTwo {
+        top: -35%;
+    }
+    #yangonImageDescriptionFour {
+        top: -50.5%;
+    }
+    #yangonFive {
+        top: -49%;
+    }
+    #yangonImageDescriptionFive {
+        top: -54%;
+    }
+    #YangonVideoThree {
+        top: -52%;
+    }
+    #yangonSubFour {
+        top: 274vh;
+    }
+    #yangonSix {
+        top: 13.5%;
+    }
+    .yangonCopyTextFour {
+        top: -79%;
+    }
+    #yangonSeven {
+        top: -73%;
+    }
+    #yangonImageDescriptionSeven {
+        top: -65.5%;
+    }
+    #yangonImageDescriptionTwelve {
+        top: -79.5%;
+    }
+    #yangonSubFive {
+        top: 403vh;
+    }
+    #yangonEight {
+        top: 13.5%;
+    }
+    .yangonCopyTextFive {
+        top: -59%;
+    }
+    #YangonVideoFour {
+        top: -48%;
+    }
+    #yangonEleven{
+        left: -32.8%;
+    }
+    #yangonEleven {
+        position: relative;
+        z-index: -5;
+        top: -53%;
+    }
+        #yangonTen {
+        top: 2%;
+        left: -65.7%;}
+    #yangonEleven {
+        top: -46%;
+    }
+    #yangonImageDescriptionEleven {
+        top: -75%;
+    }
+    #yangonTwelve {
+        top: -51%;
+    }
+    #yangonSubSix {
+        top: 696vh;
+    }
+    #yangonThirteen {
+        top: 13%;
+    }
+    #yangonSubSix .copyText{
+    top: 17.5%;
+    }
+    #yangonImageDescriptionThirteen {
+        top: -37%;
+    }
+    #yangonFifteen {
+        top: -15%;
+    }
+    #yangonImageDescriptionFourteen {
+        top: -20%;
+    }
+    #yangonSixteen {
+        top: -32.5%;
+    }
+    #yangonSeventeen {
+        top: -31%;
+    }
+    #yangonSubSeven {
+        top: 907vh;
+    }
+    #yangonEighteen {
+        top: 13%;
+    }
+    #yangonImageDescriptionFifteen {
+        top: -43%;
+    }
+    .yangonCopyTextSix {
+        top: -11%;
+    }
+    #yangonNineteen {
+        top: -35%;
+    }
+    #YangonVideoSix {
+        top: -45%;
+    }
+    #yangongGridFive {
+        top: -62%;
+    }
+    #yangonImageDescriptionSixteen {
+        top: -144%;
+    }
+    #yangonTwenty {
+        top: -143%;
+    }
+    #yangonTwentyOne {
+        position: relative;
+        z-index: -5;
+        top: -142.5%;
+    }
+    #gridImageMiddleYangon {
+        width: 23.6vw;
+    }
+    #yangonSubEight {
+        top: 1171.5vh;
+    }
+    #yangonTwentyTwo {
+        top: 12.5%;
+    }
+    #yangonSubNine {
+        top: 1382vh;
+    }
+    #yangonTwentySix {
+        top: 10%;
+    }
+    #yangongGridEight {
+        left: -17%;
+    }
+    #yangonImageDescriptionTwentyTwo {
+        top: -91%;
+    }
+    #yangonSubTen {
+        top:  1708vh;
+    }
+
+    #yangonImageDescriptionTwentyFour {
+        top: -49%;
+    }
+    }

@@ -663,7 +663,130 @@
     top: 317vh;
 }
 #fishVideoFive {
-    height: 32vh;
+    top: 9.7%;
+
 }
 	
 }
+
+@media (min-width: 1500px) and (max-width: 1599px) {
+    .fishCopyTextOne {
+        top: -31%;
+    }
+    #fishTwo {
+        top: 11%;
+    }
+    #fishSubTwo {
+        top: 16.7vh;
+    }
+    #fishThree {
+        top: 31%;
+    }
+    #fishImageDescriptionTwo {
+        top: 26%;
+    }
+    #fishSubThree {
+        top: -1.5vh;
+    }
+    #fishVideoOne {
+        top: 41%;
+    }
+    #fishImageDescriptionThree {
+    
+        top: 36%;
+    }
+    #fishGridOne {
+        top: 35.4%;
+        left: -43.7%;
+    }
+    #gridImageMiddleFish {
+        width: 23.6vw;
+    }
+    #fishGridTwo {
+        top: -12.7%;
+        left: -16.8%;
+    }
+    #fishSubFour {
+        top: 148vh;
+    }
+    #fishFive {
+        left: -32.9%;
+        top: 40.8%;
+    }
+    #fishSubFive {
+        top: 318vh;
+    }
+    #fishVideoTwo {
+        top: 35%;
+    }
+    
+    #fishImageDescriptionSeven {
+        top: 16%;
+    }
+    .fishContainer #gridImageMiddleSnakesHor {
+        width: 23.8vw;
+        margin-left: 0.5vw;
+        margin-right: 0;
+    }
+        #fishGridThree, #fishGridFour {
+    
+        left: -39.3%;
+    }
+    #fishGridFive {
+        top: 28.5%;
+        left: -39.1%;
+    }
+    #fishGridSix {
+        top: 21.5%;
+        left: -39.2%;
+    }
+    #fishSubSix {
+        top: 363vh;
+    }
+    #fishVideoThree {
+        top: 41%;
+    }
+    #fishGridSeven {
+        top: 34.5%;
+        left: -39.2%;
+    }
+    #fishGridEight {
+        top: 27.5%;
+        left: -39.2%;
+    }
+    #fishImageDescriptionEight {
+        top: 22%;
+    }
+    #fishImageDescriptionEight {
+        top: 22%;
+    }
+
+    #fishVideoFive {
+        top: 13%;
+        left: -66.4%;
+    }
+    #fishSubSeven {
+        top: 420vh;
+    }
+        #fishSeven {
+        top: 37%;
+    }
+    #fishSubEight {
+        top: 430vh;
+    }
+    #fishImageDescriptionNine {
+        top: 8%;
+    }
+    .endLineFishTwo {
+        top: 10%;
+    }
+    #fishImageDescriptionTen {
+        top: -14%;
+    }
+    .endLineFishThree {
+        top: 0;
+    }
+    #fishImageDescriptionEleven {
+        top: 3%;
+    }
+    }

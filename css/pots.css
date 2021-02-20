@@ -545,3 +545,92 @@ top:17%
     width: 23.8vw !important;
 }
 }
+
+@media (min-width: 1500px) and (max-width: 1599px) {
+	#potOne {
+    position: relative;
+    top: 43.2%;
+    left: -49.5%;
+}
+#potTwo {
+    position: relative;
+    top: 9%;
+    left: 34.7%;
+}
+#potSubTwo {
+    top: -23vh;
+}
+#potSubTwo .copyText{
+top: 16.8%;
+}
+	#potFour {
+    top: 46%;
+		left: -33.5%;
+}
+#potImageDescriptionOne {
+    top: 40.5%;
+}
+#potFive {
+    top: 42%;
+}
+#potSix {
+    top: 11.3%;
+    left: 34.5%;
+}
+#potSubThree {
+    top: 141.7vh;
+}
+
+#potGridOne {
+    left: -43.7%;
+}
+	#potGridTwo {
+    top: -30.9%;
+    left: -17.65%;
+}
+#potSubFour {
+    top: 118vh;
+}
+#potNine {
+    top: 26%;
+    left: 17.2%;
+}
+	#potTen {
+    left: -49.4%;
+	}
+#potSubFive {
+    top: 126.65vh;
+}
+#potGridThree {
+    top: 36%;
+}
+#gridImageSmallerMargin {
+    width: 14.2vw;
+    margin-left: 10px;
+}
+#potSubSix {
+    top: 192vh;
+}
+#potSubThree .copyText, #potSubFive .copyText, #potSubSix .copyText, #potSubSeven .copyText{
+top: 17.1%;
+}
+#potGridFive {
+    top: 36.9%;
+    left: -17.7%;
+}
+#potTwelve {
+    top: -18%;
+    left: 7.5%;
+}
+#potImageDescriptionFive {
+    top: 9%;
+}
+	#potSubSeven {
+    top: 205vh;
+}
+#potSubEight {
+    top: 235.5vh;
+    height: 56vh;
+}
+	
+}
