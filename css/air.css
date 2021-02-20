@@ -1043,3 +1043,169 @@
 
     
 }
+
+/* common - 1600×750, 1600×900 */
+@media (min-width: 1600px) and (max-width: 1699px) 
+{
+    #airSubTwo 
+    {
+        top: -43vh;
+    }
+
+    #airSubThree {
+        top: -85vh;
+    }
+
+    #airSubFour {
+        top: -119vh;
+    }
+
+    #airSubFive {
+        top: -205vh;
+    }
+
+    #airSubSix {
+        top: -256vh;
+    }
+
+    #airSubSeven {
+        top: -209vh;
+    }
+
+    #airSubEight {
+        top: -143vh;
+    }
+
+    #airSubNine {
+        top: -185vh;
+    }
+
+    #airSubTen {
+        top: -134vh;
+    }
+
+    #airSubEleven {
+        top: -223vh;
+    }
+    
+    #airSubTwelve {
+        top: -253vh;
+        height: 30vh;
+    }
+
+    #airVideoOne 
+    {
+        top: 36%;
+        left: -32.9%;
+    }
+
+    #airVideoTwo 
+    {
+        top: 49%;
+        left: -32.9%;
+    }
+
+    #airVideoFour 
+    {
+        top: 45%;
+        left: -32.9%;
+    }
+
+    #airTwo 
+    {
+        top: -18%;
+        left: 30%;
+    }
+
+    #airThree 
+    {
+        top: 27%;
+        left: 1%;
+    }
+
+    #airSix 
+    {
+        top: 32%;
+        left: -0.1%;
+    }
+    
+    #airEight 
+    {
+        top: -48%;
+        left: 34.7%;
+    }
+
+    #airNine {
+        top: 28%;
+        left: 1%;
+    }
+
+    #airTen {
+        top: 30%;
+        left: 1%;
+    }
+
+    #airEleven {
+        top: 17%;
+        left: 34.7%;
+    }
+
+    #airTwelve 
+    {
+        top: 79%;
+        left: -49.7%;
+    }
+
+    #airGridOne 
+    {
+        top: 27%;
+        left: -50.35%;
+    }
+
+    #airImageDescriptionOne 
+    {
+        top: -5.5%;
+        left: 35.3%;
+    }
+
+    #airImageDescriptionSix 
+    {
+        top: 74%;
+        left: 35.3%; 
+    }
+
+    #airImageDescriptionTwo 
+    {
+        top: 44%;
+    }
+
+    #airImageDescriptionSeven
+    {
+        top: 40%;
+        left: 35.3%;
+    }
+
+    #airImageDescriptionEight 
+    {
+        top: 11%;
+        left: 35.3%;
+    }
+
+    #airImageDescriptionNine 
+    {
+        top: 25.5%;
+        left: 35.3%;
+    }
+
+    #airImageDescriptionTen 
+    {
+        top: 18%;
+        left: 35.3%;
+
+    }
+    #airImageDescriptionEleven 
+    {
+        top: 15%;
+        left: 35.3%;
+    }
+}

@@ -589,3 +589,83 @@
         top: 18%;
     }
 }
+
+/* common - 1600×750, 1600×900 */
+@media (min-width: 1600px) and (max-width: 1699px) 
+{
+    #londonSubTwo {
+        top: -43vh;
+    }
+
+    #londonSubThree {
+        top: -115vh;
+        z-index: 5;
+    }
+
+    #londonSubFour {
+        top: -148vh;
+    }
+
+    #londonSubFive {
+        top: -104vh;
+        height: 20vh;
+    }
+
+    #londonImageDescriptionOne {
+        top: -5%;
+        left: 35.2%;
+    }
+
+    .londonHeading {
+        font-size: 22px;
+        line-height: 25px; 
+    }
+
+    #londonGridOne {
+        top: 25.5%;
+        left: 5.3%;
+    }
+
+    .londonReferences {
+        font-size: 10px;
+        line-height: 12px;
+    }
+
+    .londonEventsContainerOne 
+    {
+        top: 42vh;
+        left: 35.2%;
+    }
+
+    .londonEventsContainerTwo 
+    {
+        top: 53.5vh;
+        left: 35.2%;
+    }
+
+    .londonEventsContainerThree
+    {
+        top: 61.5vh;
+        left: 35.2%;
+    }
+
+    .londonEventsContainerFour
+    {
+        top: 76.5vh;
+        left: 35.2%;
+    }
+
+    .referencesLondon 
+    {
+        font-size: 10px;
+        line-height: 12px;
+    }
+
+    .referencesLondonTwo
+    {
+        font-size: 10px;
+        line-height: 12px;
+        top: 23%;
+
+    }
+}

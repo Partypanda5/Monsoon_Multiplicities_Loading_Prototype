@@ -1151,3 +1151,125 @@
         left: 0%;
     }
 }
+
+/* common - 1600×750, 1600×900 */
+@media (min-width: 1600px) and (max-width: 1699px) 
+{
+
+    #oceanSubTwo {
+        top: -60vh;
+    }
+
+    #oceanSubThree {
+        top: -2vh;
+    }
+
+    #oceanSubFour {
+        top: 24vh;
+    }
+
+    #oceanSubFive {
+        top: 41vh;
+    }
+
+    #oceanSubSix {
+        top: 40vh;
+    }
+
+    #oceanSubSeven {
+        top: 334vh;
+        height: 15vh;
+    }
+
+    .oceanCopyOne 
+    {
+        top: 27%;
+    }
+
+    #oceanOne 
+    {
+        top: 30%;
+    }
+
+    #oceanTwo 
+    {
+        top: 41%;
+    }
+
+    #oceanThree 
+    {
+        top: 37%; 
+    }
+    
+    #oceanFive 
+    {
+        top: -1.5%; 
+    }
+
+    #oceanSeven 
+    {
+        top: -49.2%;
+        left: 35.4%;
+        width: 24vw;
+    }
+
+    #oceanEight 
+    {
+        top: 28%;
+        left: -32.3%;
+        width: 63vw;
+    }
+
+    #oceanNine 
+    {
+        top: 21%;
+        left: 0.9%;
+    }
+
+    #oceanTen 
+    {
+        top: 8.3%;
+        left: 34.4%;
+    }
+
+    #oceanFifteen 
+    {
+        top: 3%;
+        left: 34.7%;
+    }
+
+    #oceanSixteen 
+    {
+        top: -44.2%;
+        left: 34.7%;
+    }
+
+    #oceanGridOne 
+    {
+        top: -26%;
+    }
+
+    #oceanImageDescriptionOne 
+    {
+        top: 32%;
+    }
+
+    #oceanImageDescriptionTwo 
+    {
+        top: -47%;
+        left: 35.3%;
+    }
+
+    .oceanCopyTwo 
+    {
+        top: -66%;
+        left: 35.3%;
+        width: 22%;
+    }
+
+    .oceanCopyThree 
+    {
+        top: -41%;
+        left: 35.3%;
+    }
+}

@@ -1233,3 +1233,181 @@
     }
 
 }
+
+/* common - 1600×750, 1600×900 */
+@media (min-width: 1600px) and (max-width: 1699px) 
+{
+    #timeSubTwo 
+    {
+        top: -18vh;
+    }
+
+    #timeSubThree {
+        top: 12vh;
+    }
+
+    #timeSubFour {
+        top: 23vh;
+    }
+
+    #timeSubFive {
+        top: 46vh;
+    }
+
+    #timeSubSix {
+        top: 169vh;
+    }
+
+    #timeSubSeven {
+        top: 251vh;
+    }
+
+    #timeSubEight {
+        top: 297vh;
+    }
+
+    #timeSubNine {
+        top: 249vh;
+    }    
+
+    #timeSubTen {
+        top: 239vh;
+        height: 50vh;
+    }
+
+    #timeNine 
+    {
+        left: -31.9%;
+        top: -7%;
+    }
+
+    #timeTen 
+    {
+        left: 29.3%;
+        top: -59%;
+    }
+
+    #timeTwo 
+    {
+        left: 34.7%;
+        top: 11%;
+    }
+
+    #timeThree 
+    {
+        left: 1%;
+        top: -12.5%;
+        width: 31.2vw;
+    }
+
+    #timeSix {
+        left: -16.9%;
+        top: 46%;
+    }
+
+    #timeSeven
+    {
+        left: -84%;
+        top: 58%;
+    }
+
+    #timeEleven 
+    {
+        left: 34.7%;
+        top: -56%;
+    }
+
+    #timeGridTwo 
+    {
+        left: -43.7%;
+        top: 0%;
+    }
+
+    #timeGridThree 
+    {
+        left: -43.7%;
+        top: 15%;
+    }
+
+    #timeGridFour 
+    {
+        left: -43.7%;
+        top: -49%;
+    }
+
+    #timeGridSix 
+    {
+        left: -44.8%;
+        top: -22%;
+    }
+
+    .drawingSeasonalTimeCopy
+    {
+        top: 17%;
+    }
+
+    #timeImageDescriptionTwo 
+    {
+        top: 86%;
+        left: 51%;
+    }
+
+    #timeImageDescriptionThree 
+    {
+        top: 86%;
+        left: 52.5%;
+    }
+
+    #timeImageDescriptionFour
+    {
+        top: 78%;
+        left: 35.3%;
+    }
+
+    #timeVideoSeven 
+    {
+        width: 30vw;
+        height: 43.5vh;
+    }
+
+    #timeVideoFive 
+    {
+        top: 45%;
+        left: -32.9%;
+    }
+
+    #timeHorizontalGridOne {
+        top: 42%;
+        left: 1.25%;
+    }
+
+    #timeHorizontalGridTwo 
+    {
+        top: 79%;
+        left: 0.69%;
+    }
+
+    #timeHorizontalGridThree 
+    {
+        top: 117%;
+        left: 0.69%;
+    }
+
+    #timeHorizontalGridFour 
+    {
+        top: 154%;
+        left: 1.25%;
+    }
+
+    #gridImageTimeTwo {
+        margin-left: 13px;
+        margin-right: 5px;
+    }
+
+    #gridImageTimeThree 
+    {
+        width: 30vw;
+        margin-left: 9px;
+        margin-right: 4px;
+    }
+}
