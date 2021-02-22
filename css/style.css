@@ -1045,6 +1045,11 @@ video:focus { outline:none; }
     background-color: white;
 }
 
+.whiteColor
+{
+    color: white;
+}
+
 #gridImage
 {
     width: 14.5vw;

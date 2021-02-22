@@ -349,6 +349,110 @@ left: 7.5%;
 
 }
 
+@media (max-width: 1299px) and (min-height: 680px) and (max-height: 801px)
+{
+#saltTwo {
+    top: -497px;
+left: 7.5%;
+}
+.TemplateContainer {
+    height: 904px;
+}
+
+.saltCopyOne {
+    top: -87%;
+    left: 35.2%;
+}
+
+#saltImageDescriptionOne {
+    top: -58%;
+}
+
+#saltVideoOne {
+    height: 56.5vh;
+    top: -53%;
+}
+#saltSubTwo {
+    top: 432px;
+}
+
+#saltThree {
+    top: 46%;
+}
+
+#saltFour {
+    top: 42%;
+}
+#saltImageDescriptionTwo {
+ 	top: 37.5%;
+}
+
+#saltSubThree {
+    top: 1024px;
+}
+#saltFive {
+    top: 44.5%;
+}
+
+#saltSix {
+    top: 41%;
+}
+
+#saltImageDescriptionThree {
+    top: 15%;
+}
+#saltSubFour {
+    top: 1232px;
+}
+.saltQuote {
+    top: 31%;
+}
+#saltSeven {
+    top: 19%;
+}
+
+#saltImageDescriptionFour {
+    top: 37.5%;
+}
+
+#saltEight {
+    top: 19%;
+    left: 0.9%;
+}
+
+#saltNine {
+    top: -25.5%;
+    left: 34.4%;
+}
+#saltSubFive {
+    top: 1472px;
+}
+
+#saltTen {
+    top: 30%;
+}
+#saltImageDescriptionFive {
+    top: 21.3%;
+}
+#saltSubSix {
+    top: 1056px;
+}
+#saltEleven {
+    top: 40%;
+}
+.saltQuoteTwo {
+    top: 32%;
+}
+#saltImageDescriptionSix {
+    top: 36.5%;
+}
+
+#saltSubSeven {
+    top: 984px;
+}
+
+}
+
 @media (min-width: 1300px) and (max-width: 1399px) 
 {
 
@@ -440,11 +544,170 @@ left: 34.5%;
 }
 }
 
-@media (min-width: 1400px) and (max-width: 1499px) {
+@media (min-width: 1300px) and (max-width: 1399px) 
+and (min-height: 680px) and (max-height: 749px)
+{
+
+    #saltSubOne
+    {
+        top: -5vh;
+    }
+    
+    .saltCopyOne 
+    {
+        top: -76%;
+    }
+    #saltTwo 
+    {
+        top: -44%;
+        left: 7.6%;
+    }
+    #saltImageDescriptionOne {
+        top: -49%;
+    }
+    #saltVideoOne {
+        top: -47.5%;
+        left: -49.7%;
+    }
+    #saltSubTwo {
+        top: 90px;
+    }
+    #saltThree {
+        top: 41%;
+    }
+    #saltFour {
+        top: 37%;
+    }
+    #saltImageDescriptionTwo {
+        top: 32%;
+    }
+    #saltSubThree {
+        top: 535px;
+    }
+    #saltFive {
+        top: 41%;
+    }
+    #saltSix {
+        top: 36%;
+        left: 7.6%;
+    }
+    #saltImageDescriptionThree {
+        top: 14%;
+    }
+    #saltSubFour {
+        top: 611px;
+    }
+    .saltQuote {
+        top: 26%;
+    }
+    #saltSeven {
+        top: 20%;
+    left: 34.5%;
+    }
+    #saltImageDescriptionFour {
+        top: 32%;
+    }
+    #saltNine {
+        top: -21%;
+        left: 34.5%;
+    }
+    #saltEight {
+        top: 20.5%;
+        left: 0.8%;
+    }
+    #saltSubFive {
+        top: 750px;
+    }
+    #saltSubSix {
+        top: 170px;
+    }
+    #saltEleven {
+        top: 37%;
+    }
+    .saltQuoteTwo {
+        top: 28%;
+    }
+    #saltImageDescriptionSix {
+        top: 31.5%;
+    }
+    #saltSubSeven {
+        top: -48px;
+        height: 60vh;
+    }
+}
+
+@media (min-width: 1400px) and (max-width: 1499px) 
+{
+        .saltContainer .copyText {
+        top: 18%;
+        }	
+            
+        #saltSubOne	.copyText {
+            top: -75.5%;
+        }
+        #saltVideoOne {
+            height: 48.3vh;
+            top: -43%;
+        }
+        #saltSubTwo {
+            top: 20.4vh;
+        }
+        
+        #saltSubThree {
+            top: 71.5vh;
+        }
+            #saltSubFour {
+            top: 74.8vh;
+        }
+        .saltQuote {
+            top: 24% !important;
+        }
+        #saltNine {
+            top: -21%;
+        }
+        #saltEight {
+            top: 18%;
+            left: 1.07%;
+        }
+        #saltSubSix {
+            top: 2.8vh;
+        }
+        #saltEleven {
+            top: 34.6%;
+        }
+        #saltImageDescriptionSix {
+            top: 29%;
+        }
+        
+        .saltQuoteTwo {
+            top: 25.6% !important;
+        }
+        #saltSubSeven {
+            top: -32.5vh;
+            height: 20vh;
+        }
+        #saltImageDescriptionSeven {
+            top: 25%;
+        }
+        .endlineSaltTwo {
+            top: 40%;
+        }
+        #saltImageDescriptionEight {
+            top: 60%;
+        padding-bottom: 4vh;
+        }
+}
+
+@media (min-width: 1400px) and (max-width: 1499px) 
+and (min-height: 851px) and (max-height: 901px)
+{
     .saltContainer .copyText {
     top: 18%;
     }	
         
+    .TemplateContainer {
+        height: 132vh;
+    }
     #saltSubOne	.copyText {
         top: -75.5%;
     }
@@ -453,27 +716,31 @@ left: 34.5%;
         top: -43%;
     }
     #saltSubTwo {
-        top: 20.4vh;
+        top: 180px;
     }
     
     #saltSubThree {
-        top: 71.5vh;
+        top: 594px;
     }
         #saltSubFour {
-        top: 74.8vh;
+        top: 621px;
     }
     .saltQuote {
         top: 24% !important;
     }
     #saltNine {
-        top: -21%;
+        top: -20%;
     }
     #saltEight {
         top: 18%;
         left: 1.07%;
     }
+    #saltSubFive {
+        top: 675px;
+    }
+
     #saltSubSix {
-        top: 2.8vh;
+        top: 34px;
     }
     #saltEleven {
         top: 34.6%;
@@ -486,7 +753,7 @@ left: 34.5%;
         top: 25.6% !important;
     }
     #saltSubSeven {
-        top: -32.5vh;
+        top: -252px;
         height: 20vh;
     }
     #saltImageDescriptionSeven {
@@ -499,9 +766,10 @@ left: 34.5%;
         top: 60%;
     padding-bottom: 4vh;
     }
-    }
+}
 
-    @media (min-width: 1500px) and (max-width: 1599px) {
+@media (min-width: 1500px) and (max-width: 1599px) 
+{
         .saltCopyOne {
         top: -83.9%;
     }
@@ -588,232 +856,876 @@ left: 34.5%;
         top: 103vh;
         height: 65vh;
     }
+}
+
+@media (min-width: 1500px) and (max-width: 1599px) 
+and (min-height: 780px) and (max-height: 810px)
+{
+    .saltCopyOne {
+    top: -76.9%;
+}
+#saltTwo {
+    top: -51%;
+}
+#saltImageDescriptionOne {
+    top: -54%;
+}
+#saltVideoOne {
+    top: -53%;
+}
+#saltSubTwo {
+    top: 102px;
+}
+#saltThree {
+    top: 45.5%;
+}
+#saltFour {
+    top: 41.5%;
+}
+#saltImageDescriptionTwo {
+    top: 36.5%;
+}
+#saltSubThree {
+    top: 657px;
+}
+#saltFive {
+    top: 44%;
+}
+#saltSix {
+    top: 39%;
+}
+#saltSeven {
+    top: 25.5%;
+    left: 34.6%;
+}
+#saltEight {
+    top: 24.8%;
+    left: 0.9%;
+}
+#saltNine {
+    top: -19.2%;
+    left: 34.6%;
+}
+#saltSubFive {
+    top: 982px;
+}
+#saltTen {
+    top: 26%;
+}
+#saltImageDescriptionThree {
+    top: 16.2%;
+}
+#saltSubFour {
+    top: 776px;
+}
+#saltSeven {
+    top: 20.5%;
+}
+#saltImageDescriptionFive {
+    top: 19.2%;
+}
+#saltSubSix {
+    top: 340px;
+}
+#saltNine {
+    top: -16.2%;
+}
+#saltEleven {
+    top: 40%;
+}
+    .saltQuote {
+    top: 24.3%;
+}
+.saltQuoteTwo {
+    top: 31%;
+}
+#saltImageDescriptionSix {
+    top: 35%;
+}
+#saltImageDescriptionSeven {
+    position: relative;
+    top: 7%;
+}
+.endlineSaltTwo {
+    top: 13%;
+}
+#saltImageDescriptionEight {
+    top: 20%;
+}
+#saltSubSeven {
+    top: 190px;
+    height: 65vh;
+}
+}
+
+/* common - 1600×750, 1600×900 */
+@media (min-width: 1600px) and (max-width: 1699px) {
+    .saltCopyOne {
+top: -85%;
+}
+#saltSubTwo {
+    top: 35.5vh;
+}
+#saltThree {
+    left: -32.9%;
+    top: 40%;
+}
+#saltFour {
+    top: 36%;
+}
+#saltImageDescriptionTwo {
+    top: 31%;
+}
+#saltSubThree {
+    top: 111vh;
+}
+#saltFive {
+    top: 39%;
+}
+#saltSix {
+    top: 34%;
+}
+#saltImageDescriptionThree {
+    top: 9.2%;
+}
+#saltSubFour {
+    top: 130vh;
+}
+#saltSeven {
+    top: 17.5%;
+    left: 34.6%;
+}
+#saltImageDescriptionFour {
+    top: 30.2%;
+}
+#saltEight {
+    top: 18%;
+    left: 1.05%;
+}
+#saltNine {
+    top: -26.6%;
+    left: 34.6%;
+}
+#saltSubFive {
+    top: 155vh;
+}
+#saltTen {
+    top: 26%;
+}
+#saltSubSix {
+    top: 78.5vh;
+}
+#saltEleven {
+    top: 35.5%;
+}
+#saltImageDescriptionSix {
+    top: 30.5%;
+}
+.saltQuoteTwo {
+    top: 26.5%;
+}
+#saltImageDescriptionSeven {
+    top: 19%;
+}
+.endlineSaltTwo {
+    top: 33%;
+}
+#saltImageDescriptionEight {
+    top: 51%;
+}
+#saltSubSeven {
+    top: 45vh;
+}
+}
+
+
+@media (min-width: 1600px) and (max-width: 1699px) 
+and (min-height: 831px) and (max-height: 900px)
+{
+    .saltCopyOne {
+top: -68%;
+}
+#saltImageDescriptionOne {
+    top: -45%;
+}
+
+#saltVideoOne
+{
+    top: -42%;
+}
+
+#saltSubTwo {
+    top: 9px;
+}
+#saltThree {
+    left: -32.9%;
+    top: 40%;
+}
+#saltFour {
+    top: 36%;
+}
+#saltImageDescriptionTwo {
+    top: 31%;
+}
+#saltSubThree {
+    top: 432px;
+}
+#saltFive {
+    top: 39%;
+}
+#saltSix {
+    top: 34%;
+}
+#saltImageDescriptionThree {
+    top: 13.2%;
+}
+#saltSubFour {
+    top: 405px;
+}
+#saltSeven {
+    top: 17.5%;
+    left: 34.6%;
+}
+#saltImageDescriptionFour {
+    top: 30.2%;
+}
+#saltEight {
+    top: 18%;
+    left: 1.05%;
+}
+#saltNine {
+    top: -18.6%;
+    left: 34.6%;
+}
+#saltSubFive {
+    top: 378px;
+}
+#saltTen {
+    top: 26%;
+}
+#saltSubSix {
+    top: -387px;
+}
+#saltEleven {
+    top: 35.5%;
+}
+#saltImageDescriptionSix {
+    top: 30.5%;
+}
+.saltQuoteTwo {
+    top: 26.5%;
+}
+#saltImageDescriptionSeven {
+    top: 19%;
+}
+.endlineSaltTwo {
+    top: 33%;
+}
+#saltImageDescriptionEight {
+    top: 51%;
+}
+#saltSubSeven {
+    top: -774px;
+}
+}
+
+@media (min-width: 1600px) and (max-width: 1699px) 
+and (min-height: 901px) and (max-height: 1051px)
+{
+    .saltCopyOne {
+top: -60%;
+}
+#saltImageDescriptionOne {
+    top: -36%;
+}
+#saltTwo {
+    top: -33%;
+}
+#saltVideoOne
+{
+    top: -34%;
+}
+
+#saltSubTwo {
+    top: -68px;
+}
+#saltThree {
+    left: -32.9%;
+    top: 34%;
+}
+#saltFour {
+    top: 29%;
+}
+#saltImageDescriptionTwo {
+    top: 23%;
+}
+#saltSubThree {
+    top: 141px;
+}
+#saltFive {
+    top: 33%;
+}
+#saltSix {
+    top: 27%;
+}
+#saltImageDescriptionThree {
+    top: 9.2%;
+}
+#saltSubFour {
+    top: -105px;
+}
+#saltSeven {
+    top: 19.5%;
+    left: 34.6%;
+}
+#saltImageDescriptionFour {
+    top: 30.2%;
+}
+#saltEight {
+    top: 21%;
+    left: 1.05%;
+}
+#saltNine {
+    top: -12.6%;
+    left: 34.6%;
+}
+#saltSubFive {
+    top: -288px;
+}
+#saltTen {
+    top: 26%;
+}
+#saltSubSix {
+    top: -1241px;
+}
+#saltEleven {
+    top: 35.5%;
+}
+#saltImageDescriptionSix {
+    top: 30.5%;
+}
+.saltQuoteTwo {
+    top: 26.5%;
+}
+#saltImageDescriptionSeven {
+    top: 19%;
+}
+.endlineSaltTwo {
+    top: 33%;
+}
+#saltImageDescriptionEight {
+    top: 51%;
+}
+#saltSubSeven {
+    top: -1791px;
+}
+}
+
+
+
+@media (min-width: 1900px) and (max-width: 1999px) 
+and (min-height: 920px) and (max-height: 1008px)
+{
+    .saltContainer
+    {
+    max-width: 100vw;
+    flex: 100%;
+    display: block;
+    z-index: 10;
+    height: 100%;
     }
 
-    @media (min-width: 1400px) and (max-width: 1499px) {
-        .saltContainer .copyText {
-        top: 18%;
-        }	
-            
-        #saltSubOne	.copyText {
-            top: -75.5%;
-        }
-        #saltVideoOne {
-            height: 48.3vh;
-            top: -43%;
-        }
-        #saltSubTwo {
-            top: 20.4vh;
-        }
-        
-        #saltSubThree {
-            top: 71.5vh;
-        }
-            #saltSubFour {
-            top: 74.8vh;
-        }
-        .saltQuote {
-            top: 24% !important;
-        }
-        #saltNine {
-            top: -21%;
-        }
-        #saltEight {
-            top: 18%;
-            left: 1.07%;
-        }
-        #saltSubSix {
-            top: 2.8vh;
-        }
-        #saltEleven {
-            top: 34.6%;
-        }
-        #saltImageDescriptionSix {
-            top: 29%;
-        }
-        
-        .saltQuoteTwo {
-            top: 25.6% !important;
-        }
-        #saltSubSeven {
-            top: -32.5vh;
-            height: 20vh;
-        }
-        #saltImageDescriptionSeven {
-            top: 25%;
-        }
-        .endlineSaltTwo {
-            top: 40%;
-        }
-        #saltImageDescriptionEight {
-            top: 60%;
-        padding-bottom: 4vh;
-        }
-        }
-        @media (min-width: 1500px) and (max-width: 1599px) {
-            .saltCopyOne {
-            top: -83.9%;
-        }
-        #saltVideoOne {
-            top: -43%;
-        }
-        #saltSubTwo {
-            top: 45vh;
-        }
-        #saltThree {
-            top: 45.5%;
-        }
-        #saltFour {
-            top: 41.5%;
-        }
-        #saltImageDescriptionTwo {
-            top: 36.5%;
-        }
-        #saltSubThree {
-            top: 128vh;
-        }
-        #saltFive {
-            top: 44%;
-        }
-        #saltSix {
-            top: 39%;
-        }
-        #saltSeven {
-            top: 25.5%;
-            left: 34.6%;
-        }
-        #saltEight {
-            top: 24.8%;
-            left: 0.9%;
-        }
-        #saltNine {
-            top: -19.2%;
-            left: 34.6%;
-        }
-        #saltSubFive {
-            top: 193.2vh;
-        }
-        #saltTen {
-            top: 26%;
-        }
-        #saltImageDescriptionThree {
-            top: 14.2%;
-        }
-        #saltSubFour {
-            top: 153.5vh;
-        }
-        #saltSeven {
-            top: 20.5%;
-        }
-        #saltImageDescriptionFive {
-            top: 19.2%;
-        }
-        #saltSubSix {
-            top: 116vh;
-        }
-        #saltEleven {
-            top: 40%;
-        }
-            .saltQuote {
-            top: 24.3%;
-        }
-        .saltQuoteTwo {
-            top: 31%;
-        }
-        #saltImageDescriptionSix {
-            top: 35%;
-        }
-        #saltImageDescriptionSeven {
-            position: relative;
-            top: 7%;
-        }
-        .endlineSaltTwo {
-            top: 13%;
-        }
-        #saltImageDescriptionEight {
-            top: 20%;
-        }
-        #saltSubSeven {
-            top: 103vh;
-            height: 65vh;
-        }
-        }
-        /* common - 1600×750, 1600×900 */
-        @media (min-width: 1600px) and (max-width: 1699px) {
-            .saltCopyOne {
-        top: -85%;
-        }
-        #saltSubTwo {
-            top: 35.5vh;
-        }
-        #saltThree {
-            left: -32.9%;
-            top: 40%;
-        }
-        #saltFour {
-            top: 36%;
-        }
-        #saltImageDescriptionTwo {
-            top: 31%;
-        }
-        #saltSubThree {
-            top: 111vh;
-        }
-        #saltFive {
-            top: 39%;
-        }
-        #saltSix {
-            top: 34%;
-        }
-        #saltImageDescriptionThree {
-            top: 9.2%;
-        }
-        #saltSubFour {
-            top: 130vh;
-        }
-        #saltSeven {
-            top: 17.5%;
-            left: 34.6%;
-        }
-        #saltImageDescriptionFour {
-            top: 30.2%;
-        }
-        #saltEight {
-            top: 18%;
-            left: 1.05%;
-        }
-        #saltNine {
-            top: -26.6%;
-            left: 34.6%;
-        }
-        #saltSubFive {
-            top: 155vh;
-        }
-        #saltTen {
-            top: 26%;
-        }
-        #saltSubSix {
-            top: 78.5vh;
-        }
-        #saltEleven {
-            top: 35.5%;
-        }
-        #saltImageDescriptionSix {
-            top: 30.5%;
-        }
-        .saltQuoteTwo {
-            top: 26.5%;
-        }
-        #saltImageDescriptionSeven {
-            top: 19%;
-        }
-        .endlineSaltTwo {
-            top: 33%;
-        }
-        #saltImageDescriptionEight {
-            top: 51%;
-        }
-        #saltSubSeven {
-            top: 45vh;
-        }
-        }
+#saltSubTwo
+{
+    top: 306px;
+}
+
+#saltSubThree
+{
+    top: 1041px;
+}
+
+#saltSubFour
+{
+    top: 1254px;
+}
+
+#saltSubFive
+{
+    top: 1541px;
+}
+
+#saltSubSix
+{
+    top: 867px;
+}
+
+#saltSubSeven
+{
+    top: 604px;
+    height: 20vh;
+}
+
+#saltOne
+{
+    position: relative;
+    z-index: -5;
+    top: 0%;
+    left: -4%;
+    width: 102vw;
+    height: auto;
+}
+
+#saltTwo
+{
+    position: relative;
+    z-index: 0;
+    top: -48%;
+    left: 7.7%;
+}
+
+#saltThree
+{
+    position: relative;
+    z-index: 0;
+    top: 40%;
+    left: -32.9%;
+}
+
+#saltFour
+{
+    position: relative;
+    z-index: 0;
+    top: 36%;
+    left: -32.9%;
+}
+
+#saltFive
+{
+    position: relative;
+    z-index: 0;
+    top: 40%;
+    left: -32.9%;
+}
+
+#saltSix
+{
+    position: relative;
+    z-index: 0;
+    top: 35%;
+    left: 7.7%;
+}
+
+#saltSeven
+{
+    position: relative;
+    z-index: 0;
+    top: 13%;
+    left: 34.7%;
+}
+
+#saltEight
+{
+    position: relative;
+    z-index: 0;
+    top: 17%;
+    left: 1.2%;
+}
+
+#saltNine
+{
+    position: relative;
+    z-index: 0;
+    top: -25.8%;
+    left: 34.7%;
+}
+
+#saltTen
+{
+    position: relative;
+    z-index: 0;
+    top: 25%;
+    left: 7.6%;
+}
+
+#saltEleven
+{
+    position: relative;
+    z-index: 0;
+    top: 34%;
+    left: -5.3%;
+    width: 102vw;
+    height: auto;
+}
+
+.saltCopyOne
+{
+    position: relative;
+    top: -84%;
+    left: 35.2%;
+    width: 26%;
+}
+
+#saltImageDescriptionOne
+{
+    position: relative;
+    top: -53%;
+    left: 35.3%;
+    width: 10%;
+}
+
+#saltImageDescriptionTwo
+{
+    position: relative;
+    top: 31%;
+    left: 35.3%;
+    width: 13%;
+}
+
+#saltImageDescriptionThree
+{
+    position: relative;
+    top: 11.2%;
+    left: 35.3%;
+    width: 13%
+}
+
+#saltImageDescriptionFour
+{
+    position: relative;
+    top: 29.2%;
+    left: 8.3%;
+    width: 13%;
+}
+
+#saltImageDescriptionFive
+{
+    position: relative;
+    top: 18.2%;
+    left: 35.3%;
+    width: 13%;
+}
+
+#saltImageDescriptionSix
+{
+    position: relative;
+    top: 27.5%;
+    left: 35.3%;
+    width: 14%;
+}
+
+#saltImageDescriptionSeven
+{
+    position: relative;
+    top: 2%;
+    left: 35.3%;
+    width: 19%;
+}
+
+#saltImageDescriptionEight
+{
+    position: relative;
+    top: 10%;
+    left: 35.3%;
+    width: 21%;
+}
+
+#saltVideoOne
+{
+    position: relative;
+    width: 45.7vw;
+    height: 45.7vh;
+    top: -52%;
+    left: -49.7%;
+}
+
+.saltQuote
+{
+    position: relative;
+    width: 16%;
+    left: 8.3%;
+    top: 24%;
+}
+
+.saltQuoteTwo
+{
+    position: relative;
+    width: 18%;
+    left: 8.3%;
+    top: 24%;
+}
+
+.endlineSalt
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 0%;
+    left: 0%;
+    border-bottom: 1px solid black;
+}
+
+.endlineSaltTwo
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 3%;
+    left: 0%;
+    border-bottom: 2px dotted black
+}
+}
+
+
+@media (min-width: 1900px) and (max-width: 1999px) 
+and (min-height: 1101px) and (max-height: 1210px)
+{
+    .saltContainer
+    {
+    max-width: 100vw;
+    flex: 100%;
+    display: block;
+    z-index: 10;
+    height: 100%;
+    }
+
+#saltSubTwo
+{
+    top: 0px;
+}
+
+#saltSubThree
+{
+    top: 477px;
+}
+
+#saltSubFour
+{
+    top: 315px;
+}
+
+#saltSubFive
+{
+    top: 171px;
+}
+
+#saltSubSix
+{
+    top: -873px;
+}
+
+#saltSubSeven
+{
+    top: -1441px;
+    height: 20vh;
+}
+
+#saltOne
+{
+    position: relative;
+    z-index: -5;
+    top: 0%;
+    left: -4%;
+    width: 102vw;
+    height: auto;
+}
+
+#saltTwo
+{
+    position: relative;
+    z-index: 0;
+    top: -39%;
+    left: 7.7%;
+}
+
+#saltThree
+{
+    position: relative;
+    z-index: 0;
+    top: 40%;
+    left: -32.9%;
+}
+
+#saltFour
+{
+    position: relative;
+    z-index: 0;
+    top: 36%;
+    left: -32.9%;
+}
+
+#saltFive
+{
+    position: relative;
+    z-index: 0;
+    top: 36%;
+    left: -32.9%;
+}
+
+#saltSix
+{
+    position: relative;
+    z-index: 0;
+    top: 30%;
+    left: 7.7%;
+}
+
+#saltSeven
+{
+    position: relative;
+    z-index: 0;
+    top: 13%;
+    left: 34.7%;
+}
+
+#saltEight
+{
+    position: relative;
+    z-index: 0;
+    top: 14%;
+    left: 1.2%;
+}
+
+#saltNine
+{
+    position: relative;
+    z-index: 0;
+    top: -18.8%;
+    left: 34.7%;
+}
+
+#saltTen
+{
+    position: relative;
+    z-index: 0;
+    top: 25%;
+    left: 7.6%;
+}
+
+#saltEleven
+{
+    position: relative;
+    z-index: 0;
+    top: 34%;
+    left: -5.3%;
+    width: 102vw;
+    height: auto;
+}
+
+.saltCopyOne
+{
+    position: relative;
+    top: -64%;
+    left: 35.2%;
+    width: 26%;
+}
+
+#saltImageDescriptionOne
+{
+    position: relative;
+    top: -43%;
+    left: 35.3%;
+    width: 10%;
+}
+
+#saltImageDescriptionTwo
+{
+    position: relative;
+    top: 31%;
+    left: 35.3%;
+    width: 13%;
+}
+
+#saltImageDescriptionThree
+{
+    position: relative;
+    top: 11.2%;
+    left: 35.3%;
+    width: 13%
+}
+
+#saltImageDescriptionFour
+{
+    position: relative;
+    top: 29.2%;
+    left: 8.3%;
+    width: 13%;
+}
+
+#saltImageDescriptionFive
+{
+    position: relative;
+    top: 18.2%;
+    left: 35.3%;
+    width: 13%;
+}
+
+#saltImageDescriptionSix
+{
+    position: relative;
+    top: 27.5%;
+    left: 35.3%;
+    width: 14%;
+}
+
+#saltImageDescriptionSeven
+{
+    position: relative;
+    top: 2%;
+    left: 35.3%;
+    width: 19%;
+}
+
+#saltImageDescriptionEight
+{
+    position: relative;
+    top: 10%;
+    left: 35.3%;
+    width: 21%;
+}
+
+#saltVideoOne
+{
+    position: relative;
+    width: 45.7vw;
+    height: 45.7vh;
+    top: -41%;
+    left: -49.7%;
+}
+
+.saltQuote
+{
+    position: relative;
+    width: 16%;
+    left: 8.3%;
+    top: 24%;
+}
+
+.saltQuoteTwo
+{
+    position: relative;
+    width: 18%;
+    left: 8.3%;
+    top: 24%;
+}
+
+.endlineSalt
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 0%;
+    left: 0%;
+    border-bottom: 1px solid black;
+}
+
+.endlineSaltTwo
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 3%;
+    left: 0%;
+    border-bottom: 2px dotted black
+}
+}

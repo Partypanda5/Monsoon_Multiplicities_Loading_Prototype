@@ -2709,7 +2709,7 @@
     
     #oceanSubThree
     {
-        top: 233px;
+        top: 255px;
     }
     
     #oceanSubFour
@@ -2760,7 +2760,7 @@
     #oceanOne
     {
         position: relative;
-        top: 27%;
+        top: 37%;
         left: -2%;
         width: 100vw;
     }
@@ -2768,7 +2768,7 @@
     #oceanTwo
     {
         position: relative;
-        top: 40%;
+        top: 43%;
         left: -32.9%;
         width: 61.5vw;
     }
@@ -2776,7 +2776,7 @@
     #oceanThree
     {
         position: relative;
-        top: 33%;
+        top: 38%;
         left: -32.9%;
         width: 61.5vw;
     }
@@ -2835,7 +2835,7 @@
     #oceanEleven
     {
         position: relative;
-        top: 38%;
+        top: 43%;
         left: -32.9%;
         width: 61.5vw;
     }
@@ -2909,7 +2909,7 @@
     #oceanImageDescriptionOne
     {
         position: relative;
-        top: 27%;
+        top: 32%;
         left: 35.3%;
         width: 14%;
     }
