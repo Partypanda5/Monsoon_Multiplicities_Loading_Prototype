@@ -80,6 +80,7 @@
     position: relative;
     top: -23%;
     left: 34.7%;
+    pointer-events: none;
 }
 
 #ethnoFive
@@ -87,6 +88,7 @@
     position: relative;
     top: 30%;
     left: 7.5%;
+    pointer-events: none;
 }
 
 #ethnoSix
@@ -94,6 +96,7 @@
     position: relative;
     top: -7%;
     left: 34.7%;    
+    pointer-events: none;
 }
 
 #ethnoSeven
@@ -101,6 +104,7 @@
     position: relative;
     top: 26.5%;
     left: 7.5%;
+    pointer-events: none;
 }
 
 #ethnoEight
@@ -147,6 +151,7 @@
     top: -15%;
     left: 17.7%;
     z-index: -5;
+    pointer-events: none;
 }
 
 #ethnoFourteen
@@ -207,6 +212,7 @@
     position: relative;
     top: -85%;
     left: -43.25%;
+    pointer-events: none;
 }
 
 #EthnoGridSix

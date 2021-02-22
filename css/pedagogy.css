@@ -1812,3 +1812,264 @@ width: 31.3vw;
     left: 8.3%;
 }
 }
+
+/* common - 1600×750, 1600×900 */
+@media (min-width: 1600px) and (max-width: 1699px) {
+	.pedagogyCopyTextOne {
+    top: -4.5%;
+}
+#pedagogyImageDescriptionOne {
+    top: -23%;
+}
+#pedagogySubTwo {
+    top: 25.5vh;
+}
+#pedagogyGridOne {
+    left: -43.55%;
+}
+
+#pedagogySubTwo .copyText{
+top: 16.8%;
+}
+#pedagogyGridTwo {
+    top: 32.3%;
+	left: -79.6%;
+}
+#gridImageMiddleYangon {
+    width: 23.6vw;
+}
+#pedagogySubThree {
+    top: 85vh;
+}
+.pedagogyCopyTextThree {
+    top: 14%;
+}
+#pedagogySeven {
+    top: -113.7%;
+}
+#pedagogyFour {
+    top: -15%;
+}
+#pedagogyFive {
+    top: -51%;
+}
+#pedagogyImageDescriptionFive {
+    top: -112.5%;
+}
+#pedagogyEight {
+    top: -110.5%;
+    left: 1.15%;
+}
+#pedagogyNine {
+    top: -172.7%;
+}
+.pedagogyCopyTextFour {
+    top: -171.5%;
+}
+#pedagogyImageDescriptionSix {
+    top: -188.5%;
+}
+.pedagogyMapContainerOne {
+    top: -180.5%;
+}
+.pedagogyMapContainerTwo {
+    top: -280%;
+}
+#pedagogyImageDescriptionSeven {
+    top: -275%;
+}
+#pedagogyTwelve {
+    top: -273.2%;
+}
+#pedagogyThirteen {
+    top: -338.3%;
+}
+#pedagogyImageDescriptionEight {
+    top: -336%;
+}
+#pedagogyFourteen {
+    top: -334%;
+}
+#pedagogyImageDescriptionNine {
+    top: -332.1%;
+}
+#pedagogyFifteen {
+    top: -330.5%;
+}
+#pedagogySixteen {
+    top: -384%;
+}
+#pedagogySeventeen {
+    top: -437.5%;
+}
+#pedagogyImageDescriptionTen {
+    top: -436%;
+}
+#pedagogySubFour {
+    top: 783.5vh;
+}
+#PedagogyVideoTwo {
+    top: 13.8%;
+}
+.pedagogyCopyTextFive {
+    top: 6.2%;
+}
+#pedagogyImageDescriptionEleven {
+    top: 9%;
+}
+#pedagogyEighteen {
+    top: 4%;
+}
+#pedagogyNineteen {
+    top: -25.3%;
+}
+#pedagogyTwenty {
+    top: -55.6%;
+}
+#pedagogyImageDescriptionThirtyOne {
+    top: 39.5%;
+}
+#pedagogyTwentyOne {
+    top: -54%;
+}
+#pedagogyTwentyTwo {
+    top: -84.3%;
+}
+#pedagogyTwentyThree {
+    top: -114.5%;
+}
+#pedagogyImageDescriptionTwelve {
+    top: -145%;
+}
+#pedagogyGridThree {
+    left: -32.6%;
+top: -115%;
+}
+	#pedagogyImageDescriptionNineteen {
+    top: -153%;
+	}
+#PedagogyVideoThree {
+    width: 33.7vw;
+    height: 39.2vh;
+    margin-left: 14px;
+}
+#pedagogyImageDescriptionThirteen {
+    top: -120.5%;
+}
+#pedagogySubFive {
+    top: 995.5vh;
+}
+#pedagogyTwentyFour {
+    top: 12.8%;
+    left: 34.6%;
+}
+#pedagogyGridFour {
+    top: -37.5%;
+    left: -43.65%;
+}
+.pedagogyCopyTextSeven {
+    top: -35.5%;
+}
+.pedagogyCopyTextSix {
+    top: 14%;
+}
+#pedagogyGridFive {
+    top: -61.5%;
+    left: -16.8%;
+}
+#pedagogyGridSix {
+    top: -82.8%;
+    left: -43.6%;
+}
+#pedagogyImageDescriptionFourteen {
+    top: -108%;
+}
+#pedagogySubSix {
+    top: 1046.5vh;
+}
+#pedagogyImageDescriptionFifteen {
+    top: 12%;
+}
+.pedagogyCopyTextNine {
+    top: -7.5%;
+}
+#pedagogyTwentySeven {
+    top: -107%;
+    width: 31.1vw;
+}
+#pedagogyImageDescriptionSixteen {
+    top: -108%;
+}
+#pedagogyTwentyEight {
+    top: -106%;
+}
+#pedagogyTwentyNine {
+    top: -158.5%;
+}
+#pedagogyImageDescriptionSeventeen {
+    top: -160%;
+}
+#pedagogyThirty {
+    top: -159%;
+}
+#pedagogyImageDescriptionEighteen {
+    top: -158%;
+}
+#pedagogyThirtyOne {
+    top: -155.7%;
+    left: 1.1%;
+    width: 62.8vw;
+}
+#pedagogyThirtyTwo {
+    top: -155%;
+    left: 1.1%;
+    width: 62.8vw;
+}
+#pedagogyThirtyThree {
+    top: -152%;
+    left: 1.1%;
+    width: 62.7vw;
+}
+#pedagogyImageDescriptionTwenty {
+    top: -151.5%;
+}
+#pedagogyThirtyFour {
+    top: -151%;
+}
+#pedagogyThirtyFive {
+    top: -207.5%;
+width: 27.6vw;
+}
+#pedagogyImageDescriptionTwentyOne {
+    top: -206.5%;
+}
+#pedagogyGridSeven {
+    top: -205%;
+}
+#pedagogyImageDescriptionTwentyTwo {
+    top: -212%;
+}
+#pedagogySubSeven {
+    top: 1810vh;
+}
+.endlinePedagogyThree {
+    top: 71%;
+}
+#pedagogySubEight {
+    top: 1764vh;
+}
+#pedagogySubNine {
+    top: 2263vh;
+    height: 3vh;
+}
+#pedagogyFortyTwo {
+    top: 75%;
+}
+#pedagogyFortyThree {
+    top: 85%;
+}
+#pedagogyFortyFour {
+    top: 82%;
+}
+}
+

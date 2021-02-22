@@ -790,3 +790,314 @@
         top: 3%;
     }
     }
+
+    @media (min-width: 1400px) and (max-width: 1499px) 
+{
+	.fishCopyTextOne {
+    top: -28%;
+}
+#fishSubTwo {
+    top: -3.5vh;
+}
+#fishSubTwo .copyText, #fishSubThree .copyText, #fishSubFour .copyText, #fishSubFive .copyText, #fishSubSix .copyText,#fishSubSeven .copyText {
+    top: 22.15%;
+}
+#fishThree {
+    top: 31%;
+}
+#fishImageDescriptionTwo {
+    top: 25%;
+}
+#fishVideoOne {
+    height: 64.9vh;
+    top: 39%;
+}
+#fishImageDescriptionThree {
+    top: 34%;
+}
+#fishGridOne {
+    top: 33.3%;
+    left: -43.8%;
+}
+#fishGridTwo {
+    top: -10%;
+    left: -17%;
+}
+#fishFour {
+    left: -32.9%;
+    top: -7.5%;
+}
+#fishImageDescriptionFour {
+    top: -13%;
+}
+#fishSubFour {
+    top: 94vh;
+}
+
+#fishFive {
+    top: 37%;
+}
+#fishGridThree {
+    left: -39.3%;
+}
+#fishGridFour {
+    left: -39.2%;
+}
+#fishSubFive {
+    top: 236.5vh;
+}
+
+#fishVideoTwo {
+    height: 65.1vh;
+    top: 35.5%;
+}
+
+#fishGridFive {
+    position: relative;
+    top: 25%;
+    left: -39.2%;
+}
+#fishGridFive {
+    top: 29%;
+    left: -39.2%;
+}
+	#fishGridSix {
+    top: 22%;
+    left: -39.2%;
+}
+#fishImageDescriptionSeven {
+    top: 16%;
+}
+#fishSubSix {
+    top: 276vh;
+}
+
+#fishVideoThree {
+    height: 65.1vh;
+    top: 37%;
+}
+#fishGridSeven {
+    position: relative;
+    top: 30.5%;
+    left: -39.2%;
+}
+#fishGridEight {
+    top: 23.5%;
+    left: -39.2%;
+}
+#fishImageDescriptionEight {
+    top: 18%;
+}
+#fishSubSeven {
+    top: 320vh;
+}
+#fishSeven {
+    top: 36%;
+}
+#fishSubEight {
+    top: 317vh;
+}
+#fishVideoFive {
+    height: 32vh;
+}
+	
+}
+/* common - 1536×730*/
+@media (min-width: 1500px) and (max-width: 1599px) {
+.fishCopyTextOne {
+    top: -31%;
+}
+#fishTwo {
+    top: 11%;
+}
+#fishSubTwo {
+    top: 16.7vh;
+}
+#fishThree {
+    top: 31%;
+}
+#fishImageDescriptionTwo {
+    top: 26%;
+}
+#fishSubThree {
+    top: -1.5vh;
+}
+#fishVideoOne {
+    top: 41%;
+}
+#fishImageDescriptionThree {
+
+    top: 36%;
+}
+#fishGridOne {
+    top: 35.4%;
+    left: -43.7%;
+}
+#gridImageMiddleFish {
+    width: 23.6vw;
+}
+#fishGridTwo {
+    top: -12.7%;
+    left: -16.8%;
+}
+#fishSubFour {
+    top: 148vh;
+}
+#fishFive {
+    left: -32.9%;
+    top: 40.8%;
+}
+#fishSubFive {
+    top: 318vh;
+}
+#fishVideoTwo {
+    top: 35%;
+}
+
+#fishImageDescriptionSeven {
+    top: 16%;
+}
+.fishContainer #gridImageMiddleSnakesHor {
+    width: 23.8vw;
+    margin-left: 0.5vw;
+    margin-right: 0;
+}
+	#fishGridThree, #fishGridFour {
+
+    left: -39.3%;
+}
+#fishGridFive {
+    top: 28.5%;
+    left: -39.1%;
+}
+#fishGridSix {
+    top: 21.5%;
+    left: -39.2%;
+}
+#fishSubSix {
+    top: 363vh;
+}
+#fishVideoThree {
+    top: 41%;
+}
+#fishGridSeven {
+    top: 34.5%;
+    left: -39.2%;
+}
+#fishGridEight {
+    top: 27.5%;
+    left: -39.2%;
+}
+#fishImageDescriptionEight {
+    top: 22%;
+}
+#fishImageDescriptionEight {
+    top: 22%;
+}
+#fishSubSeven {
+    top: 420vh;
+}
+	#fishSeven {
+    top: 37%;
+}
+#fishSubEight {
+    top: 430vh;
+}
+#fishImageDescriptionNine {
+    top: 8%;
+}
+.endLineFishTwo {
+    top: 10%;
+}
+#fishImageDescriptionTen {
+    top: -14%;
+}
+.endLineFishThree {
+    top: 0;
+}
+#fishImageDescriptionEleven {
+    top: 3%;
+}
+}
+/* common - 1600×750, 1600×900 */
+@media (min-width: 1600px) and (max-width: 1699px) {
+	#fishSubTwo {
+    top: 10vh;
+}
+.fishCopyTextOne {
+    top: -31%;
+}
+#fishThree {
+    top: 28%;
+}
+#fishSubThree {
+    top: -22vh;
+}
+#fishVideoOne {
+    top: 37%;
+}
+#fishImageDescriptionThree {
+    top: 31%;
+}
+#fishGridOne {
+    top: 31.2%;
+    left: -43.6%;
+}
+#fishGridTwo {
+    top: -17.5%;
+    left: -16.7%;
+}
+#fishFour {
+    top: -13%;
+}
+#fishImageDescriptionFour {
+    top: -18%;
+}
+#fishSubFour {
+    top: 119.5vh;
+}
+#fishFive {
+    top: 36%;
+}
+#fishSubFive {
+    top: 289vh;
+}
+#fishGridThree {
+    left: -39.5%;
+}
+#fishGridFour {
+    left: -39.5%;
+}
+#fishGridFive {
+    top: 25%;
+	left: -39.5%;
+}
+#fishGridSix {
+    top: 18%;
+        left: -39.5%;
+}
+#fishSubSix {
+    top: 322.5vh;
+}
+#fishGridSeven {
+    position: relative;
+    top: 28%;
+    left: -39.6%;
+}
+
+.fishContainer #gridImageMiddleSnakesHor {
+    width: 23.9vw;
+    margin-left: 1vw;
+    margin-right: -7px;
+}
+#fishGridEight {
+    left: -39.6%;
+}
+#fishSubSeven {
+    top: 365vh;
+}
+#fishSubEight {
+    top: 366vh;
+}
+
+}

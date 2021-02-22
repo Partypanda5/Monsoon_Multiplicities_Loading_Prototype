@@ -590,3 +590,58 @@ left: -49.4%;
 		top: 17%;
 	}
 	}
+
+	/* common - 1600×750, 1600×900 */
+@media (min-width: 1600px) and (max-width: 1699px) {
+	.copyTextSpaceThree {
+    top: 20.5%;
+}
+#spaceOne {
+    top: 21%;
+}
+#spaceSubTwo {
+    top: -42vh;
+}
+	#spaceGridOne {
+    position: relative;
+    top: 18%;
+    left: 6.3%;
+}
+#spaceSubThree {
+    top: -88vh;
+}
+#spaceSubFour {
+    top: -101vh;
+}
+#spaceGridTwo {
+    top: 33%;
+    left: -43.55%;
+}
+#spaceSubFive {
+    top: -143.5vh;
+}
+#spaceSubSix {
+    top: -154.5vh;
+}
+#spaceSubSeven {
+    top: -163vh;
+}
+#spaceSubEight {
+    top: -130vh;
+    height: 80vh;
+}
+#spaceImageDescriptionEight {
+    top: 8%;
+}
+.endlineSpaceTwo {
+    top: 11%;
+}
+#spaceImageDescriptionNine {
+    top: 15%;
+}
+#spaceSubEight {
+    top: -130vh;
+    height: 89vh;
+}
+	
+}

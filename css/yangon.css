@@ -212,6 +212,7 @@
     z-index: 5;
     top: -27%;
     left: 7.7%;
+    pointer-events: none;
 }
 
 #yangonTwenty
@@ -1330,3 +1331,110 @@ top: 17.5%;
         top: -49%;
     }
     }
+
+    /* common - 1600×750, 1600×900 */
+@media (min-width: 1600px) and (max-width: 1699px) {
+	#yangonSubTwo {
+    top: 27vh;
+}
+#yangonThree {
+    top: -21%;
+    left: 33.3%;
+}
+#yangonTwo {
+    top: 11.5%;
+    left: 10%;
+    width: 22vw;
+}
+#yangonImageDescriptionTwo {
+    top: -20%;
+}
+#yangongGridOne {
+    top: -32%;
+}
+#yangonSubThree {
+    top: 106vh;
+}
+.yangonMapContainerOne {
+    top: 14%;
+}
+#yangonSubFour {
+    top: 283vh;
+}
+#yangonSix {
+    top: 14%;
+    left: 18%;
+}
+
+#yangonSeven {
+    left: 34.5%;
+}
+#yangonImageDescriptionSeven {
+    position: relative;
+    top: -57.5%;
+}
+#yangonSubFive {
+    top: 417vh;
+}
+
+#yangonEight {
+    top: 14%;
+}
+#YangonVideoFour {
+    left: 7.4%;
+}
+#yangonTen {
+    top: 5.5%;
+}
+#yangongGridOne, #yangongGridTwo, #yangongGridThree, #yangongGridFour,#yangongGridFive, #yangongGridSix,#yangongGridSeven {
+    left: -43.7%;
+}
+#yangonTwentyOne, #yangonTwentyFive,#yangonTwenty, #yangonSixteen, #yangonTwelve  {
+    left: 34.6%;
+}
+.yangonContainer #gridImageMiddleYangon {
+    width: 23.7vw;
+}
+	#yangonSubSix {
+    top: 700vh;
+}
+#yangonFourteen {
+    top: -7%;
+}
+#yangonFifteen {
+    top: -19%;
+}
+#yangonSubSeven {
+    top: 909vh;
+}
+#yangonEighteen {
+    top: 14%;
+}
+#yangonSubEight {
+    top: 1178vh;
+}
+#yangonTwentyTwo {
+    top: 13%;
+}
+#yangonSubNine {
+    top: 1360vh;
+}
+#yangongGridEight {
+    left: -16.8%;
+}
+#yangonSubTen {
+    top: 1682vh;
+}
+#yangonImageDescriptionTwentyFive {
+    top: 9%;
+}
+.endlineYangonTwo {
+    top: 15%;
+}
+#yangonImageDescriptionTwentyThree {
+    top: 16%;
+}
+#yangonImageDescriptionTwentyFour {
+    top: -42%;
+}
+}

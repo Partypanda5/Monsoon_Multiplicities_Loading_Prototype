@@ -703,21 +703,21 @@ video:focus { outline:none; }
 
 #collaboratorsSection
 {
-    height: 141%;
+    height: 144%;
     width: auto;
     position: relative;
 }
 
 #acknowledgementSection
 {
-    height: 30%;
+    height: 27%;
     width: auto;
     position: relative;
 }
 
 #assemblagesSection
 {
-    height: 10%;
+    height: 15%;
     width: auto;
     position: relative;
 }
@@ -1133,6 +1133,7 @@ video:focus { outline:none; }
     left: -1.3%;
     top: 0%;
     margin-bottom: 3vh;
+    z-index: -10;
 }
 
 #landingVideoOne
@@ -1206,4 +1207,9 @@ video:focus { outline:none; }
     font-family: 'Roboto', sans-serif;
     font-size: 34px;
     line-height: 37px;
+}
+
+.noDownload
+{
+    pointer-events: none;
 }

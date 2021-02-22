@@ -589,3 +589,231 @@ left: 34.5%;
         height: 65vh;
     }
     }
+
+    @media (min-width: 1400px) and (max-width: 1499px) {
+        .saltContainer .copyText {
+        top: 18%;
+        }	
+            
+        #saltSubOne	.copyText {
+            top: -75.5%;
+        }
+        #saltVideoOne {
+            height: 48.3vh;
+            top: -43%;
+        }
+        #saltSubTwo {
+            top: 20.4vh;
+        }
+        
+        #saltSubThree {
+            top: 71.5vh;
+        }
+            #saltSubFour {
+            top: 74.8vh;
+        }
+        .saltQuote {
+            top: 24% !important;
+        }
+        #saltNine {
+            top: -21%;
+        }
+        #saltEight {
+            top: 18%;
+            left: 1.07%;
+        }
+        #saltSubSix {
+            top: 2.8vh;
+        }
+        #saltEleven {
+            top: 34.6%;
+        }
+        #saltImageDescriptionSix {
+            top: 29%;
+        }
+        
+        .saltQuoteTwo {
+            top: 25.6% !important;
+        }
+        #saltSubSeven {
+            top: -32.5vh;
+            height: 20vh;
+        }
+        #saltImageDescriptionSeven {
+            top: 25%;
+        }
+        .endlineSaltTwo {
+            top: 40%;
+        }
+        #saltImageDescriptionEight {
+            top: 60%;
+        padding-bottom: 4vh;
+        }
+        }
+        @media (min-width: 1500px) and (max-width: 1599px) {
+            .saltCopyOne {
+            top: -83.9%;
+        }
+        #saltVideoOne {
+            top: -43%;
+        }
+        #saltSubTwo {
+            top: 45vh;
+        }
+        #saltThree {
+            top: 45.5%;
+        }
+        #saltFour {
+            top: 41.5%;
+        }
+        #saltImageDescriptionTwo {
+            top: 36.5%;
+        }
+        #saltSubThree {
+            top: 128vh;
+        }
+        #saltFive {
+            top: 44%;
+        }
+        #saltSix {
+            top: 39%;
+        }
+        #saltSeven {
+            top: 25.5%;
+            left: 34.6%;
+        }
+        #saltEight {
+            top: 24.8%;
+            left: 0.9%;
+        }
+        #saltNine {
+            top: -19.2%;
+            left: 34.6%;
+        }
+        #saltSubFive {
+            top: 193.2vh;
+        }
+        #saltTen {
+            top: 26%;
+        }
+        #saltImageDescriptionThree {
+            top: 14.2%;
+        }
+        #saltSubFour {
+            top: 153.5vh;
+        }
+        #saltSeven {
+            top: 20.5%;
+        }
+        #saltImageDescriptionFive {
+            top: 19.2%;
+        }
+        #saltSubSix {
+            top: 116vh;
+        }
+        #saltEleven {
+            top: 40%;
+        }
+            .saltQuote {
+            top: 24.3%;
+        }
+        .saltQuoteTwo {
+            top: 31%;
+        }
+        #saltImageDescriptionSix {
+            top: 35%;
+        }
+        #saltImageDescriptionSeven {
+            position: relative;
+            top: 7%;
+        }
+        .endlineSaltTwo {
+            top: 13%;
+        }
+        #saltImageDescriptionEight {
+            top: 20%;
+        }
+        #saltSubSeven {
+            top: 103vh;
+            height: 65vh;
+        }
+        }
+        /* common - 1600×750, 1600×900 */
+        @media (min-width: 1600px) and (max-width: 1699px) {
+            .saltCopyOne {
+        top: -85%;
+        }
+        #saltSubTwo {
+            top: 35.5vh;
+        }
+        #saltThree {
+            left: -32.9%;
+            top: 40%;
+        }
+        #saltFour {
+            top: 36%;
+        }
+        #saltImageDescriptionTwo {
+            top: 31%;
+        }
+        #saltSubThree {
+            top: 111vh;
+        }
+        #saltFive {
+            top: 39%;
+        }
+        #saltSix {
+            top: 34%;
+        }
+        #saltImageDescriptionThree {
+            top: 9.2%;
+        }
+        #saltSubFour {
+            top: 130vh;
+        }
+        #saltSeven {
+            top: 17.5%;
+            left: 34.6%;
+        }
+        #saltImageDescriptionFour {
+            top: 30.2%;
+        }
+        #saltEight {
+            top: 18%;
+            left: 1.05%;
+        }
+        #saltNine {
+            top: -26.6%;
+            left: 34.6%;
+        }
+        #saltSubFive {
+            top: 155vh;
+        }
+        #saltTen {
+            top: 26%;
+        }
+        #saltSubSix {
+            top: 78.5vh;
+        }
+        #saltEleven {
+            top: 35.5%;
+        }
+        #saltImageDescriptionSix {
+            top: 30.5%;
+        }
+        .saltQuoteTwo {
+            top: 26.5%;
+        }
+        #saltImageDescriptionSeven {
+            top: 19%;
+        }
+        .endlineSaltTwo {
+            top: 33%;
+        }
+        #saltImageDescriptionEight {
+            top: 51%;
+        }
+        #saltSubSeven {
+            top: 45vh;
+        }
+        }

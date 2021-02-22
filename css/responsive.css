@@ -2,1173 +2,2755 @@
 /*--- left panel , right accordian ---*/
 /* boss lady screen size - 1280x582, common - 1280x720, 1280x800*/
 @media(max-width: 1299px) {
-    h2 {
-        font-size: 12px;
-    }
-
-    sup
-    {
-        font-size: 9px;
-        line-height: 0;
-    }
-
-.titleSup
-    {
-        font-size: 10px;
-        line-height: 0;
-    }
-    .headings {
-        width: 3.2vw;
-    }
-    .cityTitle {
-        font-size: 12px;
-            top: 15.8vh;
-        left: -8px;
-    }
-    .tabSubtitles {
-        font-size: 12px;
-    }
-    .subtitleContainer {
-        top: 48.5vh;
-        right: 5.7vw;
-    }
-    li {
-        padding: 18px;
-        width: 40px;
-        border-left: 2px solid black;
-    }
-    li.active {
-        width: 255px;
-    }
-	    #Interlocutors {
-        top: 7.1vh;
-        right: 0.9vw;
-    }
-    #Infrastructure {
-        top: 12.7vh;
-        right: 45px;
-    }
-    #subtitleContainerTwo {
-        right: 10.85vw;
-        top: 46.9vh;
-    }
-    #Framings {
-        top: 5vh;
-        left: -1px;
-    }
-    #subtitleContainerThree {
-        right: 3.9vw;
-        top: 50.7vh;
-    }
-    #Matters {
-        position: relative;
-        top: 4.35vh;
-        left: 3px;
-    }
-    #subtitleContainerFour {
-        right: 3.2vw;
-        top: 54.2vh;
-    }
-    #UrbanAssemblages {
-        position: relative;
-        top: 10.05vh;
-        right: 30px;
-    }
-    #subtitleContainerFive {
-        right: 8.38vw;
-        top: 44.4vh;
-    }
-    .focusedSingleSubtitle {
-        font-size: 23px;
-        line-height: 25px;
-    }
-    #focusedSubtitlesOne {
-        bottom: 42vh;
-        left: -3.7vw;
-        text-align: left;
-    }
-    #focusedSubtitlesTwo {
-        bottom: 46.3vh;
-        left: -9.2vw;
-        text-align: left;
-    }
-    #focusedSubtitlesThree {
-        left: -2.1vw;
-        bottom: 42vh;
-        text-align: left;
-    }
-    #focusedSubtitlesFour {
-        left: -1.5vw;
-        bottom: 37.8vh;
-        text-align: left;
-    }
-    #focusedSubtitlesFive {
-        left: -6.8vw;
-        bottom: 46.2vh;
-        text-align: left;
-    }
-    /*--- Page Navigation & general content ---*/	
-    #navbarTitlesContainer {
-        top: 33.6%;
-    }
-    .navbarTitles, #rightSideQuote, .rightSideTextMM {
-        font-size: 22px;
-        line-height: 25px;
-    }
-    #about {
-        height: 31%;
-    }
-    #RightTextContainerMM {
-        top: 5.35%;
-    }
-    .MMHeading, .CollabTitle {
-        font-size: 22px;
-    }
-    .CollabTitle {
-        line-height: 20px;
-    }
-    .rightSideSmallerText {
-        font-size: 14px;
-        line-height: 18px;
-    }
-    #events {
-        height: 55.5%;
-    }
-    #residency {
-        height: 12.5%;
-    }
-    #glossarySection {
-        height: 219%;
-    }
-    .rightSideSmallerSmallerText {
-        font-size: 10.5px;
-        line-height: 13px;
-    }
-    #landingOne {
-        left: -2.4%;
-    }
-    .middleLarge {
-        width: 31.6vw;
-    }
-    #collaboratorsSection {
-        height: 168.9%;
-    }
-    #acknowledgementSection {
-        height: 37%;
-    }
-    #assemblagesSection {
-        height: 12.6%;
-    }
-    .references {
-        font-size: 10px;
-        line-height: 13px;
-    }
-    /*---Subpage applicable tags---*/
-    .mainTitle {
-        top: 20.6%;;
-        font-size: 22px;
-        line-height: 25px;
-    }
-    .headingTitle {
-        right: 0;
-        font-size: 12px;
-        top: 4.7vh;
-    }
-    .headingItem {
-        font-size: 9.5px;
-    }
-
-    .copyTextLeft{
-        font-size: 13px;
-        line-height: 17px;
-    }
-
-    .mainTitleRight {
-        font-size: 23px;
-        line-height: 25px;
-    }
-
-    .copyTextLarger{
-        font-size: 23px;
-        line-height: 25px;
-        top: 20%;
-    }
-
-    .copyTextBigger{
-        font-size: 23px;
-        line-height: 25px;
-        top: 20%;
-    }
-
-	
+h2 {
+font-size: 12px;
+}
+sup {
+font-size: 9px;
+line-height: 0;
+}
+.titleSup {
+font-size: 10px;
+line-height: 0;
+}
+.headings {
+width: 3.2vw;
+}
+.cityTitle {
+font-size: 12px;
+top: 15.8vh;
+left: -8px;
+}
+.tabSubtitles {
+font-size: 12px;
+}
+.subtitleContainer {
+top: 48.5vh;
+right: 5.7vw;
+}
+li {
+padding: 18px;
+width: 40px;
+border-left: 2px solid black;
+}
+li.active {
+width: 255px;
+}
+#Interlocutors {
+top: 7.1vh;
+right: 0.9vw;
+}
+#Infrastructure {
+top: 12.7vh;
+right: 45px;
+}
+#subtitleContainerTwo {
+right: 10.85vw;
+top: 46.9vh;
+}
+#Framings {
+top: 5vh;
+left: -1px;
+}
+#subtitleContainerThree {
+right: 3.9vw;
+top: 50.7vh;
+}
+#Matters {
+position: relative;
+top: 4.35vh;
+left: 3px;
+}
+#subtitleContainerFour {
+right: 3.2vw;
+top: 54.2vh;
+}
+#UrbanAssemblages {
+position: relative;
+top: 10.05vh;
+right: 30px;
+}
+#subtitleContainerFive {
+right: 8.38vw;
+top: 44.4vh;
+}
+.focusedSingleSubtitle {
+font-size: 23px;
+line-height: 25px;
+}
+#focusedSubtitlesOne {
+bottom: 42vh;
+left: -3.7vw;
+text-align: left;
+}
+#focusedSubtitlesTwo {
+bottom: 46.3vh;
+left: -9.2vw;
+text-align: left;
+}
+#focusedSubtitlesThree {
+left: -2.1vw;
+bottom: 42vh;
+text-align: left;
+}
+#focusedSubtitlesFour {
+left: -1.5vw;
+bottom: 37.8vh;
+text-align: left;
+}
+#focusedSubtitlesFive {
+left: -6.8vw;
+bottom: 46.2vh;
+text-align: left;
+}
+/*--- Page Navigation & general content ---*/
+#navbarTitlesContainer {
+top: 33.6%;
+}
+.navbarTitles, #rightSideQuote, .rightSideTextMM {
+font-size: 22px;
+line-height: 25px;
+}
+#about {
+height: 31%;
+}
+#RightTextContainerMM {
+top: 5.35%;
+}
+.MMHeading, .CollabTitle {
+font-size: 22px;
+}
+.CollabTitle {
+line-height: 20px;
+}
+.rightSideSmallerText {
+font-size: 14px;
+line-height: 18px;
+}
+#events {
+height: 55.5%;
+}
+#residency {
+height: 12.5%;
+}
+#glossarySection {
+height: 221%;
+}
+.rightSideSmallerSmallerText {
+font-size: 10.5px;
+line-height: 13px;
+}
+#landingOne {
+left: -2.4%;
+}
+.middleLarge {
+width: 31.6vw;
+}
+#collaboratorsSection {
+height: 172%
+}
+#acknowledgementSection {
+height: 32%;
+}
+#assemblagesSection {
+height: 18%;
+}
+.references {
+font-size: 10px;
+line-height: 13px;
+}
+/*---Subpage applicable tags---*/
+.mainTitle {
+top: 20.6%;
+;
+font-size: 22px;
+line-height: 25px;
+}
+.headingTitle {
+right: 0;
+font-size: 12px;
+top: 4.7vh;
+}
+.headingItem {
+font-size: 9.5px;
+}
+.copyTextLeft {
+font-size: 13px;
+line-height: 17px;
+}
+.mainTitleRight {
+font-size: 23px;
+line-height: 25px;
+}
+.copyTextLarger {
+font-size: 23px;
+line-height: 25px;
+top: 20%;
+}
+.copyTextBigger {
+font-size: 23px;
+line-height: 25px;
+top: 20%;
+}
 #monsoonAssemblagesNav {
-    top: 59.5vh;
+top: 59.5vh;
 }
 #acknowledgementsNav {
-    top: 48vh;
+top: 48vh;
 }
-
 #collaboratorsNav {
-    top: 40.9vh;
+top: 40.9vh;
 }
-
 #glossaryNav {
-    top: 37.5vh;
+top: 37.5vh;
 }
-
 #residencyNav {
-    top: 33vh;
+top: 33vh;
 }
 #eventsNav {
-    top: 31vh;
+top: 31vh;
+}
+#eventsNav, #residencyNav, #glossaryNav, #collaboratorsNav, #acknowledgementsNav, #monsoonAssemblagesNav {
+left: 0.1vw;
+}
+.copyText {
+font-size: 13px;
+line-height: 17px;
+top: 21%;
+}
+.TemplateImageDescription {
+font-size: 9px;
+line-height: 12px;
+}
 }
 
-    #eventsNav, #residencyNav, #glossaryNav, #collaboratorsNav, #acknowledgementsNav, #monsoonAssemblagesNav {
-        left: 0.1vw;
-    }
-    .copyText {
-        font-size: 13px;
-        line-height: 17px;
-        top: 21%;
-    }
-    .TemplateImageDescription {
-        font-size: 9px;
-        line-height: 12px;
-    }
-    }
-
-     /* common - 1366×768 */
-     @media (min-width: 1300px) and (max-width: 1399px) {
-        h2 {
-              font-size: 13px;
-          }
-          sup
-          {
-              font-size: 8px;
-              line-height: 0;
-          }
-      
-      .titleSup
-          {
-              font-size: 10px;
-              line-height: 0;
-          }
-          .headings {
-              width: 3.2vw;
-          }
-         .cityTitle {
-          font-size: 13px;
-          top: 13vh;
-          left: -6px;
-      }
-          .tabSubtitles {
-              font-size: 13px;
-          }
-      .subtitleContainer {
-          top: 38.5vh;
-          right: 5.6vw;
-      }
-       .copyTextLarger{
-              font-size: 23px;
-              line-height: 25px;
-              top: 20%;
-          }
-      li {
-          padding: 18px;
-          width: 43px;
-          border-left: 2px solid black;
-      }
-      li.active {
-          width: 273px;
-      }
-      #Interlocutors {
-          right: 0.8vw;
-      }
-      #Infrastructure {
-          right: 48px;
-      }
-      #subtitleContainerTwo {
-          right: 10.9vw;
-          top: 37.1vh;
-      }
-      #Framings {
-          left: -0.1px;
-      }
-      #subtitleContainerThree {
-          right: 3.8vw;
-          top: 40.2vh;
-      }
-      #Matters {
-          left: 4.7px;
-      }
-      #subtitleContainerFour {
-          right: 3.2vw;
-          top: 42.8vh;
-      }
-      #UrbanAssemblages {
-          right: 32px;
-      }
-      #subtitleContainerFive {
-          right: 8.38vw;
-          top: 35vh;
-      }
-          .focusedSingleSubtitle {
-              font-size: 23px;
-              line-height: 25px;
-          }
-          #focusedSubtitlesOne {
-              bottom: 54vh;
-              left: -3.7vw;
-              text-align: left;
-          }
-          #focusedSubtitlesTwo {
-              bottom: 57.4vh;
-              left: -9.2vw;
-              text-align: left;
-          }
-          #focusedSubtitlesThree {
-              left: -2.1vw;
-              bottom: 54vh;
-              text-align: left;
-          }
-          #focusedSubtitlesFour {
-              left: -1.5vw;
-              bottom: 51vh;
-              text-align: left;
-          }
-          #focusedSubtitlesFive {
-              left: -6.8vw;
-              bottom: 57.4vh;
-              text-align: left;
-          }
-          /*--- Page Navigation & general content ---*/
-          #navbarTitlesContainer {
-               top: 27.3%;
-          }
-          .navbarTitles, #rightSideQuote, .rightSideTextMM {
-              font-size: 22px;
-              line-height: 25px;
-          }
-      #about {
-          height: 21.9%;
-      }
-          #RightTextContainerMM {
-              top: 4.4%;
-          }
-          .MMHeading, .CollabTitle {
-              font-size: 22px;
-          }
-          .CollabTitle {
-              line-height: 20px;
-          }
-      .rightSideSmallerText {
-          font-size: 16px;
-          line-height: 20px;
-      }
-      #events {
-          height: 46%;
-      }
-      #residency {
-          height: 9.3%;
-      }
-      #glossarySection {
-          height: 177.5%;
-      }
-      #glossaryOne {
-          top: 0.1%;
-      }
-      .rightSideSmallerSmallerText {
-          font-size: 12px;
-          line-height: 15px;
-      }
-          #landingOne {
-              left: -2.4%;
-          }
-          .middleLarge {
-              width: 31.6vw;
-          }
-      #collaboratorsSection {
-          height: 147%;
-      }
-      #acknowledgementSection {
-          height: 29.9%;
-      }
-          #assemblagesSection {
-              height: 12.6%;
-          }
-          .references {
-              font-size: 10px;
-              line-height: 13px;
-          }
-          /*---Subpage applicable tags---*/
-          .mainTitle {
-              top: 20.6%;;
-              font-size: 22px;
-              line-height: 25px
-          }
-          .headingTitle {
-              right: 0;
-              font-size: 12px;
-              top: 4.7vh;
-          }
-          .headingItem {
-              font-size: 9.5px;
-          }
-
-          .copyTextLeft{
-            font-size: 13px;
-            line-height: 17px;
-        }
-    
-        .mainTitleRight {
-            font-size: 23px;
-            line-height: 25px;
-        }
-    
-        .copyTextBigger{
-            font-size: 23px;
-            line-height: 25px;
-            top: 20%;
-        }
-      
-      #monsoonAssemblagesNav {
-        top: 57.5vh;
-      }
-      #acknowledgementsNav {
-        top: 46vh;
-      }
-      
-      #collaboratorsNav {
-        top: 38.9vh;
-      }
-      
-      #glossaryNav {
-        top: 34.5vh;
-      }
-      
-      #residencyNav {
-        top: 29vh;
-      }
-      #eventsNav {
-        top: 26vh;
-      }
-      
-          #eventsNav, #residencyNav, #glossaryNav, #collaboratorsNav, #acknowledgementsNav, #monsoonAssemblagesNav {
-              left: 0.1vw;
-          }
-          .copyText {
-              font-size: 13px;
-              line-height: 17px;
-              top: 21%;
-          }
-          .TemplateImageDescription {
-              font-size: 9px;
-              line-height: 12px;
-          }
-          }
-    /* common - 1440×766 */
-    @media (min-width: 1400px) and (max-width: 1499px) 
-    {
-        h2 {
-            font-size: 13px;
-        }
-        .titleSup {
-          font-size: 10px;
-          line-height: 0;
-      }
-
-      sup {
-        font-size: 8px;
-        line-height: 0;
-    }
-        .headings {
-            width: 3.2vw;
-        }
-       .cityTitle {
-        font-size: 13px;
-        top: 13.3vh;
-        left: -2.3px;
-    }
-        .tabSubtitles {
-            font-size: 13px;
-        }
-        .subtitleContainer {
-            top: 40vh;
-            right: 5.1vw;
-        }
-     .copyTextLarger{
-            font-size: 23px;
-            line-height: 25px;
-            top: 18%;
-        }
-    li {
-        padding: 18px;
-        width: 44px;
-        border-left: 2px solid black;
-    }
-
-    .headings 
-    {
-        border-right: 2px solid black;
-    }
-    li.active {
-        width: 290px;
+@media(max-width: 1299px) and (min-height: 680px) and (max-height: 801px) {
+    .cityTitle {
+    top: 91px;
+    left: -8.4px;
     }
     #Interlocutors {
-        right: 0.5vw;
-        top: 5vh;
+    top: 28px;
+    right: 10.5px;
+    }
+    .cityTitle {
+    top: 91px;
+    left: -8.4px;
+    }
+    #Interlocutors {
+    top: 28px;
+    right: 10.5px;
     }
     #Infrastructure {
-        right: 43px;
-        top: 9.6vh;
-    }
-    #subtitleContainerTwo {
-        right: 10.1vw;
-        top: 38.7vh;
+    top: 61px;
+    right: 44.5px;
     }
     #Framings {
-        left: 5.9px;
-        top: 3.4vh;
-    }
-    #subtitleContainerThree {
-        right: 3.2vw;
-        top: 41.8vh;
+    top: 16px;
+    left: 1px;
     }
     #Matters {
-        left: 9.7px;
-        top: 2.8vh;
-    }
-    #subtitleContainerFour {
-        right: 2.6vw;
-        top: 44.5vh;
+    top: 12px;
+    left: 4px;
     }
     #UrbanAssemblages {
-        right: 22px;
-        top: 7.5vh;
-    }
-    #subtitleContainerFive {
-        right: 7.5vw;
-        top: 36.6vh;
-    }
-        .focusedSingleSubtitle {
-            font-size: 23px;
-            line-height: 25px;
-        }
-        #focusedSubtitlesOne {
-            bottom: 52.4vh;
-            left: -3.6vw;
-            text-align: left;
-        }
-        #focusedSubtitlesTwo {
-            bottom: 55.4vh;
-            left: -8.7vw;
-            text-align: left;
-        }
-        #focusedSubtitlesThree {
-            left: -2.1vw;
-            bottom: 52.3vh;
-            text-align: left;
-        }
-        #focusedSubtitlesFour {
-            left: -1.35vw;
-            bottom: 49vh;
-            text-align: left;
-        }
-        #focusedSubtitlesFive {
-            left: -6.2vw;
-            bottom: 55.5vh;
-            text-align: left;
-        }
-        /*--- Page Navigation & general content ---*/
-        #navbarTitlesContainer {
-            top: 29%;
-        }
-        .navbarTitles, #rightSideQuote, .rightSideTextMM {
-            font-size: 22px;
-            line-height: 25px;
-        }
-    #about {
-        height: 21.9%;
-    }
-        #RightTextContainerMM {
-            top: 4.7%;
-        }
-        .MMHeading, .CollabTitle {
-            font-size: 22px;
-        }
-        .CollabTitle {
-            line-height: 20px;
-        }
-    .rightSideSmallerText {
-        font-size: 16px;
-        line-height: 20px;
-    }
-    #events {
-        height: 46%;
-    }
-    #residency {
-        height: 9.3%;
-    }
-    #glossarySection {
-        height: 188.5%;
-    }
-    #glossaryOne {
-        top: 0.1%;
-    }
-    .rightSideSmallerSmallerText {
-        font-size: 12px;
-        line-height: 15px;
-    }
-        #landingOne {
-            left: -2.4%;
-        }
-        .middleLarge {
-            width: 31.2vw;
-        }
-    #collaboratorsSection {
-        height: 147%;
-    }
-    #acknowledgementSection {
-        height: 29.9%;
-    }
-    #assemblagesSection {
-        height: 9.5%;
-    }
-        .references {
-            font-size: 10px;
-            line-height: 13px;
-        }
-        /*---Subpage applicable tags---*/
-        .mainTitle {
-            top: 18%;
-            font-size: 22px;
-            line-height: 25px
-        }
-        .headingTitle {
-            right: 0;
-            font-size: 12px;
-            top: 4.7vh;
-        }
-        .headingItem {
-            font-size: 11.5px;
-        }
-
-        .copyTextLeft{
-          font-size: 13px;
-          line-height: 17px;
-      }
-  
-      .mainTitleRight {
-          font-size: 23px;
-          line-height: 25px;
-      }
-  
-      .copyTextBigger{
-          font-size: 23px;
-          line-height: 25px;
-          top: -76.2%
-      }
-    
-    #monsoonAssemblagesNav {
-        top: 59.5vh;
-    }
-    #acknowledgementsNav {
-        top: 48vh;
-    }
-    
-    #collaboratorsNav {
-        top: 39.9vh;
-    }
-    
-    #glossaryNav {
-        top: 35.5vh;
-    }
-    
-    #residencyNav {
-        top: 30vh;
-    }
-    #eventsNav {
-        top: 27vh;
-    }
-    
-        #eventsNav, #residencyNav, #glossaryNav, #collaboratorsNav, #acknowledgementsNav, #monsoonAssemblagesNav {
-            left: 0.1vw;
-        }
-        .copyText {
-            font-size: 14px;
-            line-height: 18px;
-            top: 21%;
-        }
-        .TemplateImageDescription {
-            font-size: 9px;
-            line-height: 12px;
-        }
-    }
-
-/* common - 1536×730*/
-@media (min-width: 1500px) and (max-width: 1599px) {
-    .cityTitle {
-        top: 14.8vh;
-        left: -4px;
-        font-size: 14px;
-    }
-    sup
-    {
-        font-size: 8px;
-    }
-    li .section-title {
-        right: 3vw;
-        bottom: 43vh;
-        font-size: 10px;
-    }
-    li {
-        width: 47.5px;
-    }
-    li.active {
-        width: 308px;
+    top: 45px;
+    right: 29px;
     }
     .subtitleContainer {
-        top: 45.9vh;
-    }
-    #Interlocutors {
-        top: 5.2vh;
-        right: -0.1vw;
-    }
-    #Infrastructure {
-        top: 10.76vh;
-        right: 42.5px;
-    }
-    #Framings {
-        top: 3.1vh;
-        left: 14.5px;
-    }
-    #Matters {
-        top: 2.4vh;
-        left: 20px;
-    }
-    #UrbanAssemblages {
-        top: 8.1vh;
-        right: 21.5px;
+    top: 269px;
+    right: 72px;
     }
     #subtitleContainerTwo {
-        right: 10.4vw;
-        top: 44.5vh;
+    right: 138px;
+    top: 260px;
     }
     #subtitleContainerThree {
-        right: 3vw;
-        top: 48.2vh;
+    right: 48px;
+    top: 282px;
     }
     #subtitleContainerFour {
-        right: 2.5vw;
-        top: 51.7vh;
+    right: 40px;
+    top: 302px;
     }
     #subtitleContainerFive {
-        right: 7.8vw;
-        top: 41.7vh;
-    }
-    .navbarTitles {
-        font-size: 25px;
-        line-height: 26px;
-    }
-    #navbarTitlesContainer {
-        top: 32.3%;
-        left: 4.5%;
-    }
-    .focusedSingleSubtitle {
-        font-size: 25px;
-        line-height: 26px;
-    }
-    #focusedSubtitlesFive {
-        left: -7.35vw;
-        bottom: 50.82vh;
-    }
-    #focusedSubtitlesFour {
-        left: -1.9vw;
-        bottom: 43.7vh;
-    }
-    #focusedSubtitlesThree {
-        left: -2.6vw;
-        bottom: 47.3vh;
-    }
-    #focusedSubtitlesTwo {
-        bottom: 50.8vh;
-        left: -9.9vw;
+    right: 107px;
+    top: 245px;
     }
     #focusedSubtitlesOne {
-        bottom: 47.2vh;
-        left: -4.5vw;
+    bottom: 465px;
+    left: -51px;
     }
-    #rightSideQuote {
-        font-size: 25px;
-        line-height: 28px;
+    #focusedSubtitlesTwo {
+    bottom: 489px;
+    left: -118px;
     }
-    .rightSideTextMM {
-        font-size: 25px;
-        line-height: 28px;
+    #focusedSubtitlesThree {
+    left: -31px;
+    bottom: 464px;
+    }
+    #focusedSubtitlesFour {
+    left: -23px;
+    bottom: 440px;
+    text-align: left;
+    }
+    #focusedSubtitlesFive {
+    bottom: 489px;
+    left: -88px;
+    }
+    #navbarTitlesContainer {
+    top: 195px;
     }
     #RightTextContainerMM {
-        top: 5.21%;
-    }
-    #about {
-        height: 24%;
-    }
-    .MMHeading {
-        font-size: 25px;
-    }
-    #events {
-        height: 57%;
-    }
-    #residency {
-        height: 8.7%;
-    }
-    #glossarySection {
-        height: 208.5%;
-    }
-    .CollabTitle {
-        font-size: 25px;
-        line-height: 28px;
-    }
-    #landingOne {
-        left: -2%;
-    }
-    .middleLarge {
-        width: 31.4vw;
-    }
-    #landingVideoOne {
-        height: 35.6vh;
-    }
-    #collaboratorsSection {
-        height: 203.8%;
-    }
-    #acknowledgementSection {
-        height: 36%;
-    }
-    .endLineLanding {
-        top: 1%;
-    }
-    .mainTitle {
-        top: 19.85%;
-        font-size: 25px;
-        line-height: 28px;
-    }
-    .copyText {
-        top: 19.8%;
-        font-weight: 400;
-        font-size: 17px;
-        line-height: 20px;
-    }
-    .copyTextLeft {
-        font-size: 17px;
-        line-height: 20px;
-    }
-
-    .copyTextLarger {
-        position: relative;
-        top: 19%;
-        left: 35.5%;
-        width: 29%;
-        font-size: 25px;
-        line-height: 28px;
+    top: 172px;
     }
     .headingTitle {
-        top: 4.8vh;
-        right: -2.8px;
-        font-size: 14.5px;
+    top: 28px;
     }
-    .mainTitleRight {
-        font-size: 25px;
-        line-height: 28px;
+    #eventsNav, #residencyNav, #glossaryNav, #collaboratorsNav, #acknowledgementsNav, #monsoonAssemblagesNav {
+    left: 0px;
     }
-    #gridImageMiddle {
-        width: 23.9vw;
-        margin-left: 42px;
-    }
-    .headingItem {
-        font-size: 12.3px;
+    #eventsNav {
+    top: 181.61px;
     }
     #residencyNav {
-        top: 32vh;
-        left: 0.1vw;
+    top: 198.23px;
     }
     #glossaryNav {
-        top: 37vh;
-        left: 0.1vw;
-    }
-    
-    #eventsNav {
-        top: 29.7vh;
-        left: 0.1vw;
-    }
-    #acknowledgementsNav {
-        top: 48.1vh;
-        left: 0.1vw;
+    top: 228.23px;
     }
     #collaboratorsNav {
-        top: 40.7vh;
-        left: 0.1vw;
+    top: 251.23px;
+    }
+    #acknowledgementsNav {
+    top: 295.23px;
     }
     #monsoonAssemblagesNav {
-        top: 60.1vh;
-        left: 0.1vw;
+    top: 367.23px;
+    }
+    .mainTitle {
+    top: 181px;
+    }
+    .copyText {
+    top: 183px;
+    }
+    .copyTextLarger {
+    top: 173px;
+    }
+    /*------- Homepage---------*/
+    
+    #about {
+    height: 930px;
+    }
+    #events {
+    height: 1796px;
+    }
+    #residency {
+    height: 340px;
+    }
+    #glossarySection {
+    height: 7005px;
+    }
+    #collaboratorsSection {
+    height: 5675px;
+    }
+    #acknowledgementSection {
+    height: 1168px;
+    }
+    #assemblagesSection {
+    height: 398px;
+    }
+    }
+    
+
+    @media (min-width: 1300px) and (max-width: 1399px) and (min-height: 680px) and (max-height: 749px) {
+
+        .cityTitle {
+            top: 99px;
+            left: -6.4px;
+        }
+        #Interlocutors {
+            top: 41px;
+            right: 10.5px;
+        }
+        #Infrastructure {
+            top: 76px;
+            right: 47.5px;
+        }
+        #Framings {
+            top: 27px;
+            left: 1px;
+        }
+        #Matters {
+            top: 23px;
+            left: 5px;
+        }
+        #UrbanAssemblages {
+            top: 59px;
+            right: 32px;
+        }
+        .subtitleContainer {
+            top: 298px;
+            right: 77px;
+        }
+        #subtitleContainerTwo {
+            right: 150px;
+            top: 288px;
+        }
+        #subtitleContainerThree {
+            right: 52px;
+            top: 311px;
+        }
+        #subtitleContainerFour {
+            right: 44px;
+            top: 333px;
+        }
+        #subtitleContainerFive {
+            right: 116px;
+            top: 272px;
+        }
+        #focusedSubtitlesOne {
+            bottom: 345px;
+            left: -56px;
+        }
+        #focusedSubtitlesTwo {
+            bottom: 369px;
+            left: -128px;
+        }
+        #focusedSubtitlesThree {
+            left: -35px;
+            bottom: 345px;
+        }
+        #focusedSubtitlesFour {
+            left: -24px;
+            bottom: 320px;
+        }
+        #focusedSubtitlesFive {
+            bottom: 370px;
+            left: -97px;
+        }
+        #navbarTitlesContainer {
+            top: 208px;
+        }
+        #RightTextContainerMM {
+            top: 186px;
+        }
+        .headingTitle {
+        top: 28px;
+        }
+        #eventsNav, #residencyNav, #glossaryNav, #collaboratorsNav, #acknowledgementsNav, #monsoonAssemblagesNav {
+        left: 0px;
+        }
+        #eventsNav {
+            top: 195.61px;
+        }
+        #residencyNav {
+            top: 210.23px;
+        }
+        #glossaryNav {
+            top: 239.23px;
+        }
+        #collaboratorsNav {
+            top: 262.23px;
+        }
+        #acknowledgementsNav {
+            top: 306.23px;
+        }
+        #monsoonAssemblagesNav {
+            top: 378.23px;
+        }
+        .mainTitle {
+            top: 229px;
+        }
+        .copyText {
+            top: 231px;
+        }
+        .copyTextLarger {
+            top: 185px;
+        }
+        /*------- Homepage---------*/
+        
+        #about {
+            height: 849px;
+        }
+        #events {
+            height: 1877px;
+        }
+        #residency {
+            height: 337px;
+        }
+        #glossarySection {
+            height: 7470px;
+        }
+        #collaboratorsSection {
+            height: 6082px;
+        }
+        #acknowledgementSection {
+            height: 1188px;
+        }
+        #assemblagesSection {
+            height: 383px;
+        }
+        }
+
+
+/* common - 1366×768 */
+@media (min-width: 1300px) and (max-width: 1399px) {
+h2 {
+font-size: 13px;
+}
+sup {
+font-size: 8px;
+line-height: 0;
+}
+.titleSup {
+font-size: 10px;
+line-height: 0;
+}
+.headings {
+width: 3.2vw;
+}
+.cityTitle {
+font-size: 13px;
+top: 13vh;
+left: -6px;
+}
+.tabSubtitles {
+font-size: 13px;
+}
+.subtitleContainer {
+top: 38.5vh;
+right: 5.6vw;
+}
+.copyTextLarger {
+font-size: 23px;
+line-height: 25px;
+top: 20%;
+}
+li {
+padding: 18px;
+width: 43px;
+border-left: 2px solid black;
+}
+li.active {
+width: 273px;
+}
+#Interlocutors {
+right: 0.8vw;
+}
+#Infrastructure {
+right: 48px;
+}
+#subtitleContainerTwo {
+right: 10.9vw;
+top: 37.1vh;
+}
+#Framings {
+left: -0.1px;
+}
+#subtitleContainerThree {
+right: 3.8vw;
+top: 40.2vh;
+}
+#Matters {
+left: 4.7px;
+}
+#subtitleContainerFour {
+right: 3.2vw;
+top: 42.8vh;
+}
+#UrbanAssemblages {
+right: 32px;
+}
+#subtitleContainerFive {
+right: 8.38vw;
+top: 35vh;
+}
+.focusedSingleSubtitle {
+font-size: 23px;
+line-height: 25px;
+}
+#focusedSubtitlesOne {
+bottom: 54vh;
+left: -3.7vw;
+text-align: left;
+}
+#focusedSubtitlesTwo {
+bottom: 57.4vh;
+left: -9.2vw;
+text-align: left;
+}
+#focusedSubtitlesThree {
+left: -2.1vw;
+bottom: 54vh;
+text-align: left;
+}
+#focusedSubtitlesFour {
+left: -1.5vw;
+bottom: 51vh;
+text-align: left;
+}
+#focusedSubtitlesFive {
+left: -6.8vw;
+bottom: 57.4vh;
+text-align: left;
+}
+/*--- Page Navigation & general content ---*/
+#navbarTitlesContainer {
+top: 27.3%;
+}
+.navbarTitles, #rightSideQuote, .rightSideTextMM {
+font-size: 22px;
+line-height: 25px;
+}
+#about {
+height: 21.9%;
+}
+#RightTextContainerMM {
+top: 4.4%;
+}
+.MMHeading, .CollabTitle {
+font-size: 22px;
+}
+.CollabTitle {
+line-height: 20px;
+}
+.rightSideSmallerText {
+font-size: 16px;
+line-height: 20px;
+}
+#events {
+height: 46%;
+}
+#residency {
+height: 9.3%;
+}
+#glossarySection {
+height: 177.5%;
+}
+#glossaryOne {
+top: 0.1%;
+}
+.rightSideSmallerSmallerText {
+font-size: 12px;
+line-height: 15px;
+}
+#landingOne {
+left: -2.4%;
+}
+.middleLarge {
+width: 31.6vw;
+}
+#collaboratorsSection {
+    height: 150%;
+}
+#acknowledgementSection {
+height: 26%;
+}
+#assemblagesSection {
+height: 14.6%;
+}
+.references {
+font-size: 10px;
+line-height: 13px;
+}
+/*---Subpage applicable tags---*/
+.mainTitle {
+top: 20.6%;
+;
+font-size: 22px;
+line-height: 25px
+}
+.headingTitle {
+right: 0;
+font-size: 12px;
+top: 4.7vh;
+}
+.headingItem {
+font-size: 9.5px;
+}
+.copyTextLeft {
+font-size: 13px;
+line-height: 17px;
+}
+.mainTitleRight {
+font-size: 23px;
+line-height: 25px;
+}
+.copyTextBigger {
+font-size: 23px;
+line-height: 25px;
+top: 20%;
+}
+#monsoonAssemblagesNav {
+top: 57.5vh;
+}
+#acknowledgementsNav {
+top: 46vh;
+}
+#collaboratorsNav {
+top: 38.9vh;
+}
+#glossaryNav {
+top: 34.5vh;
+}
+#residencyNav {
+top: 29vh;
+}
+#eventsNav {
+top: 26vh;
+}
+#eventsNav, #residencyNav, #glossaryNav, #collaboratorsNav, #acknowledgementsNav, #monsoonAssemblagesNav {
+left: 0.1vw;
+}
+.copyText {
+font-size: 13px;
+line-height: 17px;
+top: 21%;
+}
+.TemplateImageDescription {
+font-size: 9px;
+line-height: 12px;
+}
+}
+
+/* common - 1440×766 */
+@media (min-width: 1400px) and (max-width: 1499px) {
+h2 {
+font-size: 13px;
+}
+.titleSup {
+font-size: 10px;
+line-height: 0;
+}
+sup {
+font-size: 8px;
+line-height: 0;
+}
+.headings {
+width: 3.2vw;
+}
+.cityTitle {
+font-size: 13px;
+top: 13.3vh;
+left: -2.3px;
+}
+.tabSubtitles {
+font-size: 13px;
+}
+.subtitleContainer {
+top: 40vh;
+right: 5.1vw;
+}
+.copyTextLarger {
+font-size: 23px;
+line-height: 25px;
+top: 18%;
+}
+li {
+padding: 18px;
+width: 44px;
+border-left: 2px solid black;
+}
+.headings {
+border-right: 2px solid black;
+}
+li.active {
+width: 290px;
+}
+#Interlocutors {
+right: 0.5vw;
+top: 5vh;
+}
+#Infrastructure {
+right: 43px;
+top: 9.6vh;
+}
+#subtitleContainerTwo {
+right: 10.1vw;
+top: 38.7vh;
+}
+#Framings {
+left: 5.9px;
+top: 3.4vh;
+}
+#subtitleContainerThree {
+right: 3.2vw;
+top: 41.8vh;
+}
+#Matters {
+left: 9.7px;
+top: 2.8vh;
+}
+#subtitleContainerFour {
+right: 2.6vw;
+top: 44.5vh;
+}
+#UrbanAssemblages {
+right: 22px;
+top: 7.5vh;
+}
+#subtitleContainerFive {
+right: 7.5vw;
+top: 36.6vh;
+}
+.focusedSingleSubtitle {
+font-size: 23px;
+line-height: 25px;
+}
+#focusedSubtitlesOne {
+bottom: 52.4vh;
+left: -3.6vw;
+text-align: left;
+}
+#focusedSubtitlesTwo {
+bottom: 55.4vh;
+left: -8.7vw;
+text-align: left;
+}
+#focusedSubtitlesThree {
+left: -2.1vw;
+bottom: 52.3vh;
+text-align: left;
+}
+#focusedSubtitlesFour {
+left: -1.35vw;
+bottom: 49vh;
+text-align: left;
+}
+#focusedSubtitlesFive {
+left: -6.2vw;
+bottom: 55.5vh;
+text-align: left;
+}
+/*--- Page Navigation & general content ---*/
+#navbarTitlesContainer {
+top: 29%;
+}
+.navbarTitles, #rightSideQuote, .rightSideTextMM {
+font-size: 22px;
+line-height: 25px;
+}
+#about {
+height: 21.9%;
+}
+#RightTextContainerMM {
+top: 4.7%;
+}
+.MMHeading, .CollabTitle {
+font-size: 22px;
+}
+.CollabTitle {
+line-height: 20px;
+}
+.rightSideSmallerText {
+font-size: 16px;
+line-height: 20px;
+}
+#events {
+height: 46%;
+}
+#residency {
+height: 9.3%;
+}
+#glossarySection {
+height: 188.5%;
+}
+#glossaryOne {
+top: 0.1%;
+}
+.rightSideSmallerSmallerText {
+font-size: 12px;
+line-height: 15px;
+}
+#landingOne {
+left: -2.4%;
+}
+.middleLarge {
+width: 31.2vw;
+}
+#collaboratorsSection {
+height: 149%;
+}
+#acknowledgementSection {
+height: 26.9%;
+}
+#assemblagesSection {
+height: 13.5%;
+}
+.references {
+font-size: 10px;
+line-height: 13px;
+}
+/*---Subpage applicable tags---*/
+.mainTitle {
+top: 18%;
+font-size: 22px;
+line-height: 25px
+}
+.headingTitle {
+right: 0;
+font-size: 12px;
+top: 4.7vh;
+}
+.headingItem {
+font-size: 11.5px;
+}
+.copyTextLeft {
+font-size: 13px;
+line-height: 17px;
+}
+.mainTitleRight {
+font-size: 23px;
+line-height: 25px;
+}
+.copyTextBigger {
+font-size: 23px;
+line-height: 25px;
+top: -76.2%
+}
+#monsoonAssemblagesNav {
+top: 59.5vh;
+}
+#acknowledgementsNav {
+top: 48vh;
+}
+#collaboratorsNav {
+top: 39.9vh;
+}
+#glossaryNav {
+top: 35.5vh;
+}
+#residencyNav {
+top: 30vh;
+}
+#eventsNav {
+top: 27vh;
+}
+#eventsNav, #residencyNav, #glossaryNav, #collaboratorsNav, #acknowledgementsNav, #monsoonAssemblagesNav {
+left: 0.1vw;
+}
+.copyText {
+font-size: 14px;
+line-height: 18px;
+top: 21%;
+}
+.TemplateImageDescription {
+font-size: 9px;
+line-height: 12px;
+}
+}
+
+/* height resposiveness*/
+@media (min-width: 1400px) and (max-width: 1499px) and (min-height: 851px) and (max-height: 901px) {
+
+    .cityTitle {
+        top: 101px;
+        left: -6.4px;
+    }
+    #Interlocutors {
+        top: 30px;
+        right: 7.5px;
+    }
+    #Infrastructure {
+        top: 65px;
+        right: 47.5px;
+    }
+    #Framings {
+        top: 17px;
+        left: 2px;
+    }
+    #Matters {
+        top: 13px;
+        left: 5px;
+    }
+    #Matters {
+        top: 13px;
+        left: 7px;
+    }
+    #UrbanAssemblages {
+        top: 48px;
+        right: 28px;
+    }
+    .subtitleContainer {
+        top: 298px;
+        right: 74px;
+    }
+    #subtitleContainerTwo {
+        right: 149px;
+        top: 288px;
+    }
+    #subtitleContainerThree {
+        right: 50px;
+        top: 311px;
+    }
+    #subtitleContainerFour {
+        right: 41px;
+        top: 333px;
+    }
+    #subtitleContainerFive {
+        right: 112px;
+        top: 272px;
+    }
+    #focusedSubtitlesOne {
+        bottom: 540px;
+        left: -53px;
+    }
+    #focusedSubtitlesTwo {
+        bottom: 564px;
+        left: -126px;
+    }
+    #focusedSubtitlesThree {
+        left: -31px;
+        bottom: 540px;
+    }
+    #focusedSubtitlesFour {
+        left: -21px;
+        bottom: 515px;
+    }
+    #focusedSubtitlesFive {
+        bottom: 564px;
+        left: -93px;
+    }
+    #navbarTitlesContainer {
+        top: 221px;
+    }
+    #RightTextContainerMM {
+        top: 198px;
+    }
+    .headingTitle {
+    top: 28px;
+    }
+    #eventsNav, #residencyNav, #glossaryNav, #collaboratorsNav, #acknowledgementsNav, #monsoonAssemblagesNav {
+    left: 0px;
+    }
+    #eventsNav {
+        top: 206.61px;
+    }
+    #residencyNav {
+        top: 223.23px;
+    }
+    #glossaryNav {
+        top: 257.23px;
+    }
+    #collaboratorsNav {
+        top: 283.23px;
+    }
+    #acknowledgementsNav {
+        top: 335.23px;
+    }
+    #monsoonAssemblagesNav {
+        top: 419.23px;
+    }
+    
+    .mainTitle {
+        top: 206px;
+    }
+    .copyText {
+        top: 207px;
+    }
+    .copyTextLarger {
+        top: 197px;
+    }
+    /*------- Homepage---------*/
+    
+    #about {
+        height: 836px;
+    }
+    #events {
+        height: 1857px;
+    }
+    #residency {
+        height: 322px;
+    }
+    #glossarySection {
+        height: 7798px;
+    }
+    #collaboratorsSection {
+        height: 6330px;
+    }
+    #acknowledgementSection {
+        height: 1253px;
+    }
+    #assemblagesSection {
+        height: 409px;
+    }
+    }
+/* common - 1536×730*/
+@media (min-width: 1500px) and (max-width: 1599px) {
+.cityTitle {
+top: 14.8vh;
+left: -4px;
+font-size: 14px;
+}
+sup {
+font-size: 8px;
+}
+li .section-title {
+right: 3vw;
+bottom: 43vh;
+font-size: 10px;
+}
+li {
+width: 47.5px;
+}
+li.active {
+width: 308px;
+}
+.subtitleContainer {
+top: 45.9vh;
+}
+#Interlocutors {
+top: 5.2vh;
+right: -0.1vw;
+}
+#Infrastructure {
+top: 10.76vh;
+right: 42.5px;
+}
+#Framings {
+top: 3.1vh;
+left: 14.5px;
+}
+#Matters {
+top: 2.4vh;
+left: 20px;
+}
+#UrbanAssemblages {
+top: 8.1vh;
+right: 21.5px;
+}
+#subtitleContainerTwo {
+right: 10.4vw;
+top: 44.5vh;
+}
+#subtitleContainerThree {
+right: 3vw;
+top: 48.2vh;
+}
+#subtitleContainerFour {
+right: 2.5vw;
+top: 51.7vh;
+}
+#subtitleContainerFive {
+right: 7.8vw;
+top: 41.7vh;
+}
+.navbarTitles {
+font-size: 25px;
+line-height: 26px;
+}
+#navbarTitlesContainer {
+top: 32.3%;
+left: 4.5%;
+}
+.focusedSingleSubtitle {
+font-size: 25px;
+line-height: 26px;
+}
+#focusedSubtitlesFive {
+left: -7.35vw;
+bottom: 50.82vh;
+}
+#focusedSubtitlesFour {
+left: -1.9vw;
+bottom: 43.7vh;
+}
+#focusedSubtitlesThree {
+left: -2.6vw;
+bottom: 47.3vh;
+}
+#focusedSubtitlesTwo {
+bottom: 50.8vh;
+left: -9.9vw;
+}
+#focusedSubtitlesOne {
+bottom: 47.2vh;
+left: -4.5vw;
+}
+#rightSideQuote {
+font-size: 25px;
+line-height: 28px;
+}
+.rightSideTextMM {
+font-size: 25px;
+line-height: 28px;
+}
+#RightTextContainerMM {
+top: 5.21%;
+}
+#about {
+height: 24%;
+}
+.MMHeading {
+font-size: 25px;
+}
+#events {
+height: 57%;
+}
+#residency {
+height: 8.7%;
+}
+#glossarySection {
+height: 208.5%;
+}
+.CollabTitle {
+font-size: 25px;
+line-height: 28px;
+}
+#landingOne {
+left: -2%;
+}
+.middleLarge {
+width: 31.4vw;
+}
+#landingVideoOne {
+height: 35.6vh;
+}
+#collaboratorsSection {
+    height: 208%;
+}
+#acknowledgementSection {
+height: 33%;
+}
+
+#assemblagesSection {
+    height: 18%;
+}
+.endLineLanding {
+top: 1%;
+}
+.mainTitle {
+top: 19.85%;
+font-size: 25px;
+line-height: 28px;
+}
+.copyText {
+top: 19.8%;
+font-weight: 400;
+font-size: 17px;
+line-height: 20px;
+}
+.copyTextLeft {
+font-size: 17px;
+line-height: 20px;
+}
+.headingTitle {
+top: 4.8vh;
+right: -2.8px;
+font-size: 14.5px;
+}
+.mainTitleRight {
+font-size: 25px;
+line-height: 28px;
+}
+#gridImageMiddle {
+width: 23.9vw;
+margin-left: 42px;
+}
+.headingItem {
+font-size: 12.3px;
+}
+#residencyNav {
+top: 32vh;
+left: 0.1vw;
+}
+#glossaryNav {
+top: 37vh;
+left: 0.1vw;
+}
+#eventsNav {
+top: 29.7vh;
+left: 0.1vw;
+}
+#acknowledgementsNav {
+top: 48.1vh;
+left: 0.1vw;
+}
+#collaboratorsNav {
+top: 40.7vh;
+left: 0.1vw;
+}
+#monsoonAssemblagesNav {
+top: 60.1vh;
+left: 0.1vw;
+}
+.copyTextBigger {
+top: -84.8%;
+font-size: 25px;
+line-height: 28px;
+}
+.TemplateImageDescription {
+font-size: 9px;
+line-height: 12px;
+}
+
+#oneRefLanding {
+    position: relative;
+    top: 2%;
+    left: 0%;
+    width: 90%;
+    margin-bottom: 5vh;
+    padding-bottom: 5vh;
+}
+.references {
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 9px;
+    line-height: 12px;
+    width: 14%;
+    text-align: left;
+}
+}
+
+/* height resposiveness - 780/800*/
+@media (min-width: 1500px) and (max-width: 1599px) and (min-height: 780px) and (max-height: 810px) {
+    .cityTitle {
+    top: 108px;
+    left: -3.4px;
+    }
+    #Interlocutors {
+    top: 34px;
+    right: -1.5px;
+    }
+    #Infrastructure {
+    top: 74px;
+    right: 42.5px;
+    }
+    #Framings {
+    top: 19px;
+    left: 14px;
+    }
+    #Matters {
+    top: 14px;
+    left: 20px;
+    }
+    #UrbanAssemblages {
+    top: 55.5px;
+    right: 22px;
+    }
+    .subtitleContainer {
+    top: 330px;
+    right: 77px;
+    }
+    #subtitleContainerTwo {
+    right: 162px;
+    top: 320px;
+    }
+    #subtitleContainerThree {
+    right: 48px;
+    top: 348px;
+    }
+    #subtitleContainerFour {
+    right: 38px;
+    top: 373px;
+    }
+    #subtitleContainerFive {
+    right: 121px;
+    top: 300px;
+    }
+    #focusedSubtitlesOne {
+    bottom: 407px;
+    left: -64px;
+    }
+    #focusedSubtitlesTwo {
+    bottom: 433px;
+    left: -150px;
+    }
+    #focusedSubtitlesThree {
+    left: -38px;
+    bottom: 407px;
+    }
+    #focusedSubtitlesFour {
+    left: -27px;
+    bottom: 381px;
+    }
+    #focusedSubtitlesFive {
+    bottom: 432px;
+    left: -110px;
+    }
+    #navbarTitlesContainer {
+    top: 236px;
+    }
+    #RightTextContainerMM {
+    top: 210px;
+    }
+    .headingTitle {
+    top: 28px;
+    }
+    #eventsNav, #residencyNav, #glossaryNav, #collaboratorsNav, #acknowledgementsNav, #monsoonAssemblagesNav {
+    left: 0px;
+    }
+    #eventsNav {
+    top: 217.61px;
+    }
+    #residencyNav {
+    top: 235.23px;
+    }
+    #glossaryNav {
+    top: 273.23px;
+    }
+    #collaboratorsNav {
+    top: 302.23px;
+    }
+    #acknowledgementsNav {
+    top: 358.23px;
+    }
+    #monsoonAssemblagesNav {
+    top: 446.23px;
+    }
+    .mainTitle {
+    top: 218px;
+    }
+    .copyText {
+    top: 218px;
+    }
+    .copyTextLarger {
+    top: 205px;
+    font-size: 25px;
+    line-height: 28px;
+    }
+    /*------- Homepage---------*/
+    
+    #about {
+        height: 966px;
+    }
+    #events {
+        height: 2345px;
+    }
+    #residency {
+        height: 380px;
+    }
+    #glossarySection {
+        height: 8394px;
+    }
+    #collaboratorsSection {
+        height: 8304px;
+    }
+    #acknowledgementSection {
+        height: 1456px;
+    }
+    #assemblagesSection {
+        height: 442px;
+    }
     }
 
-    .copyTextBigger {
-        top: -84.8%;
-        font-size: 25px;
-        line-height: 28px;
-    }
-
-    .TemplateImageDescription {
-        font-size: 9px;
-        line-height: 12px;
-    }
-    }
 /* common - 1600×750, 1600×900 */
 @media (min-width: 1600px) and (max-width: 1699px) {
+.cityTitle {
+top: 14.8vh;
+left: 0%;
+font-size: 14px;
+}
+sup {
+font-size: 8px;
+}
+li .section-title {
+right: 3vw;
+bottom: 43vh;
+font-size: 10px;
+}
+li {
+width: 50.4px;
+}
+li.active {
+width: 319px;
+}
+.subtitleContainer {
+top: 41.5vh;
+}
+#Interlocutors {
+top: 5.15vh;
+right: -0.3vw;
+}
+#Infrastructure {
+top: 10.6vh;
+right: 38px;
+}
+#Framings {
+top: 3.1vh;
+left: 18px;
+}
+#Matters {
+top: 2.5vh;
+left: 23px;
+}
+#UrbanAssemblages {
+top: 8vh;
+right: 19.3px;
+}
+#subtitleContainerOne {
+    top: 41.5vh;
+    left: -4.15vw;
+}
+#subtitleContainerTwo {
+right: 9.33vw;
+top: 40.4vh;
+}
+#subtitleContainerThree {
+right: 2.4vw;
+top: 43.2vh;
+}
+#subtitleContainerFour {
+right: 1.68vw;
+top: 45.9vh;
+}
+#subtitleContainerFive {
+right: 7vw;
+top: 38.3vh;
+}
+.navbarTitles {
+font-size: 22px;
+line-height: 25px;
+}
+#navbarTitlesContainer {
+top: 32.9%;
+left: 4.5%;
+}
+.focusedSingleSubtitle {
+font-size: 22px;
+line-height: 25px;
+}
+#focusedSubtitlesFive {
+left: -6.9vw;
+bottom: 51vh;
+}
+#focusedSubtitlesFour {
+left: -1.7vw;
+bottom: 44.5vh;
+}
+#focusedSubtitlesThree {
+left: -2.4vw;
+bottom: 48vh;
+}
+#focusedSubtitlesTwo {
+bottom: 51vh;
+left: -9vw;
+}
+#focusedSubtitlesOne {
+left: -3.7vw;
+bottom: 47.7vh;
+}
+#rightSideQuote {
+font-size: 22px;
+line-height: 25px;
+}
+.rightSideTextMM {
+font-size: 22px;
+line-height: 25px;
+}
+#RightTextContainerMM {
+top: 5.4%;
+}
+.rightSideSmallerText {
+font-size: 15px;
+line-height: 18px;
+font-weight: 400;
+}
+.rightSideSmallerSmallerText {
+font-size: 12px;
+line-height: 15px;
+}
+#about {
+height: 21%;
+}
+.MMHeading {
+font-size: 25px;
+}
+#events {
+height: 41%;
+}
+#residency {
+height: 9%;
+}
+#glossarySection {
+height: 213%;
+}
+.CollabTitle {
+font-size: 25px;
+line-height: 28px;
+}
+#landingOne {
+left: -2%;
+}
+.middleLarge {
+width: 31.4vw;
+}
+#landingVideoOne {
+height: 35.6vh;
+}
+#collaboratorsSection {
+height: 156%;
+}
+#acknowledgementSection {
+    height: 29%
+}
+#assemblagesSection {
+    height: 12%;
+}
+.endLineLanding {
+top: 1%;
+}
+.mainTitle {
+top: 20.5%;
+font-size: 22px;
+line-height: 25px;
+}
+.copyText {
+top: 20.8%;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+}
+.copyTextLeft {
+font-size: 15px;
+line-height: 18px;
+}
+.copyTextLarger {
+font-size: 22px;
+line-height: 25px;
+}
+.headingTitle {
+top: 4.98vh;
+right: -2.8px;
+font-size: 14.5px;
+}
+.mainTitleRight {
+font-size: 22px;
+line-height: 25px;
+}
+#gridImageMiddle {
+width: 23.9vw;
+margin-left: 42px;
+}
+.headingItem {
+font-size: 11px;
+}
+#residencyNav {
+top: 33.3vh;
+left: 0.1vw;
+}
+#glossaryNav {
+top: 38.2vh;
+left: 0.1vw;
+}
+#eventsNav {
+top: 30.6vh;
+left: 0.1vw;
+}
+#acknowledgementsNav {
+top: 49.15vh;
+left: 0.1vw;
+}
+#collaboratorsNav {
+top: 42vh;
+left: 0.1vw;
+}
+#monsoonAssemblagesNav {
+top: 60.1vh;
+left: 0.1vw;
+}
+.copyTextBigger {
+top: -84.8%;
+font-size: 22px;
+line-height: 25px;
+}
+.TemplateImageDescription {
+font-size: 9px;
+line-height: 12px;
+}
+.tabSubtitles {
+font-size: 12px;
+line-height: 15px;
+}
+.references {
+font-size: 9px;
+line-height: 12px;
+}
+#oneRefLanding {
+top: 1.5%;
+}
+}
+
+/* common - 1600×750, 1600×900 */
+@media (min-width: 1600px) and (max-width: 1619px) {
     .cityTitle {
-        top: 14.8vh;
-        left: 0%;
+    top: 14.8vh;
+    left: 0%;
+    font-size: 14px;
+    }
+    sup {
+    font-size: 8px;
+    }
+    li .section-title {
+    right: 3vw;
+    bottom: 43vh;
+    font-size: 10px;
+    }
+    li {
+    width: 50.4px;
+    }
+    li.active {
+    width: 319px;
+    }
+    .subtitleContainer {
+    top: 41.5vh;
+    }
+    #Interlocutors {
+    top: 5.15vh;
+    right: -0.3vw;
+    }
+    #Infrastructure {
+    top: 10.6vh;
+    right: 38px;
+    }
+    #Framings {
+    top: 3.1vh;
+    left: 18px;
+    }
+    #Matters {
+    top: 2.5vh;
+    left: 23px;
+    }
+    #UrbanAssemblages {
+    top: 8vh;
+    right: 19.3px;
+    }
+    #subtitleContainerOne {
+    top: 41.5vh;
+    left: -4.15vw;
+    }
+    #subtitleContainerTwo {
+    right: 9.33vw;
+    top: 40.4vh;
+    }
+    #subtitleContainerThree {
+    right: 2.4vw;
+    top: 43.2vh;
+    }
+    #subtitleContainerFour {
+    right: 1.68vw;
+    top: 45.9vh;
+    }
+    #subtitleContainerFive {
+    right: 7vw;
+    top: 38.3vh;
+    }
+    .navbarTitles {
+    font-size: 22px;
+    line-height: 25px;
+    }
+    #navbarTitlesContainer {
+    top: 32.9%;
+    left: 4.5%;
+    }
+    .focusedSingleSubtitle {
+    font-size: 22px;
+    line-height: 25px;
+    }
+    #focusedSubtitlesFive {
+    left: -6.9vw;
+    bottom: 51vh;
+    }
+    #focusedSubtitlesFour {
+    left: -1.7vw;
+    bottom: 44.5vh;
+    }
+    #focusedSubtitlesThree {
+    left: -2.4vw;
+    bottom: 48vh;
+    }
+    #focusedSubtitlesTwo {
+    bottom: 51vh;
+    left: -9vw;
+    }
+    #focusedSubtitlesOne {
+    left: -3.7vw;
+    bottom: 47.7vh;
+    }
+    #rightSideQuote {
+    font-size: 22px;
+    line-height: 25px;
+    }
+    .rightSideTextMM {
+    font-size: 22px;
+    line-height: 25px;
+    }
+    #RightTextContainerMM {
+    top: 5.4%;
+    }
+    .rightSideSmallerText {
+    font-size: 15px;
+    line-height: 18px;
+    font-weight: 400;
+    }
+    .rightSideSmallerSmallerText {
+    font-size: 12px;
+    line-height: 15px;
+    }
+    #about {
+    height: 21%;
+    }
+    .MMHeading {
+    font-size: 25px;
+    }
+    #events {
+    height: 41%;
+    }
+    #residency {
+    height: 9%;
+    }
+    #glossarySection {
+    height: 213%;
+    }
+    .CollabTitle {
+    font-size: 25px;
+    line-height: 28px;
+    }
+    #landingOne {
+    left: -2%;
+    }
+    .middleLarge {
+    width: 31.4vw;
+    }
+    #landingVideoOne {
+    height: 35.6vh;
+    }
+    #collaboratorsSection {
+    height: 156%;
+    }
+    #acknowledgementSection {
+    height: 34%;
+    }
+    #assemblagesSection {
+    height: 8%;
+    }
+    .endLineLanding {
+    top: 1%;
+    }
+    .mainTitle {
+    top: 20.5%;
+    font-size: 22px;
+    line-height: 25px;
+    }
+    .copyText {
+    top: 20.8%;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    }
+    .copyTextLeft {
+    font-size: 15px;
+    line-height: 18px;
+    }
+    .copyTextLarger {
+    font-size: 22px;
+    line-height: 25px;
+    }
+    .headingTitle {
+    top: 4.98vh;
+    right: -2.8px;
+    font-size: 14.5px;
+    }
+    .mainTitleRight {
+    font-size: 22px;
+    line-height: 25px;
+    }
+    #gridImageMiddle {
+    width: 23.9vw;
+    margin-left: 42px;
+    }
+    .headingItem {
+    font-size: 11px;
+    }
+    #residencyNav {
+    top: 33.3vh;
+    left: 0.1vw;
+    }
+    #glossaryNav {
+    top: 38.2vh;
+    left: 0.1vw;
+    }
+    #eventsNav {
+    top: 30.6vh;
+    left: 0.1vw;
+    }
+    #acknowledgementsNav {
+    top: 49.15vh;
+    left: 0.1vw;
+    }
+    #collaboratorsNav {
+    top: 42vh;
+    left: 0.1vw;
+    }
+    #monsoonAssemblagesNav {
+    top: 60.1vh;
+    left: 0.1vw;
+    }
+    .copyTextBigger {
+    top: -84.8%;
+    font-size: 22px;
+    line-height: 25px;
+    }
+    .TemplateImageDescription {
+    font-size: 9px;
+    line-height: 12px;
+    }
+    .tabSubtitles {
+    font-size: 12px;
+    line-height: 15px;
+    }
+    .references {
+    font-size: 9px;
+    line-height: 12px;
+    }
+    #oneRefLanding {
+    top: 1.5%;
+    }
+    }
+    /*1680 x 750*/
+    @media (min-width: 1620px) and (max-width: 1699px){
+    .cityTitle {
+        top: 112px;
+        left: 3px;
         font-size: 14px;
     }
     sup {
-        font-size: 8px;
+    font-size: 8px;
     }
     li .section-title {
-        right: 3vw;
-        bottom: 43vh;
-        font-size: 10px;
-    }
-    li {
-        width: 50.4px;
+    right: 3vw;
+    bottom: 43vh;
+    font-size: 10px;
     }
     li.active {
-        width: 319px;
+        width: 336px;
+    }
+    li {
+        width: 52.4px;
     }
     .subtitleContainer {
-        top: 41.5vh;
+    top: 330px;
+    right: 77px;
     }
     #Interlocutors {
-        top: 5.15vh;
-        right: -0.3vw;
+        top: 42px;
+        right: -7.5px;
     }
     #Infrastructure {
-        top: 10.6vh;
-        right: 38px;
+        top: 82px;
+        right: 35.5px;
     }
     #Framings {
-        top: 3.1vh;
-        left: 18px;
+        top: 26px;
+        left: 20px;
     }
     #Matters {
-        top: 2.5vh;
-        left: 23px;
+        top: 21px;
+        left: 26px;
     }
     #UrbanAssemblages {
-        top: 8vh;
-        right: 19.3px;
+        top: 62.5px;
+        right: 15px;
     }
     #subtitleContainerOne {
-        top: 41.5vh;
-        left: -4.15vw;
+        right: 63px;
+        top: 324px;
     }
     #subtitleContainerTwo {
-        right: 9.33vw;
-        top: 40.4vh;
+        right: 146px;
+        top: 316px;
     }
     #subtitleContainerThree {
-        right: 2.4vw;
-        top: 43.2vh;
+        right: 34px;
+        top: 338px;
     }
     #subtitleContainerFour {
-        right: 1.68vw;
-        top: 45.9vh;
+        right: 24px;
+        top: 358px;
     }
     #subtitleContainerFive {
-        right: 7vw;
-        top: 38.3vh;
+        right: 107px;
+        top: 301px;
     }
     .navbarTitles {
-        font-size: 22px;
-        line-height: 25px;
+    font-size: 22px;
+    line-height: 25px;
     }
     #navbarTitlesContainer {
-        top: 32.9%;
+        top: 258px;
         left: 4.5%;
     }
     .focusedSingleSubtitle {
-        font-size: 22px;
-        line-height: 25px;
-    }
-    #focusedSubtitlesFive {
-        left: -6.9vw;
-        bottom: 51vh;
-    }
-    #focusedSubtitlesFour {
-        left: -1.7vw;
-        bottom: 44.5vh;
-    }
-    #focusedSubtitlesThree {
-        left: -2.4vw;
-        bottom: 48vh;
-    }
-    #focusedSubtitlesTwo {
-        bottom: 51vh;
-        left: -9vw;
+    font-size: 22px;
+    line-height: 25px;
     }
     #focusedSubtitlesOne {
-        left: -3.7vw;
-        bottom: 47.7vh;
+        bottom: 348px;
+        left: -61px;
+    }
+    #focusedSubtitlesTwo {
+        bottom: 373px;
+        left: -146px;
+    }
+    #focusedSubtitlesThree {
+        left: -36px;
+        bottom: 348px;
+    }
+    #focusedSubtitlesFour {
+        left: -25px;
+        bottom: 323px;
+    }
+    #focusedSubtitlesFive {
+        bottom: 372px;
+        left: -105px;
     }
     #rightSideQuote {
-        font-size: 22px;
-        line-height: 25px;
+    font-size: 22px;
+    line-height: 25px;
     }
     .rightSideTextMM {
-        font-size: 22px;
-        line-height: 25px;
+    font-size: 22px;
+    line-height: 25px;
     }
     #RightTextContainerMM {
-        top: 5.4%;
+        top: 235px;
     }
     .rightSideSmallerText {
-        font-size: 15px;
-        line-height: 18px;
-        font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    font-weight: 400;
     }
     .rightSideSmallerSmallerText {
-        font-size: 12px;
-        line-height: 15px;
+    font-size: 12px;
+    line-height: 15px;
     }
-    #about {
-        height: 21%;
+    #eventsNav, #residencyNav, #glossaryNav, #collaboratorsNav, #acknowledgementsNav, #monsoonAssemblagesNav {
+    left: 0px;
     }
     .MMHeading {
-        font-size: 25px;
+    font-size: 25px;
+    }
+    #about {
+        height: 760px;
     }
     #events {
-        height: 41%;
+        height: 1524px;
     }
     #residency {
-        height: 9%;
+        height: 261px;
     }
     #glossarySection {
-        height: 213%;
-    }
-    .CollabTitle {
-        font-size: 25px;
-        line-height: 28px;
-    }
-    #landingOne {
-        left: -2%;
-    }
-    .middleLarge {
-        width: 31.4vw;
-    }
-    #landingVideoOne {
-        height: 35.6vh;
+        height: 9102px;
     }
     #collaboratorsSection {
-        height: 156%;
+        height: 151%;
     }
     #acknowledgementSection {
-        height: 34%;
+    height: 34%;
     }
     #assemblagesSection {
-        height: 8%;
+    height: 8%;
+    }
+    .CollabTitle {
+    font-size: 25px;
+    line-height: 28px;
+    }
+    #landingOne {
+    left: -2%;
+    }
+    .middleLarge {
+    width: 31.4vw;
+    }
+    #landingVideoOne {
+    height: 35.6vh;
     }
     .endLineLanding {
-        top: 1%;
+    top: 1%;
     }
     .mainTitle {
-        top: 20.5%;
+        top: 244px;
         font-size: 22px;
         line-height: 25px;
     }
     .copyText {
-        top: 20.8%;
+        top: 243px;
         font-weight: 400;
         font-size: 15px;
         line-height: 18px;
     }
     .copyTextLeft {
+    font-size: 15px;
+    line-height: 18px;
+    }
+    .copyTextLarger {
+        top: 235px;
+        left: 547px;
+        font-size: 22px;
+        line-height: 25px;
+    }
+    
+    .headingTitle {
+    top: 28px;
+    right: -2.8px;
+    font-size: 14.5px;
+    }
+    .mainTitleRight {
+    font-size: 22px;
+    line-height: 25px;
+    }
+    #gridImageMiddle {
+    width: 23.9vw;
+    margin-left: 42px;
+    }
+    .headingItem {
+    font-size: 11px;
+    }
+    #eventsNav {
+        top: 244.61px;
+    }
+    #residencyNav {
+        top: 261.23px;
+    }
+    #glossaryNav {
+        top: 295.23px;
+    }
+    #collaboratorsNav {
+        top: 322.23px;
+    }
+    #acknowledgementsNav {
+        top: 372.23px;
+    }
+    #monsoonAssemblagesNav {
+        top: 453.23px;
+    }
+    #eventsNav, #residencyNav, #glossaryNav, #collaboratorsNav, #acknowledgementsNav, #monsoonAssemblagesNav {
+    left: 0px;
+    }
+    .copyTextBigger {
+    top: -84.8%;
+    font-size: 22px;
+    line-height: 25px;
+    }
+    .TemplateImageDescription {
+    font-size: 9px;
+    line-height: 12px;
+    }
+    .tabSubtitles {
+    font-size: 12px;
+    line-height: 15px;
+    }
+    .references {
+    font-size: 9px;
+    line-height: 12px;
+    }
+    #oneRefLanding {
+    top: 1.5%;
+    }
+    
+    }
+    
+    /* height resposiveness - 780/800*/
+    @media (min-width: 1600px) and (max-width: 1699px) and (min-height: 831px) and (max-height: 900px) {
+    .cityTitle {
+        top: 110px;
+        left: -0.4px;
+    }
+    #Interlocutors {
+        top: 28px;
+        right: -5.5px;
+    }
+    #Infrastructure {
+        top: 68px;
+        right: 37.5px;
+    }
+    #Framings {
+        top: 12px;
+        left: 18px;
+    }
+    #Matters {
+        top: 7px;
+        left: 23px;
+    }
+    #UrbanAssemblages {
+        top: 48.5px;
+        right: 19px;
+    }
+    .subtitleContainer {
+    top: 330px;
+    right: 77px;
+    }
+    #subtitleContainerOne {
+        right: 150px;
+        top: 300px;
+    }
+    #subtitleContainerTwo {
+        right: 150px;
+        top: 292px;
+    }
+    #subtitleContainerThree {
+        right: 38px;
+        top: 314px;
+    }
+    #subtitleContainerFour {
+        right: 28px;
+        top: 333px;
+    }
+    #subtitleContainerFive {
+        right: 111px;
+        top: 276px;
+    }
+    #focusedSubtitlesOne {
+        bottom: 512px;
+        left: -61px;
+    }
+    #focusedSubtitlesTwo {
+        bottom: 536px;
+        left: -146px;
+    }
+    #focusedSubtitlesThree {
+        left: -35px;
+        bottom: 513px;
+    }
+    #focusedSubtitlesFour {
+        left: -27px;
+        bottom: 487px;
+    }
+    #focusedSubtitlesFive {
+        bottom: 536px;
+        left: -110px;
+    }
+    #navbarTitlesContainer {
+        top: 245px;
+    }
+    #RightTextContainerMM {
+        top: 223px;
+    }
+    .headingTitle {
+    top: 28px;
+    }
+    #eventsNav, #residencyNav, #glossaryNav, #collaboratorsNav, #acknowledgementsNav, #monsoonAssemblagesNav {
+    left: 0px;
+    }
+    #eventsNav {
+        top: 231.61px;
+    }
+    #residencyNav {
+        top: 249.23px;
+    }
+    #glossaryNav {
+        top: 283.23px;
+    }
+    #collaboratorsNav {
+        top: 310.23px;
+    }
+    #acknowledgementsNav {
+        top: 363.23px;
+    }
+    #monsoonAssemblagesNav {
+    top: 446.23px;
+    }
+    .mainTitle {
+        top: 230px;
+    }
+    .copyText {
+        top: 230px;
+    }
+    .copyTextLarger {
+        top: 223px;
+        left: 529px;
+        font-size: 22px;
+        line-height: 25px;
+    }
+    /*------- Homepage---------*/
+    
+    #about {
+        height: 790px;
+    }
+    #events {
+        height: 1654px;
+    }
+    #residency {
+        height: 298px;
+    }
+    #glossarySection {
+        height: 8697px;
+    }
+    #acknowledgementSection {
+        height: 1337px;
+    }
+    #assemblagesSection {
+        height: 326px;
+    }
+    }
+    /* height resposiveness - 901/1059*/
+    @media (min-width: 1600px) and (max-width: 1699px) and (min-height: 901px) and (max-height: 1050px) {
+    .cityTitle {
+        top: 112px;
+        left: 3px;
+        font-size: 14px;
+    }
+    .subtitleContainer {
+    top: 330px;
+    right: 77px;
+    }
+
+    #subtitleContainerOne {
+        top: 41.5vh;
+        left: -3.8vw;
+    }
+    #Interlocutors {
+        top: 20px;
+        right: -8.5px;
+    }
+    #Infrastructure {
+        top: 60px;
+        right: 35.5px;
+    }
+    #Matters {
+        top: -1px;
+        left: 26px;
+    }
+    #Framings {
+        top: 4px;
+        left: 20px;
+    }
+    #UrbanAssemblages {
+        top: 39.5px;
+        right: 15px;
+    }
+    #subtitleContainerOne {
+        right: 63px;
+        top: 303px;
+    }
+    #subtitleContainerTwo {
+        right: 147px;
+        top: 293px;
+    }
+    #subtitleContainerThree {
+        right: 35px;
+        top: 316px;
+    }
+    #subtitleContainerFour {
+        right: 24px;
+        top: 335px;
+    }
+    #subtitleContainerFive {
+        right: 108px;
+        top: 279px;
+    }
+    .navbarTitles {
+    font-size: 22px;
+    line-height: 25px;
+    }
+    #navbarTitlesContainer {
+        top: 258px;
+        left: 4.5%;
+    }
+    .focusedSingleSubtitle {
+    font-size: 22px;
+    line-height: 25px;
+    }
+    #focusedSubtitlesOne {
+        bottom: 650px;
+        left: -61px;
+    }
+    #focusedSubtitlesTwo {
+        bottom: 676px;
+        left: -146px;
+    }
+    #focusedSubtitlesThree {
+        left: -36px;
+        bottom: 651px;
+    }
+    #focusedSubtitlesFour {
+        left: -25px;
+        bottom: 626px;
+    }
+    #focusedSubtitlesFive {
+        bottom: 675px;
+        left: -105px;
+    }
+    #RightTextContainerMM {
+        top: 235px;
+    }
+    #eventsNav, #residencyNav, #glossaryNav, #collaboratorsNav, #acknowledgementsNav, #monsoonAssemblagesNav {
+    left: 0px;
+    }
+    .MMHeading {
+    font-size: 25px;
+    }
+    #about {
+        height: 760px;
+    }
+    #events {
+        height: 1615px;
+    }
+    #residency {
+        height: 261px;
+    }
+    #glossarySection {
+        height: 9120px;
+    }
+    #collaboratorsSection {
+        height: 6769px;
+    }
+    #acknowledgementSection {
+        height: 1384px;
+    }
+    #assemblagesSection {
+        height: 340px;
+    }
+    
+    .mainTitle {
+        top: 244px;
+        font-size: 22px;
+        line-height: 25px;
+    }
+    .copyText {
+        top: 243px;
+        font-weight: 400;
         font-size: 15px;
         line-height: 18px;
     }
+    
     .copyTextLarger {
+        top: 235px;
+        left: 554px;
         font-size: 22px;
         line-height: 25px;
     }
+    
     .headingTitle {
-        top: 4.98vh;
-        right: -2.8px;
-        font-size: 14.5px;
+    top: 28px;
+    right: -2.8px;
+    font-size: 14.5px;
     }
-    .mainTitleRight {
-        font-size: 22px;
-        line-height: 25px;
-    }
-    #gridImageMiddle {
-        width: 23.9vw;
-        margin-left: 42px;
-    }
-    .headingItem {
-        font-size: 11px;
+    
+    #eventsNav {
+        top: 244.61px;
     }
     #residencyNav {
-        top: 33.3vh;
-        left: 0.1vw;
+        top: 261.23px;
     }
     #glossaryNav {
-        top: 38.2vh;
-        left: 0.1vw;
-    }
-    #eventsNav {
-        top: 30.6vh;
-        left: 0.1vw;
-    }
-    #acknowledgementsNav {
-        top: 49.15vh;
-        left: 0.1vw;
+        top: 295.23px;
     }
     #collaboratorsNav {
-        top: 42vh;
-        left: 0.1vw;
+        top: 322.23px;
+    }
+    #acknowledgementsNav {
+        top: 372.23px;
     }
     #monsoonAssemblagesNav {
-        top: 60.1vh;
-        left: 0.1vw;
+        top: 453.23px;
     }
-    .copyTextBigger {
-        top: -84.8%;
-        font-size: 22px;
-        line-height: 25px;
+    
+    /*------- Homepage---------*/
+    
+    #about {
+        height: 790px;
     }
-    .TemplateImageDescription {
-        font-size: 9px;
-        line-height: 12px;
+    #events {
+        height: 1654px;
     }
-    .tabSubtitles {
-        font-size: 12px;
-        line-height: 15px;
+    #residency {
+        height: 298px;
     }
-    .references {
-        font-size: 9px;
-        line-height: 12px;
+    #glossarySection {
+        height: 8697px;
     }
-    #oneRefLanding {
-        top: 1.5%;
+    #acknowledgementSection {
+        height: 1337px;
+    }
+    #assemblagesSection {
+        height: 326px;
     }
     }
     
 
-
-    @media (min-width: 1700px) and (max-width: 1799px) {
-        
+@media (min-width: 1900px) and (min-height: 920px) and (max-height: 1008px) {
+    .cityTitle {
+        top: 137px;
+        left: -7px;
     }
-    @media (min-width: 1800px) and (max-width: 1899px) {
-        
+    .subtitleContainer {
+    top: 330px;
+    right: 77px;
     }
-    /* common - 2560×1440*/
-    @media (min-width: 2000px){
-        
+    #Interlocutors {
+        top: 58px;
+        right: 8.5px;
+    }
+    #Infrastructure {
+        top: 107px;
+        right: 62.5px;
+    }
+    #Framings {
+        top: 40px;
+        left: 5px;
+    }
+    #Matters {
+        top: 34px;
+        left: 12px;
+    }
+    #UrbanAssemblages {
+        top: 84.5px;
+        right: 39px;
+    }
+    #subtitleContainerOne {
+        right: 96px;
+        top: 397px;
+    }
+    #subtitleContainerTwo {
+        right: 198px;
+        top: 386px;
+    }
+    #subtitleContainerThree {
+        right: 65px;
+        top: 414px;
+    }
+    #subtitleContainerFour {
+        right: 51px;
+        top: 440px;
+    }
+    #subtitleContainerFive {
+        right: 151px;
+        top: 366px;
+    }
+    #navbarTitlesContainer {
+        top: 294px;
+        left: 4.5%;
+    }
+    #focusedSubtitlesOne {
+        bottom: 433px;
+        left: -69px;
+    }
+    #focusedSubtitlesTwo {
+        bottom: 470px;
+        left: -172px;
+    }
+    #focusedSubtitlesThree {
+        left: -39px;
+        bottom: 434px;
+    }
+    #focusedSubtitlesFour {
+        left: -26px;
+        bottom: 397px;
+    }
+    #focusedSubtitlesFive {
+        bottom: 469.9px;
+        left: -125.4px;
+    }
+    #RightTextContainerMM {
+        top: 257px;
+    }
+    #eventsNav, #residencyNav, #glossaryNav, #collaboratorsNav, #acknowledgementsNav, #monsoonAssemblagesNav {
+    left: 0px;
+    }
+    
+    .mainTitle {
+        top: 269.5px;
+    }
+    .copyText {
+        top: 273px;
+    }
+    .copyTextLarger {
+        top: 257.7px;
+        left: 634px;
+    }
+    
+    .headingTitle {
+    top: 28px;
+    right: -2.8px;
+    }
+    
+    #eventsNav {
+        top: 274.61px;
+    }
+    #residencyNav {
+        top: 297.23px;
+    }
+    #glossaryNav {
+        top: 347.23px;
+    }
+    #collaboratorsNav {
+        top: 383.23px;
+    }
+    #acknowledgementsNav {
+        top: 455.23px;
+    }
+    #monsoonAssemblagesNav {
+        top: 573.23px;
+    }
+    
+    /*------- Homepage---------*/
+    
+    #about {
+        height: 1374px;
+    }
+    #events {
+        height: 2547px;
+    }
+    #residency {
+        height: 528px;
+    }
+    #glossarySection {
+        height: 10447px;
+    }
+    #collaboratorsSection {
+        height: 8149px;
+    }
+    #acknowledgementSection {
+        height: 1687px;
+    }
+    #assemblagesSection {
+        height: 606px;
+    }
+    
+    
+    }
+    
+    @media (min-width: 1900px) and (min-height: 1101px) and (max-height: 1210px) {
+    .cityTitle {
+        top: 137px;
+        left: -7px;
+    }
+    .subtitleContainer {
+    top: 330px;
+    right: 77px;
+    }
+    #Interlocutors {
+        top: 42px;
+        right: 8.5px;
+    }
+    #Infrastructure {
+        top: 91px;
+        right: 62.5px;
+    }
+    #Framings {
+        top: 24px;
+        left: 5px;
+    }
+    #Matters {
+        top: 18px;
+        left: 12px;
+    }
+    #UrbanAssemblages {
+        top: 68.5px;
+        right: 39px;
+    }
+    #subtitleContainerOne {
+        right: 96.7px;
+        top: 382px;
+    }
+    #subtitleContainerTwo {
+        right: 198px;
+        top: 370.6px;
+    }
+    #subtitleContainerThree {
+        right: 64px;
+        top: 399px;
+    }
+    #subtitleContainerFour {
+        right: 51px;
+        top: 425px;
+    }
+    #subtitleContainerFive {
+        right: 151px;
+        top: 352px;
+    }
+    #navbarTitlesContainer {
+        top: 294px;
+        left: 4.5%;
+    }
+    
+    #focusedSubtitlesOne {
+        bottom: 706px;
+        left: -69px;
+    }
+    #focusedSubtitlesTwo {
+        bottom: 744px;
+        left: -172px;
+    }
+    #focusedSubtitlesThree {
+        left: -39px;
+        bottom: 706px;
+    }
+    #focusedSubtitlesFour {
+        left: -26px;
+        bottom: 670px;
+    }
+    #focusedSubtitlesFive {
+        bottom: 742.8px;
+        left: -125.4px;
+    }
+    #RightTextContainerMM {
+        top: 257px;
+    }
+    #eventsNav, #residencyNav, #glossaryNav, #collaboratorsNav, #acknowledgementsNav, #monsoonAssemblagesNav {
+    left: 0px;
+    }
+    
+    .mainTitle {
+        top: 269.5px;
+    }
+    .copyText {
+        top: 273px;
+    }
+    .copyTextLarger {
+        top: 257.7px;
+        left: 634px;
+    }
+    
+    .headingTitle {
+    top: 28px;
+    right: -2.8px;
+    }
+    
+    #eventsNav {
+        top: 274.61px;
+    }
+    #residencyNav {
+        top: 297.23px;
+    }
+    #glossaryNav {
+        top: 347.23px;
+    }
+    #collaboratorsNav {
+        top: 383.23px;
+    }
+    #acknowledgementsNav {
+        top: 455.23px;
+    }
+    #monsoonAssemblagesNav {
+        top: 573.23px;
+    }
+    
+    /*------- Homepage---------*/
+    
+    #about {
+        height: 1374px;
+    }
+    #events {
+        height: 2613px;
+    }
+    #residency {
+        height: 528px;
+    }
+    #glossarySection {
+        height: 10447px;
+    }
+    #collaboratorsSection {
+        height: 8149px;
+    }
+    #acknowledgementSection {
+        height: 1687px;
+    }
+    #assemblagesSection {
+        height: 606px;
+    }
+    
+    
     }

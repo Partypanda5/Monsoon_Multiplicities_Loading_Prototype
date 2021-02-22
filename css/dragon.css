@@ -273,7 +273,8 @@
 }
 
 /* ------------------ Responsive Code ----------------------*/
-@media (max-width: 1299px) {
+@media (max-width: 1299px) 
+{
 #DragonVideoOne {
     left: -25%;
 }
@@ -365,6 +366,111 @@
     top: -82%;
 }
 }
+@media (max-width: 1299px) and (min-height: 680px) and (max-height: 801px)
+{
+#DragonVideoOne {
+    left: -25%;
+}
+#DragonVideoTwo {
+    height: 76.1vh;
+}
+
+#dragonSubTwo {
+    top: -600px;
+}
+#dragonSubThree {
+    top: -912px;
+}
+#dragonOne {
+    top: -3%;
+}
+#dragonTwo {
+    position: relative;
+    top: -8%;
+    left: 7.57%;
+}
+#dragonImageDescriptionOne {
+    top: -3%;
+}
+#dragonImageDescriptionTwo {
+    top: -7%;
+}
+#dragonThree {
+    top: -4.5%;
+}
+#dragonFour {
+    top: -12.5%;
+}
+#dragonSubFour {
+    top: -225px;
+}
+
+#DragonVideoTwo {
+    height: 57.1vh;
+    top: -1%;
+}
+#DragonVideoThree {
+    left: -66.4%;
+    top: -6.8%;
+    width: 23.9vw;
+    height: 28.5vh;
+}
+#dragonImageDescriptionThree {
+    top: -11.5%;
+}
+#DragonVideoFour {
+    left: -32.9%;
+    top: -9.5%;
+    height: 76.1vh;
+}
+#dragonSubFive {
+    top: -338px;
+}
+#dragonImageDescriptionFour {
+    top: 7%;
+}
+#dragonFive {
+    top: 11%;
+}
+#dragonSix {
+    top: 7%;
+    left: -64.6%;
+}
+
+#dragonSubSix {
+    top: -152px;
+}
+#dragonImageDescriptionFive {
+    top: 8.4%;
+}
+#dragonSeven {
+    top: 11%;
+}
+#dragonSubSeven {
+    top: -200px;
+}
+
+#DragonVideoFive {
+    height: 76.1vh;
+}
+#dragonSubEight {
+    top: -336px;
+}
+#DragonVideoGrid {
+    width: 47.1vh;
+    height: 37.23vh;
+}
+#dragonGridTwo {
+    top: -92.3%;
+    left: -14.1%;
+}
+.endlineDragonThree {
+    top: -87%;
+}
+#dragonImageDescriptionEight {
+    top: -82%;
+}
+}
 
 @media (min-width: 1300px) and (max-width: 1399px) 
 {
@@ -426,6 +532,84 @@ left: -66.7%;
 }
 #dragonSubEight {
     top: -25vh;
+}
+
+}
+@media (min-width: 1300px) and (max-width: 1399px) and (min-height: 680px) and (max-height: 749px)
+{
+
+#dragonSubOne
+{
+    top: -5vh;
+}   
+
+#DragonVideoOne 
+{
+    left: -14%;
+    top: -14%;
+    width: 131vw;
+    height: auto;
+}
+#DragonVideoTwo 
+{
+    top: -4%;
+}
+
+#dragonSubTwo {
+   top: -326px;
+}
+#dragonSubThree {
+    top: -541px;
+}
+
+.dragonCopyOne
+{
+    top: 16%; 
+}
+#dragonOne {
+    top: -5%;
+ }
+#dragonTwo {
+   top: -6.5%;
+}
+#dragonThree {
+   top: -2%;
+}
+#dragonImageDescriptionOne {
+    top: -5%;
+ }
+
+#dragonImageDescriptionTwo {
+   top: -4%;
+}
+
+#dragonFour {
+   top: -10%;
+}
+#dragonSubFour {
+    top: 417px;
+}
+#DragonVideoThree {
+   top: -5.5%;
+left: -66.7%;
+}
+#dragonImageDescriptionThree {
+   top: -9%;
+}
+#DragonVideoFour {
+   top: -6%;
+}
+#dragonSubFive {
+    top: 264px;
+}
+#dragonSubSix {
+    top: 674px;
+}
+#dragonSubSeven {
+    top: 813px;
+}
+#dragonSubEight {
+    top: 625px;
 }
 
 }
@@ -496,8 +680,89 @@ width: 61.7vw;
     width: 26%;
 }
 }
+@media (min-width: 1400px) and (max-width: 1499px) and (min-height: 851px) and (max-height: 901px)
+{	
+#dragonSubOne .copyText{
+    top: 16%;
+}
+#dragonOne
+{
+    top: -3%;
+}
+#dragonImageDescriptionOne 
+{
+    top: -3%;
 
-@media (min-width: 1500px) and (max-width: 1599px) {
+}
+#dragonSubTwo {
+    top: -675px;
+}
+#DragonVideoTwo {
+    
+    top: 0%;
+}
+#DragonVideoTwo {
+    height: 65.1vh;
+}
+#dragonSubThree {
+    top: -999px;
+}
+#dragonSubFour {
+    top: -279px;
+}
+#DragonVideoThree {
+    top: -5.5%;
+}
+#DragonVideoFour {
+    height: 65.1vh;
+width: 61.7vw;
+}
+#dragonSubFive {
+    top: 4vh;
+}
+#dragonSubFive {
+    top: -589px;
+}
+#dragonSubSix {
+    top: -360px;
+}
+#dragonSubSeven {
+    top: -441px;
+}
+#DragonVideoFive {
+width: 61.7vw;
+    height: 65.1vh;
+}
+#dragonSubEight {
+        top: -697px;
+    height: 140vh;
+}
+#DragonVideoGrid {
+    width: 47.5vh;
+    height: 31.8vh;
+    margin-top: 3vh;
+}
+#dragonGridTwo {
+    top: -84.5%;
+    left: -14.7%;}
+
+.endlineDragonThree 
+{
+    top: -80%;
+    left: 0vw;
+}
+
+#dragonImageDescriptionEight 
+{
+    top: -76%;
+    left: 35.3%;
+    width: 26%;
+}
+}
+
+
+@media (min-width: 1500px) and (max-width: 1599px) 
+{
 	#dragonSubTwo {
     top: -41.6vh;
 }
@@ -559,3 +824,1123 @@ width: 61.7vw;
     left: -43.3%;
 }
 }
+@media (min-width: 1500px) and (max-width: 1599px) and (min-height: 780px) and (max-height: 810px)
+{
+	#dragonSubTwo {
+    top: -411px;
+}
+.dragonCopyOne {
+    top: 15.3%;
+}
+#DragonVideoTwo {
+    top: -5.7%;
+}
+#DragonVideoThree {
+    top: -10.5%;
+}
+#dragonSubThree {
+    top: -657px;
+}
+#dragonOne {
+    top: -9%;
+ 
+}
+#dragonTwo {
+    top: -16.1%;
+    left: 7.65%;
+}
+
+#dragonImageDescriptionOne {
+    top: -8%;
+   
+}
+#dragonImageDescriptionTwo {
+    top: -14.5%;
+    left: 8.3%;
+    width: 14%;
+}
+
+#dragonImageDescriptionThree {
+    top: -14%;
+   
+}
+#dragonThree {
+    top: -12.4%;
+}
+#dragonFour {
+    top: -19%;
+}
+	#DragonVideoFour, #DragonVideoFive {
+    left: -32.9%;
+	}
+#dragonSubFour {
+    top: 354px;
+}
+#dragonSubFive {
+    top: 154px;
+}
+#dragonSubSix {
+    top: 633px;
+}
+#dragonSubSeven {
+    top: 836px;
+}
+#dragonSubEight {
+    top: 673px;
+}
+.endlineDragonThree {
+    top: -69.5%;
+}
+#dragonImageDescriptionEight {
+    top: -66.7%;
+}
+
+#dragonGridOne {
+    top: 15%;
+    left: -45.7%;
+    
+    
+}
+}
+
+/* common - 1600×750, 1600×900 */
+@media (min-width: 1600px) and (max-width: 1699px) 
+{
+    #dragonSubTwo {
+        top: -39vh;
+    }
+    .dragonCopyOne {
+        position: relative;
+        top: 13.5%;
+    }
+    #dragonSubThree {
+        top: -73vh;
+    }
+    
+    #dragonTwo {
+        top: -9.1%;
+        left: 7.6%;
+    }
+    #dragonSubFour {
+        top: 74vh;
+    }
+    #dragonSubFive {
+        top: 42vh;
+    }
+    #dragonSubSix {
+        top: 110vh;
+    }
+    #dragonSubSeven {
+        top: 138vh;
+    }
+    #dragonSubEight {
+        top: 105vh;
+    }
+    #dragonImageDescriptionEight {
+        top: -66%;
+        }
+
+    #dragonGridOne {
+        top: 15%;
+        left: -43.3%;
+    }
+}
+
+@media (min-width: 1600px) and (max-width: 1699px) and (min-height: 831px) and (max-height: 900px)
+{
+    #dragonSubTwo {
+        top: -542px;
+    }
+    .dragonCopyOne {
+        position: relative;
+        top: 13.5%;
+    }
+    #dragonSubThree {
+        top: -907px;
+    }
+    #dragonOne {
+        top: -3%;
+    
+    }
+    #dragonImageDescriptionOne {
+        top: -3%;
+        }
+        #DragonVideoTwo
+        {
+            top: -2%;
+        }
+
+    #dragonTwo {
+        top: -5.1%;
+        left: 7.6%;
+    }
+
+    #dragonImageDescriptionTwo {
+        top: -4%;
+        }
+
+        #dragonThree {
+            top: -2%;
+           
+        }
+
+        #dragonFour {
+            top: -10%;
+           
+        }
+
+        #DragonVideoThree
+        {
+            top: -4.5%;
+        }
+
+        #dragonImageDescriptionThree {
+            top: -9%;
+            }
+
+            
+        #DragonVideoFour
+        {
+            top: -7%;
+        }
+    #dragonSubFour {
+        top: 35px;
+    }
+    #dragonSubFive {
+        top: -293px;
+    }
+    #dragonSubSix {
+        top: 35px;
+    }
+    #dragonSubSeven {
+        top: 44px;
+    }
+    #dragonSubEight {
+        top: -284px;
+    }
+    #dragonImageDescriptionEight {
+        top: -66%;
+        }
+ 
+        #dragonGridOne {
+            top: 15%;
+            left: -48.3%;
+        }
+}
+
+@media (min-width: 1600px) and (max-width: 1699px) and (min-height: 901px) and (max-height: 1051px)
+{
+    #dragonSubTwo {
+        top: -789px;
+    }
+    .dragonCopyOne {
+        position: relative;
+        top: 13.5%;
+    }
+    #dragonSubThree {
+        top: -1310px;
+    }
+    #dragonOne {
+        top: -3%;
+    
+    }
+    #dragonImageDescriptionOne {
+        top: -3%;
+        }
+        #DragonVideoTwo
+        {
+            top: -2%;
+        }
+
+    #dragonTwo {
+        top: -2.1%;
+        left: 7.6%;
+    }
+
+    #dragonImageDescriptionTwo {
+        top: -2%;
+        }
+
+        #dragonThree {
+            top: -1%;
+           
+        }
+
+        #dragonFour {
+            top: -10%;
+           
+        }
+
+        #DragonVideoThree
+        {
+            top: -0.5%;
+        }
+
+        #dragonImageDescriptionThree {
+            top: -6%;
+            }
+
+            
+        #DragonVideoFour
+        {
+            top: -5%;
+        }
+    #dragonSubFour {
+        top: -519px;
+    }
+    #dragonSubFive {
+        top: -949px;
+    }
+    #dragonSubSix {
+        top: -770px;
+    }
+    #dragonSubSeven {
+        top: -962px;
+    }
+    #dragonSubEight {
+        top: -1400px;
+    }
+    #dragonImageDescriptionEight {
+        top: -66%;
+        }
+ 
+        #dragonGridOne {
+            top: 15%;
+            left: -48%;
+        }
+
+        #DragonVideoGrid {
+            position: relative;
+            width: 47.3vh;
+            height: 30vh;
+            margin-top: 3vh;
+        }
+}
+
+@media (min-width: 1900px) and (max-width: 1999px) 
+    {
+        .dragonContainer
+{
+    max-width: 100vw;
+    flex: 100%;
+    display: block;
+    z-index: 10;
+}
+
+#dragonSubTwo
+{
+    top: -55vh;
+}
+
+#dragonSubThree
+{
+    top: -90vh;
+}
+
+#dragonSubFour
+{
+    top: 20vh;
+}
+
+#dragonSubFive
+{
+    top: -5vh;
+}
+
+#dragonSubSix
+{
+    top: 40vh;
+}
+
+#dragonSubSeven
+{
+    top: 50vh;
+}
+
+#dragonSubEight
+{
+    top: 22vh;
+}
+
+
+#DragonVideoOne
+{
+    position: relative;
+    left: -10%;
+    top: -15%;
+    width: 125vw;
+    height: auto;
+    z-index: -5;
+}
+
+#DragonVideoTwo
+{
+    position: relative;
+    left: -32.9%;
+    top: -5%;
+    width: 61.5vw;
+    height: 61.5vh;
+    z-index: -5;
+}
+
+#DragonVideoThree
+{
+    position: relative;
+    left: -66.5%;
+    top: -8.5%;
+    width: 23.5vw;
+    height: 25vh;
+    z-index: 5;
+}
+
+#DragonVideoFour
+{
+    position: relative;
+    left: -32.7%;
+    top: -10%;
+    width: 61.5vw;
+    height: 61.5vh;
+    z-index: -5;
+}
+
+#DragonVideoFive
+{
+    position: relative;
+    left: -32.7%;
+    top: 16%;
+    width: 61.5vw;
+    height: 61.5vh;
+    z-index: -5;
+}
+
+#dragonOne
+{
+    position: relative;
+    top: -12%;
+    left: 7.3%;
+}
+
+#dragonTwo
+{
+    position: relative;
+    top: -9.1%;
+    left: 7.5%;
+}
+
+#dragonThree
+{
+    position: relative;
+    top: -6%;
+    left: -4.5%;
+    width: 102vw
+}
+
+#dragonFour
+{
+    position: relative;
+    top: -14%;
+    left: -65.5%;
+}
+
+#dragonFive
+{
+    position: relative;
+    top: 13%;
+    left: -5%;
+    width: 103vw;
+}
+
+#dragonSix
+{
+    position: relative;
+    top: 8%;
+    left: -65%;
+    width: 18vw;
+}
+
+#dragonSeven
+{
+    position: relative;
+    top: 12%;
+    left: -32.9%;
+    width: 61.5vw;
+}
+
+#dragonImageDescriptionOne
+{
+    position: relative;
+    top: -10%;
+    left: 8.3%;
+    width: 12%;
+}
+
+#dragonImageDescriptionTwo
+{
+    position: relative;
+    top: -8%;
+    left: 8.3%;
+    width: 14%; 
+}
+
+#dragonImageDescriptionThree
+{
+    position: relative;
+    top: -12%;
+    left: 8.3%;
+    width: 14%; 
+}
+
+#dragonImageDescriptionFour
+{
+    position: relative;
+    top: 9.5%;
+    left: 8.3%;
+    width: 12%;
+}
+
+#dragonImageDescriptionFive
+{
+    position: relative;
+    top: 9.5%;
+    left: 8.3%;
+    width: 12%;
+}
+
+#dragonImageDescriptionSix
+{
+    position: relative;
+    top: 8%;
+    left: 35.3%;
+    width: 26%;
+}
+
+#dragonImageDescriptionSeven
+{
+    position: relative;
+    top: 15%;
+    left: 35.3%;
+    width: 13%;
+}
+
+#dragonImageDescriptionEight
+{
+    position: relative;
+    top: -65%;
+    left: 35.3%;
+    width: 26%;
+}
+
+.dragonCopyOne
+{
+    position: relative;
+    top: 14%;
+}
+
+.dragonCopyTwo
+{
+    width: 27%;
+}
+
+#dragonGridOne
+{
+    position: relative;
+    top: 15%;
+    left: -48.3%;
+}
+
+#dragonGridTwo
+{
+    position: relative;
+    top: -73%;
+    left: -14.7%;
+}
+
+.endlineDragon
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 5%;
+    left: 0vw;
+    border-bottom: 1px solid black;
+}
+
+.endlineDragonTwo
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 10%;
+    left: 0vw;
+    border-bottom: 2px dotted black;
+}
+
+.endlineDragonThree
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: -69%;
+    left: 0vw;
+    border-bottom: 2px dotted black;
+}
+
+#DragonVideoGrid
+{
+    position: relative;
+    width: 53.3vh;
+    height: 30vh;
+    margin-top: 3vh;
+}
+    }
+
+@media (min-width: 1900px) and (max-width: 1999px) and (min-height: 920px) and (max-height: 1008px)
+{
+.dragonContainer
+{
+    max-width: 100vw;
+    flex: 100%;
+    display: block;
+    z-index: 10;
+}
+ 
+#dragonSubTwo
+{
+    top: -391px;
+}
+ 
+#dragonSubThree
+{
+    top: -569px;
+}
+ 
+#dragonSubFour
+{
+    top: 852px;
+}
+ 
+#dragonSubFive
+{
+    top: 660px;
+}
+ 
+#dragonSubSix
+{
+    top: 1340px;
+}
+ 
+#dragonSubSeven
+{
+    top: 1664px;
+}
+ 
+#dragonSubEight
+{
+    top: 1460px;
+}
+ 
+#DragonVideoOne
+{
+    position: relative;
+    left: -10%;
+    top: -15%;
+    width: 125vw;
+    height: auto;
+    z-index: -5;
+}
+ 
+#DragonVideoTwo
+{
+    position: relative;
+    left: -32.9%;
+    top: -5%;
+    width: 61.5vw;
+    height: 61.5vh;
+    z-index: -5;
+}
+ 
+#DragonVideoThree
+{
+    position: relative;
+    left: -66.5%;
+    top: -11.5%;
+    width: 23.5vw;
+    height: 25vh;
+    z-index: 5;
+}
+ 
+#DragonVideoFour
+{
+    position: relative;
+    left: -32.7%;
+    top: -10%;
+    width: 61.5vw;
+    height: 61.5vh;
+    z-index: -5;
+}
+ 
+#DragonVideoFive
+{
+    position: relative;
+    left: -32.7%;
+    top: 16%;
+    width: 61.5vw;
+    height: 61.5vh;
+    z-index: -5;
+}
+ 
+#dragonOne
+{
+    position: relative;
+    top: -10%;
+    left: 7.3%;
+}
+ 
+#dragonTwo
+{
+    position: relative;
+    top: -12.1%;
+    left: 7.5%;
+}
+ 
+#dragonThree
+{
+    position: relative;
+    top: -6%;
+    left: -4.5%;
+    width: 102vw
+}
+ 
+#dragonFour
+{
+    position: relative;
+    top: -14%;
+    left: -65.5%;
+}
+ 
+#dragonFive
+{
+    position: relative;
+    top: 13%;
+    left: -5%;
+    width: 103vw;
+}
+ 
+#dragonSix
+{
+    position: relative;
+    top: 8%;
+    left: -65%;
+    width: 18vw;
+}
+ 
+#dragonSeven
+{
+    position: relative;
+    top: 12%;
+    left: -32.9%;
+    width: 61.5vw;
+}
+ 
+#dragonImageDescriptionOne
+{
+    position: relative;
+    top: -10%;
+    left: 8.3%;
+    width: 12%;
+}
+ 
+#dragonImageDescriptionTwo
+{
+    position: relative;
+    top: -8%;
+    left: 8.3%;
+    width: 14%; 
+}
+ 
+#dragonImageDescriptionThree
+{
+    position: relative;
+    top: -15%;
+    left: 8.3%;
+    width: 14%; 
+}
+ 
+#dragonImageDescriptionFour
+{
+    position: relative;
+    top: 9.5%;
+    left: 8.3%;
+    width: 12%;
+}
+ 
+#dragonImageDescriptionFive
+{
+    position: relative;
+    top: 9.5%;
+    left: 8.3%;
+    width: 12%;
+}
+ 
+#dragonImageDescriptionSix
+{
+    position: relative;
+    top: 8%;
+    left: 35.3%;
+    width: 26%;
+}
+ 
+#dragonImageDescriptionSeven
+{
+    position: relative;
+    top: 15%;
+    left: 35.3%;
+    width: 13%;
+}
+ 
+#dragonImageDescriptionEight
+{
+    position: relative;
+    top: -65%;
+    left: 35.3%;
+    width: 26%;
+}
+ 
+.dragonCopyOne
+{
+    position: relative;
+    top: 14%;
+}
+ 
+.dragonCopyTwo
+{
+    width: 27%;
+}
+ 
+#dragonGridOne
+{
+    position: relative;
+    top: 15%;
+    left: -44%;
+}
+ 
+#dragonGridTwo
+{
+    position: relative;
+    top: -73%;
+    left: -14.7%;
+}
+ 
+.endlineDragon
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 5%;
+    left: 0vw;
+    border-bottom: 1px solid black;
+}
+ 
+.endlineDragonTwo
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 10%;
+    left: 0vw;
+    border-bottom: 2px dotted black;
+}
+ 
+.endlineDragonThree
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: -69%;
+    left: 0vw;
+    border-bottom: 2px dotted black;
+}
+ 
+#DragonVideoGrid
+{
+    position: relative;
+    width: 53.3vh;
+    height: 30vh;
+    margin-top: 3vh;
+}
+ }
+
+ @media (min-width: 1900px) and (max-width: 1999px) and (min-height: 1101px) and (max-height: 1210px)
+    {
+        .dragonContainer
+{
+    max-width: 100vw;
+    flex: 100%;
+    display: block;
+    z-index: 10;
+}
+ 
+#dragonSubTwo
+{
+    top: -902px;
+}
+ 
+#dragonSubThree
+{
+    top: -1369px;
+}
+ 
+#dragonSubFour
+{
+    top: -363px;
+}
+ 
+#dragonSubFive
+{
+    top: -765px;
+}
+ 
+#dragonSubSix
+{
+    top: -440px;
+}
+ 
+#dragonSubSeven
+{
+    top: -508px;
+}
+ 
+#dragonSubEight
+{
+    top: -900px;
+}
+ 
+#DragonVideoOne
+{
+    position: relative;
+    left: -10%;
+    top: -15%;
+    width: 125vw;
+    height: auto;
+    z-index: -5;
+}
+ 
+#DragonVideoTwo
+{
+    position: relative;
+    left: -32.9%;
+    top: -3%;
+    width: 61.5vw;
+    height: 61.5vh;
+    z-index: -5;
+}
+ 
+#DragonVideoThree
+{
+    position: relative;
+    left: -66.5%;
+    top: -5.5%;
+    width: 23.5vw;
+    height: 25vh;
+    z-index: 5;
+}
+ 
+#DragonVideoFour
+{
+    position: relative;
+    left: -32.7%;
+    top: -10%;
+    width: 61.5vw;
+    height: 61.5vh;
+    z-index: -5;
+}
+ 
+#DragonVideoFive
+{
+    position: relative;
+    left: -32.7%;
+    top: 16%;
+    width: 61.5vw;
+    height: 61.5vh;
+    z-index: -5;
+}
+ 
+#dragonOne
+{
+    position: relative;
+    top: -4%;
+    left: 7.3%;
+}
+ 
+#dragonTwo
+{
+    position: relative;
+    top: -7.1%;
+    left: 7.5%;
+}
+ 
+#dragonThree
+{
+    position: relative;
+    top: -4%;
+    left: -4.5%;
+    width: 102vw
+}
+ 
+#dragonFour
+{
+    position: relative;
+    top: -13%;
+    left: -65.5%;
+}
+ 
+#dragonFive
+{
+    position: relative;
+    top: 13%;
+    left: -5%;
+    width: 103vw;
+}
+ 
+#dragonSix
+{
+    position: relative;
+    top: 8%;
+    left: -65%;
+    width: 18vw;
+}
+ 
+#dragonSeven
+{
+    position: relative;
+    top: 12%;
+    left: -32.9%;
+    width: 61.5vw;
+}
+ 
+#dragonImageDescriptionOne
+{
+    position: relative;
+    top: -4%;
+    left: 8.3%;
+    width: 12%;
+}
+ 
+#dragonImageDescriptionTwo
+{
+    position: relative;
+    top: -6%;
+    left: 8.3%;
+    width: 14%; 
+}
+ 
+#dragonImageDescriptionThree
+{
+    position: relative;
+    top: -11%;
+    left: 8.3%;
+    width: 14%; 
+}
+ 
+#dragonImageDescriptionFour
+{
+    position: relative;
+    top: 9.5%;
+    left: 8.3%;
+    width: 12%;
+}
+ 
+#dragonImageDescriptionFive
+{
+    position: relative;
+    top: 9.5%;
+    left: 8.3%;
+    width: 12%;
+}
+ 
+#dragonImageDescriptionSix
+{
+    position: relative;
+    top: 8%;
+    left: 35.3%;
+    width: 26%;
+}
+ 
+#dragonImageDescriptionSeven
+{
+    position: relative;
+    top: 15%;
+    left: 35.3%;
+    width: 13%;
+}
+ 
+#dragonImageDescriptionEight
+{
+    position: relative;
+    top: -65%;
+    left: 35.3%;
+    width: 26%;
+}
+ 
+.dragonCopyOne
+{
+    position: relative;
+    top: 14%;
+}
+ 
+.dragonCopyTwo
+{
+    width: 27%;
+}
+ 
+#dragonGridOne
+{
+    position: relative;
+    top: 15%;
+    left: -48.3%;
+}
+ 
+#dragonGridTwo
+{
+    position: relative;
+    top: -73%;
+    left: -14.7%;
+}
+ 
+.endlineDragon
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 5%;
+    left: 0vw;
+    border-bottom: 1px solid black;
+}
+ 
+.endlineDragonTwo
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 10%;
+    left: 0vw;
+    border-bottom: 2px dotted black;
+}
+ 
+.endlineDragonThree
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: -69%;
+    left: 0vw;
+    border-bottom: 2px dotted black;
+}
+ 
+#DragonVideoGrid {
+    position: relative;
+    width: 47.5vh;
+    height: 30vh;
+    margin-top: 3vh;
+}
+    }

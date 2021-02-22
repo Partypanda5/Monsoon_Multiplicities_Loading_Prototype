@@ -655,3 +655,85 @@ height: 76.1vh;
     line-height: 12px;
 }	
 }
+
+/* common - 1600×750, 1600×900 */
+@media (min-width: 1600px) and (max-width: 1699px) {
+	#atmosphereSubTwo {
+    top: -14vh;
+}
+#atmosImageDescriptionOne {
+    top: 29%;
+}
+#atmosOne {
+    top: 37%;
+}
+#atmosFive {
+    top: 35%;
+}
+#atmosphereSubTwo {
+    top: 7vh;
+}
+#atmosphereSubThree {
+    top: -3vh;
+}
+#atmosphereSubFour {
+    top: 22vh;
+}
+#atmosphereSubFive {
+    top: -28vh;
+}
+
+#AtmosVideoSix {
+    top: 12%;
+}
+#atmosImageDescriptionFour {
+    top: 7%;
+}
+#atmosphereSubSix {
+    top: -57vh;
+}
+
+#AtmosVideoSeven {
+    top: 47%;
+}
+#atmosphereSubSeven {
+    top: -98vh;
+}
+#atmosGridOne {
+    left: -43.7%;
+}
+#atmosGridTwo {
+    left: -17.5%;
+}
+#atmosImageDescriptionFive {
+    top: -3%;
+}
+#atmosphereSubEight {
+    top: -108vh;
+}
+#gridImageAtmos {
+    width: 14.1vw;
+    margin-left: 13px;
+}
+#atmosGridThree {
+    left: -32.6%;
+}
+#atmosphereSubNine {
+    top: -137vh;
+}
+
+.referencesAtmos {
+    font-size: 9px;
+    line-height: 12px;
+    width: 17%;
+    top: 7%;
+}
+
+.referencesAtmosTwo {
+    font-size: 9px;
+    line-height: 12px;
+    left: 35.3%;
+    top: 14%;
+}
+
+}

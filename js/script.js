@@ -215,6 +215,7 @@ function toggleAccordion()
   $(this).addClass('active');
 }
 
+
 // dragonSubchapter.addEventListener('mouseover', function() 
 // {
 //   imageInCorner.src = 'assets/images/bottomRightImages/Dragonfly.jpg';

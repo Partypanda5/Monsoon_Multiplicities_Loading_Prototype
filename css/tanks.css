@@ -240,6 +240,7 @@
     position: relative;
     left: -43.3%;
     top: 1%;
+    pointer-events: none;
 }
 
 #tanksGridNine
