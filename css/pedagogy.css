@@ -896,7 +896,7 @@
 @media (max-width: 1299px) {
 	
 	.pedagogyCopyTextOne {
-    top: 2% !important;
+    top: 2%;
 	}
 	
 	#pedagogyImageDescriptionOne {
@@ -995,7 +995,7 @@
     top: -212%;}
 
 .pedagogyCopyTextFour { 
-top: -189.8% !important;
+top: -189.8%;
 }
 	.pedagogyMapContainerOne {
     top: -200%;
@@ -1236,6 +1236,259 @@ left: 7.4%
 {
     margin-top: 3vh;
 }
+}
+
+@media (max-width: 1299px) and (min-height: 680px) and (max-height: 801px) {
+
+    #pedagogySubTwo {
+        top: -100px;
+    }
+
+    #pedagogySubThree {
+        top: 400px;
+    }
+
+    #pedagogySubFour {
+        top: 4390px;
+    }
+
+    #pedagogySubFive {
+        top: 5880px;
+    }
+
+    #pedagogySubSix {
+        top: 5890px;
+    }
+
+    #pedagogySubSeven {
+        top: 10700px;
+    }
+
+    #pedagogySubEight {
+        top: 10350px;
+    }
+
+    #pedagogySubNine {
+        top: 13150px;
+    }
+
+    /* Pedagogy Sub Two */
+    #pedagogyImageDescriptionOne{
+        top: -280px;
+    }
+
+    /* Pedagogy Sub Three */
+    #pedagogyImageDescriptionFour {
+        top: -740px;
+    }
+    #pedagogyImageDescriptionFive {
+        top: -1275px;
+    }
+
+    #pedagogySix {
+        top:-700px;
+    }
+
+    #pedagogySeven {
+        top:-1275px;
+    }
+
+    #pedagogyEight {
+        top: -1230px;
+    }
+
+    #pedagogyNine {
+        top: -1790px;
+    }
+
+    .pedagogyCopyTextOne
+    {
+        top: -5%;
+    }
+
+    .pedagogyCopyTextFour {
+        top: -1780px;
+    }
+
+    #pedagogyImageDescriptionSix {
+        top: -1980px;
+    }
+
+    .pedagogyMapContainerOne {
+        top: -1900px;
+        left: 100px;
+    }
+
+    #pedagogyTen{
+        width: 350px;
+    }
+
+    .pedagogyMapContainerTwo {
+        top: -2808px;
+        left: 420px;
+    }
+    
+    #pedagogyEleven{
+        width: 350px;
+    }
+
+    #pedagogyImageDescriptionSeven {
+        top: -2810px;
+    }
+
+    #pedagogyTwelve {
+        top: -2800px;
+    }
+
+    #pedagogyThirteen {
+        top: -3382px;
+    }
+
+    #pedagogyImageDescriptionEight {
+        top: -3350px;
+    }
+
+    #pedagogyFourteen {
+        top: -3300px;
+    }
+
+    #pedagogyImageDescriptionNine {
+        top: -3280px;
+    }
+
+    #pedagogyFifteen {
+        top: -3250px;
+    }
+
+    #pedagogySixteen {
+        top: -3725px;
+    }
+
+    #pedagogySeventeen {
+        top: -4200px;
+    }
+
+    #pedagogyImageDescriptionTen {
+        top: -4200px;
+    }
+
+    /* Pedagogy Sub Four */
+    .pedagogyCopyTextFive {
+        top: 105px
+    }
+
+    #pedagogyEighteen {
+        top: 90px;
+    }
+
+    #pedagogyNineteen {
+        top: -175px;
+    }
+
+    #pedagogyTwenty {
+        top: -446px;
+    }
+
+    #pedagogyImageDescriptionThirtyOne {
+        top: 420px;
+    }
+
+    #pedagogyTwentyOne {
+        top: -440px;
+    }
+
+    #pedagogyTwentyTwo {
+        top: -710px;
+    }
+
+    #pedagogyTwentyThree {
+        top: -980px;
+    }
+
+    #pedagogyImageDescriptionTwelve {
+        top: -1200px;
+    }
+
+    #gridImagePedagogyThree {
+        top: 360px;
+    }
+
+    #PedagogyVideoThree {
+        top: 362px;
+        height: 75%;
+    }
+
+    #pedagogyImageDescriptionThirteen {
+        top: -1050px;
+    }
+
+    /* Pedagogy Sub Five */
+    #pedagogySubFive .mainTitleRight {
+        top: 0px;
+    }
+
+    #pedagogyTwentyFour {
+        top: 6px;
+    }
+
+    .pedagogyCopyTextSix {
+        top: 40px;
+    }
+
+    .pedagogyCopyTextSeven {
+        top: -480px;
+    }
+
+    #pedagogyGridFive {
+        top: -720px;
+    }
+
+    #pedagogyGridSix {
+        top: -950px;
+    }
+
+    #pedagogyImageDescriptionFourteen{
+    top: -1165px;
+    }
+
+    /* Pedagogy Sub Six */
+    #pedagogyImageDescriptionFifteen {
+        top: 140px;
+    }
+
+    .pedagogyCopyTextEight {
+        top: 20px;
+    }
+
+    .pedagogyCopyTextNine {
+        top: -60px;
+    }
+
+    #pedagogyTwentySix {
+        top: -60px;
+    }
+
+    #pedagogyTwentySeven {
+        top: -940px;
+        margin-bottom: 500px;
+    }
+
+    #pedagogyTwentyNine {
+        margin-top: 170px;
+    }
+
+    #pedagogyThirtyFive {
+        margin-top: 188px;
+    }
+
+    /* Pedagogy Sub Seven */
+    .endlinePedagogyTwo {
+        top: 270px;
+    }
+
+    .endlinePedagogyThree {
+        top: 870px;
+    }
 }
 
 @media (min-width: 1300px) and (max-width: 1399px) {

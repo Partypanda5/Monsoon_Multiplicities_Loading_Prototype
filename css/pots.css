@@ -391,6 +391,104 @@
 }
 }
 
+@media (max-width: 1299px) and (min-height: 680px) and (max-height: 801px)
+{
+
+    #potOne {
+        top: 42%;
+    }
+    #potSubTwo {
+        top: -80px;
+    }
+        #potThree {
+        top: -7%;
+    }
+    #potFour {
+    
+        top: 45%;
+        }
+    #potImageDescriptionOne {
+        top: 42%;
+    }
+    #potFive {
+        top: 45%;
+    }
+    #potEight {
+        top: -15%;
+    }
+    #potImageDescriptionTwo {
+        top: -18%;
+    }
+    #potSubThree {
+        top: 1032px;
+    }
+        #potSix {
+        left: 34.2%;
+    }
+    #gridImagePots {
+        width: 23.7vw;
+    }
+    #potGridOne {
+        top: 12.5%;
+        left: -44.1%;
+    }
+    #potGridTwo {
+        top: -38%;
+        left: -17.3%;
+    }
+    #potSubFour {
+        top: 888px;
+    }
+    #potTen {
+        top: 55%;
+    }
+    #potImageDescriptionThree {
+        top: 20%;
+    }
+    #potSubFive {
+        top: 984px;
+    }
+        #potNine {
+        top: 25%;
+        left: 17.3%;
+    }
+    #potGridThree {
+        top: 39%;
+        left: -32.2%;
+    }
+    #potSubSix {
+        top: 1368px;
+    }
+    #potVideoOne {
+        top: -23%;
+        height: 37.2vh;
+    }
+    #potGridFour {
+        top: -32%;
+        left: -44.3%;
+    }
+    #gridImageMiddle {
+        width: 24vw;
+    }
+    #potImageDescriptionFour {
+        top: -21%;
+    }
+    #potSubSeven {
+        top: 1456px;
+    }
+    #potGridFive {
+        top: 42%;
+        left: -17.2%;
+    }
+    #potTwelve {
+        left: 7.4%;
+    }
+    #potSubEight {
+        top: 1720px;
+        height: 70vh;
+    }
+}
+
 @media (min-width: 1300px) and (max-width: 1399px) {
     
 #potSubOne
@@ -457,6 +555,113 @@
     top: 52vh;
     height: 52vh;
 }
+}
+
+@media (min-width: 1300px) and (max-width: 1399px) 
+and (min-height: 680px) and (max-height: 749px)
+{
+    
+    #potSubOne
+    {
+        top: -34px;
+    }
+    
+    #potSubTwo 
+    {
+        top: -347px;
+    }
+    
+    #potOne {
+        top: 35%;
+    }
+    #potSubTwo .copyText {
+        top: 17.5%;
+    }
+
+    .potCopyResponsive
+    {   
+        top: 20%;
+    }
+
+    #potThree {
+        top: 2%;
+        left: 0.3%;
+    }
+    #potFour {
+        left: -33.5%;
+    }
+    #potSix {
+        left: 34.5%;
+        top: 4%;
+    
+    }
+    #potFive {
+        left: 0.8%;
+    
+    }
+    #potSeven {
+        top: -2%
+
+    }
+    #potEight {
+        top: -18%
+
+    }
+    #potNine {
+        top: 20%
+
+    }
+    #potImageDescriptionTwo {
+        top: -24%;
+    }
+
+    #potImageDescriptionThree {
+        top: 16%;
+    }
+
+    #potSubThree {
+        top: 570px;
+    }
+    #potGridOne {
+        left: -44%;
+        top: 12%;
+    }
+    #potGridTwo {
+        left: -17%;
+        top: -34%;
+    }
+    #potNine {
+        left: 17.2%;
+    
+    }
+    #potSubFour {
+        top: 332px;
+    }
+    #potSubFive {
+        top: 320px;
+    }
+    #potGridThree {
+        top: 32%;
+    }
+    #potSubSix {
+        top: 590px;
+    }
+    #potGridFour {
+        left: -45.2%;
+    }
+    #potSubSeven {
+        top: 514px;
+    }
+    #potGridFive {
+        left: -17%;
+        top: 41%;
+    }
+    #potSubEight {
+        top: 770px;
+        height: 52vh;
+    }
+
+
 }
 
 @media (min-width: 1400px) and (max-width: 1499px) 
@@ -544,6 +749,96 @@ top:17%
 {
     width: 23.8vw !important;
 }
+}
+
+@media (min-width: 1400px) and (max-width: 1499px) 
+and (min-height: 851px) and (max-height: 901px)
+{
+    #potSubOne .copyText {
+    top: 18%;
+    }
+    #potSubTwo {
+        top: -333px;
+    }
+    #potSubTwo .copyText {
+        top: 17.2%;
+    }
+    #potFour {
+        width: 61.3vw;
+    }
+    #potSubThree {
+        top: 690px;
+    }
+    #gridImagePots {
+        width: 23.8vw;
+    }
+    #potGridOne {
+        left: -44%;
+        top: 11%;
+    }
+    #potGridTwo {
+        top: -32.6%;
+        left: -17%;
+    }
+    #potSubFour {
+        top: 405px;
+    }
+    .copyPotsOne {
+        top: 22%;
+    }
+    #potNine {
+        top: 17%;
+    }
+    #potSubFive {
+        top: 320px;
+    }
+    #gridImageSmallerMargin {
+        width: 14.2vw;
+        margin-left: 9px;
+    }
+
+    #potImageDescriptionThree {
+        top: 11%;
+    }
+    #potSubSix {
+        top: 567px;
+    }
+    #potVideoOne {
+        height: 31.8vh;
+    }
+        #potSubThree .copyText {
+    top:17%
+    }
+    #potSubFive .copyText{
+    top:17%
+    }
+    #potSubSix .copyText{
+    top:17%
+    }
+    #potSubSeven .copyText{
+    top:17%
+    }
+    #potGridFive {
+        left: -17%;
+    }
+    #potGridFour {
+        left: -45.3%;
+    }
+    #potSubSeven {
+        top: 450px;
+    }
+    #potImageDescriptionFive {
+        top: 9%;
+    }
+    #potSubEight {
+        top: 585px;
+        height: 54vh;
+    }
+    
+    .gridImageMiddlePotResponsive 
+    {
+        width: 23.8vw !important;
+    }
 }
 
 @media (min-width: 1500px) and (max-width: 1599px) {
@@ -662,7 +957,7 @@ top: 17.1%;
     left: 34.6%;
 }
 #potSubThree {
-    top: 124.5vh;
+    top: 140vh;
 }
 #potGridOne {
     top: 18%;
@@ -673,13 +968,13 @@ top: 17.1%;
     left: -17.5%;
 }
 #potSubThree .potCopyResponsive{
-    top: 124.5vh;
+    top: 35vh;
 }
 #potSubFour {
-    top: 100vh;
+    top: 145vh;
 }
 #potSubFive {
-    top: 101vh;
+    top: 153vh;
 }
 
 #potSubFive .copyText{
@@ -693,14 +988,106 @@ top: 17.1%;
     top: 31%;
 }
 #potSubSix {
-    top: 158vh;
+    top: 210vh;
+}
+
+#potSubSix .copyText{
+    top: 20%;
+}
+#potSubSeven {
+    top: 233vh;
+}
+#potSubSeven .copyText{
+top: 17%;
+}
+#potGridFive {
+    top: 32.5%;
+    left: -17.55%;
+}
+#potTwelve {
+    top: -24%;
+    left: 7.5%;
+}
+#potSubEight {
+    top: 262vh;
+    height: 51vh;
+}
+	
+}
+
+@media (min-width: 1600px) and (max-width: 1699px) 
+and (min-height: 831px) and (max-height: 900px)
+{
+	#potOne {
+    top: 36.8%;
+}
+#potTwo {
+    top: 3%;
+}
+#potSubTwo {
+    top: -343px;
+}
+#potSubTwo .copyText{
+    top: 17%;
+}
+#potFour {
+    top: 42%;
+}
+#potImageDescriptionOne {
+    top: 37%;
+}
+#potFive {
+    top: 45%;
+}
+#potSix {
+    left: 34.6%;
+}
+#potSubThree {
+    top: 685px;
+}
+#potGridOne {
+    top: 16%;
+    left: -43.55%;
+}
+#potGridTwo {
+    top: -26.5%;
+    left: -17.5%;
+}
+#potSubThree .potCopyResponsive{
+    top: 124.5vh;
+}
+#potSubFour {
+    top: 338px;
+}
+#potNine {
+    top: 21%;
+}
+#potImageDescriptionThree {
+    top: 16%;
+}
+#potSubFive {
+    top: 216px;
+}
+
+#potSubFive .copyText{
+    top: 17%;
+}
+#gridImageSmallerMargin {
+    width: 14.2vw;
+}
+#potGridThree {
+    position: relative;
+    top: 31%;
+}
+#potSubSix {
+    top: 423px;
 }
 
 #potSubSix .copyText{
 top: 17%;
 }
 #potSubSeven {
-    top: 157vh;
+    top: 279px;
 }
 #potSubSeven .copyText{
 top: 17%;
@@ -713,8 +1100,690 @@ top: 17%;
     left: 7.5%;
 }
 #potSubEight {
-    top: 180vh;
+    top: 315px;
     height: 51vh;
 }
 	
+}
+
+@media (min-width: 1600px) and (max-width: 1699px) 
+and (min-height: 901px) and (max-height: 1051px)
+{
+	#potOne {
+    top: 36.8%;
+}
+#potTwo {
+    top: 3%;
+}
+#potSubTwo {
+    top: -450px;
+}
+#potSubTwo .copyText{
+    top: 17%;
+}
+#potFour {
+    top: 42%;
+}
+#potImageDescriptionOne {
+    top: 37%;
+}
+#potFive {
+    top: 45%;
+}
+#potSix {
+    left: 34.6%;
+}
+#potSubThree {
+    top: 385px;
+}
+#potGridOne {
+    top: 12%;
+    left: -43.55%;
+}
+#potGridTwo {
+    top: -26.5%;
+    left: -17.5%;
+}
+#potSubThree .potCopyResponsive{
+    top: 124.5vh;
+}
+#potSubFour {
+    top: -138px;
+}
+#potNine {
+    top: 21%;
+}
+#potImageDescriptionThree {
+    top: 16%;
+}
+#potSubFive {
+    top: -371px;
+}
+
+#potSubFive .copyText{
+    top: 17%;
+}
+#gridImageSmallerMargin {
+    width: 14.2vw;
+}
+#potGridThree {
+    position: relative;
+    top: 31%;
+}
+#potSubSix {
+    top: -274px;
+}
+
+#potSubSix .copyText{
+top: 17%;
+}
+#potSubSeven {
+    top: -779px;
+}
+#potSubSeven .copyText{
+top: 17%;
+}
+#potGridFive {
+    top: 32.5%;
+}
+#potTwelve {
+    top: -11%;
+    left: 7.5%;
+}
+#potSubEight {
+    top: -842px;
+    height: 51vh;
+}
+	
+}
+
+@media (min-width: 1900px) and (max-width: 1999px) 
+and (min-height: 920px) and (max-height: 1008px) 
+{
+.potsContainer
+{
+    max-width: 100vw;
+    flex: 100%;
+    display: block;
+    z-index: 10;
+}
+
+#potSubTwo
+{
+    top: -353px;
+}
+
+#potSubThree
+{
+    top: 1171px;
+}
+
+#potSubFour
+{
+    top: 985px;
+}
+
+#potSubFive
+{
+    top: 1023px;
+}
+
+#potSubSix
+{
+    top: 1525px;
+}
+
+#potSubSeven
+{
+    top: 1534px;
+}
+
+#potSubEight
+{
+    top: 1860px;
+    height: 50vh;
+}
+
+#potOne
+{
+    position: relative;
+    top: 37%;
+    left: -49.5%;
+}
+
+#potTwo
+{
+    position: relative;
+    top: -3%;
+    left: 34.7%;
+}
+
+#potThree
+{
+    position: relative;
+    top: 0.5%;
+    left: 0.3%;
+    width: 30vw;
+    z-index: 5;
+}
+
+#potFour 
+{
+    position: relative;
+    top: 40%;
+    left: -33.3%;
+    width: 61vw;
+}
+
+#potFive
+{
+    position: relative;
+    top: 38%;
+    left: 1%;
+    z-index: -5;
+}
+
+#potSix
+{
+    position: relative;
+    top: 9%;
+    left: 34.7%;
+    z-index: 5;
+}
+
+#potSeven
+{
+    position: relative;
+    top: 3%;
+    left: 27.7%;
+    z-index: 4;
+}
+
+#potEight
+{
+    position: relative;
+    top: -10%;
+    left: -43%;
+    z-index: -4;
+}
+
+#potNine
+{
+    position: relative;
+    top: 21%;
+    left: 16.7%;
+    z-index: 5;
+}
+
+#potTen
+{
+    position: relative;
+    top: 50%;
+    left: -49.3%;
+    z-index: -5;
+}
+
+#potEleven
+{
+    position: relative;
+    top: 4%;
+    left: -1.5%;
+    z-index: -5;
+    width: 46vw;
+}
+
+#potTwelve
+{
+    position: relative;
+    top: -27%;
+    left: 6.3%;
+    z-index: -5;
+    width: 46vw;
+}
+
+#potVideoOne
+{
+    position: relative;
+    top: -18%;
+    left: 35.3%;
+    z-index: 5;
+    width: 30vw;
+    height: 30vh;
+    display: block;
+}
+
+#potGridOne
+{
+    position: relative;
+    top: 11%;
+    left: -43.2%;
+}
+
+#potGridTwo
+{
+    position: relative;
+    top: -37.8%;
+    left: -16.3%;
+}
+
+#potGridThree
+{
+    position: relative;
+    top: 33%;
+    left: -32.5%;
+}
+
+#potGridFour
+{
+    position: relative;
+    top: -25%;
+    left: -44.7%;
+}
+
+#potGridFive
+{
+    position: relative;
+    top: 38%;
+    left: -16.3%;
+    z-index: 1;
+}
+
+
+#potImageDescriptionOne
+{
+    position: relative;
+    left: 18.5%;
+    top: 35%;
+    width: 14%;
+}
+
+#potImageDescriptionTwo
+{
+    position: relative;
+    left: 18.5%;
+    top: -14%;
+    width: 14%;
+}
+
+#potImageDescriptionThree
+{
+    position: relative;
+    left: 52.2%;
+    top: 15%;
+    width: 14%;
+}
+
+#potImageDescriptionFour
+{
+    position: relative;
+    left: 35.3%;
+    top: -16%;
+    width: 14%;
+}
+
+#potImageDescriptionFive
+{
+    position: relative;
+    left: 35.3%;
+    top: 5%;
+    width: 14%;
+}
+
+.copyPotsOne
+{
+    top: 25%;
+    left: 1.7%;
+}
+
+.endlinePots
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 0%;
+    left: 0vw;
+    border-bottom: 1px solid black;
+}
+
+.endlinePotsTwo
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 90vh;
+    left: 0vw;
+    border-bottom: 2px solid black;
+}
+
+.referenceBlockPots
+{
+    position: relative;
+    width: 30%;
+    height: 23%;
+    left: 35.3%;
+    top: 11%;
+}
+
+.referencesPots
+{
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    width: 55%;
+    height: 50%;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+}
+
+#gridImagePots
+{
+    width: 23.5vw;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
+}
+}
+
+@media (min-width: 1900px) and (max-width: 1999px) 
+and (min-height: 1101px) and (max-height: 1210px) 
+{
+.potsContainer
+{
+    max-width: 100vw;
+    flex: 100%;
+    display: block;
+    z-index: 10;
+}
+
+#potSubTwo
+{
+    top: -597px;
+}
+
+#potSubThree
+{
+    top: 496px;
+}
+
+#potSubFour
+{
+    top: -125px;
+}
+
+#potSubFive
+{
+    top: -323px;
+}
+
+#potSubSix
+{
+    top: -131px;
+}
+
+#potSubSeven
+{
+    top: -500px;
+}
+
+#potSubEight
+{
+    top: -495px;
+    height: 50vh;
+}
+
+#potOne
+{
+    position: relative;
+    top: 33%;
+    left: -49.5%;
+}
+
+#potTwo
+{
+    position: relative;
+    top: -3%;
+    left: 34.7%;
+}
+
+#potThree
+{
+    position: relative;
+    top: -1%;
+    left: 0.3%;
+    width: 31vw;
+    z-index: 5;
+}
+
+#potFour 
+{
+    position: relative;
+    top: 40%;
+    left: -33.3%;
+    width: 61vw;
+}
+
+#potFive
+{
+    position: relative;
+    top: 38%;
+    left: 1%;
+    z-index: -5;
+}
+
+#potSix
+{
+    position: relative;
+    top: 9%;
+    left: 34.7%;
+    z-index: 5;
+}
+
+#potSeven
+{
+    position: relative;
+    top: 3%;
+    left: 27.7%;
+    z-index: 4;
+}
+
+#potEight
+{
+    position: relative;
+    top: -10%;
+    left: -43%;
+    z-index: -4;
+}
+
+#potNine
+{
+    position: relative;
+    top: 21%;
+    left: 16.7%;
+    z-index: 5;
+}
+
+#potTen
+{
+    position: relative;
+    top: 50%;
+    left: -49.3%;
+    z-index: -5;
+}
+
+#potEleven
+{
+    position: relative;
+    top: 4%;
+    left: -1.5%;
+    z-index: -5;
+    width: 46vw;
+}
+
+#potTwelve
+{
+    position: relative;
+    top: -11%;
+    left: 6.3%;
+    z-index: -5;
+    width: 46vw;
+}
+
+#potVideoOne
+{
+    position: relative;
+    top: -18%;
+    left: 35.3%;
+    z-index: 5;
+    width: 30vw;
+    height: 30vh;
+    display: block;
+}
+
+#potGridOne
+{
+    position: relative;
+    top: 11%;
+    left: -43.2%;
+}
+
+#potGridTwo
+{
+    position: relative;
+    top: -28%;
+    left: -16.3%;
+}
+
+#potGridThree
+{
+    position: relative;
+    top: 33%;
+    left: -32.5%;
+}
+
+#potGridFour
+{
+    position: relative;
+    top: -21%;
+    left: -44.7%;
+}
+
+#potGridFive
+{
+    position: relative;
+    top: 33%;
+    left: -16.3%;
+    z-index: 1;
+}
+#potVideoOne
+{    top: -15%;
+}
+
+#potImageDescriptionOne
+{
+    position: relative;
+    left: 18.5%;
+    top: 35%;
+    width: 14%;
+}
+
+#potImageDescriptionTwo
+{
+    position: relative;
+    left: 18.5%;
+    top: -14%;
+    width: 14%;
+}
+
+#potImageDescriptionThree
+{
+    position: relative;
+    left: 52.2%;
+    top: 15%;
+    width: 14%;
+}
+
+#potImageDescriptionFour
+{
+    position: relative;
+    left: 35.3%;
+    top: -13%;
+    width: 14%;
+}
+
+#potImageDescriptionFive
+{
+    position: relative;
+    left: 35.3%;
+    top: 5%;
+    width: 14%;
+}
+
+.copyPotsOne
+{
+    top: 25%;
+    left: 1.7%;
+}
+
+.endlinePots
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 0%;
+    left: 0vw;
+    border-bottom: 1px solid black;
+}
+
+.endlinePotsTwo
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 90vh;
+    left: 0vw;
+    border-bottom: 2px solid black;
+}
+
+.referenceBlockPots
+{
+    position: relative;
+    width: 30%;
+    height: 23%;
+    left: 35.3%;
+    top: 11%;
+}
+
+.referencesPots
+{
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    width: 55%;
+    height: 50%;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+}
+
+#gridImagePots
+{
+    width: 23.5vw;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
+}
+
+.potCopyResponsive
+{
+    top: 18%;
+}
 }

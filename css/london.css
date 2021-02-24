@@ -504,7 +504,7 @@ and (max-height: 801px)
 }
 
 @media (min-width: 1300px) and (max-width: 1399px) 
-and (min-height: 750px) and (max-height: 775px)
+and (min-height: 680px) and (max-height: 749px)
 {
 
     #londonOne {
@@ -521,23 +521,23 @@ and (min-height: 750px) and (max-height: 775px)
 
     #londonSubTwo 
     {
-        top: -483px;
+        top:-370px;
     }
 
     #londonSubThree 
     {
-        top: -1044px;
+        top: -840px;
         z-index: 5;
     }
 
     #londonSubFour 
     {
-        top: -1466px;
+        top: -1170px;
     }
 
     #londonSubFive 
     {
-        top: -1244px;
+        top: -880px;
         height: 15vh;
     }
 
@@ -704,24 +704,24 @@ and (min-height: 851px) and (max-height: 901px)
 
    #londonSubTwo 
    {
-        top: -495px;
+        top: -500px;
  
     }
 
    #londonSubThree 
    {
-        top: -1197px;
+        top: -1220px;
         z-index: 5;
     }
 
     #londonSubFour 
     {
-        top: -1683px;
+        top: -1700px;
     }
 
     #londonSubFive 
     {
-        top: -1593px;
+        top: -1590px;
         height: 20vh;
     }
 
@@ -1050,8 +1050,18 @@ and (min-height: 831px) and (max-height: 900px)
     }
 
     #londonSubThree {
-        top: -1269px;
+        top: -1290px;
         z-index: 5;
+    }
+
+    #titleTwo {
+        position: relative;
+        top: 70vh;
+    }
+
+    #copyTwo {
+        position: relative;
+        top: 62vh;
     }
 
     #londonSubFour {
@@ -1320,7 +1330,7 @@ and (min-height: 920px) and (max-height: 1008px)
 {
     margin-bottom: 10vh;
     position: relative;
-    top: 36vh;
+    top: 39vh;
     left: 35.2%;
     width: 26%;
     padding: 0;
@@ -1331,7 +1341,7 @@ and (min-height: 920px) and (max-height: 1008px)
 {
     margin-bottom: 10vh;
     position: relative;
-    top: 41.5vh;
+    top: 44.5vh;
     left: 35.2%;
     width: 26%;
     padding: 0;
@@ -1342,7 +1352,7 @@ and (min-height: 920px) and (max-height: 1008px)
 {
     margin-bottom: 10vh;
     position: relative;
-    top: 44vh;
+    top: 47vh;
     left: 35.2%;
     width: 26%;
     padding: 0;
@@ -1353,7 +1363,7 @@ and (min-height: 920px) and (max-height: 1008px)
 {
     margin-bottom: 10vh;
     position: relative;
-    top: 56vh;
+    top: 61vh;
     left: 35.2%;
     width: 26%;
     padding: 0;

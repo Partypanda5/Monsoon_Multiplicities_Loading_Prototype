@@ -565,13 +565,13 @@ height: 76.1vh;
 /* height - 1366 x 695*/
 @media (min-width: 1300px) and (max-width: 1399px) and (min-height: 680px) and (max-height: 749px) {
     #AtmosVideoTwo {
-        top: 32%;
+        top: 35%;
     }
     #atmosphereSubOne #atmosImageDescriptionOne {
-        top: 27%;
+        top: 32%;
     }
     #atmosphereSubTwo {
-        top: -102.34px;
+        top: 70px;
     }
     #atmosImageDescriptionOne {
         top: 34%;
@@ -583,7 +583,7 @@ height: 76.1vh;
         top: 35%;
     }
     #atmosphereSubThree {
-        top: -144.738px;
+        top: 65px;
     }
     #atmosTwo {
         top: 33.5%;
@@ -595,22 +595,25 @@ height: 76.1vh;
         top: 20.5%;
     }
     #atmosphereSubFour {
-        top: 25.585px;
+        top: 265px;
     }
     #atmosFour {
         top: 39%;
     }
+    #atmosFive {
+        top: 38%;
+    }
     #atmosphereSubFive {
-        top: -369.28px;
+        top: -100px;
     }
         #AtmosVideoSix {
         top: 12%;
     }
     #atmosphereSubSix {
-        top: -574.01px;
+        top: -280px;
     }
     #atmosphereSubSeven {
-        top: -898.59px;
+        top: -570px;
     }
     #atmosGridTwo {
         left: -17%;
@@ -621,7 +624,7 @@ height: 76.1vh;
         top: 30%;
     }
     #atmosphereSubEight {
-        top: -1084.5px;
+        top: -720px;
     }
         #atmosImageDescriptionFour {
         top: 7%;
@@ -637,7 +640,7 @@ height: 76.1vh;
         left: -32.6%;
     }
     #atmosphereSubNine {
-        top: -1314.27px;
+        top: -930px;
     }
         
     }
@@ -653,22 +656,22 @@ height: 76.1vh;
         height: 65.1vh;
     }
     #atmosphereSubTwo {
-        top: -61.5vh;
+        top: 11vh;
     }
     #atmosphereSubThree {
-        top: -68.4vh;
+        top: 8.5vh;
     }
     #atmosphereSubFour {
-        top: -43.3vh;
+        top: 36vh;
     }
     #atmosphereSubFive {
-        top: -98.5vh;
+        top: -17vh;
     }
     #atmosphereSubSix {
-        top: -122.5vh;
+        top: -40vh;
     }
     #atmosphereSubSeven {
-        top: -161.5vh;
+        top: -75vh;
     }
     #gridImageMiddleAtmos {
         width: 23.8vw;
@@ -680,14 +683,15 @@ height: 76.1vh;
         left: -17%;
     }
     #atmosphereSubEight {
-        top: -177vh;
+        top: -88vh;
     }
     #gridImageAtmos {
         width: 14.1vw;
         margin-left: 10px;
     }
     #atmosphereSubNine {
-        top: -215vh;
+        top: -126vh;
+        height: 130vh;
     }
     .referencesAtmos {
         top: 5.5%;
@@ -711,7 +715,7 @@ height: 76.1vh;
     /* height - 1440 x 900*/
 @media (min-width: 1400px) and (max-width: 1499px) and (min-height: 851px) and (max-height: 901px) 
 {
-	#atmosphereSubOne .copyText, .copyText, #atmosphereSubThree .copyText, #atmosphereSubFour .copyText, #atmosphereSubFive .copyText, #atmosphereSubSix .copyText, #atmosphereSubSeven .copyText, #atmosphereSubEight .copyText {
+	#atmosphereSubOne .copyText, #atmosphereSubThree .copyText, #atmosphereSubFour .copyText, #atmosphereSubFive .copyText, #atmosphereSubSix .copyText, #atmosphereSubSeven .copyText, #atmosphereSubEight .copyText {
     top: 15.3%;
 }
 #atmosphereSubOne .copyTextAtmosOne, #atmosphereSubFour .copyTextAtmosOne, #atmosphereSubSeven .copyTextAtmosOne, #atmosphereSubFive .copyTextAtmosOne {
@@ -780,7 +784,7 @@ top:26% !important
     top: 24%;
 }
 #atmosphereSubTwo {
-    top: -7.5vh;
+    top: 16vh;
 }
 #atmosOne {
     top: 41%;
@@ -792,7 +796,7 @@ top:26% !important
     top: 35.5%;
 }
 #atmosphereSubThree {
-    top: -11.5vh;
+    top: 17vh;
 }
 #atmosTwo {
     top: 39%;
@@ -807,26 +811,26 @@ top:26% !important
     top: 28.5%;
 }
 #atmosphereSubFour {
-    top: 25.5vh;
+    top: 60vh;
 }
 #atmosFour {
     top: 42%;
 }
 #atmosphereSubFive {
-    top: -18.7vh;
+    top: 22vh;
 }
 .copyTextAtmosOne {
     top: 24.5%;
 }
 #atmosphereSubSix {
-    top: -33.5vh;
+    top: 11vh;
 }
 #AtmosVideoSeven {
     left: -32.9%;
     top: 52.8%;
 }
 #atmosphereSubSeven {
-    top: -70vh;
+    top: -20vh;
 }
 #atmosGridOne {
     top: 28%;
@@ -840,7 +844,7 @@ top:26% !important
     top: -3.5%;
 }
 #atmosphereSubEight {
-    top: -79vh;
+    top: -25vh;
 }
 #atmosGridThree {
     top: 41%;
@@ -850,7 +854,7 @@ top:26% !important
     margin-left: 10px;
 }
 #atmosphereSubNine {
-    top: -103vh;
+    top: -45vh;
 }
 .referencesAtmos {
     top: 5.4%;
@@ -861,7 +865,15 @@ top:26% !important
 .referencesAtmosTwo {
     top: 10%;
     padding-bottom: 6vh;
+    font-size: 9px;
+    line-height: 12px;
 }	
+
+.referencesAtmos {
+    font-size: 9px;
+    line-height: 12px;
+    width: 17%;
+}
 }
 
 /* 1536 x 792 */
@@ -882,9 +894,7 @@ top:26% !important
     #atmosphereSubEight {
         top: -95.3vh;
     }
-    .copyText {
-        top: 217px;
-    }
+
     #atmosphereSubNine {
         top: -124vh;
     }
@@ -1212,28 +1222,28 @@ top: 40%;
 /*1920 x 1200*/
 @media (min-width: 1900px) and (min-height: 1101px) and (max-height: 1210px) {
 #atmosphereSubTwo {
-top: -106.87px;
+top: 75px;
 }
 
 #atmosphereSubThree {
-top: -236.37px;
+top: -15px;
 }
 #atmosphereSubFour {
-top: -36.35px;
+top: 240px;
 }
 #atmosphereSubFive {
-top: -783px;
+top: -460px;
 }
 #atmosphereSubSix {
-top: -1114.08px;
+top: -760px;
 }
 #atmosphereSubSeven {
-top: -1577.79px;
+top: -1170px;
 }
 #atmosphereSubEight {
-top: -1969.89px;
+top: -1530px;
 }
 #atmosphereSubNine {
-top: -2521px;
+top: -2060px;
 }
 }

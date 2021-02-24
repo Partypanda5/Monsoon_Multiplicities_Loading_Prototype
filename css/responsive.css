@@ -737,8 +737,6 @@ line-height: 12px;
     }
 
 
-
-
 /* common - 1440×766 */
 @media (min-width: 1400px) and (max-width: 1499px) {
 h2 {
@@ -1113,6 +1111,7 @@ line-height: 12px;
         height: auto;
     }
     }
+
 /* common - 1536×730*/
 @media (min-width: 1500px) and (max-width: 1599px) {
 .cityTitle {
@@ -2821,16 +2820,16 @@ top: 1.5%;
         height: 1374px;
     }
     #events {
-        height: 2613px;
+        height: 2730px;
     }
     #residency {
         height: 528px;
     }
     #glossarySection {
-        height: 10447px;
+        height: 10550px;
     }
     #collaboratorsSection {
-        height: 8640px;
+        height: 8770px;
     }
     #acknowledgementSection {
         height: 1687px;

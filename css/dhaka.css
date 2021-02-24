@@ -188,6 +188,7 @@
     top: 81%;
     left: 8.3%;
     width: 14%;
+    z-index: 5;
 }
 
 #dhakaImageDescriptionTwo
@@ -1008,7 +1009,7 @@ figure.containerZoom:hover
 
     #dhakaSubTwo 
     {
-        top: -400px;
+        top: -450px;
     }
 
     #dhakaSubThree {
@@ -4467,7 +4468,7 @@ figure.containerZoom:hover
     #dhakaImageDescriptionOne 
     {
         position: relative;
-        top: 81%;
+        top: 88%;
         left: 8.3%;
         width: 14%;
     }
