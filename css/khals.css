@@ -6,3 +6,363 @@
     z-index: 10;
     height: 100vh;
 }
+
+#khalsSubTwo
+{
+    top: 70vh;
+}
+
+#khalsSubThree
+{
+    top: 240vh;
+}
+
+#khalsSubFour
+{
+    top: 171vh;
+}
+
+#khalsSubFive
+{
+    top: 157vh;
+}
+
+#khalsSubSix
+{
+    top: 412vh;
+}
+
+#khalsSubSeven
+{
+    top: 495vh;
+}
+
+#khalsSubEight
+{
+    top: 583vh;
+    height: 70vh;
+}
+
+.khalsMainTitle
+{
+    top: 17%;
+}
+
+.khalsCopyOne
+{
+    position: relative;
+    top: -11.3%;
+    left: 35.3%;
+}
+
+.khalsCopyTwo
+{
+    position: relative;
+    top: -7.3%;
+    left: 35.3%;  
+}
+
+.khalsCopyThree
+{
+    position: relative;
+    top: -28.3%;
+    left: 35.3%;
+}
+.khalsCopyFour
+{
+    position: relative;
+    top: -5.3%;
+    left: 35.3%;
+}
+
+.khalsCopyFive
+{
+    position: relative;
+    top: -28.3%;
+    left: 35.3%;
+    width: 18%;
+}
+
+.khalsCopySix
+{
+    position: relative;
+    top: -28.5%;
+    left: 35.3%;
+    width: 26%;
+}
+
+.khalsCopySeven
+{
+    position: relative;
+    top: -6%;
+    left: 35.3%;
+    width: 19%;
+}
+
+.khalsCopyEight
+{
+    position: relative;
+    top: -29.5%;
+    left: 35.3%;
+    width: 26%;
+}
+
+.khalsCopyNine
+{
+    position: relative;
+    top: -28%;
+    left: 35.3%;
+    width: 20%;
+}
+
+.khalsCopyTen
+{
+    position: relative;
+    top: -38%;
+    left: 35.3%;
+    width: 25%;
+}
+
+#khalsGridOne
+{
+    position: relative;
+    top: 5%;
+    left: -43.3%;
+}
+
+#khalsGridTwo
+{
+    position: relative;
+    top: -20%;
+    left: -43.3%;
+}
+
+#khalsGridThree
+{
+    position: relative;
+    top: -24%;
+    left: -43.3%;
+}
+
+#khalsGridFour
+{
+    position: relative;
+    top: -4%;
+    left: -43.3%;
+}
+
+#khalsGridFive
+{
+    position: relative;
+    top: -4%;
+    left: -43.3%;
+}
+
+#khalsGridSix
+{
+    position: relative;
+    top: -47%;
+    left: -43.3%;
+}
+
+#khalsGridSeven
+{
+    position: relative;
+    top: -4%;
+    left: -43.3%;
+}
+
+#khalsGridEight
+{
+    position: relative;
+    top: -47%;
+    left: -43.3%;
+}
+
+#khalsGridNine
+{
+    position: relative;
+    top: -55.5%;
+    left: -43.3%;
+}
+
+#khalsVideoOne
+{
+    width: 61.5vw;
+    height: 61.5vh;
+    position: relative;
+    top: 7.5%;
+    left: -32.9%;
+}
+
+#khalsVideoTwo
+{
+    width: 61.5vw;
+    height: 61.5vh;
+    position: relative;
+    top: -10%;
+    left: -32.9%;
+}
+
+#gridImageMiddleKhals
+{
+    width: 23.5vw;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
+}
+
+#khalsOne
+{
+    position: relative;
+    top: 15%;
+    left: -32.9%;
+}
+
+#khalsTwo
+{
+    position: relative;
+    top: 10%;
+    left: -32.9%;
+}
+
+#khalsThree
+{
+    position: relative;
+    top: -2%;
+    left: 7.5%;
+}
+
+#khalsFour
+{
+    position: relative;
+    top: 0%;
+    left: -32.9%;
+}
+
+#khalsFive
+{
+    position: relative;
+    top: -17%;
+    left: -32.9%;
+}
+
+#khalsSix
+{
+    position: relative;
+    top: 0%;
+    left: 7.7%;
+}
+
+#khalsSeven
+{
+    position: relative;
+    top: -5%;
+    left: -32.9%;
+}
+
+#khalsEight
+{
+    position: relative;
+    top: -15%;
+    left: -32.9%;
+}
+
+
+
+#khalsImageDescriptionOne
+{
+    position: relative;
+    top: 3.5%;
+    left: 8.3%;
+}
+
+#khalsImageDescriptionTwo
+{
+    position: relative;
+    top: 4.5%;
+    left: 8.3%;
+}
+
+#khalsImageDescriptionThree
+{
+    position: relative;
+    top: -22.5%;
+    left: 8.3%;
+}
+
+#khalsImageDescriptionFour
+{
+    position: relative;
+    top: -28%;
+    left: 8.3%;
+}
+
+#khalsImageDescriptionFive
+{
+    position: relative;
+    top: -19%;
+    left: 8.3%;
+}
+
+#khalsImageDescriptionSix
+{
+    position: relative;
+    top: -22%;
+    left: 8.3%;
+    width: 12%;
+}
+
+#khalsImageDescriptionSeven
+{
+    position: relative;
+    top: -14%;
+    left: 8.3%;
+    width: 12%;
+}
+
+#khalsImageDescriptionEight
+{
+    position: relative;
+    top: -20%;
+    left: 8.3%;
+    width: 15%;
+}
+
+#khalsImageDescriptionNine
+{
+    position: relative;
+    top: 12%;
+    left: 35.3%;
+    width: 15%;
+}
+
+#khalsImageDescriptionTen
+{
+    position: relative;
+    top: 23%;
+    left: 35.3%;
+    width: 15%;
+}
+
+.endLineKhals
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 5%;
+    left: 0vw;
+    border-bottom: 1px solid black;
+}
+
+.endLineKhalsTwo
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 17%;
+    left: 0vw;
+    border-bottom: 2px dotted black;
+}
