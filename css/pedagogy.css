@@ -1654,6 +1654,308 @@ top: 17%;
 	
 }
 
+@media (min-width: 1300px) and (max-width: 1399px) and (min-height: 680px) and (max-height: 749px) {
+
+    /* Pedagogy Sub One  */
+    #pedagogyOne {
+        top: -299px;
+    }
+
+    #pedagogySubOne .mainTitle {
+        top: 17%;
+    }
+
+    .pedagogyCopyTextOne {
+        top: -324px;
+    }
+
+    #pedagogyImageDescriptionOne {
+        top: -538.5px;
+    }
+
+    /* Pedagogy Sub Two */
+    #pedagogySubTwo {
+        top: -170px;
+    }
+    
+    #pedagogyGridOne {
+        left: -43.9%;
+    }
+
+    #pedagogySubTwo .copyText {
+        top: 17.5%;
+    }
+
+    #pedagogyGridTwo {
+        left: -79.9%;
+        top: 310px;
+    }
+
+    /* Pedagogy Sub Three */
+    #pedagogySubThree {
+        top: 226px;
+    }
+
+    .pedagogyCopyTextThree {
+        top: 14%;
+    }
+
+    #pedagogySeven {
+        top: -1138px;
+    }
+
+    #pedagogyEight {
+        left: 1%;
+        width: 31.3vw;
+    }
+
+    #pedagogyNine {
+        top: -1672.8px;
+        left: 34.6%;
+        width: 31.3vw;
+    }
+
+    #pedagogyTwelve {
+        top: -2492px;
+        left: 0.2%;
+    }
+
+    #pedagogyThirteen {
+        top: -3115px;
+    }
+
+    #pedagogyFourteen {
+        top: -3115px;
+    }
+
+    #pedagogyFifteen {
+        top: -3051px;
+    }
+
+    #pedagogySixteen {
+        top: -3562px;
+    }
+
+    #pedagogySeventeen {
+        top: -4072px;
+    }
+
+    .pedagogyMapContainerOne {
+        left: 108px;
+    }
+
+    .pedagogyMapContainerTwo {
+        left: 35.2%;
+        top: -2573px;
+    }
+
+    #pedagogyImageDescriptionFive {
+        top: -1109px;
+    }
+
+    #pedagogyImageDescriptionSeven {
+        top: -2530px;
+    }
+
+    #pedagogyImageDescriptionEight {
+        top: -3090px;
+    }
+
+    #pedagogyImageDescriptionNine {
+        top: -3080px;
+    }
+
+    #pedagogyImageDescriptionTen {
+        top: -4050px;
+    }
+
+    /* Pedagogy Sub Four */
+    #pedagogySubFour {
+        top: 5008px;
+    }
+
+    #PedagogyVideoTwo {
+        top: 13.5%;
+    }
+
+    #pedagogyEighteen {
+        top: 68.5px;
+    }
+
+    #pedagogyNineteen {
+        top: -214.5px;
+        left: 17.8%;
+        width: 15.5vw;
+    }
+
+    #pedagogyTwenty {
+        top: -506px;
+        left: 34.6%;
+        width: 31.2vw;
+    }
+
+    #pedagogyImageDescriptionThirtyOne {
+        top: 450px;
+    }
+
+    #pedagogyTwentyThree {
+        top: -1073.5px;
+        left: 34.6%;
+        width: 31.2vw;
+    }
+
+    #pedagogyGridThree {
+        left: -32.5%;
+    }
+
+
+    #pedagogyGridThree {
+        top: -1061px;
+    }
+
+    #PedagogyVideoThree {
+        margin-left: 10px;
+        top: 1px;
+        height: 253px;
+    }
+
+    #pedagogyImageDescriptionThirteen {
+        top: -1110px;
+    }
+
+    #pedagogyTwentyOne {
+        top: -494px;
+    }
+    
+    #pedagogyTwentyTwo {
+        top: -784px;
+    }
+
+    #pedagogyImageDescriptionTwelve {
+        top: -1350px;
+    } 
+
+    /* Pedagogy Sub Five */
+    #pedagogySubFive {
+        top: 6440px;
+    }
+    
+    #pedagogyGridFour {
+        position: relative;
+        top: -31%;
+        left: -43.9%;
+    }
+
+    #pedagogyTwentyFour {
+        position: relative;
+        z-index: -5;
+        top: 183px;
+        left: 34.6%;
+    }
+
+    #pedagogyImageDescriptionFourteen {
+        top: -971px;
+    }
+
+    #pedagogyGridFive {
+        top: -541px;
+        left: -17%;
+    }
+
+    #pedagogyGridSix {
+        position: relative;
+        top: -772.3px;
+        left: -43.9%;
+    }
+
+    /* Pedagogy Sub Six */
+    #pedagogySubSix {
+        top: 6870px;
+    }
+
+    #pedagogyTwentySeven {
+        top: -1043px;
+    }
+
+    #pedagogyImageDescriptionFifteen {
+        top: 12%;
+    }
+
+    #pedagogyImageDescriptionSixteen {
+        top: -1040px;
+    }
+
+    #pedagogyTwentyNine {
+        top: -1481px;
+    }
+
+    .pedagogyCopyTextEight {
+        top: 1%;
+    }
+
+    .pedagogyCopyTextNine {
+        top: -6.5%;
+        margin-bottom: 30px;
+    }
+
+    #pedagogyThirtyOne {
+        left: 1%;
+        width: 62.9vw;
+    }
+
+    #pedagogyThirtyThree {
+        left: 1.1%;
+        width: 62.7vw;
+    }
+
+    #pedagogyThirtyFive {
+        left: 38.4%;
+        width: 27.7vw;
+    }
+
+    #pedagogyThirtyFour {
+        left: 7.5%;
+        width: 28.7vw;
+    }
+
+    /* Pedagogy Sub Seven */
+    #pedagogySubSeven {
+        top: 12131px;
+    }
+
+    .endlinePedagogyTwo {
+        top: 251px;
+    }
+
+    .endlinePedagogyThree {
+        top: 815px;
+    }
+
+    #pedagogySubEight {
+        top: 11880px;
+    }
+
+    #pedagogySubNine {
+        top: 15080px;
+        height: 8vh;
+    }
+
+    #pedagogyImageDescriptionTwentyEight {
+        top: -17%;
+        left: 8.3%;
+    }
+
+    #pedagogyImageDescriptionTwentyNine {
+        top: -57%;
+        left: 8.3%;
+    }
+
+    #pedagogyImageDescriptionThirty {
+        top: -57%;
+        left: 8.3%;
+    }
+}
+
 @media (min-width: 1400px) and (max-width: 1499px) {
 	.pedagogyCopyTextOne {
     top: -4%;
@@ -1794,6 +2096,267 @@ top: 17%;
 #pedagogySubNine {
     top: 2030vh;
 }
+}
+
+@media (min-width: 1400px) and (max-width: 1499px) and (min-height: 851px) and (max-height: 901px) {
+    
+    #pedagogyOne {
+        top: -148px;
+    }
+
+    .pedagogyCopyTextOne {
+        top: -184px;
+    }
+
+    #pedagogyImageDescriptionOne {
+        top: -412px;
+    }
+
+    /* Pedagogy Sub Two */
+    #pedagogySubTwo {
+        top: -251px;
+    }
+
+    #pedagogyGridOne {
+        left: -43.8%;
+    }
+
+    #pedagogySubTwo .copyText {
+        top: 17%;
+    }
+
+    #PedagogyVideoOne {
+        height: 499.1px;
+    }
+
+    #pedagogyGridTwo {
+        top: 25.5%;
+        left: -79.8%;
+    }
+
+    /* Pedagogy Sub Three */
+    #pedagogySubThree {
+        top: -53px;
+    }
+
+    .pedagogyCopyTextThree {
+        top: 14%;
+    }
+
+    #pedagogySeven {
+        top: -1326px;
+        margin-bottom: 110px;
+    }
+
+    #pedagogyNine {
+        top: -2014.4px;
+        margin-bottom: 70px;
+    }
+
+    #pedagogyImageDescriptionSix {
+        margin-top: 40px;
+        margin-bottom: 120px;
+    }
+
+    #pedagogyImageDescriptionSeven {
+        margin-top: -30px;
+        margin-bottom: 10px;
+    }
+
+    .pedagogyMapContainerOne {
+        top: -2265px;
+        width: 340px;
+        left: 107px;
+    }
+
+    .pedagogyMapContainerTwo {
+        top: -3400.4px;
+    }
+
+    #pedagogyThirteen {
+        top: -3794px;
+        margin-bottom: 100px;
+    }
+
+    #pedagogySixteen {
+        top: -4319px;
+    }
+
+    #pedagogySeventeen {
+        top: -4860px;
+    }
+
+    #pedagogyImageDescriptionTen {
+        top: -373%;
+    }
+
+    /* Pedagogy Sub Four */
+    #pedagogySubFour {
+        top: 4527.5px;
+    }
+
+    #PedagogyVideoTwo {
+        height: 65.1vh;
+        top: 13.5%;
+    }
+
+    .pedagogyCopyTextFive {
+        margin-bottom: 50px;
+    }
+
+    #pedagogyEighteen {
+        top: 46px;
+    }
+    
+    #pedagogyNineteen {
+        top: -254px;
+    }
+    #pedagogyImageDescriptionThirtyOne {
+        top: 450px;
+    }
+
+    #pedagogyImageDescriptionTwelve {
+        top: -1510px;
+    }
+
+    #pedagogyTwenty {
+        top: -41.5%;
+        left: 34.54%;
+        width: 31.3vw;
+        margin-bottom: 70px;
+    }
+
+    #pedagogyTwentyOne {
+        top: -622.7px;
+    }
+    
+    #pedagogyTwentyTwo {
+        top: -928.7px;
+    }
+
+    #pedagogyTwentyThree {
+        top: -91.4%;
+        left: 34.5%;
+        width: 31.4vw;
+    }
+
+    #PedagogyVideoThree {
+        height: 264.5px;
+    }
+
+    /* Pedagogy Sub Five */
+    #pedagogySubFive {
+        top: 5914.5px;
+    }
+
+    #pedagogyGridFour {
+        top: -26.8%;
+        left: -43.8%;
+        margin-bottom: 36px;
+    }
+
+    .pedagogyCopyTextSix {
+        top: 190px;
+    }
+
+    #pedagogyTwentyFour {
+        top: 13%;
+        left: 34.6%;
+    }
+
+    #pedagogyGridFive {
+        top: -650px;
+        left: -17%;
+    }
+
+    #pedagogyGridSix {
+        left: -43.8%;
+        top: -899px;
+    }
+
+    #pedagogyImageDescriptionFourteen {
+        top: -1120px;
+    }
+
+    /* Pedagogy Sub Six */
+
+    #pedagogySubSix {
+        top: 5975px;
+    }
+
+    #pedagogyImageDescriptionFifteen {
+        margin-bottom: 39px;
+    }
+
+    .pedagogyCopyTextNine {
+        top: -46.5px;
+        margin-bottom: 90px;
+    }
+
+    #pedagogyTwentySeven {
+        top: -1117px;
+        margin-bottom: 170px;
+    }
+
+    #pedagogyTwentyNine {
+        top: -1798px;
+        margin-bottom: 100px;
+    }
+
+    #pedagogyThirty {
+        left: 1.45%;
+    }
+
+    #pedagogyThirtyOne {
+        left: 1%;
+        width: 63vw;
+    }
+
+    #pedagogyThirtyTwo {
+        left: 1%;
+        width: 62.8vw;
+    }
+
+    #pedagogyThirtyThree {
+        left: 1%;
+        width: 62.8vw;
+    }
+
+    #pedagogyThirtyFive {
+        top: -2341px;
+        left: 38.4%;
+        width: 27.6vw;
+        margin-bottom: 82px;
+    }
+
+    /* Pedagogy Sub Seven */
+    #pedagogySubSeven {
+        top: 11169px;
+    }
+
+    .endlinePedagogyTwo {
+        top: 287px;
+    }
+    
+    .endlinePedagogyThree {
+        top: 847px;
+    }
+    
+    #pedagogyImageDescriptionTwentyThree {
+        top: 8.9%;
+    }
+
+    #pedagogyImageDescriptionTwentyFour {
+        top: 15.5%;
+    }
+
+    #pedagogySubEight {
+        top: 10632px;
+    }
+
+    #pedagogySubNine {
+        top: 13750px;
+    }
 }
 
 @media (min-width: 1500px) and (max-width: 1599px) {
@@ -2064,6 +2627,397 @@ width: 31.3vw;
     top: -57%;
     left: 8.3%;
 }
+}
+
+@media (min-width: 1500px) and (max-width: 1599px) and (min-height: 780px) and (max-height: 810px) {
+    
+    /* Pedagogy Sub One */
+    #pedagogyOne {
+        top: -325px;
+    }
+    
+    .pedagogyCopyTextOne {
+        top: -344.5px;
+    }
+
+    #pedagogyImageDescriptionOne {
+        top: -637.5px;
+    }
+
+    /* Pedagogy Sub Two */
+    #pedagogySubTwo {
+        top:-126px;
+    }
+
+    #pedagogyGridOne {
+        left: -43.7%;
+    }
+
+    #pedagogySubTwo .copyText {
+        top: 17%;
+    }
+
+    #PedagogyVideoOne {
+        left: -17.9%;
+    }
+
+    #pedagogyGridTwo {
+        top: 352px;
+        left: -79.7%;
+    }
+
+    /* Pedagogy Sub Three */
+    #pedagogySubThree {
+        top: 262px;
+    }
+
+    .pedagogyCopyTextThree {
+        top: 14%;
+    }
+
+    #pedagogyTwo {
+        top: -19%;
+        left: 7.6%;
+    }
+
+    #pedagogyImageDescriptionThree {
+        top: -19%;
+    }
+
+    #pedagogyThree {
+        top: -18%;
+    }
+
+    #pedagogyFour {
+        top: -23%;
+    }
+
+    #pedagogyFive {
+        top: -58%;
+    }
+
+    #pedagogyImageDescriptionFour {
+        top: -57.5%;
+    }
+
+    #pedagogySix {
+        top: -56%;
+    }
+
+    #pedagogySeven {
+        top: -1362px;
+        margin-bottom: 80px;
+    }
+
+    #pedagogyImageDescriptionFive {
+        top: -119%;
+    }
+
+    #pedagogyEight {
+        top: -118.5%;
+        left: 0.9%;
+        width: 31.5vw;
+    }
+
+    #pedagogyNine {
+        top: -2090.8px;
+        left: 34.5%;
+        width: 31.5vw;
+        margin-bottom: 110px;
+    }
+
+    .pedagogyCopyTextFour {
+        top: -181%;
+    }
+
+    #pedagogyImageDescriptionSix {
+        top: -203%;
+        margin-bottom: 70px;
+    }
+
+    .pedagogyMapContainerOne {
+        top: -192%;
+        left: 120px;
+    }
+
+    .pedagogyMapContainerTwo {
+        top: -282%;
+        margin-bottom: 91px;
+    }
+
+    #pedagogyImageDescriptionSeven {
+        top: -286%;
+    }
+
+    #pedagogyTwelve {
+        top: -285.5%;
+    }
+
+    #pedagogyThirteen {
+        top:-345%;
+        margin-bottom: 80px;
+    }
+
+    #pedagogyImageDescriptionEight {
+        top: -349%;
+    }
+
+    #pedagogyFourteen {
+        top: -348%;
+    }
+
+    #pedagogyImageDescriptionNine {
+        top: -347%;
+    }
+
+    #pedagogyFifteen {
+        top: -346%;
+    }
+
+    #pedagogySixteen {
+        top: -394.5%;
+    }
+
+    #pedagogySeventeen {
+        top: -443%;
+        margin-bottom: 120px;
+    }
+
+    #pedagogyImageDescriptionTen {
+        top: -451%;
+    }
+
+    /* Pedagogy Sub Four */
+    #pedagogySubFour {
+        top: 5228px;
+    }
+
+    #PedagogyVideoTwo {
+        top: 13.5%;
+    }
+
+    .pedagogyCopyTextFive {
+        top: 5.5%;
+        margin-bottom: 90px;
+    }
+
+    #pedagogyImageDescriptionEleven {
+        top: 8%;
+    }
+
+    #pedagogyEighteen {
+        top: -31px;
+    }
+
+    #pedagogyNineteen {
+        top: -29.5%;
+    }
+
+    #pedagogyImageDescriptionThirtyOne {
+        top: 380px;
+    }
+
+    #pedagogyTwenty {
+        top: -57%;
+        left: 34.5%;
+        width: 31.3vw;
+        margin-bottom: 40px;
+    }
+
+    #pedagogyTwentyOne {
+        top: -706px;
+    }
+
+    #pedagogyTwentyTwo {
+        top: -1034px;
+    }
+
+    #pedagogyTwentyThree {
+        top: -114.5%;
+        left: 34.6%;
+        width: 31.2vw;
+    }
+
+    #pedagogyImageDescriptionTwelve {
+        top: -140%;
+    }
+
+    #pedagogyGridThree {
+        top: -115%;
+        left: -32.5%;
+    }
+
+    #pedagogyImageDescriptionThirteen {
+        top: -120.5%;
+    }
+
+    #PedagogyVideoThree {
+        width: 29.7vw;
+        height: 35.6vh;
+        margin-left: 16px;
+    }
+
+    /* Pedagogy Sub Five */
+    #pedagogySubFive {
+        top: 6801px;
+    }
+
+    #pedagogyTwentyFour {
+        top: 12.5%;
+        left: 34.6%;
+    }
+
+    #pedagogyGridFour {
+        top: -40.5%;
+        left: -43.7%;
+        margin-bottom: -120px;
+    }
+
+    .pedagogyCopyTextSix {
+        top: 180px;
+    }
+
+
+    #pedagogyGridSix {
+        top: -73.8%;
+        left: -43.7%;
+    }
+
+    #pedagogyGridFive {
+        top: -615px;
+        left: -16.8%;
+    }
+
+    #pedagogyImageDescriptionFourteen {
+        position: relative;
+        top: -94%;
+        left: 35.3%;
+        width: 14%;
+    }
+
+    /* Pedagogy Sub Six */
+    #pedagogySubSix {
+        top: 7184px;
+    }
+
+    #pedagogyTwentySeven {
+        top: -100%;
+        margin-bottom: 80px;
+    }
+
+    #pedagogyImageDescriptionFifteen {
+        margin-bottom: 33px;
+    }
+
+    #pedagogyImageDescriptionSixteen {
+        top: -110%;
+    }
+
+    #pedagogyTwentyEight {
+        top: -109.5%;
+    }
+
+    #pedagogyTwentyNine {
+        top: -157%;
+        margin-bottom: 70px;
+    }
+
+    #pedagogyImageDescriptionSeventeen {
+        top: -162%;
+    }
+
+    #pedagogyThirty {
+        top: -162%;
+    }
+
+    #pedagogyImageDescriptionEighteen {
+        top: -162%;
+    }
+
+    #pedagogyThirtyOne {
+        top: -161%;
+        left: 1%;
+        width: 62.8vw;
+    }
+
+    #pedagogyThirtyTwo {
+        top: -160%;
+        left: 1%;
+        width: 62.7vw;
+    }
+
+    #pedagogyImageDescriptionNineteen {
+        top: -159%;
+    }
+
+    #pedagogyThirtyThree {
+        top: -158%;
+    }
+
+    #pedagogyImageDescriptionTwenty {
+        top: -157.5%;
+    }
+
+    #pedagogyThirtyFour {
+        top: -158%;
+    }
+
+    #pedagogyThirtyFive {
+        top: -2489px;
+        margin-bottom: 70px;
+        
+    }
+
+    #pedagogyImageDescriptionTwentyOne {
+        top: -213%;
+    }
+
+    #pedagogyGridSeven {
+        top: -213%;
+    }
+
+    #pedagogyImageDescriptionTwentyTwo {
+        top: -219%;
+    }
+
+    /* Pedagogy Sub Seven */
+    #pedagogySubSeven {
+        top: 12737px;
+    }
+
+    .endlinePedagogyTwo {
+        top: 257px;
+    }
+
+    .endlinePedagogyThree {
+        top: 810px;
+    }
+
+    /* Pedagogy Sub Eight */
+    #pedagogySubEight {
+        top: 12341px;
+    }
+
+    /* Pedagogy Sub Nine */
+    #pedagogySubNine {
+        top: 15860px;
+        height: 6vh;
+    }
+
+    #pedagogyImageDescriptionTwentyEight {
+        top: -17%;
+        left: 8.3%;
+    }
+
+    #pedagogyImageDescriptionTwentyNine {
+        top: -57%;
+        left: 8.3%;
+    }
+
+    #pedagogyImageDescriptionThirty {
+        top: -57%;
+        left: 8.3%;
+    }
 }
 
 /* common - 1600×750, 1600×900 */

@@ -1,0 +1,360 @@
+.brickContainer
+{
+    max-width: 100vw;
+    flex: 100%;
+    z-index: 10;
+    display: block;
+    height: 100%;
+}
+
+#brickSubTwo
+{
+    top: -5vh;
+    height: 170vh;
+}
+
+#brickSubThree
+{
+    top: 20vh;
+    height: 170vh;
+}
+
+#brickSubFour
+{
+    top: 125vh;
+}
+
+#brickSubFive
+{
+    top: 172vh;
+}
+
+#brickSubSix
+{
+    top: 283vh;
+}
+
+#brickSubSeven
+{
+    top: 365vh;
+}
+
+#brickSubEight
+{
+    top: 355vh;
+    height: 59vh;
+}
+
+#brickOne
+{
+    position: relative;
+    z-index: -5;
+    top: 0%;
+    left: -4%;
+    width: 102vw;
+    height: auto;
+}
+
+#brickTwo
+{
+    position: relative;
+    top: -19%;
+    left: 7.7%;
+    width: 24.8vw;
+}
+
+#brickThree
+{
+    position: relative;
+    top: -18.1%;
+    left: -32.9%;
+}
+
+#brickFour
+{
+    position: relative;
+    top: -46.2%;
+    left: 8.1%;
+}
+
+#brickFive
+{
+    position: relative;
+    top: -8%;
+    left: 7.8%;
+    width: 24.7vw;
+}
+
+#brickSix
+{
+    position: relative;
+    top: -8%;
+    left: 7.8%;
+    width: 24.6vw;
+}
+
+#brickSeven {
+    position: relative;
+    top: -37.5%;
+    left: -39.5%;
+    width: 49vw;
+}
+
+#brickEight {
+    position: relative;
+    top: -8%;
+    left: 7.9%;
+    width: 24.6vw;
+}
+
+#brickNine
+{
+    position: relative;
+    top: -45%;
+    left: -32.9%;
+    z-index: -5;
+}
+
+#brickTen
+{
+    position: relative;
+    top: 15%;
+    left: -32.9%;
+    z-index: -5;
+}
+
+.mainTitleBrickOne
+{
+    position: relative;
+    top: 16.3%;
+    left: 35.2%;
+}
+
+.mainTitleBrickTwo
+{
+    position: relative;
+    top: 0%;
+    left: 35.2%;
+}
+
+.mainTitleBrickThree
+{
+    position: relative;
+    top: 13.5%;
+    left: 35.2%;
+}
+
+
+.copyBrickOne
+{
+    width: 22%;
+}
+
+.copyBrickTwo 
+{
+    top: 85%;
+    left: 35.3%;
+}
+
+.copyBrickThree
+{
+    position: relative;
+    top: -58%;
+    left: 35.2%;
+    width: 25%;
+}
+
+.copyBrickFour {
+    position: relative;
+    top: -55%;
+    left: 35.2%;
+    width: 24%;
+}
+
+.copyBrickFive
+{
+    position: relative;
+    top: -45%;
+    left: 35.2%;
+    width: 24%;
+}
+
+.copyBrickSix
+{
+    position: relative;
+    top: -53%;
+    left: 32.5%;
+    width: 24%;
+}
+
+.copyBrickSeven
+{
+    position: relative;
+    top: -50%;
+    left: 35.3%;
+    width: 24%;
+}
+
+.copyBrickEight
+{
+    position: relative;
+    top: -66%;
+    left: 35.2%;
+    width: 24%;
+}
+
+
+.copyBrickNine
+{
+    position: relative;
+    top: 10%;
+    left: 35.2%;
+    width: 24%;
+}
+
+
+#brickGridOne
+{
+    position: relative;
+    top: -3.7%;
+    left: -43.3%;
+}
+
+#brickGridTwo
+{
+    position: relative;
+    top: -59.1%;
+    left: -16.3%;
+}
+
+#brickGridThree
+{
+    position: relative;
+    top: -24.1%;
+    left: -43.3%;
+}
+
+#brickGridFour
+{
+    position: relative;
+    top: -27.5%;
+    left: -19.35%;
+}
+
+#brickGridFive
+{
+    position: relative;
+    top: -12.5%;
+    left: -43.3%;
+}
+
+#brickGridSix
+{
+    position: relative;
+    top: -12.5%;
+    left: -43.2%;
+}
+
+#brickGridSeven
+{
+    position: relative;
+    top: -43.5%;
+    left: -39.26%;
+}
+
+#brickGridEight
+{
+    position: relative;
+    top: -12.5%;
+    left: -43.2%;
+}
+#brickGridNine
+{
+    position: relative;
+    top: -80%;
+    left: -43.2%;
+}
+
+
+#brickVideOne
+{
+    width: 61.5vw;
+    height: 61.5vh;
+    position: relative;
+    top: -6%;
+    left: -32.9%;
+}
+
+#brickVideTwo
+{
+    width: 61.5vw;
+    height: 61.5vh;
+    position: relative;
+    top: -6%;
+    left: -32.9%;
+}
+
+#brickVideThree
+{
+    width: 61.5vw;
+    height: 61.5vh;
+    position: relative;
+    top: -6%;
+    left: -32.9%;
+}
+
+#gridImageMiddleBrick
+{
+    width: 23.5vw;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
+}
+
+#gridImageMiddleBrickHor
+{
+    width: 23.6vw;
+    margin-left: 1vw;
+    margin-right: 0px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
+}
+
+#brickImageDescriptionOne
+{
+    position: relative;
+    top: 8%;
+    left: 35.3%;
+    width: 19%;
+}
+
+#brickImageDescriptionTwo
+{
+    position: relative;
+    top: 17%;
+    left: 35.2%;
+    width: 21%;
+}
+
+.endLineBrick
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 5%;
+    left: 0vw;
+    border-bottom: 1px solid black;
+}
+
+.endLineBrickTwo
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 10%;
+    left: 0vw;
+    border-bottom: 2px dotted black;
+}

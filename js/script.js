@@ -43,6 +43,8 @@ var londonSubchapter = document.querySelector('#londonFocus');
 var yangonSubchapter = document.querySelector('#yangonFocus');
 var dhakaSubchapter = document.querySelector('#dhakaFocus');
 var chennaiSubchapter = document.querySelector('#chennaiFocus');
+var brickSubchapter = document.querySelector('#bricksFocus');
+var plasticSubchapter = document.querySelector('#plasticFocus');
 
 var hilsaSmallTabHeading = document.querySelector('#HilsaFish');
 var snakesSmallTabHeading = document.querySelector('#Snakes');
@@ -66,10 +68,12 @@ var yangonSmallTabHeading = document.querySelector('#YangonNav');
 var pedagogySmallTabHeading = document.querySelector('#Pedagogy');
 var dragonflySmallTabHeading = document.querySelector('#DragonFlies');
 var oceanSmallTabHeading = document.querySelector('#Ocean');
+var brickSmallTabHeading = document.querySelector('#Bricks');
+var plasticSmallTabHeading = document.querySelector("#Plastic");
 
 let smallTabHeadingArray =  
 [
-  hilsaSmallTabHeading, snakesSmallTabHeading, saltSmallTabHeading, dhakaSmallTabHeading, khalsSmallTabHeading, timeSmallTabHeading, sedimentSmallTabHeading, airSmallTabHeading, potsSmallTabHeading, weedsSmallTabHeading, londonSmallTabHeading, tanksSmallTabHeading, tanksSmallTabHeading, groundwaterSmallTabHeading, ethnographySmallTabHeading, atmosphereSmallTabHeading, spaceSmallTabHeading, chennaiSmallTabHeading, yangonSmallTabHeading, pedagogySmallTabHeading, dragonflySmallTabHeading, oceanSmallTabHeading
+  hilsaSmallTabHeading, snakesSmallTabHeading, saltSmallTabHeading, dhakaSmallTabHeading, khalsSmallTabHeading, timeSmallTabHeading, sedimentSmallTabHeading, airSmallTabHeading, potsSmallTabHeading, weedsSmallTabHeading, londonSmallTabHeading, tanksSmallTabHeading, tanksSmallTabHeading, groundwaterSmallTabHeading, ethnographySmallTabHeading, atmosphereSmallTabHeading, spaceSmallTabHeading, chennaiSmallTabHeading, yangonSmallTabHeading, pedagogySmallTabHeading, dragonflySmallTabHeading, oceanSmallTabHeading, brickSmallTabHeading, plasticSmallTabHeading
 ];
 
 let bigHeadingArray = 
@@ -95,7 +99,9 @@ let bigHeadingArray =
       londonSubchapter,
       yangonSubchapter,
       dhakaSubchapter, 
-      chennaiSubchapter
+      chennaiSubchapter,
+      brickSubchapter,
+      plasticSubchapter
 ]
 
 var AccordianOne = document.getElementById('sectionOne');
@@ -216,116 +222,6 @@ function toggleAccordion()
 }
 
 
-// dragonSubchapter.addEventListener('mouseover', function() 
-// {
-//   imageInCorner.src = 'assets/images/bottomRightImages/Dragonfly.jpg';
-// });
-
-// hilsaSubchapter.addEventListener('mouseover', function() 
-// {
-//   imageInCorner.src = 'assets/images/bottomRightImages/Hilsa-fish2.jpg';
-// });
-
-// snakesSubchapter.addEventListener('mouseover', function() 
-// {
-//   imageInCorner.src = 'assets/images/bottomRightImages/snakes.gif';
-// });
-
-// weedsSubchapter.addEventListener('mouseover', function() 
-// {
-//   imageInCorner.src = 'assets/images/bottomRightImages/weed.jpg';
-// });
-
-// airSubchapter.addEventListener('mouseover', function() 
-// {
-//   imageInCorner.src = 'assets/images/bottomRightImages/air.gif';
-// });
-
-// atmosphereSubchapter.addEventListener('mouseover', function() 
-// {
-//   imageInCorner.src = 'assets/images/bottomRightImages/atmosphere3.gif';
-// });
-
-// groundwaterSubchapter.addEventListener('mouseover', function() 
-// {
-//   imageInCorner.src = 'assets/images/bottomRightImages/Groundwater.jpg';
-// });
-
-// oceanSubchapter.addEventListener('mouseover', function() 
-// {
-//   imageInCorner.src = 'assets/images/bottomRightImages/OCEAN.jpg';
-// });
-
-// saltSubchapter.addEventListener('mouseover', function() 
-// {
-//   imageInCorner.src = 'assets/images/bottomRightImages/salt.jpg';
-// });
-
-// sedimentSubchapter.addEventListener('mouseover', function() 
-// {
-//   imageInCorner.src = 'assets/images/bottomRightImages/sediment2.gif';
-// });
-
-// khalsSubchapter.addEventListener('mouseover', function() 
-// {
-//   imageInCorner.src = 'assets/images/bottomRightImages/Khals.jpg';
-// });
-
-// tankSubchapter.addEventListener('mouseover', function() 
-// {
-//   imageInCorner.src = 'assets/images/bottomRightImages/Tanks2.jpg';
-// });
-
-// pipesPotsSubchapter.addEventListener('mouseover', function() 
-// {
-//   imageInCorner.src = 'assets/images/bottomRightImages/PipesPots.jpg';
-// });
-
-// timeSubchapter.addEventListener('mouseover', function() 
-// {
-//   imageInCorner.src = 'assets/images/bottomRightImages/time.gif';
-// });
-
-// pedagogySubchapter.addEventListener('mouseover', function() 
-// {
-//   imageInCorner.src = 'assets/images/bottomRightImages/pedagogy2.gif';
-// });
-
-// spaceSubchapter.addEventListener('mouseover', function() 
-// {
-//   imageInCorner.src = 'assets/images/bottomRightImages/space.gif';
-// });
-
-// drawingSubchapter.addEventListener('mouseover', function() 
-// {
-//   imageInCorner.src = 'assets/images/bottomRightImages/Drawing.jpg';
-// });
-
-// ethnographySubchapter.addEventListener('mouseover', function() 
-// {
-//   imageInCorner.src = 'assets/images/bottomRightImages/ethnography.gif';
-// });
-
-// chennaiSubchapter.addEventListener('mouseover', function() 
-// {
-//   imageInCorner.src = 'assets/images/bottomRightImages/chennai.gif';
-// });
-
-// dhakaSubchapter.addEventListener('mouseover', function() 
-// {
-//   imageInCorner.src = 'assets/images/bottomRightImages/dhaka.gif';
-// });
-
-// londonSubchapter.addEventListener('mouseover', function() 
-// {
-//   imageInCorner.src = 'assets/images/bottomRightImages/London.jpg';
-// });
-
-// yangonSubchapter.addEventListener('mouseover', function() 
-// {
-//   imageInCorner.src = 'assets/images/bottomRightImages/Yangon.gif';
-// });
-
 Array.from(groupedFocusedSubtitles).forEach(subtitle => {
   subtitle.addEventListener('click', function(event) 
   {
@@ -338,60 +234,43 @@ monsoonalMultiplicitiesTitle.addEventListener('click', function()
 {
   leftHandSideMM = false;
   location.reload();
-  
-  // checkLeftHandSideMM(); 
 
-  // FadeInOut(() => 
-  // {
-  //   $(".Layout__wrapper-container").load("landing.html"); 
-  // });
-
-  // hilsaSmallTabHeading.style.textDecoration = "none";
-  // snakesSmallTabHeading.style.textDecoration = "none";
-  // khalsSmallTabHeading.style.textDecoration = "none";
-  // saltSmallTabHeading.style.textDecoration = "none";
-  // tankSubchapter.style.textDecoration = 'none';
-  // londonSubchapter.style.textDecoration = 'none';
-  // weedsSubchapter.style.textDecoration = 'none';
-  // dhakaSmallTabHeading.style.textDecoration = "none";
-  // timeSubchapter.style.textDecoration = "none";
-  // sedimentSmallTabHeading.style.textDecoration = "none";
-  // airSmallTabHeading.style.textDecoration = "none";
-  // potsSmallTabHeading.style.textDecoration = 'none';
-  // groundwaterSubchapter.style.textDecoration = 'none';
-  // atmosphereSubchapter.style.textDecoration = 'none';
-  // ethnographySubchapter.style.textDecoration = 'none';
-  // spaceSubchapter.style.textDecoration = 'none';
-  // chennaiSubchapter.style.textDecoration = 'none';
-
-  // hilsaSubchapter.style.textDecoration = "none";
-  // weedsSmallTabHeading.style.textDecoration = 'none';
-  // groundwaterSmallTabHeading.style.textDecoration = 'none';
-  // snakesSubchapter.style.textDecoration = "none";
-  // saltSubchapter.style.textDecoration = "none";
-  // tanksSmallTabHeading.style.textDecoration = 'none';
-  // dhakaSubchapter.style.textDecoration = "none";
-  // khalsSubchapter.style.textDecoration = "none";
-  // timeSmallTabHeading.style.textDecoration = "none";
-  // londonSmallTabHeading.style.textDecoration = 'none';
-  // sedimentSubchapter.style.textDecoration = "none";
-  // airSubchapter.style.textDecoration = "none";
-  // pipesPotsSubchapter.style.textDecoration = 'none';
-  // ethnographySmallTabHeading.style.textDecoration = 'none';
-  // spaceSmallTabHeading.style.textDecoration = 'none';
-  // atmosphereSmallTabHeading.style.textDecoration = 'none';
-  // chennaiSmallTabHeading.style.textDecoration = 'none';
-
-  // $('#backgroundVideo').fadeIn(3000);
 });
+
+brickSubchapter.addEventListener('click', function() 
+{
+  setTabHeadingStyling(brickSmallTabHeading, smallTabHeadingArray);
+  setTabHeadingStyling(brickSubchapter, bigHeadingArray);
+
+  $('#backgroundVideo').fadeOut(2000);
+
+  FadeInOut(() => 
+  {
+    $(".Layout__wrapper-container").load("bricks.html"); 
+  });
+
+});
+
+plasticSubchapter.addEventListener('click', function() 
+{
+  setTabHeadingStyling(plasticSmallTabHeading, smallTabHeadingArray);
+  setTabHeadingStyling(plasticSubchapter, bigHeadingArray);
+
+  $('#backgroundVideo').fadeOut(2000);
+
+  FadeInOut(() => 
+  {
+    $(".Layout__wrapper-container").load("plastic.html"); 
+  });
+
+});
+
+
 
 dragonSubchapter.addEventListener('click', function() 
 {
   setTabHeadingStyling(dragonflySmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(dragonSubchapter, bigHeadingArray);
-
-  //imageInCorner.style.display = "none";
- // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -399,11 +278,6 @@ dragonSubchapter.addEventListener('click', function()
   {
     $(".Layout__wrapper-container").load("dragonfly.html"); 
   });
-
-  setTimeout(function()
-  { 
-    ////imageInCorner.style.display = "block";
-  }, 5000);
 
 });
 
@@ -413,9 +287,6 @@ pedagogySubchapter.addEventListener('click', function()
   setTabHeadingStyling(pedagogySmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(pedagogySubchapter, bigHeadingArray);
 
-  //imageInCorner.style.display = "none";
- // imageInCorner.src = '';
-
   $('#backgroundVideo').fadeOut(2000);
 
   FadeInOut(() => 
@@ -423,19 +294,12 @@ pedagogySubchapter.addEventListener('click', function()
     $(".Layout__wrapper-container").load("pedagogy.html"); 
   });
 
-  setTimeout(function()
-  { 
-    ////imageInCorner.style.display = "block";
-  }, 5000);
 });
 
 yangonSubchapter.addEventListener('click', function() 
 {
   setTabHeadingStyling(yangonSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(yangonSubchapter, bigHeadingArray);
-
-  //imageInCorner.style.display = "none";
- // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -444,10 +308,6 @@ yangonSubchapter.addEventListener('click', function()
     $(".Layout__wrapper-container").load("yangon.html"); 
   });
 
-  setTimeout(function()
-  { 
-    ////imageInCorner.style.display = "block";
-  }, 5000);
 });
 
 
@@ -456,9 +316,6 @@ hilsaSubchapter.addEventListener('click', function()
   setTabHeadingStyling(hilsaSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(hilsaSubchapter, bigHeadingArray);
 
-  //imageInCorner.style.display = "none";
- // imageInCorner.src = '';
-
   $('#backgroundVideo').fadeOut(2000);
 
   FadeInOut(() => 
@@ -466,19 +323,12 @@ hilsaSubchapter.addEventListener('click', function()
     $(".Layout__wrapper-container").load("hilsa.html"); 
   });
 
-  setTimeout(function()
-  { 
-    ////imageInCorner.style.display = "block";
-  }, 5000);
 });
 
 snakesSubchapter.addEventListener('click', function() 
 {
   setTabHeadingStyling(snakesSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(snakesSubchapter, bigHeadingArray);
-
- //imageInCorner.style.display = "none";
-  //imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
   
@@ -487,19 +337,12 @@ snakesSubchapter.addEventListener('click', function()
     $(".Layout__wrapper-container").load("snakes.html"); 
   });
 
-  setTimeout(function()
-  { 
-    //imageInCorner.style.display = "block";
-  }, 5000);
 });
 
 saltSubchapter.addEventListener('click', function() 
 {
   setTabHeadingStyling(saltSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(saltSubchapter, bigHeadingArray);
-
- //imageInCorner.style.display = "none";
-  //imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
   
@@ -508,18 +351,10 @@ saltSubchapter.addEventListener('click', function()
     $(".Layout__wrapper-container").load("salt.html"); 
   });
 
-
-  setTimeout(function()
-  { 
-    ////imageInCorner.style.display = "block";
-  }, 5000);
 });
 
 dhakaSubchapter.addEventListener('click', function() 
 {
-
-  //imageInCorner.style.display = "none";
- // imageInCorner.src = '';
 
   setTabHeadingStyling(dhakaSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(dhakaSubchapter, bigHeadingArray);
@@ -531,20 +366,12 @@ dhakaSubchapter.addEventListener('click', function()
     $(".Layout__wrapper-container").load("dhaka.html"); 
   });
 
-
-  setTimeout(function()
-  { 
-   ////imageInCorner.style.display = "block";
-  }, 5000);
 });
 
 khalsSubchapter.addEventListener('click', function() 
 {
   setTabHeadingStyling(khalsSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(khalsSubchapter, bigHeadingArray);
-
-  //imageInCorner.style.display = "none";
- // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -553,19 +380,12 @@ khalsSubchapter.addEventListener('click', function()
     $(".Layout__wrapper-container").load("khals.html"); 
   });
 
-  setTimeout(function()
-  { 
-    ////imageInCorner.style.display = "block";
-  }, 5000);
 });
 
 timeSubchapter.addEventListener('click', function() 
 {
   setTabHeadingStyling(timeSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(timeSubchapter, bigHeadingArray);
-
-  //imageInCorner.style.display = "none";
- // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -574,21 +394,12 @@ timeSubchapter.addEventListener('click', function()
     $(".Layout__wrapper-container").load("time.html"); 
   });
 
-
-  setTimeout(function()
-  { 
-   //imageInCorner.style.display = "block";
-  }, 5000);
 });
 
 sedimentSubchapter.addEventListener('click', function() 
 {
   setTabHeadingStyling(sedimentSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(sedimentSubchapter, bigHeadingArray);
-
-  //imageInCorner.style.display = "none";
- // imageInCorner.src = '';
-
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -597,10 +408,6 @@ sedimentSubchapter.addEventListener('click', function()
     $(".Layout__wrapper-container").load("sediment.html"); 
   });
 
-  setTimeout(function()
-  { 
-    //imageInCorner.style.display = "block";
-  }, 5000);
 });
 
 
@@ -609,9 +416,6 @@ airSubchapter.addEventListener('click', function()
   setTabHeadingStyling(airSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(airSubchapter, bigHeadingArray);
 
-  //imageInCorner.style.display = "none";
- // imageInCorner.src = '';
-
   $('#backgroundVideo').fadeOut(2000);
 
   FadeInOut(() => 
@@ -619,11 +423,6 @@ airSubchapter.addEventListener('click', function()
     $(".Layout__wrapper-container").load("air.html"); 
   });
 
-
-  setTimeout(function()
-  { 
-   //imageInCorner.style.display = "block";
-  }, 5000);
 });
 
 pipesPotsSubchapter.addEventListener('click', function() 
@@ -631,20 +430,12 @@ pipesPotsSubchapter.addEventListener('click', function()
   setTabHeadingStyling(potsSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(pipesPotsSubchapter, bigHeadingArray);
 
-  //imageInCorner.style.display = "none";
- // imageInCorner.src = '';
-
   $('#backgroundVideo').fadeOut(2000);
 
   FadeInOut(() => 
   {
     $(".Layout__wrapper-container").load("pots.html"); 
   });
-
-  setTimeout(function()
-  { 
-   //imageInCorner.style.display = "block";
-  }, 5000);
 });
 
 
@@ -652,9 +443,6 @@ weedsSubchapter.addEventListener('click', function()
 {
   setTabHeadingStyling(weedsSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(weedsSubchapter, bigHeadingArray);
-  
-  //imageInCorner.style.display = "none";
- // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -663,20 +451,12 @@ weedsSubchapter.addEventListener('click', function()
     $(".Layout__wrapper-container").load("weeds.html"); 
   });
 
-
-  setTimeout(function()
-  { 
-   //imageInCorner.style.display = "block";
-  }, 5000);
 });
 
 londonSubchapter.addEventListener('click', function() 
 {
   setTabHeadingStyling(londonSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(londonSubchapter, bigHeadingArray);
-
-  //imageInCorner.style.display = "none";
- // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -685,10 +465,6 @@ londonSubchapter.addEventListener('click', function()
     $(".Layout__wrapper-container").load("london.html"); 
   });
 
-  setTimeout(function()
-  { 
-   //imageInCorner.style.display = "block";
-  }, 5000);
 });
 
 
@@ -696,9 +472,6 @@ tankSubchapter.addEventListener('click', function()
 {
   setTabHeadingStyling(tanksSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(tankSubchapter, bigHeadingArray);
-  
-  //imageInCorner.style.display = "none";
- // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -706,12 +479,6 @@ tankSubchapter.addEventListener('click', function()
   {
     $(".Layout__wrapper-container").load("tanks.html"); 
   });
-
-
-  setTimeout(function()
-  { 
-   //imageInCorner.style.display = "block";
-  }, 5000);
 });
 
 groundwaterSubchapter.addEventListener('click', function() 
@@ -719,30 +486,18 @@ groundwaterSubchapter.addEventListener('click', function()
   setTabHeadingStyling(groundwaterSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(groundwaterSubchapter, bigHeadingArray);
 
-  //imageInCorner.style.display = "none";
- // imageInCorner.src = '';
-
   $('#backgroundVideo').fadeOut(2000);
 
   FadeInOut(() => 
   {
     $(".Layout__wrapper-container").load("groundwater.html"); 
   });
-
-
-  setTimeout(function()
-  { 
-    //imageInCorner.style.display = "block";
-  }, 5000);
 });
 
 ethnographySubchapter.addEventListener('click', function() 
 {
   setTabHeadingStyling(ethnographySmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(ethnographySubchapter, bigHeadingArray);
-
-  //imageInCorner.style.display = "none";
- // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -751,19 +506,12 @@ ethnographySubchapter.addEventListener('click', function()
     $(".Layout__wrapper-container").load("enthography.html"); 
   });
 
-  setTimeout(function()
-  { 
-    //imageInCorner.style.display = "block";
-  }, 5000);
 });
 
 atmosphereSubchapter.addEventListener('click', function() 
 {
   setTabHeadingStyling(atmosphereSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(atmosphereSubchapter, bigHeadingArray);
-
-  //imageInCorner.style.display = "none";
- // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -772,10 +520,6 @@ atmosphereSubchapter.addEventListener('click', function()
     $(".Layout__wrapper-container").load("atmosphere.html"); 
   });
 
-  setTimeout(function()
-  { 
-    //imageInCorner.style.display = "block";
-  }, 5000);
 });
 
 
@@ -784,10 +528,6 @@ spaceSubchapter.addEventListener('click', function()
   setTabHeadingStyling(spaceSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(spaceSubchapter, bigHeadingArray);
 
-  //imageInCorner.style.display = "none";
- // imageInCorner.src = '';
-
-
   $('#backgroundVideo').fadeOut(2000);
 
   FadeInOut(() => 
@@ -795,11 +535,6 @@ spaceSubchapter.addEventListener('click', function()
     $(".Layout__wrapper-container").load("space.html"); 
   });
 
-
-  setTimeout(function()
-  { 
-    //imageInCorner.style.display = "block";
-  }, 5000);
 });
 
 
@@ -807,9 +542,6 @@ chennaiSubchapter.addEventListener('click', function()
 {
   setTabHeadingStyling(chennaiSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(chennaiSubchapter, bigHeadingArray);
-  
-  //imageInCorner.style.display = "none";
- // imageInCorner.src = '';
 
   $('#backgroundVideo').fadeOut(2000);
 
@@ -818,10 +550,6 @@ chennaiSubchapter.addEventListener('click', function()
     $(".Layout__wrapper-container").load("chennai.html"); 
   });
 
-  setTimeout(function()
-  { 
-   //imageInCorner.style.display = "block";
-  }, 5000);
 });
 
 
@@ -830,9 +558,6 @@ drawingSubchapter.addEventListener('click', function()
   setTabHeadingStyling(drawingSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(drawingSubchapter, bigHeadingArray);
 
-  //imageInCorner.style.display = "none";
- // imageInCorner.src = '';
-
   $('#backgroundVideo').fadeOut(2000);
 
   FadeInOut(() => 
@@ -840,10 +565,6 @@ drawingSubchapter.addEventListener('click', function()
     $(".Layout__wrapper-container").load("drawing.html"); 
   });
 
-  setTimeout(function()
-  { 
-    //imageInCorner.style.display = "block";
-  }, 5000);
 });
 
 oceanSubchapter.addEventListener('click', function() 
@@ -851,20 +572,12 @@ oceanSubchapter.addEventListener('click', function()
   setTabHeadingStyling(oceanSmallTabHeading, smallTabHeadingArray);
   setTabHeadingStyling(oceanSubchapter, bigHeadingArray);
 
-   //imageInCorner.style.display = "none";
- // imageInCorner.src = '';
-
   $('#backgroundVideo').fadeOut(2000);
 
   FadeInOut(() => 
   {
     $(".Layout__wrapper-container").load("ocean.html"); 
   });
-
-  setTimeout(function()
-  { 
-    //imageInCorner.style.display = "block";
-  }, 5000);
 });
 
 
