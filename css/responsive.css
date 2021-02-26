@@ -1,7 +1,453 @@
 /* -------------------------- Katie's dope resposive code ---------------------------------*/
 /*--- left panel , right accordian ---*/
 /* boss lady screen size - 1280x582, common - 1280x720, 1280x800*/
-@media(max-width: 1299px) {
+@media (max-width: 1025px)
+{
+    h2 {
+        font-size: 12px;
+        }
+        sup {
+        font-size: 9px;
+        line-height: 0;
+        }
+        .titleSup {
+        font-size: 10px;
+        line-height: 0;
+        }
+        .headings {
+        width: 3.2vw;
+        }
+        .cityTitle {
+        font-size: 12px;
+        top: 15.8vh;
+        left: -8px;
+        }
+        .tabSubtitles {
+        font-size: 12px;
+        }
+        .subtitleContainer {
+        top: 48.5vh;
+        right: 5.7vw;
+        }
+        li {
+        padding: 18px;
+        width: 40px;
+        border-left: 2px solid black;
+        }
+        li.active {
+        width: 255px;
+        }
+        #Interlocutors {
+        top: 7.1vh;
+        right: 0.9vw;
+        }
+        #Infrastructure {
+        top: 12.7vh;
+        right: 45px;
+        }
+        #subtitleContainerTwo {
+        right: 10.85vw;
+        top: 46.9vh;
+        }
+        #Framings {
+        top: 5vh;
+        left: -1px;
+        }
+        #subtitleContainerThree {
+        right: 3.9vw;
+        top: 50.7vh;
+        }
+        #Matters {
+        position: relative;
+        top: 4.35vh;
+        left: 3px;
+        }
+        #subtitleContainerFour {
+        right: 3.2vw;
+        top: 54.2vh;
+        }
+        #UrbanAssemblages {
+        position: relative;
+        top: 10.05vh;
+        right: 30px;
+        }
+        #subtitleContainerFive {
+        right: 8.38vw;
+        top: 44.4vh;
+        }
+        .focusedSingleSubtitle {
+        font-size: 23px;
+        line-height: 25px;
+        }
+        #focusedSubtitlesOne {
+        bottom: 42vh;
+        left: -3.7vw;
+        text-align: left;
+        }
+        #focusedSubtitlesTwo {
+        bottom: 46.3vh;
+        left: -9.2vw;
+        text-align: left;
+        }
+        #focusedSubtitlesThree {
+        left: -2.1vw;
+        bottom: 42vh;
+        text-align: left;
+        }
+        #focusedSubtitlesFour {
+        left: -1.5vw;
+        bottom: 37.8vh;
+        text-align: left;
+        }
+        #focusedSubtitlesFive {
+        left: -6.8vw;
+        bottom: 46.2vh;
+        text-align: left;
+        }
+        /*--- Page Navigation & general content ---*/
+        #navbarTitlesContainer {
+        top: 33.6%;
+        }
+        .navbarTitles, #rightSideQuote, .rightSideTextMM {
+        font-size: 22px;
+        line-height: 25px;
+        }
+        #about {
+        height: 31%;
+        }
+        #RightTextContainerMM {
+        top: 5.35%;
+        }
+        .MMHeading, .CollabTitle {
+        font-size: 22px;
+        }
+        .CollabTitle {
+        line-height: 20px;
+        }
+        .rightSideSmallerText {
+        font-size: 14px;
+        line-height: 18px;
+        }
+        #events {
+        height: 55.5%;
+        }
+        #residency {
+        height: 12.5%;
+        }
+        #glossarySection {
+        height: 221%;
+        }
+        .rightSideSmallerSmallerText {
+        font-size: 10.5px;
+        line-height: 13px;
+        }
+        #landingOne {
+        left: -2.4%;
+        }
+        .middleLarge {
+        width: 31.6vw;
+        }
+        #collaboratorsSection {
+        height: 172%
+        }
+        #acknowledgementSection {
+        height: 32%;
+        }
+        #assemblagesSection {
+        height: 18%;
+        }
+        .references {
+        font-size: 10px;
+        line-height: 13px;
+        }
+        /*---Subpage applicable tags---*/
+        .mainTitle {
+        top: 20.6%;
+        font-size: 20px;
+        line-height: 25px;
+        }
+        .headingTitle {
+        right: 0;
+        font-size: 12px;
+        top: 4.7vh;
+        }
+        .headingItem {
+        font-size: 9.5px;
+        }
+        .copyTextLeft {
+            font-size: 13px;
+            line-height: 15px;
+        }
+        .mainTitleRight {
+            font-size: 20px;
+            line-height: 25px;
+        }
+        .copyTextLarger {
+            font-size: 20px;
+            line-height: 25px;
+        top: 20%;
+        }
+        .copyTextBigger {
+            font-size: 20px;
+            line-height: 25px;
+        top: 20%;
+        }
+        #monsoonAssemblagesNav {
+        top: 59.5vh;
+        }
+        #acknowledgementsNav {
+        top: 48vh;
+        }
+        #collaboratorsNav {
+        top: 40.9vh;
+        }
+        #glossaryNav {
+        top: 37.5vh;
+        }
+        #residencyNav {
+        top: 33vh;
+        }
+        #eventsNav {
+        top: 31vh;
+        }
+        #eventsNav, #residencyNav, #glossaryNav, #collaboratorsNav, #acknowledgementsNav, #monsoonAssemblagesNav {
+        left: 0.1vw;
+        }
+        .copyText {
+            font-size: 13px;
+            line-height: 15px;
+            top: 21%;
+        }
+        .TemplateImageDescription {
+        font-size: 9px;
+        line-height: 12px;
+        }
+        
+        #backgroundVideo {
+            z-index: -10;
+            width: 116%;
+            height: auto;
+        }
+}
+
+/*------------ Tablet Responisve 1024 x 600 ---------------*/
+@media (max-width: 1025px) and (min-height: 599px) 
+	and (max-height: 680px){
+	.headings {
+    position: absolute;
+    bottom: 0.5vh;
+    width: 3vw;
+    height: 100vh;
+    border-right: 2px solid black;
+    padding: 0;
+    margin: 0;
+    z-index: 3;
+}
+.cityTitle {
+    font-size: 11px;
+    top: 13.4vh;
+    left: -11.9px;
+}
+li.active {
+    width: 205px;
+}
+li {
+    padding: 15px;
+    width: 18px;
+    border-left: 2px solid black;
+}
+#Infrastructure {
+    top: 9.3vh;
+    right: 42.5px;
+}
+#Interlocutors {
+    top: 4.7vh;
+    right: 1.2vw;
+}
+#Framings {
+    top: 2.8vh;
+    left: -4.1px;
+}
+#Matters {
+    position: relative;
+    top: 2.25vh;
+    left: 0.2px;
+}
+#UrbanAssemblages {
+    position: relative;
+    top: 7.05vh;
+    right: 28.3px;
+}
+#focusedSubtitlesOne {
+    bottom: 50.9vh;
+    left: -4.7vw;
+    text-align: left;
+}
+h2 {
+    font-size: 10.4px;
+}
+#focusedSubtitlesTwo {
+    bottom: 55.3vh;
+    left: -10.6vw;
+    text-align: left;
+}
+#focusedSubtitlesThree {
+    left: -2.8vw;
+    bottom: 51.1vh;
+    text-align: left;
+}
+#focusedSubtitlesFour {
+    left: -2.1vw;
+    bottom: 46.9vh;
+    text-align: left;
+}
+#focusedSubtitlesFive {
+    left: -7.7vw;
+    bottom: 55.1vh;
+    text-align: left;
+}
+
+.subtitleContainer {
+    top: 36.6vh;
+    right: 6.3vw;
+}
+.tabSubtitles {
+    font-size: 10px;
+}
+.subtitleContainer {
+    top: 37.3vh;
+    right: 6.3vw;
+}
+#subtitleContainerTwo {
+    right: 11.85vw;
+    top: 36vh;
+}
+#subtitleContainerThree {
+    right: 4.3vw;
+    top: 39vh;
+}
+#subtitleContainerFour {
+    right: 3.6vw;
+    top: 42vh;
+}
+#subtitleContainerFive {
+    right: 9.18vw;
+    top: 33.9vh;
+} 
+#navbarTitlesContainer {
+    top: 26%;
+}
+}
+
+/*------------ Tablet Responisve 1024 x 768 ---------------*/
+@media (max-width: 1025px) and (min-height: 681px) 
+	and (max-height: 780px){
+		.headings {
+    position: absolute;
+    bottom: 0.5vh;
+    width: 3vw;
+    height: 100vh;
+    border-right: 2px solid black;
+    padding: 0;
+    margin: 0;
+    z-index: 3;
+}
+.cityTitle {
+    top: 80px;
+    left: -11.4px;
+}
+li.active {
+    width: 205px;
+}
+li {
+    padding: 15px;
+    width: 18px;
+    border-left: 2px solid black;
+}
+#Interlocutors {
+    top: 17.5px;
+    right: 11.7px;
+}
+#Infrastructure {
+    top: 46px;
+    right: 42.8px;
+}
+#Framings {
+    top: 7px;
+    left: -3px;
+}
+#UrbanAssemblages {
+    top: 32px;
+    right: 29.1px;
+}
+#Matters {
+    top: 4px;
+    left: 0px;
+}
+#UrbanAssemblages {
+    position: relative;
+    top: 4.05vh;
+    right: 28.3px;
+}
+#focusedSubtitlesOne {
+    bottom: 475px;
+    left: -47px;
+}
+
+h2 {
+    font-size: 10.4px;
+}
+#focusedSubtitlesTwo {
+    bottom: 501px;
+    left: -108px;
+}
+#focusedSubtitlesThree {
+    left: -30px;
+    bottom: 476px;
+}
+#focusedSubtitlesFour {
+    left: -23px;
+    bottom: 452px;
+    text-align: left;
+}
+#focusedSubtitlesFive {
+    bottom: 501px;
+    left: -81px;
+}
+.subtitleContainer {
+    top: 27.9vh;
+    right: 6.3vw;
+}
+.tabSubtitles {
+    font-size: 10px;
+}
+#subtitleContainerFive {
+    right: 95.1px;
+    top: 194px;
+}
+#subtitleContainerFour {
+    right: 37px;
+    top: 242px;
+}
+#subtitleContainerThree {
+    right: 45px;
+    top: 224px;
+}
+#subtitleContainerTwo {
+    right: 122.4px;
+    top: 206px;
+}
+#navbarTitlesContainer {
+    top: 26%;
+}
+}
+
+
+
+
+
+
+@media(min-width: 1026px) and (max-width: 1299px) and (min-width: 1025px) {
 h2 {
 font-size: 12px;
 }
@@ -230,7 +676,7 @@ line-height: 12px;
 }
 }
 
-@media(max-width: 1299px) and (min-height: 680px) and (max-height: 801px) {
+@media(min-width: 1026px) and (max-width: 1299px) and (min-height: 680px) and (max-height: 801px) {
     .cityTitle {
     top: 91px;
     left: -8.4px;
