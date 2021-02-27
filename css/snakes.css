@@ -262,7 +262,9 @@
     border-bottom: 1px solid black;
 }
 
-@media(max-width: 1299px) 
+/*------------ Tablet Responisve 1024 x 600 ---------------*/
+@media (max-width: 1025px) and (min-height: 599px) 
+and (max-height: 680px)
 {
     .copyTextBigger
     {
@@ -271,21 +273,342 @@
 
     #snakeSubTwo 
     {
-        top: -25vh;
+        top: -312px;
     }
 
     #snakeSubThree 
     {
-        top: 165vh;
+        top: 385px;
     }
 
     #snakeSubFour 
     {
-        top: 425vh;
+        top:1563px;
     }
 
     #snakeSubFive {
-        top: 600vh;
+        top: 2281px;
+    }
+
+    #snakeSubSix {
+        top: 2950px;
+        height: 15vh;
+    }
+
+    #snakeImageDescriptionOne 
+    {
+        top: -43%;
+        left: 35.3%;
+    }
+
+    #snakeGridOne 
+    {
+        top: 9.5%;
+        left: -44.8%;
+    }
+
+    .snakesCopyOne 
+    {
+        top:-46%;
+        font-size: 12px;
+        line-height: 15px;
+        width: 25%;
+    }
+
+    .snakesCopyTwo
+    {
+        top: 14%;
+    }
+
+    .snakesCopyThree 
+    {
+        top: 0%;
+    }
+    #snakeOne 
+    {
+        width: 111vw;
+    }
+    #snakeTwo 
+    {
+        top: 23%;
+        left: 7.5%;
+    }
+    #snakeThree 
+    {
+        top: 15%;
+    }
+    #snakeFour 
+    {
+        top: -45%;
+        left: 34.5%;
+    }
+
+    #snakeFive 
+    {
+        top: -42%;
+        left: -32.9%;
+    }
+
+    #snakeEight 
+    {
+        top: -385px;
+        left: 34.5%;
+    }
+
+    #snakeNine 
+    {
+        top: 22%;
+    }
+
+    #snakeTen 
+    {
+        top: -51%;
+        left: -32.9%;
+    }
+    #snakeEleven 
+    {
+        top: 22%;
+        left: 7.5%;
+    }
+    #snakeTwelve 
+    {
+        top: 18%;
+    }
+
+    #SnakeVideoOne 
+    {
+        top: -41%;
+    }
+
+    #SnakeVideoTwo 
+    {
+        top: -51%;
+        left: -32.9%;
+    }
+
+    #SnakeVideoFour
+    {
+        top: 1%;
+        left: -32.9%;
+    }
+
+    #snakeGridTwo 
+    {
+        top: -47%;
+        left: -38.8%;
+    }
+
+    #snakeGridThree 
+    {
+        top: -15%;
+        left: -44.7%;
+    }
+
+    #snakeGridFour 
+    {
+        top: -46%;
+        left: -18%;
+    }
+
+    #gridImageMiddleSnakesHor 
+    {
+        width: 23.6vw;
+        margin-left: 0.7vw;
+        margin-right: 0px;
+    }
+
+    #snakeCopyFour
+    {
+        top: -77%;
+    }
+}
+
+/*------------ Tablet Responisve 1024 x 768 ---------------*/
+@media (max-width: 1025px) and (min-height: 681px) 
+and (max-height: 780px)
+{
+    .copyTextBigger
+    {
+        top: -88%;
+    }
+
+    #snakeSubTwo 
+    {
+        top: -612px;
+    }
+
+    #snakeSubThree 
+    {
+        top: -150px;
+    }
+
+    #snakeSubFour 
+    {
+        top: 970px;
+    }
+
+    #snakeSubFive {
+        top: 1550px;
+    }
+
+    #snakeSubSix {
+        top: 2104PX;
+        height: 15vh;
+    }
+
+    #snakeImageDescriptionOne 
+    {
+        top: -32%;
+        left: 35.3%;
+    }
+
+    #snakeGridOne 
+    {
+        top: 9.5%;
+        left: -44.1%;
+    }
+
+    .snakesCopyOne 
+    {
+        top:-35%;
+        font-size: 12px;
+        line-height: 15px;
+        width: 25%;
+    }
+
+    .snakesCopyTwo
+    {
+        top: 14%;
+    }
+
+    .snakesCopyThree 
+    {
+        top: 0%;
+    }
+    #snakeOne 
+    {
+        width: 111vw;
+    }
+    #snakeTwo 
+    {
+        top: 23%;
+        left: 7.5%;
+    }
+    #snakeThree 
+    {
+        top: 17%;
+    }
+    #snakeFour 
+    {
+        top: -34%;
+        left: 34.5%;
+    }
+
+    #snakeFive 
+    {
+        top: -31%;
+        left: -32.9%;
+    }
+
+    #snakeEight 
+    {
+        top: -360px;
+        left: 34.5%;
+    }
+
+    #snakeNine 
+    {
+        top: 22%;
+    }
+
+    #snakeTen 
+    {
+        top: -39%;
+        left: -32.9%;
+    }
+    #snakeEleven 
+    {
+        top: 22%;
+        left: 7.5%;
+    }
+    #snakeTwelve 
+    {
+        top: 18%;
+    }
+
+    #SnakeVideoOne 
+    {
+        top: -30%;
+    }
+
+    #SnakeVideoTwo 
+    {
+        top: -42%;
+        left: -32.9%;
+    }
+
+    #SnakeVideoFour
+    {
+        top: 1%;
+        left: -32.9%;
+    }
+
+    #snakeGridTwo 
+    {
+        top: -37%;
+        left: -39.1%;
+    }
+
+    #snakeGridThree 
+    {
+        top: -11%;
+        left: -44.7%;
+    }
+
+    #snakeGridFour 
+    {
+        top: -35%;
+        left: -18%;
+    }
+
+    #gridImageMiddleSnakesHor 
+    {
+        width: 23.6vw;
+        margin-left: 0.7vw;
+        margin-right: 0px;
+    }
+
+    #snakeCopyFour
+    {
+        top: -54%;
+    }
+}
+
+/*------------ Desktop Responisve 1280 x 582 ---------------*/
+@media (min-width: 1026px) and (max-width: 1299px)
+{
+    .copyTextBigger
+    {
+        top: -88%;
+    }
+
+    #snakeSubTwo 
+    {
+        top: -162px;
+    }
+
+    #snakeSubThree 
+    {
+        top: 930px;
+    }
+
+    #snakeSubFour 
+    {
+        top: 2420px;
+    }
+
+    #snakeSubFive {
+        top: 3400px;
     }
 
     #snakeSubSix {
@@ -406,7 +729,489 @@
     }
 }
 
+/*------------ Desktop Responisve 1280 x 689 ---------------*/
+@media (min-width: 1026px) and (max-width: 1299px) 
+and (min-height: 680px) and (max-height: 766px)
+{
+    .copyTextBigger
+    {
+        top: -75%;
+    }
+
+    #snakeSubTwo 
+    {
+        top: -352px;
+    }
+
+    #snakeSubThree 
+    {
+        top: 590px;
+    }
+
+    #snakeSubFour 
+    {
+        top: 2060px;
+    }
+
+    #snakeSubFive {
+        top: 2976px;
+    }
+
+    #snakeSubSix {
+        top: 3730px;
+        height: 15vh;
+    }
+
+    #snakeImageDescriptionOne 
+    {
+        top: -41%;
+        left: 35.3%;
+    }
+
+    #snakeGridOne 
+    {
+        top: 11.5%;
+        left: -44.1%;
+    }
+
+    .snakesCopyOne 
+    {
+        top: -46%;
+        font-size: 14px;
+        line-height: 17px;
+        width: 25%;
+    }
+
+    .snakesCopyTwo
+    {
+        top: 16%;
+    }
+
+    .snakesCopyThree 
+    {
+        top: -7%;
+    }
+
+    #snakeTwo 
+    {
+        top: 23%;
+        left: 7.5%;
+    }
+
+    #snakeThree 
+    {
+        top: 17%;
+       
+    }
+
+    #snakeFour 
+    {
+        top: -46%;
+        left: 34.5%;
+    }
+
+    #snakeFive 
+    {
+        top: -43%;
+        left: -32.9%;
+    }
+
+    #snakeEight 
+    {
+        top: -405px;
+        left: 34.5%;
+    }
+
+    #snakeNine 
+    {
+        top: 22%;
+    }
+
+    #snakeTen 
+    {
+        top: -54%;
+        left: -32.9%;
+    }
+    #snakeEleven 
+    {
+        top: 22%;
+        left: 7.5%;
+    }
+
+    #SnakeVideoOne 
+    {
+        top: -38%;
+    }
+
+    #SnakeVideoTwo 
+    {
+        top: -50%;
+        left: -32.9%;
+    }
+
+    #SnakeVideoFour
+    {
+        top: -5%;
+        left: -32.9%;
+    }
+
+    #snakeGridTwo 
+    {
+        top: -45%;
+        left: -39.1%;
+    }
+
+    #snakeGridThree 
+    {
+        top: -14%;
+        left: -44.1%;
+    }
+
+    #snakeGridFour 
+    {
+        top: -48%;
+        left: -17.3%;
+    }
+
+    #gridImageMiddleSnakesHor 
+    {
+        width: 23.6vw;
+        margin-left: 0.7vw;
+        margin-right: 0px;
+    }
+}
+
+/*------------ Desktop Responisve 1280 x 768 ---------------*/
+@media (min-width: 1026px) and (max-width: 1299px) 
+and (min-height: 767px) and (max-height: 798px)
+{
+    .copyTextBigger
+    {
+        top: -69%;
+    }
+
+    #snakeSubTwo 
+    {
+        top: -494px;
+    }
+
+    #snakeSubThree 
+    {
+        top: 356px;
+    }
+
+    #snakeSubFour 
+    {
+        top: 1843px;
+    }
+
+    #snakeSubFive {
+        top: 2775px;
+    }
+
+    #snakeSubSix {
+        top: 3460px;
+        height: 15vh;
+    }
+
+    #snakeImageDescriptionOne 
+    {
+        top: -35%;
+        left: 35.3%;
+    }
+
+    #snakeGridOne 
+    {
+        top: 11.5%;
+        left: -44.1%;
+    }
+
+    .snakesCopyOne 
+    {
+        top: -39%;
+        font-size: 14px;
+        line-height: 17px;
+        width: 25%;
+    }
+
+    .snakesCopyTwo
+    {
+        top: 16%;
+    }
+
+    .snakesCopyThree 
+    {
+        top: -7%;
+    }
+
+    #snakeTwo 
+    {
+        top: 23%;
+        left: 7.5%;
+    }
+
+    #snakeThree 
+    {
+        top: 17%;
+       
+    }
+
+    #snakeFour 
+    {
+        top: -39%;
+        left: 34.5%;
+    }
+
+    #snakeFive 
+    {
+        top: -36%;
+        left: -32.9%;
+    }
+
+    #snakeEight 
+    {
+        top: -391px;
+        left: 34.5%;
+    }
+
+    #snakeNine 
+    {
+        top: 20%;
+    }
+
+    #snakeTen 
+    {
+        top: -46%;
+        left: -32.9%;
+    }
+    #snakeEleven 
+    {
+        top: 17%;
+        left: 7.5%;
+    }
+    #snakeTwelve 
+    {
+        top: 14%;
+    }
+    #snakeThirteen 
+    {
+        top: 9%;
+    }
+
+    #SnakeVideoOne 
+    {
+        top: -32%;
+    }
+
+    #SnakeVideoTwo 
+    {
+        top: -44%;
+        left: -32.9%;
+    }
+    #SnakeVideoThree 
+    {
+        top: 14%;
+   
+    }
+    #SnakeVideoFour
+    {
+        top: -5%;
+        left: -32.9%;
+    }
+
+    #snakeGridTwo 
+    {
+        top: -39%;
+        left: -39.1%;
+    }
+
+    #snakeGridThree 
+    {
+        top: -13%;
+        left: -44.1%;
+    }
+
+    #snakeGridFour 
+    {
+        top: -42%;
+        left: -17.3%;
+    }
+
+    #gridImageMiddleSnakesHor 
+    {
+        width: 23.6vw;
+        margin-left: 0.7vw;
+        margin-right: 0px;
+    }
+}
+
+/*------------ Desktop Responisve 1280 x 800 ---------------*/
+@media (min-width: 1026px) and (max-width: 1299px) 
+and (min-height: 799px) and (max-height: 801px)
+{
+    .copyTextBigger
+    {
+        top: -66%;
+    }
+
+    #snakeSubTwo 
+    {
+        top: -553px;
+    }
+
+    #snakeSubThree 
+    {
+        top: 232px;
+    }
+
+    #snakeSubFour 
+    {
+        top: 1706px;
+    }
+
+    #snakeSubFive {
+        top: 2591px;
+    }
+
+    #snakeSubSix {
+        top: 3260px;
+        height: 15vh;
+    }
+
+    #snakeImageDescriptionOne 
+    {
+        top: -35%;
+        left: 35.3%;
+    }
+
+    #snakeGridOne 
+    {
+        top: 11.5%;
+        left: -44.1%;
+    }
+
+    .snakesCopyOne 
+    {
+        top: -39%;
+        font-size: 14px;
+        line-height: 17px;
+        width: 25%;
+    }
+
+    .snakesCopyTwo
+    {
+        top: 16%;
+    }
+
+    .snakesCopyThree 
+    {
+        top: -7%;
+    }
+
+    #snakeTwo 
+    {
+        top: 23%;
+        left: 7.5%;
+    }
+
+    #snakeThree 
+    {
+        top: 17%;
+       
+    }
+
+    #snakeFour 
+    {
+        top: -39%;
+        left: 34.5%;
+    }
+
+    #snakeFive 
+    {
+        top: -36%;
+        left: -32.9%;
+    }
+
+    #snakeEight 
+    {
+        top: -386px;
+        left: 34.5%;
+    }
+
+    #snakeNine 
+    {
+        top: 20%;
+    }
+
+    #snakeTen 
+    {
+        top: -46%;
+        left: -32.9%;
+    }
+    #snakeEleven 
+    {
+        top: 17%;
+        left: 7.5%;
+    }
+    #snakeTwelve 
+    {
+        top: 14%;
+    }
+    #snakeThirteen 
+    {
+        top: 9%;
+    }
+
+    #SnakeVideoOne 
+    {
+        top: -31%;
+    }
+
+    #SnakeVideoTwo 
+    {
+        top: -43%;
+        left: -32.9%;
+    }
+    #SnakeVideoThree 
+    {
+        top: 14%;
+   
+    }
+    #SnakeVideoFour
+    {
+        top: -5%;
+        left: -32.9%;
+    }
+
+    #snakeGridTwo 
+    {
+        top: -38%;
+        left: -39.1%;
+    }
+
+    #snakeGridThree 
+    {
+        top: -13%;
+        left: -44.1%;
+    }
+
+    #snakeGridFour 
+    {
+        top: -42%;
+        left: -17.3%;
+    }
+
+    #gridImageMiddleSnakesHor 
+    {
+        width: 23.6vw;
+        margin-left: 0.7vw;
+        margin-right: 0px;
+    }
+}
+
+/*------------ Desktop Responisve 1387 x 540 ---------------*/
 @media (min-width: 1300px) and (max-width: 1399px) 
+and (min-height: 539px) and (max-height: 679px)
 {
 
     #snakeSubOne
@@ -416,17 +1221,332 @@
 
     #snakeSubTwo 
     {
-        top: -62vh;
+        top: -4vh;
     }
 
     #snakeSubThree 
     {
-        top: 58vh;
+        top: 244vh;
     }
 
     #snakeSubFour 
     {     
-        top: 255vh;
+        top: 550vh;
+    }
+
+    #snakeCopyFour
+    {
+        top: -105.5%
+    }
+
+    .snakecopyOneResponsive
+    {
+        top: -64% !important;
+    }
+
+    .snakesCopyTwo
+    {
+        top: 22% !important;
+    }
+
+    .snakesCopyThree
+    {
+        top: -11% !important;
+    }
+
+    #snakeSubFive
+    {
+        top: 768vh;
+    }
+
+    #snakeSubSix 
+    {
+        top: 480vh;
+        height: 17vh;
+    }
+    
+    .snakesCopyOne 
+    {
+        font-size: 14px;
+        line-height: 17px;
+        width: 25%;
+        top: -65%;
+    }
+
+    #snakeGridOne 
+    {
+        top: 10.5%;
+        left: -44%;
+    }
+
+    #snakeGridTwo 
+    {
+        top: -58%;
+        left: -38.5%;
+    }
+
+    #snakeGridThree
+    {
+        top: -17%;
+        left: -44%;
+    }
+
+    #snakeGridFour 
+    {
+        top: -64%;
+        left: -17%;
+    }
+
+    #snakeFour 
+    {
+        top: -61%;
+        left: 34.6%;
+    }
+
+    #snakeFive 
+    {
+        top: -54%;
+    }
+
+
+    #snakeEight 
+    {
+        top: -439px;
+        left: 34.6%;
+    }
+
+    #snakeNine 
+    {
+        top: 21%;
+        left: 7.6%;
+    }
+
+    #snakeTen 
+    {
+        top: -71%;
+        left: -32.9%;
+    }
+
+    #snakeThirteen 
+    {
+        top: 13%;
+        left: 7.6%;
+    }
+
+    #snakeImageDescriptionOne 
+    {
+        top: -56%;
+    }
+
+    #snakeImageDescriptionTwo 
+    {
+        top: 2779%;
+    }
+
+    #SnakeVideoOne 
+    {
+        top: -52%;
+    }
+
+    #SnakeVideoTwo 
+    {
+        top: -62%;
+    }
+
+    #gridImageMiddleSnakesHor 
+    {
+        width: 23.6vw;
+        margin-left: 0.5vw;
+        margin-right: 5px;
+        margin-top: 3vh;
+    }
+    .endLineSnakes {
+        top: 2745%;
+
+    }
+}
+
+/*------------ Desktop Responisve 1366 x 695 ---------------*/
+@media (min-width: 1300px) and (max-width: 1399px) 
+and (min-height: 680px) and (max-height: 749px)
+{
+
+    #snakeSubOne
+    {
+        top: -5vh;
+    }
+
+    #snakeSubTwo 
+    {
+        top: -46vh;
+    }
+
+    #snakeSubThree 
+    {
+        top: 109vh;
+    }
+
+    #snakeSubFour 
+    {     
+        top: 343vh;
+    }
+
+    #snakeCopyFour
+    {
+        top: -75.5%;
+    }
+
+    .snakecopyOneResponsive
+    {
+        top: -46% !important;
+    }
+
+    .snakesCopyTwo
+    {
+        top: 17% !important;
+    }
+
+    .snakesCopyThree
+    {
+        top: -4% !important;
+    }
+
+    #snakeSubFive
+    {
+        top: 487.5vh;
+    }
+
+    #snakeSubSix 
+    {
+        top: 480vh;
+        height: 17vh;
+    }
+    
+    .snakesCopyOne 
+    {
+        font-size: 14px;
+        line-height: 17px;
+        width: 25%;
+        top: -52%;
+    }
+
+    #snakeGridOne 
+    {
+        top: 10.5%;
+        left: -44%;
+    }
+
+    #snakeGridTwo 
+    {
+        top: -41%;
+        left: -38.5%;
+    }
+
+    #snakeGridThree
+    {
+        top: -14%;
+        left: -44%;
+    }
+
+    #snakeGridFour 
+    {
+        top: -52%;
+        left: -17%;
+    }
+
+    #snakeFour 
+    {
+        top: -47%;
+        left: 34.6%;
+    }
+
+    #snakeFive 
+    {
+        top: -41%;
+    }
+
+
+    #snakeEight 
+    {
+        top: -411px;
+        left: 34.6%;
+    }
+
+    #snakeNine 
+    {
+        top: 21%;
+        left: 7.6%;
+    }
+
+    #snakeTen 
+    {
+        top: -58%;
+        left: -32.9%;
+    }
+
+    #snakeThirteen 
+    {
+        top: 13%;
+        left: 7.6%;
+    }
+
+    #snakeImageDescriptionOne 
+    {
+        top: -42%;
+    }
+
+    #snakeImageDescriptionTwo 
+    {
+        top: 770%;
+    }
+
+    #SnakeVideoOne 
+    {
+        top: -38%;
+    }
+
+    #SnakeVideoTwo 
+    {
+        top: -45%;
+    }
+
+    #gridImageMiddleSnakesHor 
+    {
+        width: 23.6vw;
+        margin-left: 0.5vw;
+        margin-right: 5px;
+        margin-top: 3vh;
+    }
+
+    .endLineSnakes {
+        top: 745%;
+
+    }
+}
+
+/*------------ Desktop Responisve 1366 x 768 ---------------*/
+@media (min-width: 1300px) and (max-width: 1399px) 
+and (min-height: 750px) and (max-height: 780px)
+{
+
+    #snakeSubOne
+    {
+        top: -5vh;
+    }
+
+    #snakeSubTwo 
+    {
+        top: -453px;
+    }
+
+    #snakeSubThree 
+    {
+        top: 476px;
+    }
+
+    #snakeSubFour 
+    {     
+        top: 2012px;
     }
 
     #snakeCopyFour
@@ -436,12 +1556,12 @@
 
     #snakeSubFive
     {
-        top: 378vh;
+        top: 2956px;
     }
 
     #snakeSubSix 
     {
-        top: 480vh;
+        top: 3728px;
         height: 17vh;
     }
     
@@ -506,6 +1626,10 @@
         left: 7.6%;
     }
     
+    #snakeImageDescriptionOne
+    {
+        top: -39%;
+    }
     #gridImageMiddleSnakesHor 
     {
         width: 23.6vw;
@@ -515,31 +1639,199 @@
     }
 }
 
-@media (min-width: 1400px) and (max-width: 1499px)
+/*------------ Tablet Responisve 1366 x 1024 ---------------*/
+@media (min-width: 1300px) and (max-width: 1399px) 
+and (min-height: 781px) and (max-height: 1025px)
 {
+
+    #snakeSubOne
+    {
+        top: -5vh;
+    }
+
     #snakeSubTwo 
     {
-        top: -49vh;
+        top: -775px;
     }
 
     #snakeSubThree 
     {
-        top: 84vh;
+        top: -164px;
     }
 
     #snakeSubFour 
-    {
-        top: 293vh;
+    {     
+        top: 1352px;
     }
 
-    #snakeSubFive 
+    .snakesCopyOne 
     {
-        top: 426vh;
+        font-size: 14px;
+        line-height: 17px;
+        width: 25%;
+        top: -227%;
+    }
+
+    .snakeResponsiveTablet
+    {
+        position: relative;
+        top: -33%;
+    }
+
+    #snakeCopyFour
+    {
+        top: -57.5%;
+    }
+
+    .snakecopyOneResponsive
+    {
+        top: -30%;
+    }
+
+    .snakesCopyTwo
+    {
+        top: 15%;
+    }
+
+    .snakesCopyThree
+    {
+        top: -2%;
+    }
+
+    #snakeSubFive
+    {
+        top: 2131px;
     }
 
     #snakeSubSix 
     {
-        top: 532vh;
+        top: 2718px;
+        height: 17vh;
+    }
+    #snakeOne
+    {
+        width: 117vw; 
+    }
+
+
+    #snakeGridOne 
+    {
+        top: 10.5%;
+        left: -44%;
+    }
+
+    #snakeGridTwo 
+    {
+        top: -29%;
+        left: -38.5%;
+    }
+
+    #snakeGridThree
+    {
+        top: -6%;
+        left: -44%;
+    }
+
+    #snakeGridFour 
+    {
+        top: -32%;
+        left: -17%;
+    }
+    #snakeThree 
+    {
+        top: 17%;
+    }
+
+    #snakeFour 
+    {
+        top: -28%;
+        left: 34.6%;
+    }
+    #snakeFive 
+    {
+        top: -25%;
+    }
+    #snakeSeven 
+    {
+        top: 17%;
+    }
+
+    #snakeEight 
+    {
+        top: -23.5%;
+        left: 34.6%;
+    }
+
+    #snakeNine 
+    {
+        top: 21%;
+        left: 7.6%;
+    }
+
+    #snakeTen 
+    {
+        top: -36%;
+        left: -32.9%;
+    }
+
+    #snakeThirteen 
+    {
+        top: 11%;
+        left: 7.6%;
+    }
+    
+    #snakeImageDescriptionOne
+    {
+        top: -25%;
+    }
+    #gridImageMiddleSnakesHor 
+    {
+        width: 23.6vw;
+        margin-left: 0.5vw;
+        margin-right: 5px;
+        margin-top: 3vh;
+    }
+    #SnakeVideoOne {
+        top: -22%;
+    }
+    #SnakeVideoTwo {
+        top: -34%;
+    }
+    #SnakeVideoThree {
+        top: 17%;
+    }
+    #SnakeVideoFour 
+    {
+        top: -1%;
+    }
+}
+
+/*------------ Desktop Responisve 1400 x 768 ---------------*/
+@media (min-width: 1400px) and (max-width: 1499px)
+{
+    #snakeSubTwo 
+    {
+        top: -390px;
+    }
+
+    #snakeSubThree 
+    {
+        top: 583px;
+    }
+
+    #snakeSubFour 
+    {
+        top: 2250px;
+    }
+
+    #snakeSubFive 
+    {
+        top: 3285px;
+    }
+
+    #snakeSubSix 
+    {
+        top: 4110px;
         height: 15vh;
     }
 
@@ -557,7 +1849,7 @@
 
     #snakeGridTwo 
     {
-        top: -43%;
+        top: -41%;
         left: -39.18%;
     }
 
@@ -581,7 +1873,7 @@
 
     #snakeEight 
     {
-        top: -36.5%;
+        top: -411px;
         left: 34.7%;
     }
 
@@ -604,10 +1896,314 @@
         margin-right: 0px;
         margin-top: 3vh;
     }
+    #SnakeVideoOne 
+    {
+        top: -34%;
+    }
+    #SnakeVideoTwo 
+    {
+        top: -46%;
+    }
+
 }
 
+/*------------ Desktop Responisve 1400 x 833 ---------------*/
+@media (min-width: 1400px) and (max-width: 1499px) 
+and (min-height: 800px) and (max-height: 850px)
+{
+    #snakeSubTwo 
+    {
+        top: -57vh;
+    }
+
+    #snakeSubThree 
+    {
+        top: 59.5vh;
+    }
+
+    #snakeSubFour 
+    {
+        top: 255.5vh;
+    }
+
+    #snakeSubFive 
+    {
+        top: 374vh;
+    }
+
+    #snakeSubSix 
+    {
+        top: 532vh;
+        height: 15vh;
+    }
+
+    .snakesCopyOne 
+    {
+        font-size: 14px;
+        line-height: 17px;
+        top: -44%;
+    }
+    #snakeCopyFour
+    { 
+        top: -69.2%;
+    }
+    .snakecopyOneResponsive
+    {
+        top: -43% !important;
+    }
+
+    .snakesCopyTwo
+    {
+        top: 15% !important;
+    }
+
+    .snakesCopyThree
+    {
+        top: -4% !important;
+    }
+
+    #snakeGridOne 
+    {
+        top: 8.5%;
+        left: -43.9%;
+    }
+
+    #snakeGridTwo 
+    {
+        top: -38%;
+        left: -39.18%;
+    }
+
+    #snakeGridThree 
+    {
+        top: -10%;
+        left: -43.9%;
+    }
+
+    #snakeGridFour 
+    {
+        top: -43%;
+        left: -16.9%;
+    }
+    
+    #snakeFour 
+    {
+        top: -40%;
+        left: 34.6%;
+    }
+
+    #snakeFive 
+    {
+        top: -34%;
+  
+    }
+
+
+    #snakeEight 
+    {
+        top: -410px;
+        left: 34.7%;
+    }
+
+    #snakeTen 
+    {
+        top: -47%;
+        left: -32.9%;
+    }
+    
+    #SnakeVideoOne 
+    {
+        top: -31%;
+    }
+
+    #SnakeVideoTwo 
+    {
+        top: -42%;
+    }
+
+    #snakeImageDescriptionOne 
+    {
+        top: -35%;
+        left: 35.3%;
+    }
+
+    #snakeImageDescriptionTwo 
+    {
+        top: -420%;
+    }
+
+    #gridImageMiddleSnakesHor 
+    {
+        width: 23.6vw;
+        margin-left: 0.8vw;
+        margin-right: 0px;
+        margin-top: 3vh;
+    }
+    .endLineSnakes
+    {
+        top: -444%
+    }
+}
+
+/*------------ Desktop Responisve 1400 x 900 ---------------*/
+@media (min-width: 1400px) and (max-width: 1499px) 
+and (min-height: 851px) and (max-height: 901px)
+{
+    #snakeSubTwo 
+    {
+        top: -596px;
+    }
+
+
+    #snakeSubThree 
+    {
+        top: 290px;
+    }
+
+    #snakeSubFour 
+    {
+        top: 1968px;
+    }
+
+    #snakeSubFive 
+    {
+        top: 2933px;
+    }
+
+    #snakeSubSix 
+    {
+        top: 4752px;
+        height: 15vh;
+    }
+
+    .snakesCopyOne 
+    {
+        font-size: 14px;
+        line-height: 17px;
+        top: -40%;
+    }
+    #snakeCopyFour
+    { 
+        top: -66.2%;
+    }
+    .snakecopyOneResponsive
+    {
+        top: -39% !important;
+    }
+
+    .snakesCopyTwo
+    {
+        top: 18% !important;
+    }
+
+    .snakesCopyThree
+    {
+        top: -1% !important;
+    }
+
+    #snakeGridOne 
+    {
+        top: 8.5%;
+        left: -43.9%;
+    }
+
+    #snakeGridTwo 
+    {
+        top: -31%;
+        left: -39.18%;
+    }
+
+    #snakeGridThree 
+    {
+        top: -8%;
+        left: -43.9%;
+    }
+
+    #snakeGridFour 
+    {
+        top: -36%;
+        left: -16.9%;
+    }
+    
+    #snakeFour 
+    {
+        top: -35%;
+        left: 34.6%;
+    }
+
+    #snakeFive 
+    {
+        top: -30%;
+  
+    }
+
+    #snakeSeven 
+    {
+        top: 16%;
+
+    }
+
+    #snakeEight 
+    {
+        top: -401px;
+        left: 34.7%;
+    }
+
+    #snakeTen 
+    {
+        top: -41%;
+        left: -32.9%;
+    }
+    
+    #SnakeVideoOne 
+    {
+        top: -27%;
+    }
+
+    #SnakeVideoTwo 
+    {
+        top: -35%;
+    }
+
+    #SnakeVideoThree 
+    {
+        top: 16%;
+    }
+
+    #SnakeVideoFour 
+    {
+        top: 0%;
+    }
+
+    #snakeImageDescriptionOne 
+    {
+        top: -32%;
+        left: 35.3%;
+    }
+
+    #snakeImageDescriptionTwo 
+    {
+        top: -780%;
+    }
+
+    #gridImageMiddleSnakesHor 
+    {
+        width: 23.6vw;
+        margin-left: 0.8vw;
+        margin-right: 0px;
+        margin-top: 3vh;
+    }
+    
+    .endLineSnakes {
+  
+    top: -800%;
+    }
+}
+
+/*------------ Desktop Responisve 1536 x 730 ---------------*/
 @media (min-width: 1500px) and (max-width: 1599px) 
 {
+
     #snakeSubTwo {
         top: -31.2vh;
     }
@@ -621,7 +2217,7 @@
     }
 
     #snakeSubFive {
-        top: 544.5vh;
+        top: 549.5vh;
     }
 
     #snakeTwo {
@@ -645,16 +2241,16 @@
     }
 
     #snakeGridFour {
-        top: -63%;
+        top: -55%;
         left: -16.7%;
     }
 
     #snakeSubFive {
-        top: 544.5vh;
+        top: 549.5vh;
     }
 
     #snakeSubSix {
-        top: 671vh;
+        top: 677vh;
         height: 15vh;
     }
 
@@ -667,7 +2263,7 @@
 
     .snakesCopyTwo
     {
-        top: 10%;
+        top: 18%;
         left: 35.3%;
         font-size: 17px;
         line-height: 20px;
@@ -702,7 +2298,7 @@
     }
 
     #snakeEight {
-        top: -46.1%;
+        top: -47.5%;
         left: 34.7%;
     }
 
@@ -712,7 +2308,7 @@
     }
 
     #snakeTen {
-        top: -65%;
+        top: -62%;
         left: -32.9%;
     }
 
@@ -758,36 +2354,587 @@
     }
 }
 
+/*------------ Desktop Responisve 1536 x 757 ---------------*/
+@media (min-width: 1500px) and (max-width: 1599px) 
+and (min-height: 751px) and (max-height: 780px) 
+{
+
+    #snakeSubTwo {
+        top: -293px;
+    }
+
+
+    #snakeSubThree {
+        top: 902px;
+    }
+
+    #snakeSubFour {
+        top: 2668px;
+    }
+
+    #snakeSubFive {
+        top: 544.5vh;
+    }
+
+    #snakeTwo {
+        top: 22%;
+        left: 7.7%;
+    }
+
+    #snakeThree {
+        top: 15%;
+
+    }
+
+    #snakeGridOne {
+        top: 8.5%;
+        left: -43.7%;
+    }
+
+    #snakeGridTwo {
+        top: -51%;
+        left: -39%;
+    }
+
+    #snakeGridThree {
+        top: -15.9%;
+        left: -43.7%;
+    }
+
+    #snakeGridFour {
+        top: -53%;
+        left: -16.7%;
+    }
+
+    #snakeSubFive {
+        top: 3837px;
+    }
+
+    #snakeSubSix {
+        top: 4852px;
+        height: 15vh;
+    }
+
+    .snakesCopyOne {
+        top: -57%;
+        left: 35.3%;
+        font-size: 17px;
+        line-height: 20px;
+    }
+
+    .snakecopyOneResponsive
+    {
+        top: -53% !important;
+    }
+
+    .snakesCopyTwo
+    {
+        top: 19%;
+        left: 35.3%;
+        font-size: 17px;
+        line-height: 20px;
+    }
+
+    .snakesCopyThree
+    {
+        top: -8%;
+        left: 35.3%;
+        font-size: 17px;
+        line-height: 20px;
+    }
+    #snakeCopyFour
+    { 
+        top: -81.2%;
+    }
+    #snakeFour {
+        top: -54%;
+        left: 34.7%;
+    }
+
+    #snakeFive {
+        top: -49%;
+        left: -32.9%;
+    }
+
+    #snakeSix {
+        top: 22%;
+        left: 7.5%;
+    }
+
+    #snakeSeven {
+        top: 15%;
+
+    }
+
+    #snakeEleven { 
+        top: 20%;
+        left: 7.7%;
+    }
+
+    #snakeEight {
+        top: -518px;
+        left: 34.7%;
+    }
+
+    #snakeNine {
+        top: 21.5%;
+        left: 7.65%;
+    }
+
+    #snakeTen {
+        top: -60%;
+        left: -32.9%;
+    }
+
+    #snakeEleven {
+        top: 20%;
+        left: 7.7%;
+    }
+
+    #snakeThirteen {
+        top: 10%;
+        left: 7.5%;
+    }
+
+    #snakeTwelve {
+        top: 15%;
+        left: -32.9%;
+    }
+
+    #snakeImageDescriptionOne {
+        top: -50%;
+        left: 35.3%;
+    }
+
+    #snakeImageDescriptionTwo {
+        top: -50%;
+
+    }
+
+    #SnakeVideoOne {
+        top: -44%;
+        left: -32.9%;
+    }
+
+    #SnakeVideoTwo {
+        top: -55.5%;
+        left: -32.9%;
+    }
+
+    #SnakeVideoThree {
+        top: 15%;
+  
+    }
+
+    #SnakeVideoFour {
+        top: -6%;
+        left: -32.9%;
+    }
+
+    #gridImageMiddleSnakesHor {
+        width: 23.6vw;
+        margin-left: 0.3vw;
+        margin-right: 5px;
+    }
+    .endLineSnakes {
+        top: -71%;
+    }
+}
+
+/*------------ Desktop Responisve 1536 x 792 ---------------*/
+@media (min-width: 1500px) and (max-width: 1599px) 
+and (min-height: 781px) and (max-height: 810px)
+{
+
+    #snakeSubTwo {
+        top: -350px;
+    }
+
+
+    #snakeSubThree {
+        top: 792px;
+    }
+
+    #snakeSubFour {
+        top: 2566px;
+    }
+
+    #snakeSubFive {
+        top: 3706px;
+    }
+
+    #snakeTwo {
+        top: 22%;
+        left: 7.7%;
+    }
+
+    #snakeThree {
+        top: 16%;
+
+    }
+
+    #snakeGridOne {
+        top: 10.5%;
+        left: -43.7%;
+    }
+
+    #snakeGridTwo {
+        top: -47%;
+        left: -39%;
+    }
+
+    #snakeGridThree {
+        top: -14.9%;
+        left: -43.7%;
+    }
+
+    #snakeGridFour {
+        top: -53%;
+        left: -16.7%;
+    }
+
+    #snakeSubSix {
+        top: 5250px;
+        height: 15vh;
+    }
+
+    .snakesCopyOne {
+        top: -55%;
+        left: 35.3%;
+        font-size: 17px;
+        line-height: 20px;
+    }
+
+    .snakecopyOneResponsive
+    {
+        top: -51% !important;
+    }
+
+    .snakesCopyTwo
+    {
+        top: 14%;
+        left: 35.3%;
+        font-size: 17px;
+        line-height: 20px;
+    }
+
+    .snakesCopyThree
+    {
+        top: -8%;
+        left: 35.3%;
+        font-size: 17px;
+        line-height: 20px;
+    }
+    #snakeCopyFour
+    { 
+        top: -79.2%;
+    }
+    #snakeFour {
+        top: -49%;
+        left: 34.7%;
+    }
+
+    #snakeFive {
+        top: -47%;
+        left: -32.9%;
+    }
+
+    #snakeSix {
+        top: 22%;
+        left: 7.5%;
+    }
+
+    #snakeSeven {
+        top: 16%;
+
+    }
+
+    #snakeEleven { 
+        top: 20%;
+        left: 7.7%;
+    }
+
+    #snakeEight {
+        top: -494px;
+        left: 34.7%;
+    }
+
+    #snakeNine {
+        top: 21.5%;
+        left: 7.65%;
+    }
+
+    #snakeTen {
+        top: -57%;
+        left: -32.9%;
+    }
+
+    #snakeEleven {
+        top: 20%;
+        left: 7.7%;
+    }
+
+    #snakeThirteen {
+        top: 10%;
+        left: 7.5%;
+    }
+
+    #snakeTwelve {
+        top: 15%;
+        left: -32.9%;
+    }
+
+    #snakeImageDescriptionOne {
+        top: -44%;
+        left: 35.3%;
+    }
+
+    #snakeImageDescriptionTwo {
+        top: -500%;
+
+    }
+
+    #SnakeVideoOne {
+        top: -40%;
+        left: -32.9%;
+    }
+
+    #SnakeVideoTwo {
+        top: -51.5%;
+        left: -32.9%;
+    }
+
+    #SnakeVideoThree {
+        top: 16%;
+  
+    }
+
+    #SnakeVideoFour {
+        top: -6%;
+        left: -32.9%;
+    }
+
+    #gridImageMiddleSnakesHor {
+        width: 23.6vw;
+        margin-left: 0.3vw;
+        margin-right: 5px;
+    }
+    .endLineSnakes {
+        top: -520%;
+
+    }
+}
+
+/*------------ Desktop Responisve 1536 x 864 ---------------*/
+@media (min-width: 1500px) and (max-width: 1599px) 
+and (min-height: 811px) and (max-height: 870px)
+{
+
+    #snakeSubTwo {
+        top: -457px;
+    }
+
+    #snakeSubThree {
+        top: 577px;
+    }
+
+    #snakeSubFour {
+        top: 2298px;
+    }
+
+    #snakeSubFive {
+        top: 3398px;
+    }
+
+    #snakeTwo {
+        top: 21%;
+        left: 7.7%;
+    }
+
+    #snakeThree {
+        top: 15%;
+
+    }
+
+    #snakeGridOne {
+        top:8.5%;
+        left: -43.7%;
+    }
+
+    #snakeGridTwo {
+        top: -45%;
+        left: -39%;
+    }
+
+    #snakeGridThree {
+        top: -12.9%;
+        left: -43.7%;
+    }
+
+    #snakeGridFour {
+        top: -47%;
+        left: -16.7%;
+    }
+
+    #snakeSubSix {
+        top: 5641px;
+        height: 15vh;
+    }
+
+    #snakeCopyFour
+    {
+        position: relative;
+        top: -70%;
+    }
+
+    .snakesCopyOne {
+        top: -51%;
+        left: 35.3%;
+        font-size: 17px;
+        line-height: 20px;
+    }
+
+    .snakecopyOneResponsive
+    {
+        top: -45% !important;
+    }
+
+    .snakesCopyTwo
+    {
+        top: 14%;
+        left: 35.3%;
+        font-size: 17px;
+        line-height: 20px;
+    }
+
+    .snakesCopyThree
+    {
+        top: -5%;
+        left: 35.3%;
+        font-size: 17px;
+        line-height: 20px;
+    }
+
+    #snakeFour {
+        top: -48%;
+        left: 34.7%;
+    }
+
+    #snakeFive {
+        top: -43%;
+        left: -32.9%;
+    }
+
+    #snakeSix {
+        top: 22%;
+        left: 7.5%;
+    }
+
+    #snakeSeven {
+        top: 16%;
+
+    }
+
+    #snakeEleven { 
+        top: 20%;
+        left: 7.7%;
+    }
+
+    #snakeEight {
+        top: -502px;
+        left: 34.7%;
+    }
+
+    #snakeNine {
+        top: 21.5%;
+        left: 7.65%;
+    }
+
+    #snakeTen {
+        top: -51%;
+        left: -32.9%;
+    }
+
+    #snakeEleven {
+        top: 20%;
+        left: 7.7%;
+    }
+
+    #snakeThirteen {
+        top: 10%;
+        left: 7.5%;
+    }
+
+    #snakeTwelve {
+        top: 16%;
+        left: -32.9%;
+    }
+
+    #snakeImageDescriptionOne {
+        top: -44%;
+        left: 35.3%;
+    }
+
+    #snakeImageDescriptionTwo {
+        top: -1000%;
+
+    }
+
+    #SnakeVideoOne {
+        top: -37.5%;
+        left: -32.9%;
+    }
+
+    #SnakeVideoTwo {
+        top: -50.5%;
+        left: -32.9%;
+    }
+
+    #SnakeVideoThree {
+        top: 16%;
+  
+    }
+
+    #SnakeVideoFour {
+        top: -2%;
+        left: -32.9%;
+    }
+
+    #gridImageMiddleSnakesHor {
+        width: 23.6vw;
+        margin-left: 0.3vw;
+        margin-right: 5px;
+    }
+    .endLineSnakes {
+        top: -1035%;
+    }
+}
+
+/* ------------ Desktop Responisve 1600 x 750 ---------------*/
 @media (min-width: 1600px) and (max-width: 1699px) 
 {
 
     #snakeSubTwo {
-        top: -29vh;
+        top: -220px;
     }
 
     #snakeSubThree {
-        top: 147vh;
+        top: 1097px;
     }
 
     #snakeSubFour {
-        top: 400vh;
+        top: 2985px;
     }
 
     #snakeSubFive {
-        top: 561.5vh;
+        top: 4185px;
     }
 
     #snakeSubSix {
-        top: 691vh;
+        top: 5152px;
         height: 15vh;
     }
 
-    .copyTextBigger 
-    {
-        top: -86%;
-        font-size: 22px;
-        line-height: 25px;
-    }
 
     #snakeGridOne {
         top: 8.5%;
@@ -871,5 +3018,1514 @@
     .snakesCopyTwo
     {
         top: 15%;
+    }
+}
+
+/*------------ Desktop Responisve 1600 x 829 ---------------*/
+@media (min-width: 1600px) and (max-width: 1699px) 
+and (min-height: 786px) and (max-height: 830px) 
+{
+    
+    #snakeSubTwo {
+        top: -356px;
+    }
+
+    #snakeSubThree {
+        top: 861px;
+    }
+
+    #snakeSubFour {
+        top: 2698px;
+    }
+
+    #snakeSubFive {
+        top: 3829px;
+    }
+
+    #snakeSubSix {
+        top: 5565px;
+        height: 15vh;
+    }
+
+    #snakeGridOne {
+        top: 10.5%;
+        left: -43.6%;
+    }
+
+    #snakeGridTwo {
+        top: -40%;
+        left: -38.85%;
+    }
+
+    #snakeGridThree {
+        top: -12%;
+        left: -43.6%;
+    }
+
+    #snakeGridFour {
+        top: -49%;
+        left: -16.65%;
+    }
+
+    .snakesCopyOne {
+        top: -49%;
+        left: 35.3%;
+        width: 24%;
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    .snakesCopyTwo {
+        top: 19%;
+    }
+
+
+    .snakesCopyThree {
+        top: -5%;
+    }
+    #snakeCopyFour
+    {
+        top: -76%;
+    }
+    #snakeThree {
+        top: 16%;
+    }
+
+    #snakeFour {
+        top: -43%;
+        left: 34.7%;
+    }
+
+    #snakeFive {
+        top: -37%;
+        left: -32.9%;
+    }
+
+    #snakeSeven {
+        top:16%;
+    }
+
+    #snakeEight {
+        top: -423px;
+        left: 34.7%;
+    }
+    #snakeNine {
+        top: 21%;
+        left: 7.65%;
+    }
+
+    #snakeTen {
+        top: -55%;
+        left: -32.9%;
+    }
+
+    #snakeTwelve {
+        top: 17%;
+
+    }
+
+    #snakeThirteen {
+        top: 12%;
+
+    }
+
+    #snakeImageDescriptionOne
+    {
+        top: -44%;
+        left: 35.3%;
+        width: 11%;
+    }
+
+    #snakeImageDescriptionTwo
+    {
+        top: -650%;
+
+    }
+
+    #SnakeVideoOne {
+        top: -33%;
+        left: -32.9%;
+    }
+
+    #gridImageMiddleSnakesHor {
+        width: 23.6vw;
+        margin-left: 0.6vw;
+    }
+
+    #SnakeVideoTwo 
+    {
+        top: -45%;
+        left: -32.9%;
+    }
+    .endLineSnakes {
+        top: -660%;
+    }
+}
+
+/*------------ Desktop Responisve 1600 x 900 ---------------*/
+@media (min-width: 1600px) and (max-width: 1699px) 
+and (min-height: 831px) and (max-height: 900px)  
+{
+     
+    #snakeSubTwo {
+        top: -481px;
+    }
+
+    #snakeSubThree {
+        top: 630px;
+    }
+
+    #snakeSubFour {
+        top: 2442px;
+    }
+
+    #snakeSubFive {
+        top: 3588px;
+    }
+
+    #snakeSubSix {
+        top: 6009px;
+        height: 15vh;
+    }
+
+    #snakeGridOne {
+        top: 9.5%;
+        left: -43.6%;
+    }
+
+    #snakeGridTwo {
+        top: -37%;
+        left: -38.85%;
+    }
+
+    #snakeGridThree {
+        top: -9%;
+        left: -43.6%;
+    }
+
+    #snakeGridFour {
+        top: -40%;
+        left: -16.65%;
+    }
+
+    .snakesCopyOne {
+        top: -45%;
+        left: 35.3%;
+        width: 24%;
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    .snakesCopyTwo {
+        top: 19%;
+    }
+
+
+    .snakesCopyThree {
+        top: -5%;
+    }
+    #snakeCopyFour
+    {
+        top: -73%;
+    }
+    #snakeThree {
+        top: 16%;
+    }
+
+    #snakeFour {
+        top: -39%;
+        left: 34.7%;
+    }
+
+    #snakeFive {
+        top: -34%;
+        left: -32.9%;
+    }
+
+    #snakeSeven {
+        top:16%;
+    }
+
+    #snakeEight {
+        top: -426px;
+        left: 34.7%;
+    }
+    #snakeNine {
+        top: 21%;
+        left: 7.65%;
+    }
+
+    #snakeTen {
+        top: -45%;
+        left: -32.9%;
+    }
+
+    #snakeTwelve {
+        top: 17%;
+
+    }
+
+    #snakeThirteen {
+        top: 12%;
+
+    }
+
+    #snakeImageDescriptionOne
+    {
+        top: -40%;
+        left: 35.3%;
+        width: 11%;
+    }
+
+    #snakeImageDescriptionTwo
+    {
+        top: -1150%;
+
+    }
+
+    #SnakeVideoOne {
+        top: -30%;
+        left: -32.9%;
+    }
+
+    #gridImageMiddleSnakesHor {
+        width: 23.6vw;
+        margin-left: 0.6vw;
+    }
+
+    #SnakeVideoTwo 
+    {
+        top: -42%;
+        left: -32.9%;
+    }
+    #SnakeVideoThree
+    {
+        top: 16%;
+    }
+    .endLineSnakes {
+        top: -1160%;
+    }
+}
+
+/*------------ Desktop Responisve 1600 x 1050 ---------------*/
+@media (min-width: 1600px) and (max-width: 1699px) 
+and (min-height: 901px) and (max-height: 1051px)  
+{
+     
+    #snakeSubTwo {
+        top: -693px;
+    }
+
+    #snakeSubThree {
+        top: 325px;
+    }
+
+    #snakeSubFour {
+        top: 2188px;
+    }
+
+    #snakeSubFive {
+        top: 3312px;
+    }
+
+    #snakeSubSix {
+        top: 7040px;
+        height: 15vh;
+    }
+
+    #snakeGridOne {
+        top: 10.5%;
+        left: -43.6%;
+    }
+
+    #snakeGridTwo {
+        top: -32%;
+        left: -38.85%;
+    }
+
+    #snakeGridThree {
+        top: -5%;
+        left: -43.6%;
+    }
+
+    #snakeGridFour {
+        top: -35%;
+        left: -16.65%;
+    }
+
+    .snakesCopyOne {
+        top: -40%;
+        left: 35.3%;
+        width: 24%;
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    .snakesCopyTwo {
+        top: 19%;
+    }
+
+
+    .snakesCopyThree {
+        top: -3%;
+    }
+    #snakeCopyFour
+    {
+        top: -66%;
+    }
+    #snakeThree {
+        top: 17%;
+    }
+
+    #snakeFour {
+        top: -35%;
+        left: 34.7%;
+    }
+
+    #snakeFive {
+        top: -29%;
+        left: -32.9%;
+    }
+
+    #snakeSeven {
+        top:17%;
+    }
+
+    #snakeEight {
+        top: -401px;
+        left: 34.7%;
+    }
+    #snakeNine {
+        top: 21%;
+        left: 7.65%;
+    }
+
+    #snakeTen {
+        top: -39%;
+        left: -32.9%;
+    }
+
+    #snakeTwelve {
+        top: 18%;
+
+    }
+
+    #snakeThirteen {
+        top: 12%;
+
+    }
+
+    #snakeImageDescriptionOne
+    {
+        top: -27%;
+        left: 35.3%;
+        width: 11%;
+    }
+
+    #snakeImageDescriptionTwo
+    {
+        top: -1850%;
+
+    }
+
+    #SnakeVideoOne {
+        top: -24%;
+        left: -32.9%;
+    }
+
+    #gridImageMiddleSnakesHor {
+        width: 23.6vw;
+        margin-left: 0.6vw;
+    }
+
+    #SnakeVideoTwo 
+    {
+        top: -38%;
+        left: -32.9%;
+    }
+    #SnakeVideoThree
+    {
+        top: 17%;
+    }
+    #SnakeVideoFour 
+    {
+        top: -1%;
+
+    }
+    .endLineSnakes {
+        top: -1860%;
+    }
+
+}
+
+/*------------ Desktop Responisve 1920 x 1080 ---------------*/
+@media (min-width: 1900px) and (max-width: 1999px)
+{
+    .snakesContainer
+    {
+        max-width: 100vw;
+        flex: 100%;
+        z-index: 10;
+        display: block;
+    }
+    
+    #snakeSubTwo
+    {
+        top: -579px;
+    }
+    
+    #snakeSubThree
+    {
+        top: 756px;
+    }
+    
+    #snakeSubFour
+    {
+        top: 2953px;
+    }
+    
+    #snakeSubFive
+    {
+        top: 4327.6px;
+    }
+    
+    #snakeSubSix
+    {
+        top: 5426px;
+        height: 15vh;
+    }
+    
+    #snakeOne
+    {
+        position: relative;
+        top: 0%;
+        left: -4%;
+        z-index: -5;
+        width: 102vw;
+    }
+    
+    #snakeTwo
+    {
+        position: relative;
+        top: 21%;
+        left: 7.5%;
+    }
+    
+    #snakeThree
+    {
+        position: relative;
+        top: 15%;
+        left: -32.9%;
+    }
+    
+    #snakeFour
+    {
+        position: relative;
+        top: -45%;
+        left: 34.7%
+    }
+    
+    #snakeFive
+    {
+        position: relative;
+        top: -40%;
+        left: -32.9%;
+        z-index: -5;
+    }
+    
+    #snakeSix
+    {
+        position: relative;
+        top: 21%;
+        left: 7.5%;
+    }
+    
+    #snakeSeven
+    {
+        position: relative;
+        top: 15%;
+        left: -32.9%;
+    }
+    
+    #snakeEight
+    {
+        position: relative;
+        top: -37.5%;
+        left: 34.7%;
+    }
+    
+    #snakeNine
+    {
+        position: relative;
+        top: 21%;
+        left: 7.5%;
+    }
+    
+    #snakeTen
+    {
+        position: relative;
+        top: -50%;
+        left: -32.9%;
+        z-index: -5;
+    }
+    
+    #snakeEleven
+    {
+        position: relative;
+        top: 20%;
+        left: 7.5%;
+    }
+    
+    #snakeTwelve
+    {
+        position: relative;
+        top: 17%;
+        left: -32.9%;
+        z-index: -5;
+    }
+    
+    #snakeThirteen
+    {
+        position: relative;
+        top: 13%;
+        left: 7.5%;
+    }
+    
+    #snakeGridOne 
+    {
+        position: relative;
+        top: 8.5%;
+        left: -43.3%;
+    }
+    
+    #snakeGridTwo 
+    {
+        position: relative;
+        top: -43%;
+        left: -39%;
+    }
+    
+    #snakeGridThree 
+    {
+        position: relative;
+        top: -12%;
+        left: -43.3%;
+    }
+    
+    #snakeGridFour
+    {
+        position: relative;
+        top: -45%;
+        left: -16.3%;
+    }
+    
+    #snakeImageDescriptionOne
+    {
+        position: relative;
+        top: -45%;
+        left: 35.3%;
+        width: 11%;
+    }
+    
+    #snakeImageDescriptionTwo
+    {
+        position: relative;
+        top: 20%;
+        left: 35.3%;
+        width: 15%;
+    }
+    
+    .snakesCopyOne
+    {
+        position: relative;
+        top: -47%;
+        left: 35.3%;
+        width: 26%;
+        text-align: left;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 25px;
+        font-family: 'Roboto', sans-serif;
+    }
+    
+    .snakesCopyTwo
+    {
+        top: 14%;
+    }
+    
+    .snakesCopyThree
+    {
+        top: -5%;
+    }
+    
+    #gridImageMiddleSnakes
+    {
+        width: 23.6vw;
+        margin-left: 30px;
+        margin-right: 5px;
+        margin-top: 3vh;
+        height: auto;
+        pointer-events: none;
+    }
+    
+    #gridImageMiddleSnakesHor
+    {
+        width: 23.6vw;
+        margin-left: 1vw;
+        margin-right: 5px;
+        margin-top: 3vh;
+        height: auto;
+        pointer-events: none;
+    }
+    
+    #SnakeVideoOne
+    {
+        position: relative;
+        top: -36%;
+        left: -32.9%;
+        width: 55.2vw;
+        height: 55.2vh;
+        z-index: 5;
+    }
+    
+    #SnakeVideoTwo
+    {
+        position: relative;
+        top: -48%;
+        left: -32.9%;
+        width: 55.3vw;
+        height: 55.3vh;
+    }
+    
+    #SnakeVideoThree
+    {
+        position: relative;
+        top: 15%;
+        left: -32.9%;
+        width: 61.5vw;
+        height: 61.3vh;
+    }
+    
+    #SnakeVideoFour
+    {
+        position: relative;
+        top: -3%;
+        left: -32.9%;
+        width: 61.5vw;
+        height: 61.5vh;
+    }
+    
+    .endLineSnakes
+    {
+        width: 64.5vw;
+        height: 1vh;
+        position: relative;
+        top: 0%;
+        left: 0%;
+        border-bottom: 1px solid black;
+    }   
+}
+
+/*------------ Desktop Responisve 1920 x 930 ---------------*/
+@media (min-width: 1900px) and (max-width: 1999px) 
+and (min-height: 920px) and (max-height: 950px) 
+{
+    .snakesContainer
+    {
+        max-width: 100vw;
+        flex: 100%;
+        z-index: 10;
+        display: block;
+    }
+    #snakeSubTwo
+    {
+        top: -309px;
+    }
+    
+    #snakeSubThree
+    {
+        top: 1282px;
+    }
+    
+    #snakeSubFour
+    {
+        top: 3533px;
+    }
+    
+    #snakeSubFive
+    {
+        top: 5061px;
+    }
+    
+    #snakeSubSix
+    {
+        top: 4603px;
+        height: 15vh;
+    }
+    
+    #snakeOne
+    {
+        position: relative;
+        top: 0%;
+        left: -4%;
+        z-index: -5;
+        width: 102vw;
+    }
+    
+    #snakeTwo
+    {
+        position: relative;
+        top: 21%;
+        left: 7.5%;
+    }
+    
+    #snakeThree
+    {
+        position: relative;
+        top: 15%;
+        left: -32.9%;
+    }
+    
+    #snakeFour
+    {
+        position: relative;
+        top: -51%;
+        left: 34.7%
+    }
+    
+    #snakeFive
+    {
+        position: relative;
+        top: -45%;
+        left: -32.9%;
+        z-index: -5;
+    }
+    
+    #snakeSix
+    {
+        position: relative;
+        top: 21%;
+        left: 7.5%;
+    }
+    
+    #snakeSeven
+    {
+        position: relative;
+        top: 15%;
+        left: -32.9%;
+    }
+    
+    #snakeEight
+    {
+        position: relative;
+        top: -627px;
+        left: 34.7%;
+    }
+    
+    #snakeNine
+    {
+        position: relative;
+        top: 21%;
+        left: 7.5%;
+    }
+    
+    #snakeTen
+    {
+        position: relative;
+        top: -56%;
+        left: -32.9%;
+        z-index: -5;
+    }
+    
+    #snakeEleven
+    {
+        position: relative;
+        top: 20%;
+        left: 7.5%;
+    }
+    
+    #snakeTwelve
+    {
+        position: relative;
+        top: 17%;
+        left: -32.9%;
+        z-index: -5;
+    }
+    
+    #snakeThirteen
+    {
+        position: relative;
+        top: 13%;
+        left: 7.5%;
+    }
+    
+    #snakeGridOne 
+    {
+        position: relative;
+        top: 8.5%;
+        left: -43.3%;
+    }
+    
+    #snakeGridTwo 
+    {
+        position: relative;
+        top: -49%;
+        left: -39%;
+    }
+    
+    #snakeGridThree 
+    {
+        position: relative;
+        top: -14%;
+        left: -43.3%;
+    }
+    
+    #snakeGridFour
+    {
+        position: relative;
+        top: -50%;
+        left: -16.3%;
+    }
+    
+    #snakeImageDescriptionOne
+    {
+        position: relative;
+        top: -45%;
+        left: 35.3%;
+        width: 11%;
+    }
+    
+    #snakeImageDescriptionTwo
+    {
+        position: relative;
+        top: 1210%;
+        left: 35.3%;
+        width: 15%;
+    }
+    
+    .snakesCopyOne
+    {
+        position: relative;
+        top: -52%;
+        left: 35.3%;
+        width: 26%;
+        text-align: left;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 25px;
+        font-family: 'Roboto', sans-serif;
+    }
+    .snakesCopyTwo
+    {
+        top: 18%;
+    }
+    .snakesCopyThree
+    {
+        top: -5%;
+    }
+    #snakeCopyFour
+    {
+        top: -84%;
+    }
+    #gridImageMiddleSnakes
+    {
+        width: 23.6vw;
+        margin-left: 30px;
+        margin-right: 5px;
+        margin-top: 3vh;
+        height: auto;
+        pointer-events: none;
+    }
+    
+    #gridImageMiddleSnakesHor
+    {
+        width: 23.6vw;
+        margin-left: 1vw;
+        margin-right: 5px;
+        margin-top: 3vh;
+        height: auto;
+        pointer-events: none;
+    }
+    
+    #SnakeVideoOne
+    {
+        position: relative;
+        top: -43%;
+        left: -32.9%;
+        width: 55.2vw;
+        height: 55.2vh;
+        z-index: 5;
+    }
+    
+    #SnakeVideoTwo
+    {
+        position: relative;
+        top: -54%;
+        left: -32.9%;
+        width: 55.3vw;
+        height: 55.3vh;
+    }
+    
+    #SnakeVideoThree
+    {
+        position: relative;
+        top: 15%;
+        left: -32.9%;
+        width: 61.5vw;
+        height: 61.3vh;
+    }
+    
+    #SnakeVideoFour
+    {
+        position: relative;
+        top: -3%;
+        left: -32.9%;
+        width: 61.5vw;
+        height: 61.5vh;
+    }
+    
+    .endLineSnakes
+    {
+        width: 64.5vw;
+        height: 1vh;
+        position: relative;
+        top: 0%;
+        left: 0%;
+        border-bottom: 1px solid black;
+    }
+    .endLineSnakes {
+        top: 1201%;
+    }
+}
+
+/*------------ Desktop Responisve 1920 x 1007 ---------------*/
+@media (min-width: 1900px) and (max-width: 1999px) 
+and (min-height: 951px) and (max-height: 1008px) 
+{
+    .snakesContainer
+    {
+        max-width: 100vw;
+        flex: 100%;
+        z-index: 10;
+        display: block;
+    }
+    #snakeSubTwo
+    {
+        top: -443.08px;
+    }
+    
+    #snakeSubThree
+    {
+        top: 996.93px;
+    }
+    
+    #snakeSubFour
+    {
+        top: 3257.64px;
+    }
+    
+    #snakeSubFive
+    {
+        top: 4652px;
+    }
+    
+    #snakeSubSix
+    {
+        top: 4984.65px;
+        height: 15vh;
+    }
+    
+    #snakeOne
+    {
+        position: relative;
+        top: 0%;
+        left: -4%;
+        z-index: -5;
+        width: 102vw;
+    }
+    
+    #snakeTwo
+    {
+        position: relative;
+        top: 21%;
+        left: 7.5%;
+    }
+    
+    #snakeThree
+    {
+        position: relative;
+        top: 15%;
+        left: -32.9%;
+    }
+    
+    #snakeFour
+    {
+        position: relative;
+        top: -49%;
+        left: 34.7%
+    }
+    
+    #snakeFive
+    {
+        position: relative;
+        top: -43%;
+        left: -32.9%;
+        z-index: -5;
+    }
+    
+    #snakeSix
+    {
+        position: relative;
+        top: 21%;
+        left: 7.5%;
+    }
+    
+    #snakeSeven
+    {
+        position: relative;
+        top: 15%;
+        left: -32.9%;
+    }
+    
+    #snakeEight
+    {
+        position: relative;
+        top: -617px;
+        left: 34.7%;
+    }
+    
+    #snakeNine
+    {
+        position: relative;
+        top: 21%;
+        left: 7.5%;
+    }
+    
+    #snakeTen
+    {
+        position: relative;
+        top: -56%;
+        left: -32.9%;
+        z-index: -5;
+    }
+    
+    #snakeEleven
+    {
+        position: relative;
+        top: 20%;
+        left: 7.5%;
+    }
+    
+    #snakeTwelve
+    {
+        position: relative;
+        top: 17%;
+        left: -32.9%;
+        z-index: -5;
+    }
+    
+    #snakeThirteen
+    {
+        position: relative;
+        top: 13%;
+        left: 7.5%;
+    }
+    
+    #snakeGridOne 
+    {
+        position: relative;
+        top: 8.5%;
+        left: -43.3%;
+    }
+    
+    #snakeGridTwo 
+    {
+        position: relative;
+        top: -43%;
+        left: -39%;
+    }
+    
+    #snakeGridThree 
+    {
+        position: relative;
+        top: -14%;
+        left: -43.3%;
+    }
+    
+    #snakeGridFour
+    {
+        position: relative;
+        top: -50%;
+        left: -16.3%;
+    }
+    
+    #snakeImageDescriptionOne
+    {
+        position: relative;
+        top: -43%;
+        left: 35.3%;
+        width: 11%;
+    }
+    
+    #snakeImageDescriptionTwo
+    {
+        position: relative;
+        top: 580%;
+        left: 35.3%;
+        width: 15%;
+    }
+    
+    .snakesCopyOne
+    {
+        position: relative;
+        top: -53%;
+        left: 35.3%;
+        width: 26%;
+        text-align: left;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 25px;
+        font-family: 'Roboto', sans-serif;
+    }
+    
+    .snakecopyOneResponsive
+    {
+        top: -47% !important;
+    }
+
+    .snakesCopyTwo
+    {
+        top: 18%;
+    }
+    
+    .snakesCopyThree
+    {
+        top: -5%;
+    }
+    #snakeCopyFour
+    {
+        top: -78%;
+    }
+    #gridImageMiddleSnakes
+    {
+        width: 23.6vw;
+        margin-left: 30px;
+        margin-right: 5px;
+        margin-top: 3vh;
+        height: auto;
+        pointer-events: none;
+    }
+    
+    #gridImageMiddleSnakesHor
+    {
+        width: 23.6vw;
+        margin-left: 1vw;
+        margin-right: 5px;
+        margin-top: 3vh;
+        height: auto;
+        pointer-events: none;
+    }
+    
+    #SnakeVideoOne
+    {
+        position: relative;
+        top: -39%;
+        left: -32.9%;
+        width: 55.2vw;
+        height: 55.2vh;
+        z-index: 5;
+    }
+    
+    #SnakeVideoTwo
+    {
+        position: relative;
+        top: -48%;
+        left: -32.9%;
+        width: 55.3vw;
+        height: 55.3vh;
+    }
+    
+    #SnakeVideoThree
+    {
+        position: relative;
+        top: 15%;
+        left: -32.9%;
+        width: 61.5vw;
+        height: 61.3vh;
+    }
+    
+    #SnakeVideoFour
+    {
+        position: relative;
+        top: -3%;
+        left: -32.9%;
+        width: 61.5vw;
+        height: 61.5vh;
+    }
+    
+    .endLineSnakes
+    {
+        width: 64.5vw;
+        height: 1vh;
+        position: relative;
+        top: 0%;
+        left: 0%;
+        border-bottom: 1px solid black;
+    }
+    .endLineSnakes 
+    {
+        top: 560%;
+    }
+} 
+
+/*------------ Desktop Responisve 1920 x 1200 ---------------*/
+@media (min-width: 1900px) and (max-width: 1999px) 
+and (min-height: 1101px) and (max-height: 1210px)
+{
+    .snakesContainer
+    {
+        max-width: 100vw;
+        flex: 100%;
+        z-index: 10;
+        display: block;
+    }
+    #snakeSubTwo
+    {
+        top: -65.5vh;
+    }
+    #snakeSubThree
+    {
+        top: 35vh;
+    }
+    #snakeSubFour
+    {
+        top: 219.5vh;
+    }
+    #snakeSubFive
+    {
+        top: 328vh;
+    }
+    #snakeSubSix
+    {
+        top: 495vh;
+        height: 15vh;
+    }
+    #snakeOne
+    {
+        position: relative;
+        top: 0%;
+        left: -4%;
+        z-index: -5;
+        width: 102vw;
+    }
+    #snakeTwo
+    {
+        position: relative;
+        top: 21%;
+        left: 7.5%;
+    }
+    #snakeThree
+    {
+        position: relative;
+        top: 15%;
+        left: -32.9%;
+    }
+    #snakeFour
+    {
+        position: relative;
+        top: -38%;
+        left: 34.7%
+    }
+    #snakeFive
+    {
+        position: relative;
+        top: -33%;
+        left: -32.9%;
+        z-index: -5;
+    }
+    #snakeSix
+    {
+        position: relative;
+        top: 21%;
+        left: 7.5%;
+    }
+    #snakeSeven
+    {
+        position: relative;
+        top: 15%;
+        left: -32.9%;
+    }
+    #snakeEight
+    {
+        position: relative;
+        top: -592px;
+        left: 34.7%;
+    }
+    #snakeNine
+    {
+        position: relative;
+        top: 21%;
+        left: 7.5%;
+    }
+    #snakeTen
+    {
+        position: relative;
+        top: -43%;
+        left: -32.9%;
+        z-index: -5;
+    }
+    #snakeEleven
+    {
+        position: relative;
+        top: 20%;
+        left: 7.5%;
+    }
+    #snakeTwelve
+    {
+        position: relative;
+        top: 17%;
+        left: -32.9%;
+        z-index: -5;
+    }
+    #snakeThirteen
+    {
+        position: relative;
+        top: 13%;
+        left: 7.5%;
+    }
+    #snakeGridOne 
+    {
+        position: relative;
+        top: 8.5%;
+        left: -43.3%;
+    }
+    #snakeGridTwo 
+    {
+        position: relative;
+        top: -36%;
+        left: -39%;
+    }
+    #snakeGridThree 
+    {
+        position: relative;
+        top: -11%;
+        left: -43.3%;
+    }
+    #snakeGridFour
+    {
+        position: relative;
+        top: -39%;
+        left: -16.3%;
+    }
+    #snakeImageDescriptionOne
+    {
+        position: relative;
+        top: -36%;
+        left: 35.3%;
+        width: 11%;
+    }
+    #snakeImageDescriptionTwo
+    {
+        position: relative;
+        top: -500%;
+        left: 35.3%;
+        width: 15%;
+    }
+    .snakesCopyOne
+    {
+        position: relative;
+        top: -42%;
+        left: 35.3%;
+        width: 26%;
+        text-align: left;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 25px;
+        font-family: 'Roboto', sans-serif;
+    }
+    
+    .snakecopyOneResponsive
+    {
+        top: -39% !important;
+    }
+
+    .snakesCopyTwo
+    {
+        top: 16%;
+    }
+    
+    .snakesCopyThree
+    {
+        top: -1%;
+    }
+    #snakeCopyFour
+    {
+        top: -67%;
+    }
+    #gridImageMiddleSnakes
+    {
+        width: 23.6vw;
+        margin-left: 30px;
+        margin-right: 5px;
+        margin-top: 3vh;
+        height: auto;
+        pointer-events: none;
+    }
+    
+    #gridImageMiddleSnakesHor
+    {
+        width: 23.6vw;
+        margin-left: 1vw;
+        margin-right: 5px;
+        margin-top: 3vh;
+        height: auto;
+        pointer-events: none;
+    }
+    
+    #SnakeVideoOne
+    {
+        position: relative;
+        top: -31%;
+        left: -32.9%;
+        width: 55.2vw;
+        height: 55.2vh;
+        z-index: 5;
+    }
+    
+    #SnakeVideoTwo
+    {
+        position: relative;
+        top: -41%;
+        left: -32.9%;
+        width: 55.3vw;
+        height: 55.3vh;
+    }
+    
+    #SnakeVideoThree
+    {
+        position: relative;
+        top: 15%;
+        left: -32.9%;
+        width: 61.5vw;
+        height: 61.3vh;
+    }
+    
+    #SnakeVideoFour
+    {
+        position: relative;
+        top: 1%;
+        left: -32.9%;
+        width: 61.5vw;
+        height: 61.5vh;
+    }
+    
+    .endLineSnakes
+    {
+        width: 64.5vw;
+        height: 1vh;
+        position: relative;
+        top: -514%;
+        left: 0%;
+        border-bottom: 1px solid black;
     }
 }

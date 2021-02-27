@@ -207,12 +207,25 @@ function FadeInOut (windowName,loadFunc)
   setTimeout(function()
   {
     loadFunc();
-    // $(windowName).ready( function() {
-    //   $('.Layout__wrapper-container').fadeIn(1000);
-    // });
-    $(windowName.document).ready(function() {
+    $(function() {
+      function imageLoaded() {
+         counter--; 
+         if( counter === 0 ) {
             $('.Layout__wrapper-container').fadeIn(1000);
-    });
+         }
+      }
+      var images = $('img');
+      var counter = images.length;
+  
+      images.each(function() {
+          if( this.complete ) {
+              imageLoaded.call( this );
+          } else {
+              $(this).one('load', imageLoaded);
+          }
+      });
+  });
+
   },700);
 }
 
