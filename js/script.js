@@ -207,11 +207,13 @@ function FadeInOut (windowName,loadFunc)
   setTimeout(function()
   {
     loadFunc();
-    $(windowName).ready( function() {
-      $('.Layout__wrapper-container').fadeIn(1000);
-  });
-  }, 700);
-  
+    // $(windowName).ready( function() {
+    //   $('.Layout__wrapper-container').fadeIn(1000);
+    // });
+    $(windowName.document).ready(function() {
+            $('.Layout__wrapper-container').fadeIn(1000);
+    });
+  },700);
 }
 
 var section = $('li');
