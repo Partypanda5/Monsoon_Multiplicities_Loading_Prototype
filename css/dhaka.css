@@ -16,60 +16,47 @@
     top: -15vh;
 }
 
-#dhakaSubFour
-{
-    top: 80vh;
+#dhakaSubFour {
+    top: 89vh;
+}
+#dhakaSubFive {
+    top: 267vh;
+}
+#dhakaSubSix {
+    top: 471.6vh;
+}
+#dhakaSubSeven {
+    top: 496vh;
 }
 
-#dhakaSubFive
-{
-    top: 260vh;
+#dhakaSubEight {
+    top: 678vh;
 }
 
-#dhakaSubSix
-{
-    top: 470vh;
+#dhakaSubNine {
+    top: 741vh;
 }
 
-#dhakaSubSeven
-{
-    top: 495vh;
+#dhakaSubTen {
+    top: 793.1vh;
 }
 
-#dhakaSubEight  
-{
-    top: 680vh;
-}
-
-#dhakaSubNine
-{
-    top: 745vh;
-}
-
-#dhakaSubTen
-{
-    top: 800vh;
-}
-
-#dhakaOne
-{
+#dhakaOne {
     position: relative;
-    top: 27%;
-    left: -32.9%;
-    width: 61.5vw;
+    top: 19%;
+    left: -0.2%;
+    width: 96.1vw;
+    z-index: -10;
 }
 
-#dhakaTwo
-{
+#dhakaTwo {
     position: relative;
-    top: 4%;
-    left: 7.75%;    
+    top: -17.3%;
+    left: 7.75%;
 }
-
-#dhakaThree
-{
+#dhakaThree {
     position: relative;
-    top: -9%;
+    top: -30%;
     left: 34.7%;
 }
 
@@ -122,11 +109,10 @@
     z-index: -5;
 }
 
-#DhakaVideoTwo
-{
+#DhakaVideoTwo {
     position: relative;
     left: -32.9%;
-    top: 16%;
+    top: -5%;
     width: 36vw;
     height: 36vh;
     z-index: 0;
@@ -182,13 +168,11 @@
     z-index: 5;
 }
 
-#dhakaImageDescriptionOne 
-{
+#dhakaImageDescriptionOne {
     position: relative;
-    top: 81%;
+    top: 85%;
     left: 8.3%;
     width: 14%;
-    z-index: 5;
 }
 
 #dhakaImageDescriptionTwo
@@ -393,13 +377,11 @@
     width: 22%; 
 }
 
-#dhakaGridOne
-{
+#dhakaGridOne {
     position: relative;
     left: -43.3%;
-    top: 11%;
+    top: 19%;
 }
-
 #dhakaGridTwo
 {
     position: relative;
@@ -629,7 +611,9 @@ figure.containerZoom:hover
     position: relative;
     top: -1%;
 }
-
+/*-------------Responsivenes----------*/
+/*-------1200s------*/
+/*--main--*/
 @media(max-width: 1299px) 
 {
     #DhakaVideoOne 
@@ -638,46 +622,39 @@ figure.containerZoom:hover
         top: -40%;
     }
 
-    #dhakaSubTwo 
-    {
-        top: -50vh;
-    }
+  #dhakaSubTwo {
+    top: -55vh;
+}
+	#dhakaSubThree {
+    top: -18vh;
+}
 
-    #dhakaSubFour 
-    {
-        top: 132vh;
-    }
+  
+#dhakaSubFour {
+    top: 139vh;
+}
 
-    #dhakaSubFive
-    {
-        top: 385vh;
-    }
+#dhakaSubFive {
+    top: 392vh;
+}
 
     #dhakaSubSix 
     {
         top: 665vh;
     }
 
-    #dhakaSubSeven 
-    {
-        top: 740vh;
-    }
-
-    #dhakaSubEight 
-    {
-        top: 990vh;
-    }
-
-    #dhakaSubNine 
-    {
-        top: 1085vh;
-    }
-
-    #dhakaSubTen 
-    {
-        top: 1185vh;
-    }
-
+#dhakaSubSeven {
+    top: 734vh;
+}
+#dhakaSubEight {
+    top: 980vh;
+}
+#dhakaSubNine {
+    top: 1075vh;
+}
+#dhakaSubTen {
+    top: 1173vh;
+}
     #dhakaImageDescriptionOne 
     {
         top: 92%;
@@ -691,10 +668,10 @@ figure.containerZoom:hover
         left: 35.3%;
     }
 
-    #dhakaImageDescriptionThree 
-    {
-        top: 37%;
-    }
+  #dhakaImageDescriptionTwo {
+    top: 29%;
+    left: 35.3%;
+}
 
     #dhakaImageDescriptionFour 
     {
@@ -803,11 +780,10 @@ figure.containerZoom:hover
         top: 32%;
     }
 
-    #DhakaVideoTwo 
-    {
-        left: -32.9%;
-        top: 15%;
-    }
+#DhakaVideoTwo {
+    left: -32.9%;
+    top: -9%;
+}
 
     #DhakaVideoThree 
     {
@@ -835,28 +811,23 @@ figure.containerZoom:hover
         top: -10.2%;
     }
 
-    #dhakaOne 
-    {
-        top: 31%;
-    }
+ #dhakaOne {
+    top: 21%;
+}
 
-    #dhakaTwo 
-    {
-        top: 3%;
-        left: 7.5%;
-    }
+#dhakaTwo {
+    top: -21%;
+    left: 7.5%;
+}
+#dhakaThree {
+    top: -39%;
+    left: 34.5%;
+}
+#dhakaFour {
+    top: 34%;
+    left: -32.9%;
+}
 
-    #dhakaThree 
-    {
-        top: -15%;
-        left: 34.5%;
-    }
-
-    #dhakaFour 
-    {
-        top: 38%;
-        left: -32.9%;
-    }
 
     #dhakaFive {
         left: 30.6%;
@@ -873,11 +844,11 @@ figure.containerZoom:hover
         top: 33%;
     }
 
-    #dhakaGridOne 
-    {
-        left: -44.2%;
-        top: 15%;
-    }
+ 
+#dhakaGridOne {
+    left: -44.2%;
+    top: 22%;
+}
 
     #dhakaGridTwo 
     {
@@ -999,7 +970,9 @@ figure.containerZoom:hover
     }
 }
 
-@media(max-width: 1299px) and (min-height: 680px) and (max-height: 801px) 
+/*--height--*/
+/*-- 1280 x 800 --*/
+@media(max-width: 1299px) and (min-height: 799px) and (max-height: 801px) 
 {
     #DhakaVideoOne 
     {
@@ -1007,47 +980,39 @@ figure.containerZoom:hover
         top: -40%;
     }
 
-    #dhakaSubTwo 
-    {
-        top: -450px;
-    }
-
-    #dhakaSubThree {
-        top: -365px;
+    #dhakaSubTwo {
+    top: -440px;
 }
 
-    #dhakaSubFour 
-    {
-        top: 225px;
-    }
+#dhakaSubThree {
+    top: -467px;
+}
 
-    #dhakaSubFive {
-        top: 1530px;
-    }
+   #dhakaSubFour {
+    top: 197px;
+}
+#dhakaSubFive {
+    top: 1453px;
+}
 
-    #dhakaSubSix {
-        top: 2970px;
-    }
-
-    #dhakaSubSeven 
-    {
-        top: 3230px
-    }
-
-    #dhakaSubEight {
-        top: 4570px;
-    }
-    #dhakaSubNine 
-    {
-        top: 5000px;
-    }
-
-    #dhakaSubTen {
-        top: 5300px;
-    }
+#dhakaSubSix {
+    top: 2880px;
+}
+#dhakaSubSeven {
+    top: 3120px;
+}
+#dhakaSubEight {
+    top: 4432px;
+}
+#dhakaSubNine {
+    top: 4849px;
+}
+#dhakaSubTen {
+    top: 5131px;
+}
 
     #dhakaImageDescriptionOne {
-        top: 74%;
+        top: 67%;
         left: 8.3%;
         z-index: 5;
     }
@@ -1061,9 +1026,9 @@ figure.containerZoom:hover
         top: 28%;
     }
 
-    #dhakaImageDescriptionFour {
-        top: 32.7%;
-    }
+   #dhakaImageDescriptionFour {
+    top: 26.7%;
+}
 
     #dhakaImageDescriptionFive {
         top: 4%;
@@ -1147,9 +1112,9 @@ figure.containerZoom:hover
         width: 18%;
     }   
 
-    .leftQuoteDhakaTwo {
-        top: 29%;
-    }
+  .leftQuoteDhakaTwo {
+    top: 24.4%;
+}
 
     .leftQuoteDhakaThree 
     {
@@ -1164,7 +1129,7 @@ figure.containerZoom:hover
     #DhakaVideoTwo 
     {
         left: -32.9%;
-        top: 15%;
+        top: -8.6%;
     }
 
     #DhakaVideoThree {
@@ -1192,28 +1157,28 @@ figure.containerZoom:hover
 
     #dhakaOne 
     {
-        top: 31%;
+        top: 16%;
     }
 
-    #dhakaTwo 
-    {
-        top: 3%;
-        left: 7.5%;
-    }
+   #dhakaTwo {
+    top: -22%;
+    left: 7.5%;
+}
 
-  #dhakaThree {
-    top: -9%;
+#dhakaThree {
+    top: -33%;
     left: 34.5%;
 }
+
 
 #dhakaFour {
     top: 27%;
     left: -32.9%;
 }
 
-    #dhakaFive {
-        left: 30.6%;
-    }
+  #dhakaFive {
+    top: -5%;
+}
 
     #dhakaSeven 
     {
@@ -1226,16 +1191,14 @@ figure.containerZoom:hover
         top: 33%;
     }
 
-    #dhakaGridOne {
-        left: -44.2%;
-        top: 8%;
-    }
-
-    #dhakaGridTwo 
-    {
-        left: -17.3%;
-        top: -65%;
-    }
+   #dhakaGridOne {
+    left: -44.2%;
+    top: 17%;
+}
+#dhakaGridTwo {
+    left: -17.3%;
+    top: -55%;
+}
 
     #dhakaGridThree {
         left: -49.2%;
@@ -1313,10 +1276,10 @@ figure.containerZoom:hover
         left: -32.5%;
     }
 
-    .dhakaMapContainer {
-        top: 8%;
-        left: 0.6%;
-    }    
+ .dhakaMapContainer {
+    top: 2.3%;
+    left: 0.6%;
+}    
     .dhakaMapContainerTwo {
         top: -38%;
     }
@@ -1333,6 +1296,8 @@ figure.containerZoom:hover
     }
 }
 
+
+/*--1366 x768--*/
 @media (min-width: 1300px) and (max-width: 1399px) 
 {
 
@@ -1346,68 +1311,51 @@ figure.containerZoom:hover
         top: -48vh;
     }
 
-    #dhakaSubThree 
-    {
-        top: -46vh;
-    }
+#dhakaSubThree {
+    top: -38.6vh;
+}
 
-    #dhakaSubFour 
-    {
-        top: 44vh;
-    }
+    #dhakaSubFour {
+    top: 58vh;
+}
+#dhakaSubFive {
+    top: 229vh;
+}
+#dhakaSubSix {
+    top: 425vh;
+}
+#dhakaSubSeven {
+    top: 435vh;
+}
+#dhakaSubEight {
+    top: 613vh;
+}
+#dhakaSubNine {
+    top: 663vh;
+}
+#dhakaSubNine {
+    top: 663vh;
+}
+#dhakaSubTen {
+    top: 715vh;
+}
 
-    #dhakaSubFive 
-    {
-        top: 214vh;
-    }
+#dhakaOne {
+    top: 24%;
+}
 
-    #dhakaSubSix 
-    {
-        top: 414vh;
-    }
-
-    #dhakaSubSeven 
-    {
-        top: 423vh;
-    }
-
-    #dhakaSubEight 
-    {
-        top: 605vh;
-    }
-
-    #dhakaSubNine 
-    {
-        top: 656vh;
-    }
-
-    #dhakaSubTen 
-    {
-        top: 710vh;
-    }
-
-    #dhakaOne 
-    {
-        top: 31%;
-    }
-
-    #dhakaTwo 
-    {
-        top: 4%;
-        left: 7.65%;
-    }
-
-    #dhakaThree 
-    {
-        top: -10%;
-        left: 34.5%;
-    }
-
-    #dhakaFour 
-    {
-        top: 32%;
-        left: -32.9%;
-    }
+#dhakaTwo {
+    top: -15%;
+    left: 7.65%;
+}
+#dhakaThree {
+    top: -29%;
+    left: 34.5%;
+}
+#dhakaFour {
+    top: 29%;
+    left: -32.9%;
+}
 
     #dhakaFive 
     {
@@ -1428,17 +1376,14 @@ figure.containerZoom:hover
         left: -32.9%;
     }
 
-    #dhakaGridOne 
-    {
-        left: -44%;
-        top: 13%;
-    }
-
-    #dhakaGridTwo 
-    {
-        left: -17%;
-        top: -57%;
-    }
+#dhakaGridTwo {
+    left: -17%;
+    top: -60%;
+}
+#dhakaGridOne {
+    left: -44%;
+    top: 18%;
+}
 
     #dhakaGridThree 
     {
@@ -1524,17 +1469,16 @@ figure.containerZoom:hover
         left: -32.4%;
     }
 
-    #dhakaImageDescriptionOne 
-    {
-        top: 85%;
-        left: 8.3%;
-    }
 
-    #dhakaImageDescriptionTwo 
-    {
-        top: 27%;
-        left: 35.3%;
-    }
+#dhakaImageDescriptionOne {
+    top: 79%;
+    left: 8.3%;
+}
+
+#dhakaImageDescriptionTwo {
+    top: 24%;
+    left: 35.3%;
+}
 
     #dhakaImageDescriptionThree 
     {
@@ -1590,7 +1534,9 @@ figure.containerZoom:hover
     {
         top: 28.5%;
     }
-
+#DhakaVideoTwo {
+    top: -2.7%;
+}
     #DhakaVideoSix 
     {
         left: 18.3%;
@@ -1609,7 +1555,7 @@ figure.containerZoom:hover
     }
 
 }
-
+/*--1366 x 695--*/
 @media (min-width: 1300px) and (max-width: 1399px) and (min-height: 680px) and (max-height: 749px)
 {
     #dhakaSubOne
@@ -1626,60 +1572,51 @@ figure.containerZoom:hover
         z-index: -5;
     }    
 
-    #dhakaSubTwo {
-        top: -310px;
-    }
+   
+#dhakaSubTwo {
+    top: -310px;
+}
 
     #dhakaSubThree {
-        top: -180px;
+        top: -137px;
     }
 
-    #dhakaSubFour {
-        top: 650px;
-    }
+#dhakaSubFour {
+    top: 101vh;
+}
+#dhakaSubFive {
+    top: 300vh;
+}
+#dhakaSubSix {
+    top: 540vh;
+}
+#dhakaSubSeven {
+    top: 570vh;
+}
+#dhakaSubEight {
+    top: 780vh;
+}
+#dhakaSubNine {
+    top: 850vh;
+}
+#dhakaSubTen {
+    top: 926vh;
+}
 
-    #dhakaSubFive {
-        top: 2050px;
-    }
-
-    #dhakaSubSix {
-        top: 3720px;
-    }
-
-    #dhakaSubSeven {
-        top: 3900px;
-    }    
-
-    #dhakaSubEight 
-    {
-        top: 5360px;
-    }
-
-    #dhakaSubNine {
-        top: 5890px;
-    }
-
-    #dhakaSubTen {
-        top: 6410px;
-    }
     
 
-    #dhakaOne 
-    {
-        top: 31%;
-    }
+ #dhakaOne {
+    top: 25%;
+}
 
-    #dhakaTwo 
-    {
-        top: 4%;
-        left: 7.65%;
-    }
-
-    #dhakaThree 
-    {
-        top: -10%;
-        left: 34.5%;
-    }
+#dhakaTwo {
+    top: -17%;
+    left: 7.65%;
+}
+#dhakaThree {
+    top: -31%;
+    left: 34.5%;
+}
 
     #dhakaFour 
     {
@@ -1705,11 +1642,12 @@ figure.containerZoom:hover
         left: -32.9%;
     }
 
-    #dhakaGridOne 
-    {
-        left: -44%;
-        top: 13%;
-    }
+
+#dhakaGridOne {
+    left: -43.8%;
+    top: 17.4%;
+}
+
 
     #dhakaGridTwo {
         left: -17%;
@@ -1799,11 +1737,11 @@ figure.containerZoom:hover
         left: -32.4%;
     }
 
-    #dhakaImageDescriptionOne {
-        top: 89%;
-        left: 8.3%;
-        z-index: 5;
-    }
+#dhakaImageDescriptionOne {
+    top: 86.8%;
+    left: 8.3%;
+    z-index: 5;
+}
 
     #dhakaImageDescriptionTwo 
     {
@@ -1878,11 +1816,10 @@ figure.containerZoom:hover
         width: 17%;
     }
 
-    .leftQuoteDhakaFour 
-    {
-        top: 25%;
-        left: 8.3%;
-    }
+.leftQuoteDhakaFour {
+    top: 26%;
+    left: 8.3%;
+}
 
     .dhakaMapContainer 
     {
@@ -1919,6 +1856,7 @@ figure.containerZoom:hover
     }
 }
 
+/*1440 x 768*/
 @media (min-width: 1400px) and (max-width: 1499px) 
 {
     #dhakaSubTwo 
@@ -1931,40 +1869,31 @@ figure.containerZoom:hover
         top: -25vh;
     }
 
-    #dhakaSubFour 
-    {
-        top: 78.5vh;
-    }
-
-    #dhakaSubFive 
-    {
-        top: 265vh;
-    }
-
-    #dhakaSubSix
-    {
-        top: 485vh;
-    }
-
-    #dhakaSubSeven
-    {
-        top: 503vh;
-    }
-
-    #dhakaSubEight 
-    {
-        top: 699vh;
-    }
-
-    #dhakaSubNine 
-    {
-        top: 776.5vh;
-    }
-
-    #dhakaSubTen 
-    {
-        top: 833vh;
-    }
+   #dhakaSubFour {
+    top: 86.5vh;
+}
+#dhakaSubFive {
+    top: 275vh;
+}
+#dhakaSubSix {
+    top: 491vh;
+}
+#dhakaSubSeven {
+    top: 511.8vh;
+}
+#dhakaSubEight {
+    top: 706vh;
+}
+#dhakaSubNine {
+    top: 782.5vh;
+}
+#dhakaSubTen {
+    top: 838vh;
+}
+	#dhakaGridOne {
+    left: -43.8%;
+    top: 17.2%;
+}
 
     #dhakaGridTen 
     {
@@ -2018,22 +1947,19 @@ figure.containerZoom:hover
         top: 18.2%;
     }
 
-    #dhakaOne 
-    {
-        top: 30%;
-    }
+   #dhakaOne {
+    top: 20%;
+}
 
-    #dhakaTwo 
-    {
-        top: 4%;
-        left: 7.7%;
-    }
+#dhakaTwo {
+    top: -19%;
+    left: 7.7%;
+}
+#dhakaThree {
+    top: -34%;
+    left: 34.6%;
+}
 
-    #dhakaThree 
-    {
-        top: -9%;
-        left: 34.6%;
-    }
 
     #dhakaFour 
     {
@@ -2047,11 +1973,10 @@ figure.containerZoom:hover
         left: 30.7%;
     }
 
-    #DhakaVideoTwo 
-    {
-        left: -32.9%;
-        top: 18%;
-    }
+#DhakaVideoTwo {
+    left: -32.9%;
+    top: -6.2%;
+}
 
     #DhakaVideoFour 
     {
@@ -2059,11 +1984,12 @@ figure.containerZoom:hover
         top: 27%;
     }
 
-    #dhakaImageDescriptionOne 
-    {
-        top: 86%;
-        left: 8.3%;
-    }
+
+#dhakaImageDescriptionOne {
+    top: 79%;
+    left: 8.3%;
+}
+
 
     #dhakaImageDescriptionTwo 
     {
@@ -2109,11 +2035,6 @@ figure.containerZoom:hover
         width: 17%;
     }
 
-    #dhakaGridOne 
-    {
-        left: -43.8%;
-        top: 11%;
-    }
 
     #dhakaGridTwo 
     {
@@ -2168,7 +2089,7 @@ figure.containerZoom:hover
         top: 0.5%;
     }
 }
-
+/*1440 x 900*/
 @media (min-width: 1400px) and (max-width: 1499px) and (min-height: 851px) and (max-height: 901px)
 {
     #dhakaSubTwo 
@@ -2176,45 +2097,32 @@ figure.containerZoom:hover
         top: -400px;
     }
 
-    #dhakaSubThree 
-    {
-        top: -470px;
-    }
+    #dhakaSubThree {
+    top: -434px;
+}
 
-    #dhakaSubFour 
-    {
-        top: 140px;
-    }
+#dhakaSubFour {
+    top: 312px;
+}
+#dhakaSubFive {
+    top: 1740px;
+}
+#dhakaSubSix {
+    top: 3353px;
+}
+#dhakaSubEight {
+    top: 4836px;
+}
+#dhakaSubSeven {
+    top: 3393px;
+}
+#dhakaSubNine {
+    top: 5253px;
+}
+#dhakaSubTen {
+    top: 5492.6px;
+}
 
-    #dhakaSubFive 
-    {
-        top: 1557px;
-    }
-
-    #dhakaSubSix
-    {
-        top: 3186px;
-    }
-
-    #dhakaSubSeven
-    {
-        top: 3222px;
-    }
-
-    #dhakaSubEight 
-    {
-        top: 4680px;
-    }
-
-    #dhakaSubNine 
-    {
-        top: 5103px;
-    }
-
-    #dhakaSubTen 
-    {
-        top: 5355px;
-    }
 
     #dhakaGridTen {
         left: -43.9%;
@@ -2265,22 +2173,17 @@ figure.containerZoom:hover
         top: 15.2%;
     }
 
-    #dhakaOne 
-    {
-        top: 25%;
-    }
-
-    #dhakaTwo 
-    {
-        top: -4%;
-        left: 7.7%;
-    }
-
-    #dhakaThree 
-    {
-        top: -14%;
-        left: 34.6%;
-    }
+  #dhakaOne {
+    top: 17%;
+}
+#dhakaTwo {
+    top: -20%;
+    left: 7.7%;
+}
+#dhakaThree {
+    top: -32%;
+    left: 34.6%;
+}
 
     #dhakaFour 
     {
@@ -2299,12 +2202,13 @@ figure.containerZoom:hover
         top: -23%;
         left: 17.9%;
     }
-
-    #DhakaVideoTwo 
-    {
-        left: -32.9%;
-        top: 10%;
-    }
+#DhakaVideoOne {
+    width: 176vw;
+	height: 143.5vh;
+	}
+#DhakaVideoTwo {
+    top: -7.2%;
+}
 
     #DhakaVideoFour 
     {
@@ -2326,10 +2230,11 @@ figure.containerZoom:hover
     }
 
     #dhakaImageDescriptionOne {
-        top: 71%;
+        top: 67%;
         left: 8.3%;
         z-index: 5;
     }
+	
 
     #dhakaImageDescriptionTwo 
     {
@@ -2395,11 +2300,10 @@ figure.containerZoom:hover
         width: 17%;
     }
 
-    #dhakaGridOne 
-    {
-        left: -43.8%;
-        top: 8%;
-    }
+#dhakaGridOne {
+    left: -43.8%;
+    top: 17.9%;
+}
 
     #dhakaGridTwo 
     {
@@ -2478,44 +2382,39 @@ figure.containerZoom:hover
         left: 1.7%;
     }
 }
-
+/*1536 x 730*/
 @media (min-width: 1500px) and (max-width: 1599px) 
 {
-    #dhakaSubTwo {
-        top: -72vh;
-    }
+#dhakaSubTwo {
+    top: -63vh;
+}
 
-    #dhakaSubThree {
-        top: -49vh;
-    }    
+#dhakaSubThree {
+    top: -20vh;
+} 
 
-    #dhakaSubFive {
-        top: 309.5vh;
-    }
+#dhakaSubFour {
+    top: 125vh;
+}
+#dhakaSubFive {
+    top: 353vh;
+}
 
-    #dhakaSubFive {
-        top: 310vh;
-    }
-
-    #dhakaSubSix {
-        top: 568vh;
-    }
-
-    #dhakaSubSeven {
-        top: 618vh;
-    }
-
-    #dhakaSubEight {
-        top: 844vh;
-    }
-
-    #dhakaSubNine {
-        top: 932vh;
-    }
-
-    #dhakaSubTen {
-        top: 1018vh;
-    }
+#dhakaSubSix {
+    top: 606vh;
+}
+#dhakaSubSeven {
+    top: 657vh;
+}
+#dhakaSubEight {
+    top: 885vh;
+}
+#dhakaSubNine {
+    top: 967.9vh;
+}
+#dhakaSubTen {
+    top: 1056vh;
+}
 
     #DhakaVideoOne 
     {
@@ -2525,19 +2424,17 @@ figure.containerZoom:hover
         height: 127vh;
     }
 
-    #DhakaVideoTwo 
-    {
-        left: -32.9%;
-        top: 18%;
-        width: 36vw;
-        height: 36vh;
-    }
+#DhakaVideoTwo {
+    left: -32.9%;
+    top: -10.4%;
+    width: 36vw;
+    height: 36vh;
+}
 
-    #DhakaVideoThree 
-    {
-        left: -32.9%;
-        top: 38%;
-    }
+#DhakaVideoThree {
+    left: -32.9%;
+    top: 42%;
+}
 
     #DhakaVideoFive 
     {
@@ -2558,18 +2455,29 @@ figure.containerZoom:hover
         top: 19.2%;
     }
 
-    #dhakaOne 
+    .quoteDhakaResponsiveThree
     {
-        top: 35%;
-        left: -32.9%;
-        z-index: -5;
+        width: 31%;
     }
 
-    #dhakaThree 
-    {
-        top: -12%;
-        left: 34.7%;
-    }
+#dhakaOne {
+    position: relative;
+    top: 19%;
+    left: -2.2%;
+    width: 101.1vw;
+    z-index: -10;
+}
+
+#dhakaTwo {
+    position: relative;
+    top: -25.3%;
+    left: 7.75%;
+}
+#dhakaThree {
+    top: -39%;
+    left: 34.7%;
+}
+
 
     #dhakaFour 
     {
@@ -2720,10 +2628,28 @@ figure.containerZoom:hover
         padding-bottom: 3vh;
     }
 
+    .copyDhakaResponsive
+    {
+        font-size: 25px;
+        line-height: 28px;
+    }
+
+    .quoteDhakaResponsiveTwo
+    {
+        font-size: 16px;
+        width: 28%;
+    }
+
     .leftQuoteDhaka
     {
         top: 28%;
         left: 8.3%;
+    }
+
+    .copyDhaka
+    {
+        font-size: 15px;
+        width: 29%;
     }
 
     .copyDhakaOne 
@@ -2768,11 +2694,12 @@ figure.containerZoom:hover
         top: -65%;
     }
 
-    #dhakaGridOne 
-    {
-        left: -43.6%;
-        top: 11%;
-    }
+   
+#dhakaGridOne {
+    left: -44.6%;
+    top: 23%;
+}
+
 
     #dhakaGridFour 
     {
@@ -2860,44 +2787,39 @@ figure.containerZoom:hover
     }
 
 }
-
+/*1536 x 792*/
 @media (min-width: 1500px) and (max-width: 1599px) and (min-height: 780px) and (max-height: 810px)
 {
     #dhakaSubTwo {
-        top: -540px
-    }
+    top: -562px;
+}
 
-    #dhakaSubThree {
-        top: -360px;
-    }    
+#dhakaSubThree {
+    top: -496px;
+}
 
     #dhakaSubFour {
-        top: 531px;
-    }    
+    top: 494px;
+}
+#dhakaSubFive {
+    top: 2173px;
+}
+#dhakaSubSix {
+    top: 3914px;
+}
+#dhakaSubSeven {
+    top: 4235.2px;
+}
+#dhakaSubEight {
+    top: 5857.4px;
+}
 
-    #dhakaSubFive {
-        top: 2233px;
-    }
-
-    #dhakaSubSix {
-        top: 4103px;
-    }
-
-    #dhakaSubSeven {
-        top: 4435.2px;
-    }
-
-    #dhakaSubEight {
-        top: 6098.4px;
-    }
-
-    #dhakaSubNine {
-        top: 6709px;
-    }
-
-    #dhakaSubTen {
-        top: 7263px;
-    }
+#dhakaSubNine {
+    top: 6420px;
+}
+#dhakaSubTen {
+    top: 6953px;
+}
 
     #DhakaVideoOne 
     {
@@ -2907,13 +2829,12 @@ figure.containerZoom:hover
         height: 127vh;
     }
 
-    #DhakaVideoTwo 
-    {
-        left: -32.9%;
-        top: 18%;
-        width: 36vw;
-        height: 36vh;
-    }
+#DhakaVideoTwo {
+    left: -32.9%;
+    top: -13.7%;
+    width: 36vw;
+    height: 36vh;
+}
 
     #DhakaVideoThree 
     {
@@ -2926,6 +2847,10 @@ figure.containerZoom:hover
         left: -32.9%;
         top: 35%;
     }
+	
+#DhakaVideoFour {
+    top: 31%;
+}
 
     #DhakaVideoSeven 
     {
@@ -2940,24 +2865,32 @@ figure.containerZoom:hover
         top: 17.7%;
     }
 
-    #dhakaOne 
-    {
-        top: 35%;
-        left: -32.9%;
-        z-index: -5;
+    .copyDhaka {
+        font-size: 15px;
+        width: 29%;
+        top: 22%;
     }
 
-    #dhakaThree 
-    {
-        top: -9%;
-        left: 34.7%;
-    }
 
-    #dhakaFour 
-    {
-        top: 35%;
-        left: -32.9%;
-    }
+#dhakaOne {
+    top: 20%;
+    left: -32.9%;
+    z-index: -5;
+}
+
+#dhakaTwo {
+    top: -26.3%;
+    left: 7.75%;
+}
+#dhakaThree {
+    top: -41.7%;
+    left: 34.7%;
+}
+
+#dhakaFour {
+    top: 33%;
+    left: -32.9%;
+}
 
     #dhakaFive
     {
@@ -2977,17 +2910,15 @@ figure.containerZoom:hover
         left: -32.9%;
     }
 
-    #dhakaImageDescriptionOne 
-    {
-        top: 88%;
-        left: 8.3%;
-    }
+#dhakaImageDescriptionOne {
+    top: 74%;
+    left: 8.3%;
+}
 
-    #dhakaImageDescriptionTwo 
-    {
-        top: 30%;
-        left: 35.3%;
-    }
+#dhakaImageDescriptionTwo {
+    top: 28%;
+    left: 35.3%;
+}
 
     #dhakaImageDescriptionThree 
     {
@@ -3003,12 +2934,9 @@ figure.containerZoom:hover
         width: 13%;
     }
 
-    #dhakaImageDescriptionFive 
-    {
-        top: 4%;
-        left: 52%;
-        width: 8%;
-    }
+#dhakaImageDescriptionFive {
+    top: 6%;
+}
 
     #dhakaImageDescriptionSix 
     {
@@ -3143,17 +3071,15 @@ figure.containerZoom:hover
         width: 18%;
     }
 
-    #dhakaGridTwo 
-    {
-        left: -16.8%;
-        top: -60%;
-    }
+#dhakaGridOne {
+    left: -43.6%;
+    top: 22%;
+}
 
-    #dhakaGridOne 
-    {
-        left: -43.6%;
-        top: 11%;
-    }
+#dhakaGridTwo {
+    left: -16.8%;
+    top: -63%;
+}
 
     #dhakaGridFour 
     {
@@ -3237,7 +3163,7 @@ figure.containerZoom:hover
     }
 }
 
-/* common - 1600×750, 1600×900 */
+/* common - 1600×750*/
 @media (min-width: 1600px) and (max-width: 1699px) 
 {
 
@@ -3245,37 +3171,31 @@ figure.containerZoom:hover
         top: -43vh;
     }
 
-    #dhakaSubThree {
-        top: -26vh;
-    }
-
+  #dhakaSubThree {
+    top: -19.5vh;
+}
     #dhakaSubFour {
-        top: 98vh;
-    }
+    top: 120vh;
+}
 
-    #dhakaSubFive {
-        top: 309vh;
-    }
-
-    #dhakaSubSix {
-        top: 560vh;
-    }
-
-    #dhakaSubSeven {
-        top: 602vh;
-    }
-
-    #dhakaSubEight {
-        top: 818vh;
-    }
-
-    #dhakaSubNine {
-        top: 898vh;
-    }
-
-    #dhakaSubTen {
-        top: 984vh;
-    }
+#dhakaSubFive {
+    top: 335vh;
+}
+#dhakaSubSix {
+    top: 585vh;
+}
+#dhakaSubSeven {
+    top: 628vh;
+}
+#dhakaSubEight {
+    top: 843vh;
+}
+#dhakaSubNine {
+    top: 923vh;
+}
+#dhakaSubTen {
+    top: 1009vh;
+}
 
     #dhakaGridFifteen {
         left: -32.7%;
@@ -3295,11 +3215,10 @@ figure.containerZoom:hover
         top: -7%;
     }
 
-    #DhakaVideoTwo 
-    {
-        left: -32.9%;
-        top: 12%;
-    }
+ #DhakaVideoTwo {
+    left: -32.9%;
+    top: -10.3%;
+}
 
     #DhakaVideoSix 
     {
@@ -3321,22 +3240,19 @@ figure.containerZoom:hover
         top: 5%;
     }
 
-    #dhakaOne 
-    {
-        top: 30%;
-    }
+    
+#dhakaOne {
+    top: 20%;
+}
 
-    #dhakaTwo 
-    {
-        top: -1%;
-        left: 7.65%;
-    }
-
-    #dhakaThree 
-    {
-        top: -17%;
-        left: 34.7%;
-    }
+#dhakaTwo {
+    top: -24%;
+    left: 7.65%;
+}
+#dhakaThree {
+    top: -41%;
+    left: 34.7%;
+}
 
     #dhakaSeven {
         top: -30%;
@@ -3352,7 +3268,7 @@ figure.containerZoom:hover
 
     #dhakaImageDescriptionOne 
     {
-        top: 85%;
+        top: 94%;
         left: 8.3%;
         z-index: 5;
     }
@@ -3458,11 +3374,10 @@ figure.containerZoom:hover
         width: 22%;
     }
 
-    #dhakaGridOne 
-    {
-        left: -43.65%;
-        top: 8%;
-    }
+ #dhakaGridOne {
+    left: -43.65%;
+    top: 19%;
+}
 
     #dhakaGridTwo 
     {
@@ -3573,39 +3488,36 @@ figure.containerZoom:hover
     }
 }
 
+/*1600×900 */
 @media (min-width: 1600px) and (max-width: 1699px) and (min-height: 831px) and (max-height: 900px)
 {
-    #dhakaSubTwo {
-        top: -350px;
-    }
+#dhakaSubTwo {
+    top: -377px;
+}
 
-    #dhakaSubThree {
-        top: -315px;
-    }
+#dhakaSubThree {
+    top: -331px;
+}
 
-    #dhakaSubFour {
-        top: 495px;
-    }
+#dhakaSubFour {
+    top: 536px;
+}
 
-    #dhakaSubFive {
-        top: 2088px;
-    }
-
-    #dhakaSubSix {
-        top: 3888px;
-    }
-
-    #dhakaSubSeven {
-        top: 4086px;
-    }
-
-    #dhakaSubEight {
-        top: 5688px;
-    }
-
-    #dhakaSubNine {
-        top: 6228px;
-    }
+  #dhakaSubFive {
+    top: 2131px;
+}
+#dhakaSubSix {
+    top: 3910px;
+}
+#dhakaSubSeven {
+    top: 4106px;
+}
+#dhakaSubEight {
+    top: 5704px;
+}
+#dhakaSubNine {
+    top: 6238px;
+}
 
     #dhakaSubTen {
         top: 6642px;
@@ -3616,24 +3528,22 @@ figure.containerZoom:hover
         top: 2%;
     }
 
-    #DhakaVideoOne 
-    {
-        left: -20%;
-        top: -25%;
-        width: 150vw;
-        height: 152vh;
-    }
+#DhakaVideoOne {
+    left: -20%;
+    top: -25%;
+    width: 155vw;
+    height: 152vh;
+}
 
     #DhakaVideoSeven {
         left: -32.9%;
         top: -7%;
     }
 
-    #DhakaVideoTwo 
-    {
-        left: -32.9%;
-        top: 12%;
-    }
+#DhakaVideoTwo {
+    left: -32.9%;
+    top: -8.9%;
+}
 
     #DhakaVideoSix 
     {
@@ -3655,21 +3565,23 @@ figure.containerZoom:hover
         top: 5%;
     }
 
-    #dhakaOne 
-    {
-        top: 26%;
-    }
+  #dhakaOne {
+    top: 17%;
+}
 
-    #dhakaTwo 
-    {
-        top: -1%;
-        left: 7.65%;
-    }
+#dhakaTwo {
+    top: -22%;
+    left: 7.65%;
+}
+#dhakaThree {
+    top: -35%;
+    left: 34.7%;
+}
 
-    #dhakaThree {
-        top: -13%;
-        left: 34.7%;
-    }
+#dhakaFour {
+    top: 26%;
+    left: -32.9%;
+}
 
     #dhakaFive {
         top: 5%;
@@ -3690,10 +3602,15 @@ figure.containerZoom:hover
     }
 
     #dhakaImageDescriptionOne {
-        top: 77%;
+        top: 82%;
         left: 8.3%;
         z-index: 5;
     }
+	#dhakaImageDescriptionTwo {
+    top: 20.9%;
+    left: 35.3%;
+    width: 12%;
+}
 
     #dhakaImageDescriptionFour 
     {
@@ -3799,17 +3716,16 @@ figure.containerZoom:hover
         width: 22%;
     }
 
-    #dhakaGridOne 
-    {
-        left: -43.65%;
-        top: 8%;
-    }
+#dhakaGridOne {
+    left: -43.65%;
+    top: 15.5%;
+}
 
-    #dhakaGridTwo 
-    {
-        left: -16.65%;
-        top: -59%;
-    }
+#dhakaGridTwo {
+    left: -16.65%;
+    top: -64%;
+}
+
 
     #dhakaGridFive 
     {
@@ -3922,68 +3838,59 @@ figure.containerZoom:hover
         padding-bottom: 12vh;
     }
 }
-
+/*1600×1050 */
 @media (min-width: 1600px) and (max-width: 1699px) and (min-height: 901px) and (max-height: 1051px)
 {
     #dhakaSubTwo {
         top: -500px;
     }
 
-    #dhakaSubThree {
-        top: -590px;
-    }
-
-    #dhakaSubFour {
-        top: 180px;
-    }
-
-    #dhakaSubFive {
-        top: 1800px;
-    }
-
-    #dhakaSubSix {
-        top: 3680px;
-    }
-
-    #dhakaSubSeven {
-        top: 3780px;
-    }
-
-    #dhakaSubEight {
-        top: 5400px;
-    }
-
-    #dhakaSubNine {
-        top: 5900px;
-    }
-
-    #dhakaSubTen {
-        top: 6150px;
-    }
+#dhakaSubThree {
+    top: -626px;
+}
+#dhakaSubFour {
+    top: 89px;
+}
+#dhakaSubFive {
+    top: 1635px;
+}
+#dhakaSubSix {
+    top: 3380px;
+}
+#dhakaSubSeven {
+    top: 3428px;
+}
+#dhakaSubEight {
+    top: 4951px;
+}
+#dhakaSubNine {
+    top: 5345px;
+}
+#dhakaSubTen {
+    top: 5515px;
+}
 
     #dhakaGridFifteen {
         left: -32.7%;
         top: 2%;
     }
 
-    #DhakaVideoOne 
-    {
-        left: -20%;
-        top: -25%;
-        width: 150vw;
-        height: 152vh;
-    }
+  #DhakaVideoOne {
+    left: -20%;
+    top: -25%;
+    width: 169vw;
+    height: 145vh;
+}
 
     #DhakaVideoSeven {
         left: -32.9%;
         top: -7%;
     }
 
-    #DhakaVideoTwo 
-    {
-        left: -32.9%;
-        top: 12%;
-    }
+  #DhakaVideoTwo {
+    left: -32.9%;
+    top: -8%;
+}
 
     #DhakaVideoSix 
     {
@@ -4001,26 +3908,29 @@ figure.containerZoom:hover
         top: 15%;
     }
 
-    .copyDhakaOne {
-        top: 5%;
-    }
+.copyDhakaOne {
+    top: 4%;
+}
 
-    #dhakaOne 
-    {
-        top: 26%;
-    }
 
-    #dhakaTwo 
-    {
-        top: -1%;
-        left: 7.65%;
-    }
+#dhakaOne {
+    top: 15%;
+}
 
-    #dhakaThree {
-        top: -13%;
-        left: 34.7%;
-    }
+#dhakaTwo {
+    top: -21%;
+    left: 7.65%;
+}
 
+#dhakaThree {
+    top: -32%;
+    left: 34.7%;
+}
+	#dhakaFour {
+    position: relative;
+    top: 27%;
+    left: -32.9%;
+}
     #dhakaFive {
         top: 9%;
         left: 30.5%;
@@ -4028,7 +3938,7 @@ figure.containerZoom:hover
     }
 
     #dhakaSeven {
-        top: -21.5%;
+        top: -20.2%;
         left: 17.9%;
         width: 31.1vw;
     }
@@ -4039,11 +3949,17 @@ figure.containerZoom:hover
         left: -32.9%;
     }
 
-    #dhakaImageDescriptionOne {
-        top: 74%;
-        left: 8.3%;
-        z-index: 5;
-    }
+#dhakaImageDescriptionOne {
+    top: 62.5%;
+    left: 8.3%;
+    z-index: 5;
+}
+	#dhakaImageDescriptionTwo {
+    top: 22%;
+    left: 35.3%;
+    width: 12%;
+}
+
 
     #dhakaImageDescriptionFour 
     {
@@ -4149,11 +4065,11 @@ figure.containerZoom:hover
         width: 22%;
     }
 
-    #dhakaGridOne 
-    {
-        left: -43.65%;
-        top: 13%;
-    }
+#dhakaGridOne {
+    left: -43.65%;
+    top: 16%;
+}
+
 
     #dhakaGridTwo {
         left: -16.65%;
@@ -4277,10 +4193,9 @@ figure.containerZoom:hover
     }
 }
 
-@media (min-width: 1900px) and (max-width: 1999px) 
-{}
 
-@media (min-width: 1900px) and (max-width: 1999px) and (min-height: 920px) and (max-height: 1008px)
+/*1920 x 930*/
+@media (min-width: 1900px) and (max-width: 1999px) and (min-height: 920px) and (max-height: 950px)
 {
     .dhakaContainer
     {
@@ -4290,71 +4205,50 @@ figure.containerZoom:hover
         display: block;
     }
     
-    #dhakaSubTwo
-    {
-        top: -265px;
-    }
+#dhakaSubTwo {
+    top: -295px;
+}
+#dhakaSubThree {
+    top: -25px;
+}
+#dhakaSubFour {
+    top: 1276px;
+}
+#dhakaSubFive {
+    top: 3340px;
+}
+#dhakaSubSix {
+    top: 5710px;
+}
+#dhakaSubSeven {
+    top: 6161px;
+}
+#dhakaSubEight {
+    top: 8278px;
+}
+#dhakaSubNine {
+    top: 9170px;
+}
+#dhakaSubTen {
+    top: 9941px;
+}
     
-    #dhakaSubThree
-    {
-        top: 30px;
-    }
+#dhakaOne {
+    top: 21%;
+    left: -1.9%;
+    width: 98.5vw;
+}
     
-    #dhakaSubFour
-    {
-        top: 1237px;
-    }
-    
-    #dhakaSubFive
-    {
-        top: 3280px;
-    }
-    
-    #dhakaSubSix
-    {
-        top: 5720px;
-    }
-    
-    #dhakaSubSeven
-    {
-        top: 6180px;
-    }
-    
-    #dhakaSubEight  
-    {
-        top: 8324px;
-    }
-    
-    #dhakaSubNine
-    {
-        top: 9254px;
-    }
-    
-    #dhakaSubTen
-    {
-        top: 10050px;
-    }
-    
-    #dhakaOne
-    {
-        top: 32%;
-        left: -32.9%;
-        width: 61.5vw;
-    }
-    
-    #dhakaTwo
-    {
-        position: relative;
-        top: 4%;
-        left: 7.75%;    
-    }
-    
-    #dhakaThree
-    {
-        position: relative;
-        top: -9%;
-        left: 34.7%;
-    }
+#dhakaTwo {
+    top: -23%;
+    left: 7.75%;
+}
+
+#dhakaThree {
+    position: relative;
+    top: -38%;
+    left: 34.7%;
+}
     
     #dhakaFour
     {
@@ -4407,9 +4301,9 @@ figure.containerZoom:hover
     
     #DhakaVideoTwo
     {
-        position: relative;
-        left: -32.9%;
-        top: 16%;
+            position: relative;
+    left: -32.9%;
+    top: -9%;
         width: 36vw;
         height: 36vh;
         z-index: 0;
@@ -4465,13 +4359,12 @@ figure.containerZoom:hover
         z-index: 5;
     }
     
-    #dhakaImageDescriptionOne 
-    {
-        position: relative;
-        top: 88%;
-        left: 8.3%;
-        width: 14%;
-    }
+  #dhakaImageDescriptionOne {
+    position: relative;
+    top: 87%;
+    left: 8.3%;
+    width: 14%;
+}
     
     #dhakaImageDescriptionTwo
     {
@@ -4677,9 +4570,8 @@ figure.containerZoom:hover
     
     #dhakaGridOne
     {
-        position: relative;
-        left: -43.3%;
-        top: 13%;
+           left: -43.3%;
+    top: 22%;
     }
     
     #dhakaGridTwo
@@ -4912,7 +4804,7 @@ figure.containerZoom:hover
         top: -1%;
     }
 }
-
+/*1920 x 1200*/
 @media (min-width: 1900px) and (max-width: 1999px) and (min-height: 1101px) and (max-height: 1210px)
 {
     .dhakaContainer
@@ -4938,63 +4830,53 @@ figure.containerZoom:hover
         top: 520px;
     }
     
-    #dhakaSubFive
-    {
-        top: 2500px;
-    }
+#dhakaSubFive {
+    top: 2538px;
+}
     
     #dhakaSubSix
     {
         top: 4800px;
     }
     
-    #dhakaSubSeven
-    {
-        top: 5010px;
-    }
+#dhakaSubSeven {
+    top: 5022px;
+}
     
     #dhakaSubEight  
     {
         top: 6975px;
     }
     
-    #dhakaSubNine
-    {
-        top: 7550px;
-    }
+#dhakaSubNine {
+    top: 7528px;
+}
+#dhakaSubTen {
+    top: 7919px;
+}
     
-    #dhakaSubTen
-    {
-        top: 7960px;
-    }
+#dhakaOne {
+    top: 17%;
+    left: -0.9%;
+    width: 99.5vw;
+}
     
-    #dhakaOne
-    {
-        top: 28%;
-        left: -32.9%;
-        width: 61.5vw;
-    }
+#dhakaTwo {
+    position: relative;
+    top: -20%;
+    left: 7.75%;
+}
+#dhakaThree {
+    position: relative;
+    top: -31%;
+    left: 34.7%;
+}
     
-    #dhakaTwo
-    {
-        position: relative;
-        top: 4%;
-        left: 7.75%;    
-    }
-    
-    #dhakaThree
-    {
-        position: relative;
-        top: -9%;
-        left: 34.7%;
-    }
-    
-    #dhakaFour
-    {
-        position: relative;
-        top: 29%;
-        left: -32.9%;
-    }
+#dhakaFour {
+    position: relative;
+    top: 26%;
+    left: -32.9%;
+}
     
     #dhakaFive
     {
@@ -5028,25 +4910,23 @@ figure.containerZoom:hover
         border-bottom: 1px solid black;
     }
     
-    #DhakaVideoOne 
-    {
-        position: relative;
-        left: -16%;
-        top: -25%;
-        width: 150vw;
-        height: 150vh;
-        z-index: -5;
-    }
+#DhakaVideoOne {
+    position: relative;
+    left: -16%;
+    top: -18.5%;
+    width: 150vw;
+    height: 135vh;
+    z-index: -5;
+}
     
-    #DhakaVideoTwo
-    {
-        position: relative;
-        left: -32.9%;
-        top: 16%;
-        width: 36vw;
-        height: 36vh;
-        z-index: 0;
-    }
+#DhakaVideoTwo {
+    position: relative;
+    left: -32.9%;
+    top: -7%;
+    width: 36vw;
+    height: 36vh;
+    z-index: 0;
+}
     
     #DhakaVideoThree
     {
@@ -5098,21 +4978,20 @@ figure.containerZoom:hover
         z-index: 5;
     }
     
-    #dhakaImageDescriptionOne 
-    {
-        position: relative;
-        top: 81%;
-        left: 8.3%;
-        width: 14%;
-    }
+#dhakaImageDescriptionOne {
+    position: relative;
+    top: 70%;
+    left: 8.3%;
+    width: 14%;
+}
     
-    #dhakaImageDescriptionTwo
-    {
-        position: relative;
-        top: 29%;
-        left: 35.3%;
-        width: 12%;
-    }
+#dhakaImageDescriptionTwo {
+    position: relative;
+    top: 19.8%;
+    left: 35.3%;
+    width: 12%;
+}
+
     
     #dhakaImageDescriptionThree
     {
@@ -5308,12 +5187,11 @@ figure.containerZoom:hover
         width: 22%; 
     }
     
-    #dhakaGridOne
-    {
-        position: relative;
-        left: -43.3%;
-        top: 13%;
-    }
+#dhakaGridOne {
+    position: relative;
+    left: -43.3%;
+    top: 14.4%;
+}
     
     #dhakaGridTwo
     {

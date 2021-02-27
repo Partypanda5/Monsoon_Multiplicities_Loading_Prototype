@@ -497,88 +497,91 @@
 
 <script>
 
-var aboutNav = document.querySelector('#aboutPanelNav');
-var eventsNav = document.querySelector('#EventsPanelNav');
-var residencyNav = document.querySelector('#ResidencyPanelNav');
-var landingPageRightContainer = document.querySelector('#RightTextContainer');
-var glossaryNav = document.querySelector('#GlossaryNav');
-var CollabPanelNav = document.querySelector('#CollabPanelNav');
-var acknowledgementsNav = document.querySelector('#AcknowledgementPanelNav');
-var MonsoonPanelNav = document.querySelector('#MonsoonPanelNav');
-
-var residencySection = document.querySelector('#residency');
-var eventsSection = document.querySelector('#events');
-var aboutSection = document.querySelector('#about');
-var glossarySection = document.querySelector('#glossarySection');
-var collaboratorsSection = document.querySelector('#collaboratorsSection');
-var acknowledgementSection = document.querySelector('#acknowledgementSection');
-var assemblagesSection = document.querySelector('#assemblagesSection');
-
-var panel = document.querySelector('#RightTextContainerMM');
-var mainContainer = document.querySelector('.Layout__main');
-
-let navArray = 
-[
-  aboutNav, eventsNav, residencyNav, glossaryNav, CollabPanelNav, acknowledgementsNav, MonsoonPanelNav
-];
-
-var loadLondon = document.querySelector('#loadLondon');
-var loadLondonTwo = document.querySelector('#loadLondonTwo');
-
-    loadLondon.addEventListener('click', function() 
-    {
-      setTabHeadingStyling(londonSmallTabHeading, smallTabHeadingArray);
-      setTabHeadingStyling(londonSubchapter, bigHeadingArray);
-
-     // imageInCorner.style.display = "none";
-      //imageInCorner.src = '';
-
-      $('#backgroundVideo').fadeOut(2000);
-
-      FadeInOut(() => 
+  var aboutNav = document.querySelector('#aboutPanelNav');
+  var eventsNav = document.querySelector('#EventsPanelNav');
+  var residencyNav = document.querySelector('#ResidencyPanelNav');
+  var landingPageRightContainer = document.querySelector('#RightTextContainer');
+  var glossaryNav = document.querySelector('#GlossaryNav');
+  var CollabPanelNav = document.querySelector('#CollabPanelNav');
+  var acknowledgementsNav = document.querySelector('#AcknowledgementPanelNav');
+  var MonsoonPanelNav = document.querySelector('#MonsoonPanelNav');
+  
+  var residencySection = document.querySelector('#residency');
+  var eventsSection = document.querySelector('#events');
+  var aboutSection = document.querySelector('#about');
+  var glossarySection = document.querySelector('#glossarySection');
+  var collaboratorsSection = document.querySelector('#collaboratorsSection');
+  var acknowledgementSection = document.querySelector('#acknowledgementSection');
+  var assemblagesSection = document.querySelector('#assemblagesSection');
+  
+  var panel = document.querySelector('#RightTextContainerMM');
+  var mainContainer = document.querySelector('.Layout__main');
+  
+  let navArray = 
+  [
+    aboutNav, eventsNav, residencyNav, glossaryNav, CollabPanelNav, acknowledgementsNav, MonsoonPanelNav
+  ];
+  let SectionArray = 
+  [
+    aboutSection, eventsSection, residencySection, glossarySection, collaboratorsSection, acknowledgementSection, assemblagesSection
+  ];
+  
+  var loadLondon = document.querySelector('#loadLondon');
+  var loadLondonTwo = document.querySelector('#loadLondonTwo');
+  const docTitleOffset = document.getElementById("navbarTitlesContainer").getBoundingClientRect().top;
+      loadLondon.addEventListener('click', function() 
       {
-        $(".Layout__wrapper-container").load("london.html"); 
+        setTabHeadingStyling(londonSmallTabHeading, smallTabHeadingArray);
+        setTabHeadingStyling(londonSubchapter, bigHeadingArray);
+  
+       // imageInCorner.style.display = "none";
+        //imageInCorner.src = '';
+  
+        $('#backgroundVideo').fadeOut(2000);
+  
+        FadeInOut(() => 
+        {
+          $(".Layout__wrapper-container").load("london.html"); 
+        });
+  
+        setTimeout(function()
+        { 
+          //imageInCorner.style.display = "block";
+        }, 5000);
+  
+        leftHandSideMM = true;
+        checkLeftHandSideMM(); 
       });
-
-      setTimeout(function()
-      { 
-        //imageInCorner.style.display = "block";
-      }, 5000);
-
-      leftHandSideMM = true;
-      checkLeftHandSideMM(); 
-    });
-
-    loadLondonTwo.addEventListener('click', function() 
-    {
-      setTabHeadingStyling(londonSmallTabHeading, smallTabHeadingArray);
-      setTabHeadingStyling(londonSubchapter, bigHeadingArray);
-
-     // imageInCorner.style.display = "none";
-      //imageInCorner.src = '';
-
-      $('#backgroundVideo').fadeOut(2000);
-
-      FadeInOut(() => 
+  
+      loadLondonTwo.addEventListener('click', function() 
       {
-        $(".Layout__wrapper-container").load("london.html"); 
+        setTabHeadingStyling(londonSmallTabHeading, smallTabHeadingArray);
+        setTabHeadingStyling(londonSubchapter, bigHeadingArray);
+  
+       // imageInCorner.style.display = "none";
+        //imageInCorner.src = '';
+  
+        $('#backgroundVideo').fadeOut(2000);
+  
+        FadeInOut(() => 
+        {
+          $(".Layout__wrapper-container").load("london.html"); 
+        });
+  
+        setTimeout(function()
+        { 
+          //imageInCorner.style.display = "block";
+        }, 5000);
+  
+        leftHandSideMM = true;
+        checkLeftHandSideMM(); 
+  
       });
-
-      setTimeout(function()
-      { 
-        //imageInCorner.style.display = "block";
-      }, 5000);
-
-      leftHandSideMM = true;
-      checkLeftHandSideMM(); 
-
-    });
-
-function setNavUnderline (tabName, arrayName) 
-{
+  
+  function setNavUnderline (tabName, arrayName) 
+  {
     for (let i = 0; i < arrayName.length; i++)
     {
-
       if (arrayName[i] == tabName)
       {
         arrayName[i].classList.add("activeNavbarTitle");
@@ -588,105 +591,83 @@ function setNavUnderline (tabName, arrayName)
         arrayName[i].classList.remove("activeNavbarTitle");
       }
     }
-}
-
-
-function checkForUnderline() 
-  {
-          if (mainContainer.scrollTop >= 0 && mainContainer.scrollTop <= 1350)
+  }
+  
+  
+  function checkForUnderline() 
+    {
+      lastSelected = -1;
+      for(let i=0; i<SectionArray.length; i ++){
+        if(SectionArray[i].getBoundingClientRect().top <= document.getElementById("navbarTitlesContainer").getBoundingClientRect().bottom )
         {
-          setNavUnderline(aboutNav, navArray);
+          lastSelected=i;
+        }
+      }
+      if(lastSelected >= 0){
+        setNavUnderline(navArray[lastSelected], navArray);
+        if(lastSelected = 0){
           $('#backgroundVideo').fadeIn(2000);
-        } 
-
-        else if (mainContainer.scrollTop >= 1351 && mainContainer.scrollTop <= 4200)
-        {
-          setNavUnderline(eventsNav, navArray);
+        }else{
           $('#backgroundVideo').fadeOut(500);
         }
-
-        else if (mainContainer.scrollTop >= 4201 && mainContainer.scrollTop <= 4998)
-        {
-          setNavUnderline(residencyNav, navArray);
-        }
-
-        else if (mainContainer.scrollTop >= 4999 && mainContainer.scrollTop <= 15427)
-        {
-          setNavUnderline(glossaryNav, navArray);
-        }
-
-        else if (mainContainer.scrollTop >= 15289 && mainContainer.scrollTop <= 23901)
-        {
-          setNavUnderline(CollabPanelNav, navArray);
-        }
-
-        else if (mainContainer.scrollTop >= 23902 && mainContainer.scrollTop <= 25000)
-        {
-          setNavUnderline(acknowledgementsNav, navArray);
-        }
-
-        else if (mainContainer.scrollTop >= 25001)
-        {
-          setNavUnderline(MonsoonPanelNav, navArray);
-        }
-  }
-
-
-mainContainer.addEventListener('wheel', () =>
-{ 
-  console.log(mainContainer.scrollTop);
-  checkForUnderline();
-});
-
-aboutNav.addEventListener('click', () => 
-{
-  aboutSection.scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"});  
-  setNavUnderline(aboutNav, navArray);
-  $('#backgroundVideo').fadeIn(2000);
-});
-
-eventsNav.addEventListener('click', () => 
-{
-  eventsSection.scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"});  
-  setNavUnderline(eventsNav, navArray);
-  $('#backgroundVideo').fadeOut(500);
-});
-
-residencyNav.addEventListener('click', () => 
-{
-  residencySection.scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"}); 
-  setNavUnderline(residencyNav, navArray);
-  $('#backgroundVideo').fadeOut(500);
-});
-
-glossaryNav.addEventListener('click', () => 
-{
-  glossarySection.scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"}); 
-  setNavUnderline(glossaryNav, navArray);
-  $('#backgroundVideo').fadeOut(500);
-});
-
-CollabPanelNav.addEventListener('click', () => 
-{
-  collaboratorsSection.scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"}); 
-  setNavUnderline(CollabPanelNav, navArray);
-  $('#backgroundVideo').fadeOut(500);
-});
-
-acknowledgementsNav.addEventListener('click', () => 
-{
-  acknowledgementSection.scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"}); 
-  setNavUnderline(acknowledgementsNav, navArray);
-  $('#backgroundVideo').fadeOut(500);
-});
-
-MonsoonPanelNav.addEventListener('click', () => 
-{
-  assemblagesSection.scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"}); 
-  setNavUnderline(MonsoonPanelNav, navArray);
-  $('#backgroundVideo').fadeOut(500);
-});
-
+      }
+    }
+  
     
-</script>
+  mainContainer.addEventListener('wheel', () =>
+  { 
+    checkForUnderline();
+  });
+    
+  ScrollAndFade = (titleGeneric, textSection) => {
+    var elementPosition = textSection.getBoundingClientRect().top;
+    var currentScrollHeight = mainContainer.scrollTop;
+    var offsetPosition = currentScrollHeight + elementPosition - docTitleOffset;
+    mainContainer.scrollTo({
+      top: offsetPosition,
+      left: 0,
+      behavior: 'smooth'
+    });
+    setNavUnderline(titleGeneric, navArray);
+    $('#backgroundVideo').fadeOut(500);
+  };
+  
+  aboutNav.addEventListener('click', () => 
+  {
+    ScrollAndFade(aboutNav,aboutSection);
+    $('#backgroundVideo').fadeIn(2000);
+  });
+  
+  eventsNav.addEventListener('click', () => 
+  {
+    ScrollAndFade(eventsNav,eventsSection);
+  });
+  
+  residencyNav.addEventListener('click', () => 
+  {
+    ScrollAndFade(residencyNav,residencySection);
+  });
+  
+  glossaryNav.addEventListener('click', () => 
+  {
+    ScrollAndFade(glossaryNav,glossarySection);
+  });
+  
+  CollabPanelNav.addEventListener('click', () => 
+  {
+    ScrollAndFade(CollabPanelNav,collaboratorsSection);
+  });
+  
+  acknowledgementsNav.addEventListener('click', () => 
+  {
+    ScrollAndFade(acknowledgementsNav,acknowledgementSection);
+  });
+  
+  MonsoonPanelNav.addEventListener('click', () => 
+  {
+    ScrollAndFade(MonsoonPanelNav,assemblagesSection);
+  });
+  
+      
+  </script>
 </div>

@@ -1,3049 +1,2248 @@
-.oceanContainer
-{
-    max-width: 100vw;
-    flex: 100%;
-    display: block;
-    z-index: 10;
+.oceanContainer {
+	max-width: 100vw;
+	flex: 100%;
+	display: block;
+	z-index: 10;
 }
-
-#oceanSubTwo
-{
-    top: -61vh;
+#oceanSubTwo {
+	top: -60.1vh;
 }
-
-#oceanSubThree
-{
-    top: -24vh;
+#oceanSubThree {
+	top: -25vh;
 }
-
-#oceanSubFour
-{
-    top: -9vh;
+#oceanSubFour {
+	top: 1.8vh;
 }
-
-#oceanSubFive
-{
-    top: -7vh;
+#oceanSubFive {
+	top: 2.3vh;
 }
-
-#oceanSubSix
-{
-    top: -10vh;
+#oceanSubSix {
+	top: -5vh;
 }
-
-#oceanSubSeven
-{
-    top: 230vh;
-    height: 15vh;
+#oceanSubSeven {
+	top: 256.6vh;
+	height: 15vh;
 }
-
-.oceanCopyOne
-{
-    position: relative;
-    top: 23%;
-    left: 8.3%;
-    width: 18%;
+.oceanCopyOne {
+	position: relative;
+	top: 23%;
+	left: 8.3%;
+	width: 18%;
 }
-
-.oceanCopyTwo
-{
-    position: relative;
-    top: -60%;
-    left: 35.3%;
-    width: 26%;
+.oceanCopyTwo {
+	position: relative;
+	top: -60%;
+	left: 35.3%;
+	width: 26%;
 }
-
-.oceanCopyThree
-{
-    position: relative;
-    top: -35%;
-    left: 35.3%;
-    width: 26%;
+.oceanCopyThree {
+	position: relative;
+	top: -35%;
+	left: 35.3%;
+	width: 26%;
 }
-
-#oceanOne
-{
-    position: relative;
-    top: 27%;
-    left: -2%;
-    width: 100vw;
+#oceanOne {
+	position: relative;
+	top: 27%;
+	left: -2%;
+	width: 100vw;
 }
-
-#oceanTwo
-{
-    position: relative;
-    top: 38%;
-    left: -32.9%;
-    width: 61.5vw;
+#oceanTwo {
+	position: relative;
+	top: 38%;
+	left: -32.9%;
+	width: 61.5vw;
 }
-
-#oceanThree
-{
-    position: relative;
-    top: 33%;
-    left: -32.9%;
-    width: 61.5vw;
+#oceanThree {
+	position: relative;
+	top: 33%;
+	left: -32.9%;
+	width: 61.5vw;
 }
-
-#oceanFour
-{
-    position: relative;
-    top: 35%;
-    left: 1.8%;
+#oceanFour {
+	position: relative;
+	top: 35%;
+	left: 1.8%;
 }
-
-#oceanFive
-{
-    position: relative;
-    top: 5%;
-    left: 33.7%;
+#oceanFive {
+	position: relative;
+	top: 5%;
+	left: 33.7%;
 }
-
-#oceanSix
-{
-    position: relative;
-    top: 32%;
-    left: -32.5%;
+#oceanSix {
+	position: relative;
+	top: 32%;
+	left: -32.5%;
 }
-
-#oceanSeven
-{
-    position: relative;
-    top: -35.2%;
-    left: 35.4%;
-    padding: 0;
+#oceanSeven {
+	position: relative;
+	top: -35.2%;
+	left: 35.4%;
+	padding: 0;
 }
-
-#oceanEight
-{
-    position: relative;
-    top: 25%;
-    left: -32.3%;
-    width: 63vw;
+#oceanEight {
+	position: relative;
+	top: 25%;
+	left: -32.3%;
+	width: 63vw;
 }
-
-#oceanNine
-{
-    position: relative;
-    top: 18%;
-    left: 0.9%;
+#oceanNine {
+	position: relative;
+	top: 18%;
+	left: 0.9%;
 }
-
-#oceanTen
-{
-    position: relative;
-    top: 8.3%;
-    left: 34.3%;
+#oceanTen {
+	position: relative;
+	top: 8.3%;
+	left: 34.3%;
 }
-
-#oceanEleven
-{
-    position: relative;
-    top: 38%;
-    left: -32.9%;
-    width: 61.5vw;
+#oceanEleven {
+	position: relative;
+	top: 38%;
+	left: -32.9%;
+	width: 61.5vw;
 }
-
-#oceanTwelve
-{
-    position: relative;
-    top: 24%;
-    left: 34.7%;
-    z-index: 5;
+#oceanTwelve {
+	position: relative;
+	top: 24%;
+	left: 34.7%;
+	z-index: 5;
 }
-
-#oceanThirteen
-{
-    position: relative;
-    top: 28%;
-    left: 7.5%;
-    z-index: 5;
+#oceanThirteen {
+	position: relative;
+	top: 28%;
+	left: 7.5%;
+	z-index: 5;
 }
-
-#oceanFourteen
-{
-    position: relative;
-    top: 15%;
-    left: 17.9%;
-    z-index: -5;
-    width: 46.5vw;
+#oceanFourteen {
+	position: relative;
+	top: 15%;
+	left: 17.9%;
+	z-index: -5;
+	width: 46.5vw;
 }
-
-#oceanFifteen
-{
-    position: relative;
-    top: 10%;
-    left: 34.7%;
-    z-index: 5;
+#oceanFifteen {
+	position: relative;
+	top: 10%;
+	left: 34.7%;
+	z-index: 5;
 }
-
-#oceanSixteen
-{
-    position: relative;
-    top: -40%;
-    left: 34.7%;
-    z-index: 5;
+#oceanSixteen {
+	position: relative;
+	top: -40%;
+	left: 34.7%;
+	z-index: 5;
 }
-
-#oceanSeventeen
-{
-    position: relative;
-    top: -40%;
-    left: 7.5%;
-    z-index: -5;
+#oceanSeventeen {
+	position: relative;
+	top: -52%;
+	left: 7.5%;
+	z-index: -5;
 }
-
-#oceanEighteen
-{
-    position: relative;
-    top: -49%;
-    left: 18.2%;
-    z-index: 0;
-    width: 46.5vw;
+#oceanEighteen {
+	position: relative;
+	top: -51%;
+	left: 18.2%;
+	z-index: 0;
+	width: 46.5vw;
 }
-
-#oceanNinteen
-{
-    position: relative;
-    top: -55%;
-    left: 34.7%;
-    z-index: 5;
+#oceanNinteen {
+	position: relative;
+	top: -50%;
+	left: 34.7%;
+	z-index: 5;
 }
-
-#oceanImageDescriptionOne
-{
-    position: relative;
-    top: 27%;
-    left: 35.3%;
-    width: 14%;
+#oceanImageDescriptionZero {
+	position: relative;
+	top: 20%;
+	left: 35.3%;
+	width: 14%;
 }
-
-#oceanImageDescriptionTwo
-{
-    position: relative;
-    top: -33%;
-    left: 35.3%;
-    width: 14%;
+#oceanImageDescriptionOne {
+	position: relative;
+	top: 27%;
+	left: 35.3%;
+	width: 14%;
 }
-
-#oceanImageDescriptionThree
-{
-    position: relative;
-    top: -5%;
-    left: 8.7%;
-    width: 14%;
+#oceanImageDescriptionTwo {
+	position: relative;
+	top: -33%;
+	left: 35.3%;
+	width: 14%;
 }
-
-#oceanImageDescriptionFour
-{
-    position: relative;
-    top: 13%;
-    left: 35.3%;
-    width: 14%;
+#oceanImageDescriptionThree {
+	position: relative;
+	top: -5%;
+	left: 8.7%;
+	width: 14%;
 }
-
-#oceanImageDescriptionFive
-{
-    position: relative;
-    top: 118%;
-    left: 35.3%;
-    width: 21%;
+#oceanImageDescriptionFour {
+	position: relative;
+	top: 13%;
+	left: 35.3%;
+	width: 14%;
 }
-
-#oceanImageDescriptionSix
-{
-    position: relative;
-    top: 60%;
-    left: 35.3%;
-    width: 21%;
+#oceanImageDescriptionFive {
+	position: relative;
+	top: 118%;
+	left: 35.3%;
+	width: 21%;
 }
-
-#oceanGridOne
-{
-    position: relative;
-    top: -15%;
-    left: -44.7%;
+#oceanImageDescriptionSix {
+	position: relative;
+	top: 60%;
+	left: 35.3%;
+	width: 21%;
 }
-
-#OceanVideoOne
-{
-    position: relative;
-    top: 19%;
-    left: -49.7%;
-    width: 46vw;
-    height: 46vh;
+#oceanGridOne {
+	position: relative;
+	top: -15%;
+	left: -44.7%;
 }
-
-#OceanVideoTwo
-{
-    position: relative;
-    top: 0%;
-    left: -66.7%;
-    width: 25vw;
-    height: 97vh;
-    z-index: 5;
+#OceanVideoOne {
+	position: relative;
+	top: 19%;
+	left: -49.7%;
+	width: 46vw;
+	height: 46vh;
 }
-
-#OceanVideoThree
-{
-    position: relative;
-    top: -63%;
-    left: -33%;
-    width: 61.5vw;
-    height: 62.5vh;
+#OceanVideoTwo {
+	position: relative;
+	top: 0%;
+	left: -66.7%;
+	width: 25vw;
+	height: 97vh;
+	z-index: 5;
 }
-
-.endlineOceanTwo
-{
-    width: 64.5vw;
-    height: 1vh;
-    position: relative;
-    top: 95%;
-    left: 0%;
-    border-bottom: 1px dotted black;
+#OceanVideoThree {
+	position: relative;
+	top: -48.6%;
+	left: -33%;
+	width: 61.5vw;
+	height: 62.5vh;
 }
-
-.endlineOceanThree
-{
-    width: 64.5vw;
-    height: 1vh;
-    position: relative;
-    top: 14%;
-    left: 0%;
-    border-bottom: 2px solid black;
+.endlineOceanTwo {
+	width: 64.5vw;
+	height: 1vh;
+	position: relative;
+	top: 95%;
+	left: 0%;
+	border-bottom: 1px dotted black;
 }
-
-.endlineOceanOne
-{
-    width: 64.5vw;
-    height: 1vh;
-    position: relative;
-    top: 3%;
-    left: 0%;
-    border-bottom: 1px solid black;
+.endlineOceanThree {
+	width: 64.5vw;
+	height: 1vh;
+	position: relative;
+	top: 14%;
+	left: 0%;
+	border-bottom: 2px solid black;
 }
-
-.referenceBlockOceanOne
-{
-    width: 70%;
-    height: 50%;
-    position: relative;
-    top: 20%;
-    left: 35.2%;
+.endlineOceanOne {
+	width: 64.5vw;
+	height: 1vh;
+	position: relative;
+	top: 3%;
+	left: 0%;
+	border-bottom: 1px solid black;
 }
-
-.referenceOcean
-{
-    position: relative;
-    font-family: 'Roboto', sans-serif;
-    font-weight: 300;
-    font-size: 13px;
-    line-height: 17px;
-    width: 30%;
-    height: 60%;
-    text-align: left;
-    margin-bottom: 10px;
+.referenceBlockOceanOne {
+	width: 70%;
+	height: 50%;
+	position: relative;
+	top: 20%;
+	left: 35.2%;
+}
+.referenceOcean {
+	position: relative;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	font-size: 13px;
+	line-height: 17px;
+	width: 30%;
+	height: 60%;
+	text-align: left;
+	margin-bottom: 10px;
 }
 
 /* -------------------------- Andy's dope resposive code ---------------------------------*/
+/* 1280 x 582 */
+@media(max-width: 1299px) {
+#oceanOne {
+	top: 33%;
+	left: -2%;
+}
+.oceanCopyOne {
+	top: 30%;
+	left: 8.3%;
+}
+#oceanSubOne {
+	top: 0vh;
+}
+#oceanSubTwo {
+	top: -40vh;
+}
+#oceanSubThree {
+	top: 45vh;
+}
+#oceanSubFour {
+	top: 98vh;
+}
+#oceanSubFive {
+	top: 140vh;
+}
+#oceanSubSix {
+	top: 160vh;
+}
+#oceanSubSeven {
+	top: 493vh;
+	height: 15vh;
+}
+#oceanImageDescriptionZero {
+	position: relative;
+	top: 25%;
+	left: 35.3%;
+	width: 14%;
+}
+#oceanImageDescriptionOne {
+	top: 41%;
+}
+#oceanFour {
+	top: 40.5%;
+	left: 0.8%;
+}
+#oceanFive {
+	top: 14%;
+}
+#oceanTwo {
+	top: 48%;
+}
+#oceanThree {
+	top: 45%;
+}
+#oceanSeven {
+	top: -47.2%;
+	left: 35.4%;
+}
+#oceanImageDescriptionTwo {
+	top: -44%;
+	left: 35.3%;
+}
+#oceanGridOne {
+	top: -22.5%;
+	left: -46.1%;
+}
+#oceanEight {
+	top: 31%;
+}
+#oceanNine {
+	top: 25%;
+}
+#oceanTen {
+	top: 11.3%;
+}
+#oceanImageDescriptionThree {
+	top: -4%;
+	left: 8.3%;
+}
+#oceanEleven {
+	top: 45%;
+}
+#oceanTwelve {
+	top: 30%;
+	left: 34.5%;
+}
+#OceanVideoOne {
+	top: 25%;
+	left: -49.4%;
+}
+#oceanImageDescriptionFour {
+	top: 22%;
+	left: 35.3%;
+}
+#oceanThirteen {
+	top: 30%;
+	left: 7.9%;
+}
+#oceanFourteen {
+	top: 15%;
+	left: 17.9%;
+}
+#oceanFifteen {
+	top: 2%;
+	left: 34.7%;
+}
+#OceanVideoTwo {
+	top: 4%;
+	left: -66.4%;
+}
+#OceanVideoThree {
+	top: -53%;
+	left: -33%;
+}
+.oceanCopyTwo {
+	top: -55%;
+	left: 35.3%;
+}
+#oceanSixteen {
+	top: -30%;
+	left: 34.5%;
+}
+.oceanCopyThree {
+	top: -29%;
+	left: 35.3%;
+}
+#oceanSeventeen {
+	top: -60%;
+	left: 7.8%;
+}
+#oceanEighteen {
+	position: relative;
+	top: -54%;
+	left: 17.7%;
+	z-index: 0;
+	width: 47.3vw;
+}
+#oceanNinteen {
+	top: -55%;
+	left: 34.5%;
+}
+#oceanImageDescriptionSix {
+	top: 60%;
+	left: 35.3%;
+}
+#oceanImageDescriptionFive {
+	top: 118%;
+	left: 35.3%;
+}
+}
 
-@media(max-width: 1299px) 
-{
-    
-#oceanOne 
-{
-    top: 36%;
+/*1280 x 800*/
+@media (max-width: 1299px) and (min-height: 680px) and (max-height: 801px) {
+#oceanOne {
+	top: 32%;
+	left: -2%;
+}
+.oceanCopyOne {
+    top: 24%;
+    left: 8.3%;
+}
+#oceanSubOne {
+	top: 0vh;
+}
+#oceanSubTwo {
+	top: -443px;
+}
+#oceanSubThree {
+	top: -236px;
+}
+#oceanSubFour {
+	top: -4px;
+}
+#oceanSubFive {
+	top: 4px;
+}
+#oceanSubSix {
+	top: -153px;
+}
+#oceanSubSeven {
+	top: 1750px;
+	height: 15vh;
+}
+#oceanImageDescriptionZero {
+	position: relative;
+	top: 26%;
+	left: 35.3%;
+	width: 14%;
+}
+#oceanImageDescriptionOne {
+	top: 27%;
+}
+#oceanFour {
+	top: 40.5%;
+	left: 0.8%;
+}
+#oceanFive {
+	top: 13%;
+}
+#oceanTwo {
+	top: 35%;
+}
+#oceanThree {
+	top: 32%;
+}
+#oceanSeven {
+	top: -19.2%;
+	left: 35.4%;
+}
+#oceanImageDescriptionTwo {
+	top: -18%;
+	left: 35.3%;
+}
+#oceanGridOne {
+	top: -1.5%;
+	left: -46.1%;
+}
+#oceanEight {
+	top: 31%;
+}
+#oceanNine {
+	top: 25%;
+}
+#oceanTen {
+	top: 15.3%;
+}
+#oceanImageDescriptionThree {
+	top: 3%;
+	left: 8.3%;
+}
+#oceanEleven {
+	top: 32%;
+}
+#oceanTwelve {
+	top: 20%;
+	left: 34.5%;
+}
+#OceanVideoOne {
+	top: 13%;
+	left: -49.4%;
+}
+#oceanImageDescriptionFour {
+	top: 8%;
+	left: 35.3%;
+}
+#oceanThirteen {
+	top: 30%;
+	left: 7.9%;
+}
+#oceanFourteen {
+	top: 15%;
+	left: 17.9%;
+}
+#oceanFifteen {
+	top: 2%;
+	left: 34.7%;
+}
+#OceanVideoTwo {
+	top: 4%;
+	left: -66.4%;
+}
+.oceanCopyTwo {
+	top: -55%;
+	left: 35.3%;
+}
+#oceanSixteen {
+	top: -30%;
+	left: 34.5%;
+}
+.oceanCopyThree {
+	top: -29%;
+	left: 35.3%;
+}
+#oceanSeventeen {
+	top: -46%;
+	left: 7.8%;
+}
+#oceanEighteen {
+	position: relative;
+	top: -46%;
+	left: 17.7%;
+	z-index: 0;
+	width: 47.3vw;
+}
+#oceanNinteen {
+	top: -46%;
+	left: 34.5%;
+}
+#OceanVideoThree {
+	top: -45%;
+	left: -33%;
+}
+#oceanImageDescriptionSix {
+	top: 24%;
+	left: 35.3%;
+}
+#oceanImageDescriptionFive {
+	top: 45%;
+	left: 35.3%;
+}
+.endlineOceanTwo {
+	top: 32%;
+	left: 0%;
+}
+}
+
+/*1366 x 768*/
+@media (min-width: 1300px) and (max-width: 1399px) {
+#oceanSubOne {
+	top: -5vh;
+}
+#oceanSubTwo {
+	top: -74vh;
+}
+#oceanSubThree {
+	top: -39vh;
+}
+#oceanSubFour {
+	top: -30vh;
+}
+#oceanSubFive {
+	top: -30vh;
+}
+#oceanSubSix {
+	top: -43vh;
+}
+#oceanSubSeven {
+	top: 213vh;
+	height: 15vh;
+}
+#oceanOne {
+    top: 31.3%;
     left: -2%;
 }
-
-.oceanCopyOne 
-{
-    top: 30%;
-    left: 8.3%;
+#oceanTwo {
+	top: 40%;
+	left: -32.9%;
 }
-
-#oceanSubOne
-{
-    top: 0vh;
+#oceanThree {
+	top: 36%;
+	left: -32.9%;
 }
-
-#oceanSubTwo 
-{
-    top: -40vh;
+#oceanFour {
+	top: 35%;
+	left: 1.5%;
 }
-
-#oceanSubThree 
-{
-    top: 45vh;
+#oceanSeven {
+	top: -35.2%;
+	left: 35.3%;
 }
-
-#oceanSubFour 
-{
-    top: 98vh;
-}   
-
-#oceanSubFive {
-    top: 140vh;
+#oceanEight {
+	top: 29%;
+	left: -32.3%;
 }
-
-#oceanSubSix 
-{
-    top: 160vh;
+#oceanNine {
+	top: 22%;
+	left: 0.9%;
 }
-
-#oceanSubSeven 
-{
-    top: 480vh;
-    height: 15vh;
+#oceanTen {
+	top: 11%;
+	left: 34.3%;
 }
-
-#oceanImageDescriptionOne
- {
-    top: 41%;
- }
-
- #oceanFour 
- {
-    top: 40.5%;
-    left: 0.8%;
-}
-
-#oceanFive 
-{
-    top: 14%;
-}
-
-#oceanTwo 
-{
-    top: 48%;
-}
-
-#oceanThree 
-{
-    top: 45%;
-}
-
-#oceanSeven 
-{
-    top: -47.2%;
-    left: 35.4%;
-}
-
-#oceanImageDescriptionTwo 
-{
-    top: -44%;
-    left: 35.3%;
-}
-
-#oceanGridOne
-{
-    top: -22.5%;
-    left: -46.1%;
-}
-
-#oceanEight 
-{
-    top: 31%;
-}
-
-#oceanNine 
-{
-    top: 25%;
-}
-
-#oceanTen 
-{
-    top: 11.3%;
-}
-
-#oceanImageDescriptionThree 
-{
-    top: -4%;
-    left: 8.3%;
-}
-
-#oceanEleven 
-{
-    top: 45%;
-}
-
-#oceanTwelve 
-{
-    top: 30%;
-    left: 34.5%;
-}
-
-#OceanVideoOne 
-{
-    top: 25%;
-    left: -49.4%;
-}
-
-#oceanImageDescriptionFour 
-{
-    top: 22%;
-    left: 35.3%;
-}
-
-#oceanThirteen 
-{
-    top: 30%;
-    left: 7.9%;
-}
-
-#oceanFourteen 
-{
-    top: 15%;
-    left: 17.9%;
-}
-
-#oceanFifteen 
-{
-    top: 2%;
-    left: 34.7%;
-}
-
-#OceanVideoTwo 
-{
-    top: 4%;
-    left: -66.4%;
-}
-
-.oceanCopyTwo 
-{
-    top: -55%;
-    left: 35.3%;
-}
-
-#oceanSixteen 
-{
-    top: -30%;
-    left: 34.5%;
-}
-
-.oceanCopyThree 
-{
-    top: -29%;
-    left: 35.3%;
-}
-
-#oceanSeventeen 
-{
-    top: -40%;
-    left: 7.8%;
-}
-
-#oceanEighteen 
-{
+#oceanEleven {
     position: relative;
-    top: -49%;
-    left: 17.7%;
-    z-index: 0;
-    width: 47.3vw;
+    top: 40%;
+}
+#oceanTwelve {
+	top: 24%;
+	left: 34.5%;
+}
+#oceanThirteen {
+	top: 28%;
+	left: 7.8%;
+}
+#oceanFourteen {
+	top: 15%;
+	left: 18.5%;
+}
+#oceanFifteen {
+	top: 10%;
+	left: 34.6%;
+}
+#oceanSixteen {
+	top: -34%;
+	left: 34.5%;
+}
+#oceanSeventeen {
+	top: -49%;
+	left: 7.8%;
+}
+#oceanEighteen {
+	top: -49%;
+	left: 18.4%;
+}
+#oceanNinteen {
+	top: -49%;
+	left: 34.5%;
+}
+.oceanCopyOne {
+	top: 28%;
+	left: 8.3%;
+}
+#oceanImageDescriptionOne {
+	top: 31%;
+	left: 35.3%;
+}
+#oceanImageDescriptionThree {
+	top: -1%;
+	left: 8.3%;
+}
+#oceanGridOne {
+	top: -15%;
+	left: -45.4%;
+}
+#OceanVideoTwo {
+	top: 0%;
+	left: -66.4%;
+}
+.oceanCopyThree {
+	top: -33%;
+	left: 35.3%;
+}
 }
 
-#oceanNinteen 
-{
-    top: -55%;
-    left: 34.5%;
+/*1366 x 695*/
+@media (min-width: 1300px) and (max-width: 1399px) and (min-height:680px) and (max-height: 749px) {
+#oceanSubOne {
+	top: -5vh;
+}
+#oceanSubTwo {
+	top: -430px;
+}
+#oceanSubThree {
+	top: -99.8px;
+}
+#oceanSubFour {
+	top: 201.5px;
+}
+#oceanSubFive {
+	top: 320px;
+}
+#oceanSubSix {
+	top: 285px;
+}
+#oceanSubSeven {
+	top: 2282px;
+	height: 15vh;
+}
+#oceanOne {
+	top: 32%;
+	left: -2%;
+}
+#oceanTwo {
+	top: 42%;
+	left: -32.9%;
+}
+#oceanThree {
+	top: 36%;
+	left: -32.9%;
+}
+#oceanFour {
+	top: 35%;
+	left: 1.5%;
+}
+#oceanFive {
+	top: 2%;
+}
+#oceanSeven {
+	top: -35.2%;
+	left: 35.3%;
+}
+#oceanEight {
+	top: 29%;
+	left: -32.3%;
+}
+#oceanNine {
+	top: 22%;
+	left: 0.9%;
+}
+#oceanTen {
+	top: 11%;
+	left: 34.3%;
+}
+#oceanTwelve {
+	top: 24%;
+	left: 34.5%;
+}
+#oceanThirteen {
+	top: 28%;
+	left: 7.8%;
+}
+#oceanFourteen {
+	top: 15%;
+	left: 18.5%;
+}
+#oceanFifteen {
+	top: 10%;
+	left: 34.6%;
+}
+#oceanSixteen {
+	top: -34%;
+	left: 34.5%;
+}
+#oceanSeventeen {
+	top: -48%;
+	left: 7.8%;
+}
+#oceanEighteen {
+	top: -49%;
+	left: 18.4%;
+}
+#oceanNinteen {
+	top: -49%;
+	left: 34.5%;
+}
+.oceanCopyOne {
+	top: 28%;
+	left: 8.3%;
+}
+#oceanImageDescriptionZero {
+	position: relative;
+	top: 25%;
+	left: 35.3%;
+	width: 14%;
+}
+#oceanImageDescriptionOne {
+	top: 31%;
+	left: 35.3%;
+}
+#oceanImageDescriptionThree {
+	top: -1%;
+	left: 8.3%;
+}
+#oceanGridOne {
+	top: -15%;
+	left: -45.4%;
+}
+#OceanVideoTwo {
+	top: 0%;
+	left: -66.4%;
+}
+.oceanCopyThree {
+	top: -33%;
+	left: 35.3%;
+}
 }
 
-#OceanVideoThree 
-{
-    top: -63%;
-    left: -33%;
+/*1440 x 768 */
+@media (min-width: 1400px) and (max-width: 1499px) {
+#oceanSubTwo {
+	top: -55vh;
+}
+#oceanSubThree {
+	top: -17vh;
+}
+#oceanSubFour {
+	top: 8.3vh;
+}
+#oceanSubFive {
+	top: 11vh;
+}
+#oceanSubSix {
+	top: 4vh;
+}
+#oceanSubSeven {
+	top: 278vh;
+	height: 15vh;
+}
+.oceanCopyThree {
+	top: -34%;
+	left: 35.3%;
+	width: 26%;
+}
+.oceanCopyFour {
+	top: 18.5%;
+}
+.oceanCopyOne {
+	top: 25%;
+}
+#oceanGridOne {
+	top: -21%;
+	left: -45.3%;
+}
+#oceanOne {
+	top: 30%;
+}
+#oceanSeven {
+	top: -42.2%;
+	left: 35.4%;
+}
+#oceanFive {
+	top: 3%;
+	left: 33.7%;
+}
+#oceanEight {
+	top: 26%;
+	left: -32.3%;
+}
+#oceanNine {
+	top: 20%;
+	left: 0.9%;
+}
+#oceanTen {
+	top: 8.3%;
+	left: 34.2%;
+}
+#oceanTwelve {
+	top: 24%;
+	left: 34.55%;
+}
+#oceanThirteen {
+	top: 28%;
+	left: 7.7%;
+}
+#oceanFourteen {
+	top: 15%;
+	left: 17.9%;
+	width: 47vw;
+}
+#oceanFifteen {
+	top: 10%;
+	left: 34.55%;
+}
+#oceanSixteen {
+	top: -36%;
+	left: 34.5%;
+}
+#oceanSeventeen {
+	top: -50%;
+	left: 7.7%;
+}
+#oceanEighteen {
+	top: -49%;
+	left: 17.8%;
+	width: 47vw;
+}
+#oceanNinteen {
+	top: -49%;
+	left: 34.65%;
+}
+#oceanImageDescriptionZero {
+	position: relative;
+	top: 24%;
+	left: 35.3%;
+	width: 14%;
+}
+#oceanImageDescriptionOne {
+	top: 28%;
+}
+#oceanImageDescriptionTwo {
+	top: -40%;
+	left: 35.3%;
+}
+#oceanImageDescriptionThree {
+	top: -5%;
+	left: 8.3%;
+}
+#oceanImageDescriptionFour {
+	top: 14%;
+	left: 35.3%;
+}
+#oceanImageDescriptionFive {
+	top: 88%;
+	left: 35.3%;
+	width: 21%;
+}
+#oceanImageDescriptionSix {
+	top: 37%;
+	left: 35.3%;
+	width: 21%;
+}
+.endlineOceanTwo {
+	top: 57%;
+	left: 0%;
+	border-bottom: 1px dotted black;
+}
+#OceanVideoTwo {
+	top: 0%;
+	left: -66.5%;
+	width: 25vw;
+	height: 97vh;
+}
+.oceanCopyTwo {
+	top: -57%;
+	left: 35.3%;
+	width: 26%;
+}
 }
 
-#oceanImageDescriptionSix 
-{
-    top: 60%;
-    left: 35.3%;
+/*1440 x 900*/
+@media (min-width: 1400px) and (max-width: 1499px) and (min-height: 851px) and (max-height:901px) {
+#oceanSubTwo {
+	top: -608px;
+}
+#oceanSubThree {
+	top: -46vh;
+}
+#oceanSubFour {
+	top: -269px;
+}
+#oceanSubFive {
+	top: -372px;
+}
+#oceanSubSix {
+	top: -491px;
+}
+#oceanSubSeven {
+	top: 1581px;
+	height: 15vh;
+}
+.oceanCopyThree {
+	top: -34%;
+	left: 35.3%;
+	width: 26%;
+}
+.oceanCopyFour {
+	top: 15.5%;
+}
+.oceanCopyOne {
+	top: 25%;
+}
+#oceanGridOne {
+	top: -7%;
+	left: -45.3%;
+}
+#oceanOne {
+	top: 26%;
+}
+#oceanSeven {
+	top: -25.2%;
+	left: 35.4%;
+}
+#oceanFive {
+	top: 9%;
+	left: 33.7%;
+}
+#oceanEight {
+	top: 26%;
+	left: -32.3%;
+}
+#oceanNine {
+	top: 20%;
+	left: 0.9%;
+}
+#oceanTen {
+	top: 10.3%;
+	left: 34.2%;
+}
+#oceanEleven {
+	top: 34%;
+}
+#oceanTwelve {
+	top: 24%;
+	left: 34.55%;
+}
+#oceanThirteen {
+	top: 28%;
+	left: 7.7%;
+}
+#oceanFourteen {
+	top: 15%;
+	left: 17.9%;
+	width: 47vw;
+}
+#oceanFifteen {
+	top: 10%;
+	left: 34.55%;
+}
+#oceanSixteen {
+	top: -36%;
+	left: 34.5%;
+}
+#oceanSeventeen {
+	top: -47%;
+	left: 7.7%;
+}
+#oceanEighteen {
+	top: -47%;
+	left: 17.8%;
+	width: 47vw;
+}
+#oceanNinteen {
+	top: -47.2%;
+	left: 34.65%;
+}
+#oceanImageDescriptionOne {
+	top: 28%;
+}
+#oceanImageDescriptionTwo {
+	top: -24%;
+	left: 35.3%;
+}
+#oceanImageDescriptionThree {
+	top: 0%;
+	left: 8.3%;
+}
+#oceanImageDescriptionFour {
+	top: 14%;
+	left: 35.3%;
+}
+#oceanImageDescriptionFive {
+	top: 88%;
+	left: 35.3%;
+	width: 21%;
+}
+#oceanImageDescriptionSix {
+	top: 37%;
+	left: 35.3%;
+	width: 21%;
+}
+.endlineOceanTwo {
+	top: 57%;
+	left: 0%;
+	border-bottom: 1px dotted black;
+}
+#OceanVideoTwo {
+	top: 0%;
+	left: -66.5%;
+	width: 25vw;
+	height: 97vh;
+}
+#OceanVideoThree {
+	position: relative;
+	top: -46.6%;
+	left: -33%;
+	width: 61.5vw;
+	height: 62.5vh;
+}
+.oceanCopyTwo {
+	top: -57%;
+	left: 35.3%;
+	width: 26%;
+}
 }
 
-#oceanImageDescriptionFive 
-{
-    top: 118%;
-    left: 35.3%;
+/* 1536 x 730 */
+@media (min-width: 1500px) and (max-width: 1599px) {
+#oceanSubTwo {
+	top: -47vh;
+}
+#oceanSubThree {
+	top: 12vh;
+}
+#oceanSubFour {
+	top: 58.4vh;
+}
+#oceanSubFive {
+	top: 80vh;
+}
+#oceanSubSix {
+	top: 83vh;
+}
+#oceanSubSeven {
+	top: 381vh;
+	height: 15vh;
+}
+#oceanOne {
+	top: 31%;
+}
+#oceanTwo {
+	top: 43%;
+}
+#oceanThree {
+	top: 38%;
+}
+#oceanFour {
+	top: 38%;
+	left: 1.8%;
+}
+#oceanFive {
+	top: 2%;
+	left: 33.7%;
+}
+#oceanSeven {
+	top: -45.6%;
+	left: 35.4%;
+	width: 24.2vw;
+}
+#oceanEight {
+	top: 27%;
+}
+#oceanNine {
+	top: 21%;
+	left: 0.9%;
+}
+#oceanEleven {
+	top: 43%;
+	left: -32.9%;
+}
+#oceanTwelve {
+	top: 28%;
+	left: 34.7%;
+}
+#oceanThirteen {
+	top: 28%;
+	left: 7.6%;
+}
+#oceanFifteen {
+	top: 7%;
+	left: 34.6%;
+}
+#oceanSixteen {
+	top: -46%;
+	left: 34.7%;
+}
+#oceanSeventeen {
+	top: -64.4%;
+	left: 7.6%;
+}
+#oceanEighteen {
+	top: -65%;
+	left: 18.3%;
+}
+#oceanNinteen {
+	top: -65%;
+	left: 34.6%;
+}
+#oceanGridOne {
+	top: -23%;
+	left: -44.7%;
+}
+#oceanImageDescriptionZero {
+	position: relative;
+	top: 24%;
+	left: 35.3%;
+	width: 14%;
+}
+#oceanImageDescriptionOne {
+	top: 33%;
+}
+#oceanImageDescriptionTwo {
+	top: -44%;
+	left: 35.3%;
+}
+#oceanImageDescriptionThree {
+	top: -6%;
+	left: 8.3%;
+	width: 14%;
+}
+#oceanImageDescriptionFour {
+	top: 17%;
+	left: 35.3%;
+	width: 14%;
+}
+#oceanImageDescriptionSix {
+	top: 36%;
+	left: 35.3%;
+	width: 21%;
+}
+#oceanImageDescriptionFive {
+	top: 89%;
+	left: 35.3%;
+	width: 21%;
+}
+.oceanCopyOne {
+	top: 27%;
+	left: 8.3%;
+}
+.oceanCopyTwo {
+	top: -63%;
+	left: 35.3%;
+	width: 26%;
+}
+.oceanCopyThree {
+	top: -45%;
+	left: 35.3%;
+	width: 26%;
+}
+#OceanVideoOne {
+	top: 22%;
+	left: -49.7%;
+}
+#OceanVideoTwo {
+	top: 0%;
+	left: -66.5%;
+}
+#OceanVideoThree {
+	top: -64%;
+	left: -33%;
+}
+.endlineOceanTwo {
+	top: 60%;
+	left: 0%;
+}
 }
 
+/*1536 x 792*/
+@media (min-width: 1500px) and (max-width: 1599px) and (min-height:780px) and (max-height: 810px) {
+#oceanSubTwo {
+	top: -355px;
 }
-@media (max-width: 1299px) and (min-height: 680px) and (max-height: 801px)
-{
-    
-    #oceanOne 
-    {
-        top: 36%;
-        left: -2%;
-    }
-    
-    .oceanCopyOne 
-    {
-        top: 30%;
-        left: 8.3%;
-    }
-    
-    #oceanSubOne
-    {
-        top: 0vh;
-    }
-    
-    #oceanSubTwo 
-    {
-        top: -320px;
-    }
-    
-    #oceanSubThree 
-    {
-        top: -104px;
-    }
-    
-    #oceanSubFour 
-    {
-        top: 40px;
-    }   
-    
-    #oceanSubFive {
-        top: 61px;
-    }
-    
-    #oceanSubSix 
-    {
-        top: -88px;
-    }
-    
-    #oceanSubSeven 
-    {
-        top: 1632px;
-        height: 15vh;
-    }
-    
-    #oceanImageDescriptionOne
-     {
-        top: 27%;
-     }
-    
-     #oceanFour 
-     {
-        top: 40.5%;
-        left: 0.8%;
-    }
-    
-    #oceanFive 
-    {
-        top: 13%;
-    }
-    
-    #oceanTwo 
-    {
-        top: 35%;
-    }
-    
-    #oceanThree 
-    {
-        top: 32%;
-    }
-    
-    #oceanSeven 
-    {
-        top: -19.2%;
-        left: 35.4%;
-    }
-    
-    #oceanImageDescriptionTwo 
-    {
-        top: -18%;
-        left: 35.3%;
-    }
-    
-    #oceanGridOne
-    {
-        top: -1.5%;
-        left: -46.1%;
-    }
-    
-    #oceanEight 
-    {
-        top: 31%;
-    }
-    
-    #oceanNine 
-    {
-        top: 25%;
-    }
-    
-    #oceanTen 
-    {
-        top: 15.3%;
-    }
-    
-    #oceanImageDescriptionThree 
-    {
-        top: 3%;
-        left: 8.3%;
-    }
-    
-    #oceanEleven 
-    {
-        top: 32%;
-    }
-    
-    #oceanTwelve 
-    {
-        top: 20%;
-        left: 34.5%;
-    }
-    
-    #OceanVideoOne 
-    {
-        top: 13%;
-        left: -49.4%;
-    }
-    
-    #oceanImageDescriptionFour 
-    {
-        top: 8%;
-        left: 35.3%;
-    }
-    
-    #oceanThirteen 
-    {
-        top: 30%;
-        left: 7.9%;
-    }
-    
-    #oceanFourteen 
-    {
-        top: 15%;
-        left: 17.9%;
-    }
-    
-    #oceanFifteen 
-    {
-        top: 2%;
-        left: 34.7%;
-    }
-    
-    #OceanVideoTwo 
-    {
-        top: 4%;
-        left: -66.4%;
-    }
-    
-    .oceanCopyTwo 
-    {
-        top: -55%;
-        left: 35.3%;
-    }
-    
-    #oceanSixteen 
-    {
-        top: -30%;
-        left: 34.5%;
-    }
-    
-    .oceanCopyThree 
-    {
-        top: -29%;
-        left: 35.3%;
-    }
-    
-    #oceanSeventeen 
-    {
-        top: -40%;
-        left: 7.8%;
-    }
-    
-    #oceanEighteen 
-    {
-        position: relative;
-        top: -49%;
-        left: 17.7%;
-        z-index: 0;
-        width: 47.3vw;
-    }
-    
-    #oceanNinteen 
-    {
-        top: -55%;
-        left: 34.5%;
-    }
-    
-    #OceanVideoThree 
-    {
-        top: -63%;
-        left: -33%;
-    }
-    
-    #oceanImageDescriptionSix 
-    {
-        top: 24%;
-        left: 35.3%;
-    }
-    
-    #oceanImageDescriptionFive 
-    {
-        top: 45%;
-        left: 35.3%;
-    }
-
-    .endlineOceanTwo {
-        top: 32%;
-        left: 0%;
-    }
-    
+#oceanSubThree {
+	top: 38px;
+}
+#oceanSubFour {
+	top: 359px;
+}
+#oceanSubFive {
+	top: 442px;
+}
+#oceanSubSix {
+	top: 438px;
+}
+#oceanSubSeven {
+	top: 2560px;
+	height: 15vh;
+}
+#oceanOne {
+	top: 33%;
+}
+#oceanTwo {
+	top: 43%;
+}
+#oceanThree {
+	top: 38%;
+}
+#oceanFour {
+	top: 38%;
+	left: 1.8%;
+}
+#oceanFive {
+	top: 5%;
+	left: 33.7%;
+}
+#oceanSeven {
+	top: -36.6%;
+	left: 35.4%;
+	width: 24.2vw;
+}
+#oceanEight {
+	top: 27%;
+}
+#oceanNine {
+	top: 21%;
+	left: 0.9%;
+}
+#oceanEleven {
+	top: 43%;
+	left: -32.9%;
+}
+#oceanTwelve {
+	top: 28%;
+	left: 34.7%;
+}
+#oceanThirteen {
+	top: 28%;
+	left: 7.6%;
+}
+#oceanFifteen {
+	top: 7%;
+	left: 34.6%;
+}
+#oceanSixteen {
+	top: -46%;
+	left: 34.7%;
+}
+#oceanSeventeen {
+	top: -65%;
+	left: 7.6%;
+}
+#oceanEighteen {
+	top: -65%;
+	left: 18.3%;
+}
+#oceanNinteen {
+	top: -65%;
+	left: 34.6%;
+}
+#oceanGridOne {
+	top: -15%;
+	left: -44.7%;
+}
+#oceanImageDescriptionZero {
+	position: relative;
+	top: 27%;
+	left: 35.3%;
+	width: 14%;
+}
+#oceanImageDescriptionOne {
+	top: 33%;
+}
+#oceanImageDescriptionTwo {
+	top: -34%;
+	left: 35.3%;
+}
+#oceanImageDescriptionThree {
+	top: -6%;
+	left: 8.3%;
+	width: 14%;
+}
+#oceanImageDescriptionFour {
+	top: 17%;
+	left: 35.3%;
+	width: 14%;
+}
+#oceanImageDescriptionSix {
+	top: 36%;
+	left: 35.3%;
+	width: 21%;
+}
+#oceanImageDescriptionFive {
+	top: 89%;
+	left: 35.3%;
+	width: 21%;
+}
+.oceanCopyOne {
+	top: 27%;
+	left: 8.3%;
+}
+.oceanCopyTwo {
+	top: -63%;
+	left: 35.3%;
+	width: 26%;
+}
+.oceanCopyThree {
+	top: -45%;
+	left: 35.3%;
+	width: 26%;
+}
+#OceanVideoOne {
+	top: 22%;
+	left: -49.7%;
+}
+#OceanVideoTwo {
+	top: -5%;
+	left: -66.5%;
+}
+#OceanVideoThree {
+	top: -64%;
+	left: -33%;
+}
+.endlineOceanTwo {
+	top: 60%;
+	left: 0%;
+}
 }
 
-@media (min-width: 1300px) and (max-width: 1399px) 
-{
-
-    #oceanSubOne
-    {
-        top: -5vh;
-    }
-
-    #oceanSubTwo 
-    {
-        top: -74vh;
-    }
-
-    #oceanSubThree 
-    {
-        top: -39vh;
-    }
-
-    #oceanSubFour 
-    {
-        top: -30vh;
-    }
-
-    #oceanSubFive 
-    {
-        top: -30vh;
-    }
-
-    #oceanSubSix 
-    {
-        top: -43vh;
-    }
-
-    #oceanSubSeven 
-    {
-        top: 194vh;
-        height: 15vh;
-    }
-
-    #oceanOne 
-    {
-        top: 32%;
-        left: -2%;
-    }
-
-    #oceanTwo 
-    {
-        top: 40%;
-        left: -32.9%;
-    }
-
-    #oceanThree 
-    {
-        top: 36%;
-        left: -32.9%;
-    }
-
-    #oceanFour 
-    {
-        top: 35%;
-        left: 1.5%;
-    }
-
-    #oceanSeven 
-    {
-        top: -35.2%;
-        left: 35.3%;
-    }
-
-    #oceanEight 
-    {
-        top: 29%;
-        left: -32.3%;
-    }
-
-    #oceanNine 
-    {
-        top: 22%;
-        left: 0.9%;
-    }
-
-    #oceanTen 
-    {
-        top: 11%;
-        left: 34.3%;
-    }
-
-    #oceanTwelve 
-    {
-        top: 24%;
-        left: 34.5%;
-    }
-
-    #oceanThirteen 
-    {
-        top: 28%;
-        left: 7.8%;
-    }
-
-    #oceanFourteen 
-    {
-        top: 15%;
-        left: 18.5%;
-    }
-
-    #oceanFifteen 
-    {
-        top: 10%;
-        left: 34.6%;
-    }
-
-    #oceanSixteen 
-    {
-        top: -34%;
-        left: 34.5%;
-    }
-
-    #oceanSeventeen 
-    {
-        top: -40%;
-        left: 7.8%;
-    }
-
-    #oceanEighteen 
-    {
-        top: -49%;
-        left: 18.4%;
-    }
-
-    #oceanNinteen 
-    {
-        top: -55%;
-        left: 34.5%;
-    }
-
-    .oceanCopyOne 
-    {
-        top: 28%;
-        left: 8.3%;
-    }
-
-    #oceanImageDescriptionOne 
-    {
-        top: 31%;
-        left: 35.3%;
-    }
-
-    #oceanImageDescriptionThree
-    {
-        top: -1%;
-        left: 8.3%;
-    }
-
-    #oceanGridOne 
-    {
-        top: -15%;
-        left: -45.4%;
-    }
-
-    #OceanVideoTwo 
-    {
-        top: 0%;
-        left: -66.4%;
-    }
-
-    .oceanCopyThree 
-    {
-        top: -33%;
-        left: 35.3%;
-    }
+/*1600×750*/
+@media (min-width: 1600px) and (max-width: 1699px) {
+#oceanSubTwo {
+	top: -60vh;
 }
-@media (min-width: 1300px) and (max-width: 1399px) and (min-height:680px) and (max-height: 749px) 
-{
-
-    #oceanSubOne
-    {
-        top: -5vh;
-    }
-
-    #oceanSubTwo 
-    {
-        top: -376px;
-    }
-
-    #oceanSubThree 
-    {
-        top: -27.8px;
-    }
-
-    #oceanSubFour 
-    {
-        top: 201.5px;
-    }
-
-    #oceanSubFive 
-    {
-        top: 320px;
-    }
-
-    #oceanSubSix 
-    {
-        top: 285px;
-    }
-
-    #oceanSubSeven 
-    {
-        top: 2162px;
-        height: 15vh;
-    }
-
-    #oceanOne 
-    {
-        top: 32%;
-        left: -2%;
-    }
-
-    #oceanTwo 
-    {
-        top: 42%;
-        left: -32.9%;
-    }
-
-    #oceanThree 
-    {
-        top: 36%;
-        left: -32.9%;
-    }
-
-    #oceanFour 
-    {
-        top: 35%;
-        left: 1.5%;
-    }
-
-    #oceanFive 
-    {
-        top: 2%;
-   
-    }
-
-
-    #oceanSeven 
-    {
-        top: -35.2%;
-        left: 35.3%;
-    }
-
-    #oceanEight 
-    {
-        top: 29%;
-        left: -32.3%;
-    }
-
-    #oceanNine 
-    {
-        top: 22%;
-        left: 0.9%;
-    }
-
-    #oceanTen 
-    {
-        top: 11%;
-        left: 34.3%;
-    }
-
-    #oceanTwelve 
-    {
-        top: 24%;
-        left: 34.5%;
-    }
-
-    #oceanThirteen 
-    {
-        top: 28%;
-        left: 7.8%;
-    }
-
-    #oceanFourteen 
-    {
-        top: 15%;
-        left: 18.5%;
-    }
-
-    #oceanFifteen 
-    {
-        top: 10%;
-        left: 34.6%;
-    }
-
-    #oceanSixteen 
-    {
-        top: -34%;
-        left: 34.5%;
-    }
-
-    #oceanSeventeen 
-    {
-        top: -40%;
-        left: 7.8%;
-    }
-
-    #oceanEighteen 
-    {
-        top: -49%;
-        left: 18.4%;
-    }
-
-    #oceanNinteen 
-    {
-        top: -55%;
-        left: 34.5%;
-    }
-
-    .oceanCopyOne 
-    {
-        top: 28%;
-        left: 8.3%;
-    }
-
-    #oceanImageDescriptionOne 
-    {
-        top: 31%;
-        left: 35.3%;
-    }
-
-    #oceanImageDescriptionThree
-    {
-        top: -1%;
-        left: 8.3%;
-    }
-
-    #oceanGridOne 
-    {
-        top: -15%;
-        left: -45.4%;
-    }
-
-    #OceanVideoTwo 
-    {
-        top: 0%;
-        left: -66.4%;
-    }
-
-    .oceanCopyThree 
-    {
-        top: -33%;
-        left: 35.3%;
-    }
+#oceanSubThree {
+	top: -2vh;
+}
+#oceanSubFour {
+	top: 24vh;
+}
+#oceanSubFive {
+	top: 41vh;
+}
+#oceanSubSix {
+	top: 40vh;
+}
+#oceanSubSeven {
+	top: 357vh;
+	height: 15vh;
+}
+.oceanCopyOne {
+	top: 27%;
+}
+#oceanOne {
+	top: 30%;
+}
+#oceanTwo {
+	top: 41%;
+}
+#oceanThree {
+	top: 37%;
+}
+#oceanFive {
+	top: -1.5%;
+}
+#oceanSeven {
+	top: -49.2%;
+	left: 35.4%;
+	width: 24vw;
+}
+#oceanEight {
+	top: 28%;
+	left: -32.3%;
+	width: 63vw;
+}
+#oceanNine {
+	top: 21%;
+	left: 0.9%;
+}
+#oceanTen {
+	top: 8.3%;
+	left: 34.4%;
+}
+#oceanFifteen {
+	top: 3%;
+	left: 34.7%;
+}
+#oceanSixteen {
+	top: -44.2%;
+	left: 34.7%;
+}
+#oceanGridOne {
+	top: -26%;
+}
+#oceanImageDescriptionOne {
+	top: 32%;
+}
+#oceanImageDescriptionTwo {
+	top: -47%;
+	left: 35.3%;
+}
+.oceanCopyTwo {
+	top: -66%;
+	left: 35.3%;
+	width: 22%;
+}
+.oceanCopyThree {
+	top: -41%;
+	left: 35.3%;
+}
 }
 
-@media (min-width: 1400px) and (max-width: 1499px) 
-{
-
-    #oceanSubTwo 
-    {
-        top: -64vh;
-    }
-
-    #oceanSubThree 
-    {
-        top: -25vh;
-    }
-
-    #oceanSubFour 
-    {
-        top: -12vh;
-    }
-
-    #oceanSubFive 
-    {
-        top: -9vh;
-    }
-
-    #oceanSubSix 
-    {
-        top: -16vh;
-    }
-
-    #oceanSubSeven 
-    {
-        top: 237vh;
-        height: 15vh;
-    }
-
-    .oceanCopyThree 
-    {
-        top: -34%;
-        left: 35.3%;
-        width: 26%;
-    }
-
-    .oceanCopyFour
-    {
-        top: 18.5%;
-    }
-
-    .oceanCopyOne 
-    {
-        top: 25%;
-    }
-
-    #oceanGridOne 
-    {
-        top: -21%;
-        left: -45.3%;
-    }
-
-    #oceanOne 
-    {
-        top: 30%;
-    }
-
-    #oceanSeven 
-    {
-        top: -42.2%;
-        left: 35.4%;    
-    }
-
-    #oceanFive 
-    {
-        top: 3%;
-        left: 33.7%;
-    }
-
-    #oceanEight 
-    {
-        top: 26%;
-        left: -32.3%;
-    }
-
-    #oceanNine 
-    {
-        top: 20%;
-        left: 0.9%;
-    }    
-
-    #oceanTen 
-    {   
-        top: 8.3%;
-        left: 34.2%;
-    }
-
-    #oceanTwelve 
-    {
-        top: 24%;
-        left: 34.55%;
-    }
-
-    #oceanThirteen
-    {
-        top: 28%;
-        left: 7.7%;
-    }
-
-    #oceanFourteen 
-    {
-        top: 15%;
-        left: 17.9%;
-        width: 47vw;
-    }
-
-    #oceanFifteen 
-    {
-        top: 10%;
-        left: 34.55%;   
-    }
-
-    #oceanSixteen 
-    {
-        top: -36%;
-        left: 34.5%;
-    }
-
-    #oceanSeventeen 
-    {
-        top: -40%;
-        left: 7.7%;
-    }
-
-    #oceanEighteen 
-    {
-        top: -49%;
-        left: 17.8%;
-        width: 47vw;
-    }
-
-    #oceanNinteen 
-    {
-        top: -55%;
-        left: 34.65%;
-    }
-
-    #oceanImageDescriptionOne 
-    {
-        top: 28%;
-    }
-
-    #oceanImageDescriptionTwo 
-    {
-        top: -40%;
-        left: 35.3%;
-    }
-
-    #oceanImageDescriptionThree
-    {
-        top: -5%;
-        left: 8.3%;
-    }
-
-    #oceanImageDescriptionFour 
-    {
-        top: 14%;
-        left: 35.3%;
-    }
-
-    #oceanImageDescriptionFive 
-    {
-        top: 88%;
-        left: 35.3%;
-        width: 21%;
-    }
-
-    #oceanImageDescriptionSix 
-    {
-        top: 37%;
-        left: 35.3%;
-        width: 21%;
-    }
-
-    .endlineOceanTwo 
-    {
-        top: 57%;
-        left: 0%;
-        border-bottom: 1px dotted black;
-    }
-
-    #OceanVideoTwo 
-    {
-        top: 0%;
-        left: -66.5%;
-        width: 25vw;
-        height: 97vh;
-    }
-
-    .oceanCopyTwo 
-    {
-        top: -57%;
-        left: 35.3%;
-        width: 26%;
-    }
+/*1600 x 900*/
+@media (min-width: 1600px) and (max-width: 1699px) and (min-height:831px) and (max-height:900px) {
+#oceanSubTwo {
+	top: -541px;
 }
-@media (min-width: 1400px) and (max-width: 1499px) and (min-height: 851px) and (max-height:901px)
-{
-
-    #oceanSubTwo 
-    {
-        top: -441px;
-    }
-
-    #oceanSubThree 
-    {
-        top: -25vh;
-    }
-
-    #oceanSubFour 
-    {
-        top: -162px;
-    }
-
-    #oceanSubFive 
-    {
-        top: -252px;
-    }
-
-    #oceanSubSix 
-    {
-        top: -350px;
-    }
-
-    #oceanSubSeven 
-    {
-        top: 1530px;
-        height: 15vh;
-    }
-
-    .oceanCopyThree 
-    {
-        top: -34%;
-        left: 35.3%;
-        width: 26%;
-    }
-
-    .oceanCopyFour
-    {
-        top: 15.5%;
-    }
-
-    .oceanCopyOne 
-    {
-        top: 25%;
-    }
-
-    #oceanGridOne 
-    {
-        top: -7%;
-        left: -45.3%;
-    }
-
-    #oceanOne 
-    {
-        top: 30%;
-    }
-
-    #oceanSeven 
-    {
-        top: -25.2%;
-        left: 35.4%;    
-    }
-
-    #oceanFive 
-    {
-        top: 9%;
-        left: 33.7%;
-    }
-
-    #oceanEight 
-    {
-        top: 26%;
-        left: -32.3%;
-    }
-
-    #oceanNine 
-    {
-        top: 20%;
-        left: 0.9%;
-    }    
-
-    #oceanTen 
-    {   
-        top: 10.3%;
-        left: 34.2%;
-    }
-
-    #oceanEleven
-    {   
-        top: 34%;
-      
-    }
-
-    #oceanTwelve 
-    {
-        top: 24%;
-        left: 34.55%;
-    }
-
-    #oceanThirteen
-    {
-        top: 28%;
-        left: 7.7%;
-    }
-
-    #oceanFourteen 
-    {
-        top: 15%;
-        left: 17.9%;
-        width: 47vw;
-    }
-
-    #oceanFifteen 
-    {
-        top: 10%;
-        left: 34.55%;   
-    }
-
-    #oceanSixteen 
-    {
-        top: -36%;
-        left: 34.5%;
-    }
-
-    #oceanSeventeen 
-    {
-        top: -40%;
-        left: 7.7%;
-    }
-
-    #oceanEighteen 
-    {
-        top: -49%;
-        left: 17.8%;
-        width: 47vw;
-    }
-
-    #oceanNinteen 
-    {
-        top: -55%;
-        left: 34.65%;
-    }
-
-    #oceanImageDescriptionOne 
-    {
-        top: 28%;
-    }
-
-    #oceanImageDescriptionTwo 
-    {
-        top: -24%;
-        left: 35.3%;
-    }
-
-    #oceanImageDescriptionThree
-    {
-        top: 0%;
-        left: 8.3%;
-    }
-
-    #oceanImageDescriptionFour 
-    {
-        top: 14%;
-        left: 35.3%;
-    }
-
-    #oceanImageDescriptionFive 
-    {
-        top: 88%;
-        left: 35.3%;
-        width: 21%;
-    }
-
-    #oceanImageDescriptionSix 
-    {
-        top: 37%;
-        left: 35.3%;
-        width: 21%;
-    }
-
-    .endlineOceanTwo 
-    {
-        top: 57%;
-        left: 0%;
-        border-bottom: 1px dotted black;
-    }
-
-    #OceanVideoTwo 
-    {
-        top: 0%;
-        left: -66.5%;
-        width: 25vw;
-        height: 97vh;
-    }
-
-    .oceanCopyTwo 
-    {
-        top: -57%;
-        left: 35.3%;
-        width: 26%;
-    }
+#oceanSubThree {
+	top: -223px;
+}
+#oceanSubFour {
+	top: -203px;
+}
+#oceanSubFive {
+	top: -200px;
+}
+#oceanSubSix {
+	top: -296px;
+}
+#oceanSubSeven {
+	top: 1991px;
+	height: 15vh;
+}
+.oceanCopyOne {
+	top: 27%;
+}
+#oceanOne {
+	top: 30%;
+}
+#oceanTwo {
+	top: 41%;
+}
+#oceanThree {
+	top: 37%;
+}
+#oceanFour {
+	position: relative;
+	top: 28%;
+	left: 1.8%;
+}
+#oceanFive {
+	top: -2.5%;
+}
+#oceanSeven {
+	top: -45.2%;
+	left: 35.4%;
+	width: 24vw;
+}
+#oceanEight {
+	top: 28%;
+	left: -32.3%;
+	width: 63vw;
+}
+#oceanNine {
+	top: 21%;
+	left: 0.9%;
+}
+#oceanTen {
+	top: 12.3%;
+	left: 34.4%;
+}
+#oceanEleven {
+	position: relative;
+	top: 34%;
+	left: -32.9%;
+	width: 61.5vw;
+}
+#oceanFifteen {
+	top: 3%;
+	left: 34.7%;
+}
+#oceanNinteen {
+	position: relative;
+	top: -49%;
+	left: 34.7%;
+	z-index: 5;
+}
+#oceanEighteen {
+	position: relative;
+	top: -49%;
+	left: 18.2%;
+	z-index: 0;
+	width: 46.5vw;
+}
+#oceanSeventeen {
+	position: relative;
+	top: -49.3%;
+	left: 7.5%;
+	z-index: -5;
+}
+#oceanGridOne {
+	top: -26%;
+}
+#oceanImageDescriptionZero {
+	position: relative;
+	top: 23%;
+	left: 35.3%;
+	width: 14%;
+}
+#oceanImageDescriptionOne {
+	top: 32%;
+}
+#oceanImageDescriptionTwo {
+	top: -44%;
+	left: 35.3%;
+}
+#oceanImageDescriptionThree {
+	top: 2%;
+}
+.oceanCopyTwo {
+	top: -66%;
+	left: 35.3%;
+	width: 22%;
+}
+.oceanCopyThree {
+	top: -41%;
+	left: 35.3%;
+}
 }
 
-@media (min-width: 1500px) and (max-width: 1599px) 
-{
-
-    #oceanSubTwo {
-        top: -52vh;
-    }
-
-    #oceanSubThree {
-        top: 8vh;
-    }
-
-    #oceanSubFour {
-        top: 41vh;
-    }
-
-    #oceanSubFive {
-        top: 63vh;
-    }
-
-    #oceanSubSix {
-        top: 67vh;
-    }
-
-    #oceanSubSeven {
-        top: 333vh;
-        height: 15vh;
-    }
-
-    #oceanOne 
-    {
-        top: 33%;
-    }
-
-    #oceanTwo 
-    {
-        top: 43%;   
-    }
-
-    #oceanThree 
-    {
-        top: 38%;
-    }
-
-    #oceanFour 
-    {
-        top: 38%;
-        left: 1.8%;
-    }
-
-    #oceanFive 
-    {
-        top: 2%;
-        left: 33.7%;
-    }
-
-    #oceanSeven 
-    {
-        top: -45.6%;
-        left: 35.4%;
-        width: 24.2vw;
-    }
-
-    #oceanEight 
-    {
-        top: 27%;
-    }
-
-    #oceanNine 
-    {
-        top: 21%;
-        left: 0.9%;
-    }
-
-    #oceanEleven 
-    {
-        top: 43%;
-        left: -32.9%;
-    }
-
-    #oceanTwelve
-    {
-        top: 28%;
-        left: 34.7%;
-    }
-
-    #oceanThirteen 
-    {
-        top: 28%;
-        left: 7.6%;
-    }
-
-    #oceanFifteen 
-    {
-        top: 7%;
-        left: 34.6%;
-    }
-
-    #oceanSixteen
-    {
-        top: -46%;
-        left: 34.7%;
-    }
-
-    #oceanSeventeen 
-    {
-        top: -55%;
-        left: 7.6%;
-    }
-
-    #oceanEighteen 
-    {
-        top: -65%;
-        left: 18.3%;
-    }
-
-    #oceanNinteen 
-    {
-        top: -73%;
-        left: 34.6%;
-    }
-
-    #oceanGridOne 
-    {
-        top: -23%;
-        left: -44.7%;
-    }
-
-    #oceanImageDescriptionOne
-    {
-        top: 33%;
-    }
-
-    #oceanImageDescriptionTwo
-    {
-        top: -44%;
-        left: 35.3%;
-    }
-
-    #oceanImageDescriptionThree 
-    {
-        top: -6%;
-        left: 8.3%;
-        width: 14%;
-    }
-
-    #oceanImageDescriptionFour 
-    {
-        top: 17%;
-        left: 35.3%;
-        width: 14%;
-    }
-
-    #oceanImageDescriptionSix 
-    {
-        top: 36%;
-        left: 35.3%;
-        width: 21%;
-    }
-
-    #oceanImageDescriptionFive 
-    {
-        top: 89%;
-        left: 35.3%;
-        width: 21%;
-    }
-
-    .oceanCopyOne 
-    {
-        top: 27%;
-        left: 8.3%;
-    }
-
-    .oceanCopyTwo 
-    {
-        top: -63%;
-        left: 35.3%;
-        width: 26%;
-    }
-
-    .oceanCopyThree 
-    {
-        top: -45%;
-        left: 35.3%;
-        width: 26%;
-    }
-
-    #OceanVideoOne 
-    {
-        top: 22%;
-        left: -49.7%;
-    }
-     
-    #OceanVideoTwo 
-    {
-        top: 0%;
-        left: -66.5%;
-    }
-    
-    #OceanVideoThree 
-    {
-        top: -84%;
-        left: -33%;
-    }
-
-    .endlineOceanTwo 
-    {
-        top: 60%;
-        left: 0%;
-    }
+/* 1680 x 1050 */
+@media (min-width: 1600px) and (max-width: 1699px) and (min-height:901px) and (max-height:1050px) {
+#oceanSubTwo {
+	top: -730px;
 }
-@media (min-width: 1500px) and (max-width: 1599px) and (min-height:780px) and (max-height: 810px)
-{
-
-    #oceanSubTwo {
-        top: -242px;
-    }
-
-    #oceanSubThree {
-        top: 148px;
-    }
-
-    #oceanSubFour {
-        top: 398px;
-    }
-
-    #oceanSubFive {
-        top: 492px;
-    }
-
-    #oceanSubSix {
-        top: 523px;
-    }
-
-    #oceanSubSeven {
-        top: 2463px;
-        height: 15vh;
-    }
-
-    #oceanOne 
-    {
-        top: 33%;
-    }
-
-    #oceanTwo 
-    {
-        top: 43%;   
-    }
-
-    #oceanThree 
-    {
-        top: 38%;
-    }
-
-    #oceanFour 
-    {
-        top: 38%;
-        left: 1.8%;
-    }
-
-    #oceanFive 
-    {
-        top: 5%;
-        left: 33.7%;
-    }
-
-    #oceanSeven 
-    {
-        top: -36.6%;
-        left: 35.4%;
-        width: 24.2vw;
-    }
-
-    #oceanEight 
-    {
-        top: 27%;
-    }
-
-    #oceanNine 
-    {
-        top: 21%;
-        left: 0.9%;
-    }
-
-    #oceanEleven 
-    {
-        top: 43%;
-        left: -32.9%;
-    }
-
-    #oceanTwelve
-    {
-        top: 28%;
-        left: 34.7%;
-    }
-
-    #oceanThirteen 
-    {
-        top: 28%;
-        left: 7.6%;
-    }
-
-    #oceanFifteen 
-    {
-        top: 7%;
-        left: 34.6%;
-    }
-
-    #oceanSixteen
-    {
-        top: -46%;
-        left: 34.7%;
-    }
-
-    #oceanSeventeen 
-    {
-        top: -55%;
-        left: 7.6%;
-    }
-
-    #oceanEighteen 
-    {
-        top: -65%;
-        left: 18.3%;
-    }
-
-    #oceanNinteen 
-    {
-        top: -73%;
-        left: 34.6%;
-    }
-
-    #oceanGridOne 
-    {
-        top: -15%;
-        left: -44.7%;
-    }
-
-    #oceanImageDescriptionOne
-    {
-        top: 33%;
-    }
-
-    #oceanImageDescriptionTwo
-    {
-        top: -34%;
-        left: 35.3%;
-    }
-
-    #oceanImageDescriptionThree 
-    {
-        top: -6%;
-        left: 8.3%;
-        width: 14%;
-    }
-
-    #oceanImageDescriptionFour 
-    {
-        top: 17%;
-        left: 35.3%;
-        width: 14%;
-    }
-
-    #oceanImageDescriptionSix 
-    {
-        top: 36%;
-        left: 35.3%;
-        width: 21%;
-    }
-
-    #oceanImageDescriptionFive 
-    {
-        top: 89%;
-        left: 35.3%;
-        width: 21%;
-    }
-
-    .oceanCopyOne 
-    {
-        top: 27%;
-        left: 8.3%;
-    }
-
-    .oceanCopyTwo 
-    {
-        top: -63%;
-        left: 35.3%;
-        width: 26%;
-    }
-
-    .oceanCopyThree 
-    {
-        top: -45%;
-        left: 35.3%;
-        width: 26%;
-    }
-
-    #OceanVideoOne 
-    {
-        top: 22%;
-        left: -49.7%;
-    }
-     
-    #OceanVideoTwo 
-    {
-        top: 0%;
-        left: -66.5%;
-    }
-    
-    #OceanVideoThree 
-    {
-        top: -84%;
-        left: -33%;
-    }
-
-    .endlineOceanTwo 
-    {
-        top: 60%;
-        left: 0%;
-    }
+#oceanSubThree {
+	top: -602px;
+}
+#oceanSubFour {
+	top: -522px;
+}
+#oceanSubFive {
+	top: -627px;
+}
+#oceanSubSix {
+	top: -800px;
+}
+#oceanSubSeven {
+	top: 1602px;
+	height: 15vh;
+}
+#OceanVideoThree {
+	position: relative;
+	top: -44.6%;
+	left: -33%;
+	width: 61.5vw;
+	height: 62.5vh;
+}
+.oceanCopyOne {
+	top: 27%;
+}
+#oceanOne {
+	top: 27%;
+}
+#oceanTwo {
+	top: 35%;
+}
+#oceanThree {
+	top: 29%;
+}
+#oceanFive {
+	top: 8%;
+}
+#oceanSeven {
+	top: -26.2%;
+	left: 35.4%;
+	width: 24vw;
+}
+#oceanEight {
+	top: 28%;
+	left: -32.3%;
+	width: 63vw;
+}
+#oceanNine {
+	top: 21%;
+	left: 0.9%;
+}
+#oceanTen {
+	top: 12.3%;
+	left: 34.4%;
+}
+#oceanEleven {
+	position: relative;
+	top: 34%;
+	left: -32.9%;
+	width: 61.5vw;
+}
+#oceanFifteen {
+	top: 3%;
+	left: 34.7%;
+}
+#oceanSixteen {
+	top: -44.2%;
+	left: 34.7%;
+}
+#oceanSeventeen {
+	position: relative;
+	top: -45%;
+	left: 7.5%;
+	z-index: -5;
+}
+#oceanEighteen {
+	position: relative;
+	top: -45%;
+	left: 18.2%;
+	z-index: 0;
+	width: 46.5vw;
+}
+#oceanNinteen {
+	position: relative;
+	top: -45%;
+	left: 34.7%;
+	z-index: 5;
+}
+#oceanGridOne {
+	top: -9%;
+}
+#oceanImageDescriptionOne {
+	top: 24%;
+}
+#oceanImageDescriptionTwo {
+	top: -25%;
+	left: 35.3%;
+}
+#oceanImageDescriptionThree {
+	top: 5%;
+}
+.oceanCopyTwo {
+	top: -66%;
+	left: 35.3%;
+	width: 22%;
+}
+.oceanCopyThree {
+	top: -41%;
+	left: 35.3%;
+}
 }
 
-/* common - 1600×750, 1600×900 */
-@media (min-width: 1600px) and (max-width: 1699px) 
-{
-
-    #oceanSubTwo {
-        top: -60vh;
-    }
-
-    #oceanSubThree {
-        top: -2vh;
-    }
-
-    #oceanSubFour {
-        top: 24vh;
-    }
-
-    #oceanSubFive {
-        top: 41vh;
-    }
-
-    #oceanSubSix {
-        top: 40vh;
-    }
-
-    #oceanSubSeven {
-        top: 334vh;
-        height: 15vh;
-    }
-
-    .oceanCopyOne 
-    {
-        top: 27%;
-    }
-
-    #oceanOne 
-    {
-        top: 30%;
-    }
-
-    #oceanTwo 
-    {
-        top: 41%;
-    }
-
-    #oceanThree 
-    {
-        top: 37%; 
-    }
-    
-    #oceanFive 
-    {
-        top: -1.5%; 
-    }
-
-    #oceanSeven 
-    {
-        top: -49.2%;
-        left: 35.4%;
-        width: 24vw;
-    }
-
-    #oceanEight 
-    {
-        top: 28%;
-        left: -32.3%;
-        width: 63vw;
-    }
-
-    #oceanNine 
-    {
-        top: 21%;
-        left: 0.9%;
-    }
-
-    #oceanTen 
-    {
-        top: 8.3%;
-        left: 34.4%;
-    }
-
-    #oceanFifteen 
-    {
-        top: 3%;
-        left: 34.7%;
-    }
-
-    #oceanSixteen 
-    {
-        top: -44.2%;
-        left: 34.7%;
-    }
-
-    #oceanGridOne 
-    {
-        top: -26%;
-    }
-
-    #oceanImageDescriptionOne 
-    {
-        top: 32%;
-    }
-
-    #oceanImageDescriptionTwo 
-    {
-        top: -47%;
-        left: 35.3%;
-    }
-
-    .oceanCopyTwo 
-    {
-        top: -66%;
-        left: 35.3%;
-        width: 22%;
-    }
-
-    .oceanCopyThree 
-    {
-        top: -41%;
-        left: 35.3%;
-    }
+/*1920 x 930*/
+@media (min-width: 1900px) and (max-width: 1999px) and (min-height: 920px) and (max-height: 950px) {
+.oceanContainer {
+	max-width: 100vw;
+	flex: 100%;
+	display: block;
+	z-index: 10;
+}
+#oceanSubTwo {
+	top: -53vh;
+}
+#oceanSubThree {
+	top: 6vh;
+}
+#oceanSubFour {
+	top: 64vh;
+}
+#oceanSubFive {
+	top: 78vh;
+}
+#oceanSubSix {
+	top: 79vh;
+}
+#oceanSubSeven {
+	top: 378vh;
+	height: 15vh;
+}
+.oceanCopyOne {
+	position: relative;
+	top: 27%;
+	left: 8.3%;
+	width: 18%;
+}
+.oceanCopyTwo {
+	position: relative;
+	top: -60%;
+	left: 35.3%;
+	width: 26%;
+}
+.oceanCopyThree {
+	position: relative;
+	top: -44%;
+	left: 35.3%;
+	width: 26%;
+}
+#oceanOne {
+	position: relative;
+	top: 29%;
+	left: -2%;
+	width: 100vw;
+}
+#oceanTwo {
+	position: relative;
+	top: 41%;
+	left: -32.9%;
+	width: 61.5vw;
+}
+#oceanThree {
+	position: relative;
+	top: 36%;
+	left: -32.9%;
+	width: 61.5vw;
+}
+#oceanFour {
+	position: relative;
+	top: 39.7%;
+	left: 1.8%;
+}
+#oceanFive {
+	position: relative;
+	top: 5%;
+	left: 33.7%;
+}
+#oceanSix {
+	position: relative;
+	top: 32%;
+	left: -32.5%;
+}
+#oceanSeven {
+	position: relative;
+	top: -38.2%;
+	left: 35.4%;
+	padding: 0;
+}
+#oceanEight {
+	position: relative;
+	top: 26%;
+	left: -32.3%;
+	width: 63vw;
+}
+#oceanNine {
+	position: relative;
+	top: 18%;
+	left: 0.9%;
+}
+#oceanTen {
+	position: relative;
+	top: 8.3%;
+	left: 34.3%;
+}
+#oceanEleven {
+	position: relative;
+	top: 41%;
+	left: -32.9%;
+	width: 61.5vw;
+}
+#oceanTwelve {
+	position: relative;
+	top: 28%;
+	left: 34.7%;
+	z-index: 5;
+}
+#oceanThirteen {
+	position: relative;
+	top: 28%;
+	left: 7.5%;
+	z-index: 5;
+}
+#oceanFourteen {
+	position: relative;
+	top: 15%;
+	left: 17.9%;
+	z-index: -5;
+	width: 46.5vw;
+}
+#oceanFifteen {
+	position: relative;
+	top: 10%;
+	left: 34.7%;
+	z-index: 5;
+}
+#oceanSixteen {
+	position: relative;
+	top: -45.5%;
+	left: 34.7%;
+	z-index: 5;
+}
+#oceanSeventeen {
+	position: relative;
+	top: -61%;
+	left: 7.5%;
+	z-index: -5;
+}
+#oceanEighteen {
+	position: relative;
+	top: -60%;
+	left: 18.2%;
+	z-index: 0;
+	width: 46.5vw;
+}
+#oceanNinteen {
+	position: relative;
+	top: -59%;
+	left: 34.7%;
+	z-index: 5;
+}
+#oceanImageDescriptionOne {
+	position: relative;
+	top: 30%;
+	left: 35.3%;
+	width: 14%;
+}
+#oceanImageDescriptionTwo {
+	position: relative;
+	top: -36%;
+	left: 35.3%;
+	width: 14%;
+}
+#oceanImageDescriptionThree {
+	position: relative;
+	top: -11%;
+	left: 8.7%;
+	width: 14%;
+}
+#oceanImageDescriptionFour {
+	position: relative;
+	top: 13%;
+	left: 35.3%;
+	width: 14%;
+}
+#oceanImageDescriptionFive {
+	position: relative;
+	top: 118%;
+	left: 35.3%;
+	width: 21%;
+}
+#oceanImageDescriptionSix {
+	position: relative;
+	top: 60%;
+	left: 35.3%;
+	width: 21%;
+}
+#oceanGridOne {
+	position: relative;
+	top: -15%;
+	left: -44.7%;
+}
+#OceanVideoOne {
+	position: relative;
+	top: 19%;
+	left: -49.7%;
+	width: 46vw;
+	height: 46vh;
+}
+#OceanVideoTwo {
+	position: relative;
+	top: 0%;
+	left: -66.7%;
+	width: 25vw;
+	height: 97vh;
+	z-index: 5;
+}
+#OceanVideoThree {
+	position: relative;
+	top: -57%;
+	left: -33%;
+	width: 61.5vw;
+	height: 62.5vh;
+}
+.endlineOceanTwo {
+	width: 64.5vw;
+	height: 1vh;
+	position: relative;
+	top: 95%;
+	left: 0%;
+	border-bottom: 1px dotted black;
+}
+.endlineOceanThree {
+	width: 64.5vw;
+	height: 1vh;
+	position: relative;
+	top: 14%;
+	left: 0%;
+	border-bottom: 2px solid black;
+}
+.endlineOceanOne {
+	width: 64.5vw;
+	height: 1vh;
+	position: relative;
+	top: 3%;
+	left: 0%;
+	border-bottom: 1px solid black;
+}
+.referenceBlockOceanOne {
+	width: 70%;
+	height: 50%;
+	position: relative;
+	top: 20%;
+	left: 35.2%;
+}
+.referenceOcean {
+	position: relative;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	font-size: 13px;
+	line-height: 17px;
+	width: 30%;
+	height: 60%;
+	text-align: left;
+	margin-bottom: 10px;
+}
 }
 
-@media (min-width: 1600px) and (max-width: 1699px) and (min-height:831px) and (max-height:900px)
-{
-
-    #oceanSubTwo {
-        top: -495px;
-    }
-
-    #oceanSubThree {
-        top: -160px;
-    }
-
-    #oceanSubFour {
-        top: -240px;
-    }
-
-    #oceanSubFive {
-        top: -200px;
-    }
-
-    #oceanSubSix {
-        top: -270px;
-    }
-
-    #oceanSubSeven {
-        top: 1840px ;
-        height: 15vh;
-    }
-
-    .oceanCopyOne 
-    {
-        top: 27%;
-    }
-
-    #oceanOne 
-    {
-        top: 30%;
-    }
-
-    #oceanTwo 
-    {
-        top: 41%;
-    }
-
-    #oceanThree 
-    {
-        top: 37%; 
-    }
-    
-    #oceanFive 
-    {
-        top: -1.5%; 
-    }
-
-    #oceanSeven 
-    {
-        top: -49.2%;
-        left: 35.4%;
-        width: 24vw;
-    }
-
-    #oceanEight 
-    {
-        top: 28%;
-        left: -32.3%;
-        width: 63vw;
-    }
-
-    #oceanNine 
-    {
-        top: 21%;
-        left: 0.9%;
-    }
-
-    #oceanTen 
-    {
-        top: 12.3%;
-        left: 34.4%;
-    }
-
-    #oceanFifteen 
-    {
-        top: 3%;
-        left: 34.7%;
-    }
-
-    #oceanSixteen 
-    {
-        top: -44.2%;
-        left: 34.7%;
-    }
-
-    #oceanGridOne 
-    {
-        top: -26%;
-    }
-
-    #oceanImageDescriptionOne 
-    {
-        top: 32%;
-    }
-
-    #oceanImageDescriptionTwo 
-    {
-        top: -47%;
-        left: 35.3%;
-    }
-
-    #oceanImageDescriptionThree 
-    {
-        top: 2%;
-    
-    }
-
-    .oceanCopyTwo 
-    {
-        top: -66%;
-        left: 35.3%;
-        width: 22%;
-    }
-
-    .oceanCopyThree 
-    {
-        top: -41%;
-        left: 35.3%;
-    }
+/*1920 x 1200*/
+@media (min-width: 1900px) and (max-width: 1999px) and (min-height: 1101px) and (max-height: 1210px) {
+.oceanContainer {
+	max-width: 100vw;
+	flex: 100%;
+	display: block;
+	z-index: 10;
 }
-@media (min-width: 1600px) and (max-width: 1699px) and (min-height:901px) and (max-height:1050px)
-{
-
-    #oceanSubTwo {
-        top: -640px;
-    }
-
-    #oceanSubThree {
-        top: -490px;
-    }
-
-    #oceanSubFour {
-        top: -460px;
-    }
-
-    #oceanSubFive {
-        top: -550px;
-    }
-
-    #oceanSubSix {
-        top: -690px;
-    }
-
-    #oceanSubSeven {
-        top: 1440px;
-        height: 15vh;
-    }
-
-    .oceanCopyOne 
-    {
-        top: 27%;
-    }
-
-    #oceanOne 
-    {
-        top: 30%;
-    }
-
-    #oceanTwo 
-    {
-        top: 35%;
-    }
-
-    #oceanThree 
-    {
-        top: 29%; 
-    }
-    
-    #oceanFive 
-    {
-        top: 8%; 
-    }
-
-    #oceanSeven 
-    {
-        top: -26.2%;
-        left: 35.4%;
-        width: 24vw;
-    }
-
-    #oceanEight 
-    {
-        top: 28%;
-        left: -32.3%;
-        width: 63vw;
-    }
-
-    #oceanNine 
-    {
-        top: 21%;
-        left: 0.9%;
-    }
-
-    #oceanTen 
-    {
-        top: 12.3%;
-        left: 34.4%;
-    }
-
-    #oceanFifteen 
-    {
-        top: 3%;
-        left: 34.7%;
-    }
-
-    #oceanSixteen 
-    {
-        top: -44.2%;
-        left: 34.7%;
-    }
-
-    #oceanGridOne 
-    {
-        top: -9%;
-    }
-
-    #oceanImageDescriptionOne 
-    {
-        top: 24%;
-    }
-
-    #oceanImageDescriptionTwo 
-    {
-        top: -25%;
-        left: 35.3%;
-    }
-
-    #oceanImageDescriptionThree 
-    {
-        top: 5%;
-    
-    }
-
-    .oceanCopyTwo 
-    {
-        top: -66%;
-        left: 35.3%;
-        width: 22%;
-    }
-
-    .oceanCopyThree 
-    {
-        top: -41%;
-        left: 35.3%;
-    }
+#oceanSubTwo {
+	top: -759px;
 }
-
-@media (min-width: 1900px) and (max-width: 1999px) 
-{
-    .oceanContainer
-    {
-        max-width: 100vw;
-        flex: 100%;
-        display: block;
-        z-index: 10;
-    }
-    
-    #oceanSubTwo
-    {
-        top: -61vh;
-    }
-    
-    #oceanSubThree
-    {
-        top: -24vh;
-    }
-    
-    #oceanSubFour
-    {
-        top: -9vh;
-    }
-    
-    #oceanSubFive
-    {
-        top: -7vh;
-    }
-    
-    #oceanSubSix
-    {
-        top: -10vh;
-    }
-    
-    #oceanSubSeven
-    {
-        top: 230vh;
-        height: 15vh;
-    }
-    
-    .oceanCopyOne
-    {
-        position: relative;
-        top: 23%;
-        left: 8.3%;
-        width: 18%;
-    }
-    
-    .oceanCopyTwo
-    {
-        position: relative;
-        top: -60%;
-        left: 35.3%;
-        width: 26%;
-    }
-    
-    .oceanCopyThree
-    {
-        position: relative;
-        top: -35%;
-        left: 35.3%;
-        width: 26%;
-    }
-    
-    #oceanOne
-    {
-        position: relative;
-        top: 27%;
-        left: -2%;
-        width: 100vw;
-    }
-    
-    #oceanTwo
-    {
-        position: relative;
-        top: 38%;
-        left: -32.9%;
-        width: 61.5vw;
-    }
-    
-    #oceanThree
-    {
-        position: relative;
-        top: 33%;
-        left: -32.9%;
-        width: 61.5vw;
-    }
-    
-    #oceanFour
-    {
-        position: relative;
-        top: 35%;
-        left: 1.8%;
-    }
-    
-    #oceanFive
-    {
-        position: relative;
-        top: 5%;
-        left: 33.7%;
-    }
-    
-    #oceanSix
-    {
-        position: relative;
-        top: 32%;
-        left: -32.5%;
-    }
-    
-    #oceanSeven
-    {
-        position: relative;
-        top: -35.2%;
-        left: 35.4%;
-        padding: 0;
-    }
-    
-    #oceanEight
-    {
-        position: relative;
-        top: 25%;
-        left: -32.3%;
-        width: 63vw;
-    }
-    
-    #oceanNine
-    {
-        position: relative;
-        top: 18%;
-        left: 0.9%;
-    }
-    
-    #oceanTen
-    {
-        position: relative;
-        top: 8.3%;
-        left: 34.3%;
-    }
-    
-    #oceanEleven
-    {
-        position: relative;
-        top: 38%;
-        left: -32.9%;
-        width: 61.5vw;
-    }
-    
-    #oceanTwelve
-    {
-        position: relative;
-        top: 24%;
-        left: 34.7%;
-        z-index: 5;
-    }
-    
-    #oceanThirteen
-    {
-        position: relative;
-        top: 28%;
-        left: 7.5%;
-        z-index: 5;
-    }
-    
-    #oceanFourteen
-    {
-        position: relative;
-        top: 15%;
-        left: 17.9%;
-        z-index: -5;
-        width: 46.5vw;
-    }
-    
-    #oceanFifteen
-    {
-        position: relative;
-        top: 10%;
-        left: 34.7%;
-        z-index: 5;
-    }
-    
-    #oceanSixteen
-    {
-        position: relative;
-        top: -40%;
-        left: 34.7%;
-        z-index: 5;
-    }
-    
-    #oceanSeventeen
-    {
-        position: relative;
-        top: -40%;
-        left: 7.5%;
-        z-index: -5;
-    }
-    
-    #oceanEighteen
-    {
-        position: relative;
-        top: -49%;
-        left: 18.2%;
-        z-index: 0;
-        width: 46.5vw;
-    }
-    
-    #oceanNinteen
-    {
-        position: relative;
-        top: -55%;
-        left: 34.7%;
-        z-index: 5;
-    }
-    
-    #oceanImageDescriptionOne
-    {
-        position: relative;
-        top: 27%;
-        left: 35.3%;
-        width: 14%;
-    }
-    
-    #oceanImageDescriptionTwo
-    {
-        position: relative;
-        top: -33%;
-        left: 35.3%;
-        width: 14%;
-    }
-    
-    #oceanImageDescriptionThree
-    {
-        position: relative;
-        top: -5%;
-        left: 8.7%;
-        width: 14%;
-    }
-    
-    #oceanImageDescriptionFour
-    {
-        position: relative;
-        top: 13%;
-        left: 35.3%;
-        width: 14%;
-    }
-    
-    #oceanImageDescriptionFive
-    {
-        position: relative;
-        top: 118%;
-        left: 35.3%;
-        width: 21%;
-    }
-    
-    #oceanImageDescriptionSix
-    {
-        position: relative;
-        top: 60%;
-        left: 35.3%;
-        width: 21%;
-    }
-    
-    #oceanGridOne
-    {
-        position: relative;
-        top: -15%;
-        left: -44.7%;
-    }
-    
-    #OceanVideoOne
-    {
-        position: relative;
-        top: 19%;
-        left: -49.7%;
-        width: 46vw;
-        height: 46vh;
-    }
-    
-    #OceanVideoTwo
-    {
-        position: relative;
-        top: 0%;
-        left: -66.7%;
-        width: 25vw;
-        height: 97vh;
-        z-index: 5;
-    }
-    
-    #OceanVideoThree
-    {
-        position: relative;
-        top: -63%;
-        left: -33%;
-        width: 61.5vw;
-        height: 62.5vh;
-    }
-    
-    .endlineOceanTwo
-    {
-        width: 64.5vw;
-        height: 1vh;
-        position: relative;
-        top: 95%;
-        left: 0%;
-        border-bottom: 1px dotted black;
-    }
-    
-    .endlineOceanThree
-    {
-        width: 64.5vw;
-        height: 1vh;
-        position: relative;
-        top: 14%;
-        left: 0%;
-        border-bottom: 2px solid black;
-    }
-    
-    .endlineOceanOne
-    {
-        width: 64.5vw;
-        height: 1vh;
-        position: relative;
-        top: 3%;
-        left: 0%;
-        border-bottom: 1px solid black;
-    }
-    
-    .referenceBlockOceanOne
-    {
-        width: 70%;
-        height: 50%;
-        position: relative;
-        top: 20%;
-        left: 35.2%;
-    }
-    
-    .referenceOcean
-    {
-        position: relative;
-        font-family: 'Roboto', sans-serif;
-        font-weight: 300;
-        font-size: 13px;
-        line-height: 17px;
-        width: 30%;
-        height: 60%;
-        text-align: left;
-        margin-bottom: 10px;
-    }
+#oceanSubThree {
+	top: -525.8px;
 }
-@media (min-width: 1900px) and (max-width: 1999px) and (min-height: 920px) and (max-height: 1008px)
-{
-    .oceanContainer
-    {
-        max-width: 100vw;
-        flex: 100%;
-        display: block;
-        z-index: 10;
-    }
-    
-    #oceanSubTwo
-    {
-        top: -325px;
-    }
-    
-    #oceanSubThree
-    {
-        top: 255px;
-    }
-    
-    #oceanSubFour
-    {
-        top: 600px;
-    }
-    
-    #oceanSubFive
-    {
-        top: 864px;
-    }
-    
-    #oceanSubSix
-    {
-        top: 920px;
-    }
-    
-    #oceanSubSeven
-    {
-        top: 3627px;
-        height: 15vh;
-    }
-    
-    .oceanCopyOne
-    {
-        position: relative;
-        top: 30%;
-        left: 8.3%;
-        width: 18%;
-    }
-    
-    .oceanCopyTwo
-    {
-        position: relative;
-        top: -60%;
-        left: 35.3%;
-        width: 26%;
-    }
-    
-    .oceanCopyThree
-    {
-        position: relative;
-        top: -35%;
-        left: 35.3%;
-        width: 26%;
-    }
-    
-    #oceanOne
-    {
-        position: relative;
-        top: 37%;
-        left: -2%;
-        width: 100vw;
-    }
-    
-    #oceanTwo
-    {
-        position: relative;
-        top: 43%;
-        left: -32.9%;
-        width: 61.5vw;
-    }
-    
-    #oceanThree
-    {
-        position: relative;
-        top: 38%;
-        left: -32.9%;
-        width: 61.5vw;
-    }
-    
-    #oceanFour
-    {
-        position: relative;
-        top: 35%;
-        left: 1.8%;
-    }
-    
-    #oceanFive
-    {
-        position: relative;
-        top: 1%;
-        left: 33.7%;
-    }
-    
-    #oceanSix
-    {
-        position: relative;
-        top: 32%;
-        left: -32.5%;
-    }
-    
-    #oceanSeven
-    {
-        position: relative;
-        top: -44.2%;
-        left: 35.4%;
-        padding: 0;
-    }
-    
-    #oceanEight
-    {
-        position: relative;
-        top: 25%;
-        left: -32.3%;
-        width: 63vw;
-    }
-    
-    #oceanNine
-    {
-        position: relative;
-        top: 18%;
-        left: 0.9%;
-    }
-    
-    #oceanTen
-    {
-        position: relative;
-        top: 8.3%;
-        left: 34.3%;
-    }
-    
-    #oceanEleven
-    {
-        position: relative;
-        top: 43%;
-        left: -32.9%;
-        width: 61.5vw;
-    }
-    
-    #oceanTwelve
-    {
-        position: relative;
-        top: 24%;
-        left: 34.7%;
-        z-index: 5;
-    }
-    
-    #oceanThirteen
-    {
-        position: relative;
-        top: 28%;
-        left: 7.5%;
-        z-index: 5;
-    }
-    
-    #oceanFourteen
-    {
-        position: relative;
-        top: 15%;
-        left: 17.9%;
-        z-index: -5;
-        width: 46.5vw;
-    }
-    
-    #oceanFifteen
-    {
-        position: relative;
-        top: 10%;
-        left: 34.7%;
-        z-index: 5;
-    }
-    
-    #oceanSixteen
-    {
-        position: relative;
-        top: -40%;
-        left: 34.7%;
-        z-index: 5;
-    }
-    
-    #oceanSeventeen
-    {
-        position: relative;
-        top: -40%;
-        left: 7.5%;
-        z-index: -5;
-    }
-    
-    #oceanEighteen
-    {
-        position: relative;
-        top: -49%;
-        left: 18.2%;
-        z-index: 0;
-        width: 46.5vw;
-    }
-    
-    #oceanNinteen
-    {
-        position: relative;
-        top: -55%;
-        left: 34.7%;
-        z-index: 5;
-    }
-    
-    #oceanImageDescriptionOne
-    {
-        position: relative;
-        top: 32%;
-        left: 35.3%;
-        width: 14%;
-    }
-    
-    #oceanImageDescriptionTwo
-    {
-        position: relative;
-        top: -42%;
-        left: 35.3%;
-        width: 14%;
-    }
-    
-    #oceanImageDescriptionThree
-    {
-        position: relative;
-        top: -5%;
-        left: 8.7%;
-        width: 14%;
-    }
-    
-    #oceanImageDescriptionFour
-    {
-        position: relative;
-        top: 13%;
-        left: 35.3%;
-        width: 14%;
-    }
-    
-    #oceanImageDescriptionFive
-    {
-        position: relative;
-        top: 118%;
-        left: 35.3%;
-        width: 21%;
-    }
-    
-    #oceanImageDescriptionSix
-    {
-        position: relative;
-        top: 60%;
-        left: 35.3%;
-        width: 21%;
-    }
-    
-    #oceanGridOne
-    {
-        position: relative;
-        top: -21%;
-        left: -44.7%;
-    }
-    
-    #OceanVideoOne
-    {
-        position: relative;
-        top: 19%;
-        left: -49.7%;
-        width: 46vw;
-        height: 46vh;
-    }
-    
-    #OceanVideoTwo
-    {
-        position: relative;
-        top: 0%;
-        left: -66.7%;
-        width: 25vw;
-        height: 97vh;
-        z-index: 5;
-    }
-    
-    #OceanVideoThree
-    {
-        position: relative;
-        top: -63%;
-        left: -33%;
-        width: 61.5vw;
-        height: 62.5vh;
-    }
-    
-    .endlineOceanTwo
-    {
-        width: 64.5vw;
-        height: 1vh;
-        position: relative;
-        top: 95%;
-        left: 0%;
-        border-bottom: 1px dotted black;
-    }
-    
-    .endlineOceanThree
-    {
-        width: 64.5vw;
-        height: 1vh;
-        position: relative;
-        top: 14%;
-        left: 0%;
-        border-bottom: 2px solid black;
-    }
-    
-    .endlineOceanOne
-    {
-        width: 64.5vw;
-        height: 1vh;
-        position: relative;
-        top: 3%;
-        left: 0%;
-        border-bottom: 1px solid black;
-    }
-    
-    .referenceBlockOceanOne
-    {
-        width: 70%;
-        height: 50%;
-        position: relative;
-        top: 20%;
-        left: 35.2%;
-    }
-    
-    .referenceOcean
-    {
-        position: relative;
-        font-family: 'Roboto', sans-serif;
-        font-weight: 300;
-        font-size: 13px;
-        line-height: 17px;
-        width: 30%;
-        height: 60%;
-        text-align: left;
-        margin-bottom: 10px;
-    }
+#oceanSubFour {
+	top: -545px;
 }
-
+#oceanSubFive {
+	top: -706px;
+}
+#oceanSubSix {
+	top: -842px;
+}
+#oceanSubSeven {
+	top: 1959px;
+	height: 15vh;
+}
+.oceanCopyOne {
+	position: relative;
+	top: 24%;
+	left: 8.3%;
+	width: 18%;
+}
+.oceanCopyTwo {
+	position: relative;
+	top: -60%;
+	left: 35.3%;
+	width: 26%;
+}
+.oceanCopyThree {
+	position: relative;
+	top: -35%;
+	left: 35.3%;
+	width: 26%;
+}
+#oceanOne {
+	position: relative;
+	top: 27%;
+	left: -2%;
+	width: 100vw;
+}
+#oceanTwo {
+	position: relative;
+	top: 35%;
+	left: -32.9%;
+	width: 61.5vw;
+}
+#oceanThree {
+	position: relative;
+	top: 30%;
+	left: -32.9%;
+	width: 61.5vw;
+}
+#oceanFour {
+	position: relative;
+	top: 27%;
+	left: 1.8%;
+}
+#oceanFive {
+	position: relative;
+	top: 0%;
+	left: 33.7%;
+}
+#oceanSix {
+	position: relative;
+	top: 32%;
+	left: -32.5%;
+}
+#oceanSeven {
+	position: relative;
+	top: -39.2%;
+	left: 35.4%;
+	padding: 0;
+}
+#oceanEight {
+	position: relative;
+	top: 25%;
+	left: -32.3%;
+	width: 63vw;
+}
+#oceanNine {
+	position: relative;
+	top: 18%;
+	left: 0.9%;
+}
+#oceanTen {
+	position: relative;
+	top: 8.3%;
+	left: 34.3%;
+}
+#oceanEleven {
+	position: relative;
+	top: 34%;
+	left: -32.9%;
+	width: 61.5vw;
+}
+#oceanTwelve {
+	position: relative;
+	top: 24%;
+	left: 34.7%;
+	z-index: 5;
+}
+#oceanThirteen {
+	position: relative;
+	top: 28%;
+	left: 7.5%;
+	z-index: 5;
+}
+#oceanFourteen {
+	position: relative;
+	top: 15%;
+	left: 17.9%;
+	z-index: -5;
+	width: 46.5vw;
+}
+#oceanFifteen {
+	position: relative;
+	top: 10%;
+	left: 34.7%;
+	z-index: 5;
+}
+#oceanSixteen {
+	position: relative;
+	top: -40%;
+	left: 34.7%;
+	z-index: 5;
+}
+#oceanSeventeen {
+	position: relative;
+	top: -49.6%;
+	left: 7.5%;
+	z-index: -5;
+}
+#oceanEighteen {
+	position: relative;
+	top: -49%;
+	left: 18.2%;
+	z-index: 0;
+	width: 46.5vw;
+}
+#oceanNinteen {
+	position: relative;
+	top: -48.1%;
+	left: 34.7%;
+	z-index: 5;
+}
+#oceanImageDescriptionOne {
+	position: relative;
+	top: 24%;
+	left: 35.3%;
+	width: 14%;
+}
+#oceanImageDescriptionTwo {
+	position: relative;
+	top: -38%;
+	left: 35.3%;
+	width: 14%;
+}
+#oceanImageDescriptionThree {
+	position: relative;
+	top: -5%;
+	left: 8.7%;
+	width: 14%;
+}
+#oceanImageDescriptionFour {
+	position: relative;
+	top: 13%;
+	left: 35.3%;
+	width: 14%;
+}
+#oceanImageDescriptionFive {
+	position: relative;
+	top: 118%;
+	left: 35.3%;
+	width: 21%;
+}
+#oceanImageDescriptionSix {
+	position: relative;
+	top: 60%;
+	left: 35.3%;
+	width: 21%;
+}
+#oceanGridOne {
+	position: relative;
+	top: -21%;
+	left: -44.7%;
+}
+#OceanVideoOne {
+	position: relative;
+	top: 19%;
+	left: -49.7%;
+	width: 46vw;
+	height: 46vh;
+}
+#OceanVideoTwo {
+	position: relative;
+	top: 0%;
+	left: -66.7%;
+	width: 25vw;
+	height: 97vh;
+	z-index: 5;
+}
+#OceanVideoThree {
+	position: relative;
+	top: -46.6%;
+	left: -33%;
+	width: 61.5vw;
+	height: 62.5vh;
+}
+.endlineOceanTwo {
+	width: 64.5vw;
+	height: 1vh;
+	position: relative;
+	top: 95%;
+	left: 0%;
+	border-bottom: 1px dotted black;
+}
+.endlineOceanThree {
+	width: 64.5vw;
+	height: 1vh;
+	position: relative;
+	top: 14%;
+	left: 0%;
+	border-bottom: 2px solid black;
+}
+.endlineOceanOne {
+	width: 64.5vw;
+	height: 1vh;
+	position: relative;
+	top: 3%;
+	left: 0%;
+	border-bottom: 1px solid black;
+}
+.referenceBlockOceanOne {
+	width: 70%;
+	height: 50%;
+	position: relative;
+	top: 20%;
+	left: 35.2%;
+}
+.referenceOcean {
+	position: relative;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	font-size: 13px;
+	line-height: 17px;
+	width: 30%;
+	height: 60%;
+	text-align: left;
+	margin-bottom: 10px;
+}
+}

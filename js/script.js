@@ -201,14 +201,15 @@ function setTabHeadingStyling (tabName, arrayName)
   });
 })();
 
-function FadeInOut (loadFunc)
+function FadeInOut (windowName,loadFunc)
 {
   $('.Layout__wrapper-container').fadeOut(700);
-
   setTimeout(function()
-  { 
+  {
     loadFunc();
-    $('.Layout__wrapper-container').fadeIn(1000);
+    $(windowName).ready( function() {
+      $('.Layout__wrapper-container').fadeIn(1000);
+  });
   }, 700);
   
 }
@@ -244,7 +245,7 @@ brickSubchapter.addEventListener('click', function()
 
   $('#backgroundVideo').fadeOut(2000);
 
-  FadeInOut(() => 
+  FadeInOut("bricks.html",() => 
   {
     $(".Layout__wrapper-container").load("bricks.html"); 
   });
@@ -258,7 +259,7 @@ plasticSubchapter.addEventListener('click', function()
 
   $('#backgroundVideo').fadeOut(2000);
 
-  FadeInOut(() => 
+  FadeInOut("plastic.html",() => 
   {
     $(".Layout__wrapper-container").load("plastic.html"); 
   });
@@ -274,7 +275,7 @@ dragonSubchapter.addEventListener('click', function()
 
   $('#backgroundVideo').fadeOut(2000);
 
-  FadeInOut(() => 
+  FadeInOut("dragonfly.html",() => 
   {
     $(".Layout__wrapper-container").load("dragonfly.html"); 
   });
@@ -289,7 +290,7 @@ pedagogySubchapter.addEventListener('click', function()
 
   $('#backgroundVideo').fadeOut(2000);
 
-  FadeInOut(() => 
+  FadeInOut("pedagogy.html",() => 
   {
     $(".Layout__wrapper-container").load("pedagogy.html"); 
   });
@@ -303,7 +304,7 @@ yangonSubchapter.addEventListener('click', function()
 
   $('#backgroundVideo').fadeOut(2000);
 
-  FadeInOut(() => 
+  FadeInOut("yangon.html",() => 
   {
     $(".Layout__wrapper-container").load("yangon.html"); 
   });
@@ -318,7 +319,7 @@ hilsaSubchapter.addEventListener('click', function()
 
   $('#backgroundVideo').fadeOut(2000);
 
-  FadeInOut(() => 
+  FadeInOut("hilsa.html",() => 
   {
     $(".Layout__wrapper-container").load("hilsa.html"); 
   });
@@ -332,7 +333,7 @@ snakesSubchapter.addEventListener('click', function()
 
   $('#backgroundVideo').fadeOut(2000);
   
-  FadeInOut(() => 
+  FadeInOut("snakes.html",() => 
   {
     $(".Layout__wrapper-container").load("snakes.html"); 
   });
@@ -346,7 +347,7 @@ saltSubchapter.addEventListener('click', function()
 
   $('#backgroundVideo').fadeOut(2000);
   
-  FadeInOut(() => 
+  FadeInOut("salt.html",() => 
   {
     $(".Layout__wrapper-container").load("salt.html"); 
   });
@@ -361,9 +362,9 @@ dhakaSubchapter.addEventListener('click', function()
 
   $('#backgroundVideo').fadeOut(2000);
 
-  FadeInOut(() => 
+  FadeInOut("dhaka.html",() => 
   {
-    $(".Layout__wrapper-container").load("dhaka.html"); 
+     $(".Layout__wrapper-container").load("dhaka.html"); 
   });
 
 });
@@ -375,7 +376,7 @@ khalsSubchapter.addEventListener('click', function()
 
   $('#backgroundVideo').fadeOut(2000);
 
-  FadeInOut(() => 
+  FadeInOut("khals.html",() => 
   {
     $(".Layout__wrapper-container").load("khals.html"); 
   });
@@ -389,7 +390,7 @@ timeSubchapter.addEventListener('click', function()
 
   $('#backgroundVideo').fadeOut(2000);
 
-  FadeInOut(() => 
+  FadeInOut("time.html",() => 
   {
     $(".Layout__wrapper-container").load("time.html"); 
   });
@@ -403,7 +404,7 @@ sedimentSubchapter.addEventListener('click', function()
 
   $('#backgroundVideo').fadeOut(2000);
 
-  FadeInOut(() => 
+  FadeInOut("sediment.html",() => 
   {
     $(".Layout__wrapper-container").load("sediment.html"); 
   });
@@ -418,7 +419,7 @@ airSubchapter.addEventListener('click', function()
 
   $('#backgroundVideo').fadeOut(2000);
 
-  FadeInOut(() => 
+  FadeInOut("air.html",() => 
   {
     $(".Layout__wrapper-container").load("air.html"); 
   });
@@ -432,7 +433,7 @@ pipesPotsSubchapter.addEventListener('click', function()
 
   $('#backgroundVideo').fadeOut(2000);
 
-  FadeInOut(() => 
+  FadeInOut("pots.html",() => 
   {
     $(".Layout__wrapper-container").load("pots.html"); 
   });
@@ -446,7 +447,7 @@ weedsSubchapter.addEventListener('click', function()
 
   $('#backgroundVideo').fadeOut(2000);
 
-  FadeInOut(() => 
+  FadeInOut("weeds.html",() => 
   {
     $(".Layout__wrapper-container").load("weeds.html"); 
   });
@@ -460,7 +461,7 @@ londonSubchapter.addEventListener('click', function()
 
   $('#backgroundVideo').fadeOut(2000);
 
-  FadeInOut(() => 
+  FadeInOut("london.html",() => 
   {
     $(".Layout__wrapper-container").load("london.html"); 
   });
@@ -475,7 +476,7 @@ tankSubchapter.addEventListener('click', function()
 
   $('#backgroundVideo').fadeOut(2000);
 
-  FadeInOut(() => 
+  FadeInOut("tanks.html",() => 
   {
     $(".Layout__wrapper-container").load("tanks.html"); 
   });
@@ -488,7 +489,7 @@ groundwaterSubchapter.addEventListener('click', function()
 
   $('#backgroundVideo').fadeOut(2000);
 
-  FadeInOut(() => 
+  FadeInOut("groundwater.html",() => 
   {
     $(".Layout__wrapper-container").load("groundwater.html"); 
   });
@@ -501,7 +502,7 @@ ethnographySubchapter.addEventListener('click', function()
 
   $('#backgroundVideo').fadeOut(2000);
 
-  FadeInOut(() => 
+  FadeInOut("enthography.html",() => 
   {
     $(".Layout__wrapper-container").load("enthography.html"); 
   });
@@ -515,7 +516,7 @@ atmosphereSubchapter.addEventListener('click', function()
 
   $('#backgroundVideo').fadeOut(2000);
 
-  FadeInOut(() => 
+  FadeInOut("atmosphere.html",() => 
   {
     $(".Layout__wrapper-container").load("atmosphere.html"); 
   });
@@ -530,7 +531,7 @@ spaceSubchapter.addEventListener('click', function()
 
   $('#backgroundVideo').fadeOut(2000);
 
-  FadeInOut(() => 
+  FadeInOut("space.html",() => 
   {
     $(".Layout__wrapper-container").load("space.html"); 
   });
@@ -545,7 +546,7 @@ chennaiSubchapter.addEventListener('click', function()
 
   $('#backgroundVideo').fadeOut(2000);
 
-  FadeInOut(() => 
+  FadeInOut("chennai.html",() => 
   {
     $(".Layout__wrapper-container").load("chennai.html"); 
   });
@@ -560,7 +561,7 @@ drawingSubchapter.addEventListener('click', function()
 
   $('#backgroundVideo').fadeOut(2000);
 
-  FadeInOut(() => 
+  FadeInOut("drawing.html",() => 
   {
     $(".Layout__wrapper-container").load("drawing.html"); 
   });
@@ -574,7 +575,7 @@ oceanSubchapter.addEventListener('click', function()
 
   $('#backgroundVideo').fadeOut(2000);
 
-  FadeInOut(() => 
+  FadeInOut("ocean.html",() => 
   {
     $(".Layout__wrapper-container").load("ocean.html"); 
   });
