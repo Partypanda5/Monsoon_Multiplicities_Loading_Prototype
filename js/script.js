@@ -207,6 +207,10 @@ function FadeInOut (windowName,loadFunc)
   setTimeout(function()
   {
     loadFunc();
+
+    var images = $('img');
+    var counter = images.length;
+
     $(function() {
       function imageLoaded() {
          counter--; 
@@ -214,8 +218,6 @@ function FadeInOut (windowName,loadFunc)
             $('.Layout__wrapper-container').fadeIn(1000);
          }
       }
-      var images = $('img');
-      var counter = images.length;
   
       images.each(function() {
           if( this.complete ) {
@@ -224,8 +226,7 @@ function FadeInOut (windowName,loadFunc)
               $(this).one('load', imageLoaded);
           }
       });
-  });
-
+    });
   },700);
 }
 
