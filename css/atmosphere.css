@@ -24,27 +24,27 @@
 
 #atmosphereSubFive
 {
-    top: -25vh;
+    top: -14vh;
 }
 
 #atmosphereSubSix
 {
-    top: -45vh;
+    top: -36vh;
 }
 
 #atmosphereSubSeven
 {
-    top: -80vh;
+    top: -76vh;
 }
 
 #atmosphereSubEight
 {
-    top: -100vh;
+    top: -97vh;
 }
 
 #atmosphereSubNine
 {
-    top: -140vh;
+    top: -128vh;
 }
 
 #atmosOne
@@ -136,6 +136,22 @@
     width: 14%;
 }
 
+#atmosImageDescriptionSix
+{
+    position: relative;
+    top: 31%;
+    left: 35.3%;
+    width: 14%;
+}
+
+#atmosImageDescriptionSeven
+{
+    position: relative;
+    top: 31%;
+    left: 35.3%;
+    width: 14%;
+}
+
 #AtmosVideoOne
 {
     position: relative;
@@ -221,7 +237,7 @@
 {
     position: relative;
     top: 36%;
-    left: -32.6%;
+    left: -32.4%;
 }
 
 #gridImageAtmos
@@ -316,10 +332,14 @@
     pointer-events: none;
 }
 
+.hideElement
+{
+    visibility: hidden;
+}
 
 
-
-@media(max-width: 1299px) {
+/*------------ Desktop Responisve 1280 x 582 ---------------*/
+@media (min-width: 1026px) and (max-width: 1299px) {
 
 .copyTextAtmosOne {
     top: 32%;
@@ -370,21 +390,25 @@ height: 76.1vh;
     position: relative;
     top: 42%;
 }
+#atmosFive {
+    top: 41%;
+    left: -5%;
+}
 #atmosphereSubFive {
-    top: 104vh;
+    top: 122vh;
 }
 #AtmosVideoSix {
     height: 76.1vh;
 }
 	#atmosphereSubSix {
-    top: 105vh;
-}
+        top: 128vh;
+    }
 #AtmosVideoSeven {
     top: 56%;
     height: 76.1vh;
 }
 #atmosphereSubSeven {
-    top: 95vh;
+    top: 115vh;
 }
 #atmosGridOne {
     top: 34%;
@@ -395,7 +419,7 @@ height: 76.1vh;
     left: -17.2%;
 }
 #atmosphereSubEight {
-    top: 100vh;
+    top: 120vh;
 }
 #atmosGridThree {
     top: 45%;
@@ -406,19 +430,43 @@ height: 76.1vh;
     margin-left: 7px;
 }
 #atmosphereSubNine {
-    top: 90vh;
+    top: 120vh;
 }
 .referencesAtmos, .referencesAtmosTwo {
     font-size: 9px;
     line-height: 12px;
     width: 20%;
 }
+
+#atmosImageDescriptionSix {
+    top: 42%;
+    left: 35.3%;
 }
 
-/* height - 1280 x 800*/
-@media(max-width: 1299px) and (min-height: 680px) and (max-height: 801px) {
+#atmosImageDescriptionSeven {
+    top: 40%;
+    left: 35.3%;
+}
+}
+
+/*------------ Desktop Responisve 1280 x 689 ---------------*/
+/* @media (min-width: 1026px) and (max-width: 1299px) 
+and (min-height: 680px) and (max-height: 766px) */
+
+/*------------ Desktop Responisve 1280 x 768 ---------------*/
+/* @media (min-width: 1026px) and (max-width: 1299px) 
+and (min-height: 767px) and (max-height: 798px) */
+
+/*------------ Desktop Responisve 1280 x 800 ---------------*/
+@media (min-width: 1026px) and (max-width: 1299px) 
+and (min-height: 799px) and (max-height: 801px) {
 	#atmosImageDescriptionOne {
     top: 23%;
+}
+
+#atmosImageDescriptionSeven {
+    top: 30%;
+    left: 35.3%;
 }
 #AtmosVideoTwo {
     top: 26%;
@@ -449,16 +497,16 @@ height: 76.1vh;
     left: -5%;
 }
 #atmosphereSubFive {
-    top: -149.58px;
+    top: -25px;
 }
 .copyTextAtmosOne {
     top: 25%;
 }
 #atmosphereSubSix {
-    top: -250.224px;
+    top: -105px;
 }
 #atmosphereSubSeven {
-    top: -516.84px;
+    top: -355px;
 }
 #atmosGridTwo {
     top: -9.3%;
@@ -472,10 +520,10 @@ height: 76.1vh;
     top: -8%;
 }
 #atmosphereSubEight {
-    top: -889.79px;
+    top: -720px;
 }
 #atmosphereSubNine {
-    top: -1313.22px;
+    top: -1070px;
 }
 #atmosGridThree {
     top: 32%;
@@ -486,9 +534,108 @@ height: 76.1vh;
     height: 76.1vh;
 }
 
+#atmosImageDescriptionSix {
+    top: 27%;
+    left: 35.3%;
 }
 
-@media (min-width: 1300px) and (max-width: 1399px)
+}
+
+/*------------ Desktop Responisve 1387 x 540 ---------------*/
+/* @media (min-width: 1300px) and (max-width: 1399px) 
+and (min-height: 539px) and (max-height: 679px) */
+
+/*------------ Desktop Responisve 1366 x 695 ---------------*/
+@media (min-width: 1300px) and (max-width: 1399px) 
+and (min-height: 680px) and (max-height: 749px) {
+    #AtmosVideoTwo {
+        top: 35%;
+    }
+    #atmosphereSubOne #atmosImageDescriptionOne {
+        top: 32%;
+    }
+    #atmosphereSubTwo {
+        top: 70px;
+    }
+    #atmosImageDescriptionOne {
+        top: 34%;
+    }
+    #atmosOne {
+        top: 39%;
+    }
+    #AtmosVideoThree {
+        top: 35%;
+    }
+    #atmosphereSubThree {
+        top: 65px;
+    }
+    #atmosTwo {
+        top: 33.5%;
+    }
+    #atmosThree {
+        top: 26.5%;
+    }
+    #atmosImageDescriptionThree {
+        top: 20.5%;
+    }
+    #atmosphereSubFour {
+        top: 265px;
+    }
+    #atmosFour {
+        top: 39%;
+    }
+    #atmosFive {
+        top: 38%;
+    }
+    #atmosphereSubFive {
+        top: -50px;
+    }
+        #AtmosVideoSix {
+        top: 12%;
+    }
+    #atmosphereSubSix {
+        top: -240px;
+    }
+    #atmosphereSubSeven {
+        top: -570px;
+    }
+    #atmosGridTwo {
+        left: -17%;
+        top: -9%;
+    }
+    #atmosGridOne {
+        left: -44%;
+        top: 30%;
+    }
+    #atmosphereSubEight {
+        top: -720px;
+    }
+        #atmosImageDescriptionFour {
+        top: 7%;
+    }
+    #atmosImageDescriptionFive {
+        top: -7%;
+    }
+    #atmosImageDescriptionSix {
+        top: 34%;
+        left: 35.3%;
+    }
+        #AtmosVideoSeven {
+        top: 48%;
+    }
+    #atmosGridThree {
+        top: 38%;
+        left: -32.6%;
+    }
+    #atmosphereSubNine {
+        top: -880px;
+    }
+        
+    }
+
+/*------------ Desktop Responisve 1366 x 768 ---------------*/
+@media (min-width: 1300px) and (max-width: 1399px) 
+and (min-height: 750px) and (max-height: 780px)
 {
 
 #atmosphereSubOne
@@ -530,13 +677,13 @@ height: 76.1vh;
     top: -1.5vh;
 }
 #atmosphereSubFive {
-    top: -67vh;
+    top: -53vh;
 }
 #atmosphereSubSix {
-    top: -104vh;
+    top: -88vh;
 }
 #atmosphereSubSeven {
-    top: -152vh;
+    top: -135vh;
 }
 #atmosGridOne {
     left: -44%;
@@ -545,14 +692,14 @@ height: 76.1vh;
     left: -17%;
 }
 #atmosphereSubEight {
-    top: -181vh;
+    top: -162vh;
 }
 #gridImageAtmos {
     width: 14.1vw;
     margin-left: 10px;
 }
 #atmosphereSubNine {
-    top: -231vh;
+    top: -195vh;
 }
 .referencesAtmos, .referencesAtmosTwo {
     font-size: 9px;
@@ -562,89 +709,11 @@ height: 76.1vh;
 	
 }
 
-/* height - 1366 x 695*/
-@media (min-width: 1300px) and (max-width: 1399px) and (min-height: 680px) and (max-height: 749px) {
-    #AtmosVideoTwo {
-        top: 35%;
-    }
-    #atmosphereSubOne #atmosImageDescriptionOne {
-        top: 32%;
-    }
-    #atmosphereSubTwo {
-        top: 70px;
-    }
-    #atmosImageDescriptionOne {
-        top: 34%;
-    }
-    #atmosOne {
-        top: 39%;
-    }
-    #AtmosVideoThree {
-        top: 35%;
-    }
-    #atmosphereSubThree {
-        top: 65px;
-    }
-    #atmosTwo {
-        top: 33.5%;
-    }
-    #atmosThree {
-        top: 26.5%;
-    }
-    #atmosImageDescriptionThree {
-        top: 20.5%;
-    }
-    #atmosphereSubFour {
-        top: 265px;
-    }
-    #atmosFour {
-        top: 39%;
-    }
-    #atmosFive {
-        top: 38%;
-    }
-    #atmosphereSubFive {
-        top: -100px;
-    }
-        #AtmosVideoSix {
-        top: 12%;
-    }
-    #atmosphereSubSix {
-        top: -280px;
-    }
-    #atmosphereSubSeven {
-        top: -570px;
-    }
-    #atmosGridTwo {
-        left: -17%;
-        top: -9%;
-    }
-    #atmosGridOne {
-        left: -44%;
-        top: 30%;
-    }
-    #atmosphereSubEight {
-        top: -720px;
-    }
-        #atmosImageDescriptionFour {
-        top: 7%;
-    }
-    #atmosImageDescriptionFive {
-        top: -7%;
-    }
-        #AtmosVideoSeven {
-        top: 48%;
-    }
-    #atmosGridThree {
-        top: 38%;
-        left: -32.6%;
-    }
-    #atmosphereSubNine {
-        top: -930px;
-    }
-        
-    }
+/*------------ Tablet Responisve 1366 x 1024 ---------------*/
+/* @media (min-width: 1300px) and (max-width: 1399px) 
+and (min-height: 781px) and (max-height: 1025px) */
 
+/*------------ Desktop Responisve 1440 x 768 ---------------*/
 @media (min-width: 1400px) and (max-width: 1499px) {
     #atmosphereSubOne .copyTextAtmosOne {
         top: 26%;
@@ -665,13 +734,13 @@ height: 76.1vh;
         top: 36vh;
     }
     #atmosphereSubFive {
-        top: -17vh;
+        top: -7vh;
     }
     #atmosphereSubSix {
-        top: -40vh;
+        top: -30vh;
     }
     #atmosphereSubSeven {
-        top: -75vh;
+        top: -68vh;
     }
     #gridImageMiddleAtmos {
         width: 23.8vw;
@@ -683,14 +752,14 @@ height: 76.1vh;
         left: -17%;
     }
     #atmosphereSubEight {
-        top: -88vh;
+        top: -82vh;
     }
     #gridImageAtmos {
         width: 14.1vw;
         margin-left: 10px;
     }
     #atmosphereSubNine {
-        top: -126vh;
+        top: -111vh;
         height: 130vh;
     }
     .referencesAtmos {
@@ -712,8 +781,14 @@ height: 76.1vh;
     }
     }
 
-    /* height - 1440 x 900*/
-@media (min-width: 1400px) and (max-width: 1499px) and (min-height: 851px) and (max-height: 901px) 
+    /*------------ Desktop Responisve 1440 x 833 ---------------*/
+/* @media (min-width: 1400px) and (max-width: 1499px) 
+and (min-height: 800px) and (max-height: 850px) */
+
+
+/*------------ Desktop Responisve 1440 x 900 ---------------*/
+@media (min-width: 1400px) and (max-width: 1499px) 
+and (min-height: 851px) and (max-height: 901px)
 {
 	#atmosphereSubOne .copyText, #atmosphereSubThree .copyText, #atmosphereSubFour .copyText, #atmosphereSubFive .copyText, #atmosphereSubSix .copyText, #atmosphereSubSeven .copyText, #atmosphereSubEight .copyText {
     top: 15.3%;
@@ -739,31 +814,33 @@ top:26% !important
     top: -225.02px;
 }
 #atmosphereSubFour {
-    top: -8.4vh;
+    top: -17vh;
 }
 #atmosFour {
     top: 30%;
 }
 #atmosphereSubFive {
-    top: -726.3px;
+    top: -675px;
 } 
 #atmosphereSubSix {
-    top: -996.45px;
+    top: -1025px;
 }
 #AtmosVideoSeven {
     top: 38%;
 }
 #atmosphereSubSeven {
-    top: -1421.48px;
+    top: -1530px;
 }
 #atmosphereSubEight {
-    top: -1722.71px;
+    top: -1831px;
 }
 #atmosGridThree {
     top: 30%;
 }
 #atmosphereSubNine {
-    top: -2230.26px;
+  
+    top: -2250px;
+
 }
 
 #atmosFive {
@@ -771,21 +848,28 @@ top:26% !important
     left: -5%;
 }
 
+#atmosImageDescriptionSeven {
+    top: 25%;
+}
+
+#atmosImageDescriptionSix {
+    top: 26%;
+}
+
 #AtmosVideoTwo, #AtmosVideoThree, #AtmosVideoFour, #AtmosVideoSix, #AtmosVideoSeven {
     height: 55.1vh;
 }
 }
 
-/* ------- 1500's screen---------*/
-/*main*/
+/*------------ Desktop Responisve 1536 x 730 ---------------*/
 @media (min-width: 1500px) and (max-width: 1599px) {
 
-	#atmosphereSubOne #atmosImageDescriptionOne {
-    top: 24%;
-}
-#atmosphereSubTwo {
-    top: 16vh;
-}
+    #atmosphereSubOne #atmosImageDescriptionOne {
+        top: 36%;
+    }
+    #atmosphereSubTwo {
+        top: 28vh;
+    }
 #atmosOne {
     top: 41%;
 }
@@ -795,8 +879,12 @@ top:26% !important
 #AtmosVideoThree {
     top: 35.5%;
 }
+
+#AtmosVideoTwo {
+    top: 38%;
+}
 #atmosphereSubThree {
-    top: 17vh;
+    top: 26vh;
 }
 #atmosTwo {
     top: 39%;
@@ -807,30 +895,36 @@ top:26% !important
 #atmosImageDescriptionThree {
     top: 27%;
 }
+#atmosImageDescriptionSeven {
+    top: 38%;
+}
 #AtmosVideoFour {
     top: 28.5%;
 }
+#atmosFive {
+    top: 40%;
+}
 #atmosphereSubFour {
-    top: 60vh;
+    top: 66vh;
 }
 #atmosFour {
     top: 42%;
 }
 #atmosphereSubFive {
-    top: 22vh;
+    top: 40vh;
 }
 .copyTextAtmosOne {
     top: 24.5%;
 }
 #atmosphereSubSix {
-    top: 11vh;
+    top: 27vh;
 }
 #AtmosVideoSeven {
     left: -32.9%;
     top: 52.8%;
 }
 #atmosphereSubSeven {
-    top: -20vh;
+    top: -6vh;
 }
 #atmosGridOne {
     top: 28%;
@@ -844,7 +938,7 @@ top:26% !important
     top: -3.5%;
 }
 #atmosphereSubEight {
-    top: -25vh;
+    top: -11vh;
 }
 #atmosGridThree {
     top: 41%;
@@ -854,7 +948,7 @@ top:26% !important
     margin-left: 10px;
 }
 #atmosphereSubNine {
-    top: -45vh;
+    top: -24vh;
 }
 .referencesAtmos {
     top: 5.4%;
@@ -868,7 +962,10 @@ top:26% !important
     font-size: 9px;
     line-height: 12px;
 }	
-
+#atmosImageDescriptionSix {
+    top: 38%;
+    left: 35.3%;
+}
 .referencesAtmos {
     font-size: 9px;
     line-height: 12px;
@@ -876,30 +973,33 @@ top:26% !important
 }
 }
 
-/* 1536 x 792 */
-@media (min-width: 1500px) and (max-width: 1599px) and (min-height: 780px) and (max-height: 810px) 
+/*------------ Desktop Responisve 1536 x 757 ---------------*/
+/* @media (min-width: 1500px) and (max-width: 1599px) 
+and (min-height: 751px) and (max-height: 780px) */
+
+/*------------ Desktop Responisve 1536 x 792 ---------------*/
+@media (min-width: 1500px) and (max-width: 1599px) 
+and (min-height: 781px) and (max-height: 810px)
 {
+
     #atmosphereSubFour {
-        top: 167px;
+        top: 415px;
     }
     #atmosphereSubFive {
-        top: -205.1px;
+        top: 170px;
     }
     #atmosphereSubSix {
-        top: -353.5px;
+        top: 45px;
     }
     #atmosphereSubSeven {
-        top: -619.7px;
+        top: -195px;
     }
     #atmosphereSubEight {
-        top: -95.3vh;
+        top: -39vh;
     }
 
     #atmosphereSubNine {
-        top: -124vh;
-    }
-    #atmosphereSubNine {
-        top: -985.44px;
+        top: -455px;
     }	
         #atmosphereSubOne .copyTextAtmosOne, .copyTextAtmosOne, #atmosphereSubSeven .copyTextAtmosOne, .copyTextAtmosOne {
     top:26% !important
@@ -912,31 +1012,6 @@ top:26% !important
     #atmosphereSubThree {
         top: 16.5vh;
     }
-
-    #atmosphereSubFour {
-        top: 415px;
-    }
-
-    #atmosphereSubFive {
-        top: 75px;
-    }
-
-    #atmosphereSubSix {
-        top: -55.5px;
-    }
-
-    #atmosphereSubSeven {
-        top: -282.7px;
-    }
-
-    #atmosphereSubEight {
-        top: -51.3vh;
-    }
-
-    #atmosphereSubNine {
-        top: -600px;
-    }
-
     #atmosFive {
         top: 38%;
     }
@@ -951,10 +1026,14 @@ top:26% !important
     }
 
 }
-    
 
-/* common - 1600×750, 1600×900 */
-@media (min-width: 1600px) and (max-width: 1699px) {
+/*------------ Desktop Responisve 1536 x 864 ---------------*/
+/* @media (min-width: 1500px) and (max-width: 1599px) 
+and (min-height: 811px) and (max-height: 870px) */
+    
+/*------------ Desktop Responisve 1600 x 750 ---------------*/
+@media (min-width: 1600px) and (max-width: 1699px) 
+ {
 	#atmosphereSubTwo {
     top: -14vh;
 }
@@ -963,6 +1042,9 @@ top:26% !important
 }
 #atmosOne {
     top: 37%;
+}
+#atmosTwo {
+    top: 33%;
 }
 #atmosFive {
     top: 35%;
@@ -977,7 +1059,7 @@ top:26% !important
     top: 22vh;
 }
 #atmosphereSubFive {
-    top: -28vh;
+    top: -20vh;
 }
 
 #AtmosVideoSix {
@@ -987,14 +1069,14 @@ top:26% !important
     top: 7%;
 }
 #atmosphereSubSix {
-    top: -57vh;
+    top: -49vh;
 }
 
 #AtmosVideoSeven {
     top: 47%;
 }
 #atmosphereSubSeven {
-    top: -98vh;
+    top: -92vh;
 }
 #atmosGridOne {
     left: -43.7%;
@@ -1006,7 +1088,7 @@ top:26% !important
     top: -3%;
 }
 #atmosphereSubEight {
-    top: -108vh;
+    top: -102vh;
 }
 #gridImageAtmos {
     width: 14.1vw;
@@ -1016,7 +1098,7 @@ top:26% !important
     left: -32.6%;
 }
 #atmosphereSubNine {
-    top: -137vh;
+    top: -126vh;
 }
 
 .referencesAtmos {
@@ -1035,8 +1117,13 @@ top:26% !important
 
 }
 
-/*1600 x 900 */
-@media (min-width: 1600px) and (max-width: 1699px) and (min-height: 831px) and (max-height: 900px) {
+/*------------ Desktop Responisve 1600 x 829 ---------------*/
+/* @media (min-width: 1600px) and (max-width: 1699px) 
+and (min-height: 786px) and (max-height: 830px) */
+
+/*------------ Desktop Responisve 1600 x 900 ---------------*/
+@media (min-width: 1600px) and (max-width: 1699px) 
+and (min-height: 831px) and (max-height: 900px) {
 	#atmosImageDescriptionOne {
     top: 26%;
 }
@@ -1055,36 +1142,40 @@ top:26% !important
     top: 8vh;
 }
 #atmosphereSubFive {
-    top: -49vh;
+    top: -40vh;
 }
 #atmosphereSubSix {
-    top: -84vh;
+    top: -74vh;
 }
 
 #atmosphereSubSeven {
-    top: -131.7vh;
+    top: -120vh;
 }
 
 #atmosphereSubEight {
-    top: -163vh;
+    top: -153vh;
 }
 
 #AtmosVideoSeven {
     top: 40.5%;
 }
-#atmosphereSubEight {
-    top: -166vh;
-}
 #atmosGridThree {
     top: 32%;
 }
 #atmosphereSubNine {
-    top: -214vh;
+    top: -194vh;
+}
+
+#atmosImageDescriptionSix {
+
+    top: 27%;
 }
 }
 
-/*1600 x 1050*/
-@media (min-width: 1600px) and (max-width: 1699px) and (min-height: 901px) and (max-height: 1050px) {
+
+/*------------ Desktop Responisve 1600 x 1050 ---------------*/
+@media (min-width: 1600px) and (max-width: 1699px) 
+and (min-height: 901px) and (max-height: 1051px) {
 	#atmosImageDescriptionOne {
     top: 22%;
 }
@@ -1111,6 +1202,10 @@ top:26% !important
     position: relative;
     top: 17%;
 }
+#atmosImageDescriptionSeven {
+    top: 27%;
+    left: 35.3%;
+}
 #atmosphereSubFour {
     top: -302.35px;
 }
@@ -1118,25 +1213,29 @@ top:26% !important
     top: 31%;
 }
 #atmosphereSubFive {
-    top: -1051px;
+    top: -940px;
 }
 #atmosphereSubSix {
-    top: -1485.28px;
+    top: -1363px;
 }
 #AtmosVideoSeven {
     top: 35%;
 }
 #atmosphereSubSeven {
-    top: -2065.49px;
+    top: -1935px;
 }
 #atmosphereSubEight {
-    top: -2527.49px;
+    top: -2395px;
 }
 #atmosGridThree {
     top: 28%;
 }
 #atmosphereSubNine {
-    top: -3149px;
+    top: -2940px;
+}
+
+#atmosImageDescriptionSix {
+    top: 24%;
 }
 
 #AtmosVideoTwo {
@@ -1148,9 +1247,352 @@ top:26% !important
 }
 }
 
-/* ------- 1900's screen---------*/
-/* 1920 x 930*/
-@media (min-width: 1900px) and (min-height: 920px) and (max-height: 1008px) {
+/*------------ Desktop Responisve 1920 x 1080 ---------------*/
+@media (min-width: 1900px) and (max-width: 1999px) 
+{
+    .atmosphereContainer
+{
+    max-width: 100vw;
+    flex: 100%;
+    display: block;
+    z-index: 10;
+    height: 200vh;
+}
+
+#atmosphereSubTwo
+{
+    top: 8vh;
+}
+
+#atmosphereSubThree
+{
+    top: 0vh;
+}
+
+#atmosphereSubFour
+{
+    top: 30vh;
+}
+
+#atmosphereSubFive
+{
+    top: -14vh;
+}
+
+#atmosphereSubSix
+{
+    top: -36vh;
+}
+
+#atmosphereSubSeven
+{
+    top: -76vh;
+}
+
+#atmosphereSubEight
+{
+    top: -97vh;
+}
+
+#atmosphereSubNine
+{
+    top: -128vh;
+}
+
+#atmosOne
+{
+    position: relative;
+    top: 34%;
+    left: -32%;
+    width: 63vw;
+    z-index: -5;    
+}
+
+#atmosTwo
+{
+    position: relative;
+    top: 30%;
+    left: -32%;
+    width: 63vw;
+}
+
+#atmosThree
+{
+    position: relative;
+    top: 23%;
+    left: -32%;
+    width: 63vw
+}
+
+#atmosFour
+{
+    position: relative;
+    top: 36%;
+    left: -2%;
+    width: 102vw;
+}
+
+#atmosFive 
+{
+    position: relative;
+    top: 33%;
+    left: -5%;
+    width: 102vw;
+}
+
+.copyTextAtmosOne
+{
+    position: relative;
+    top: 26%;
+    left: 8.3%;
+    width: 17%;
+}
+
+#atmosImageDescriptionOne
+{
+    position: relative;
+    top: 27%;
+    left: 35.3%;
+    width: 14%;
+}
+
+#atmosImageDescriptionTwo
+{
+    position: relative;
+    top: 27%;
+    left: 8.3%;
+    width: 14%;
+}
+
+#atmosImageDescriptionThree
+{
+    position: relative;
+    top: 18%;
+    left: 35.3%;
+    width: 14%;
+}
+
+#atmosImageDescriptionFour
+{
+    position: relative;
+    top: 5%;
+    left: 35.3%;
+    width: 14%;
+}
+
+#atmosImageDescriptionFive
+{
+    position: relative;
+    top: 0%;
+    left: 35.3%;
+    width: 14%;
+}
+
+#atmosImageDescriptionSix
+{
+    position: relative;
+    top: 31%;
+    left: 35.3%;
+    width: 14%;
+}
+
+#atmosImageDescriptionSeven
+{
+    position: relative;
+    top: 31%;
+    left: 35.3%;
+    width: 14%;
+}
+
+#AtmosVideoOne
+{
+    position: relative;
+    left: -32.9%;
+    top: 32.9%;
+    width: 61.5vw;
+    height: 19.8vh;
+    z-index: -5;
+}
+
+#AtmosVideoTwo
+{
+    position: relative;
+    left: -32.9%;
+    top: 29%;
+    width: 61.5vw;
+    height: 61.5vh;
+}
+
+#AtmosVideoThree
+{
+    position: relative;
+    left: -32.9%;
+    top: 30%;
+    width: 61.5vw;
+    height: 61.5vh;
+}
+
+#AtmosVideoFour
+{
+    position: relative;
+    left: -32.9%;
+    top: 19%;
+    width: 61.5vw;
+    height: 61.5vh;
+}
+
+#AtmosVideoFive
+{
+    position: relative;
+    left: -32.9%;
+    top: 30%;
+    width: 61.5vw;
+    height: 61.5vh;
+    z-index: -5;
+}
+
+#AtmosVideoSix
+{
+    position: relative;
+    left: -32.9%;
+    top: 10%;
+    width: 61.5vw;
+    height: 61.5vh;
+    z-index: -5;
+}
+
+#AtmosVideoSeven
+{
+    position: relative;
+    left: -32.9%;
+    top: 46%;
+    width: 61.5vw;
+    height: 61.5vh;
+    z-index: -5;
+}
+
+#atmosGridOne
+{
+    position: relative;
+    top: 28%;
+    left: -43.3%;
+}
+
+#atmosGridTwo
+{
+    position: relative;
+    top: -5%;
+    left: -16.4%;
+}
+
+#atmosGridThree
+{
+    position: relative;
+    top: 36%;
+    left: -32.4%;
+}
+
+#gridImageAtmos
+{
+    width: 14.5vw;
+    margin-left: 11px;
+    height: auto;
+}
+
+.endlineAtmos
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 3%;
+    left: 0%;
+    border-bottom: 1px solid black;
+}
+
+.endlineAtmosTwo
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 10%;
+    left: 0%;
+    border-bottom: 2px dotted black;
+}
+
+.endlineAtmosThree
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 50%;
+    left: 0%;
+    border-bottom: 2px solid black;
+}
+
+
+.referenceBlockAtmos
+{
+    width: 102%;
+    height: 6%;
+    position: absolute;
+    top: 8%;
+    left: 35.2%;
+}
+
+.referenceBlockAtmosTwo
+{
+    width: 102%;
+    height: 6%;
+    position: absolute;
+    top: 45%;
+    left: 35.2%;
+}
+
+.referencesAtmos
+{
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 17px;
+    width: 17%;
+    text-align: left;
+    left: 35.3%;
+    top: 7%;
+}
+
+.referencesAtmosTwo
+{
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 17px;
+    width: 24%;
+    text-align: left;
+    left: 35.3%;
+    top: 14%;
+}
+
+#gridImageMiddleAtmos 
+{
+    width: 23.5vw;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
+}
+
+.hideElement
+{
+    visibility: hidden;
+}
+}
+
+/*------------ Desktop Responisve 1920 x 930 ---------------*/
+@media (min-width: 1900px) and (max-width: 1999px) 
+and (min-height: 920px) and (max-height: 950px) {
     #atmosphereSubOne #atmosImageDescriptionOne {
         top: 31%;
 }
@@ -1195,32 +1637,45 @@ top: 18%;
 top: 41%;
 }
 #atmosphereSubFive {
-    top: 50px;
+    top: 195px;
 }
+#atmosImageDescriptionSeven {
+    top: 37%;
+}
+
+#atmosImageDescriptionSix {
+    top: 37%;
+}
+
 #atmosphereSubSix {
 
-    top: -90px;
+    top: 70px;
 
 }
 #AtmosVideoSeven {
 top: 53%;
 }
 #atmosphereSubSeven {
-    top: -395px;
+    top: -230px;
 }
 #atmosphereSubEight {
-    top: -420px;
+    top: -250px;
 }
 #atmosGridThree {
 top: 40%;
 }
 #atmosphereSubNine {
-    top: -640px;
+    top: -370px;
 }
 }
 
-/*1920 x 1200*/
-@media (min-width: 1900px) and (min-height: 1101px) and (max-height: 1210px) {
+/*------------ Desktop Responisve 1920 x 1007 ---------------*/
+/* @media (min-width: 1900px) and (max-width: 1999px) 
+and (min-height: 951px) and (max-height: 1008px) */
+
+/*------------ Desktop Responisve 1920 x 1200 ---------------*/
+@media (min-width: 1900px) and (max-width: 1999px) 
+and (min-height: 1101px) and (max-height: 1210px){
 #atmosphereSubTwo {
 top: 75px;
 }
@@ -1232,18 +1687,18 @@ top: -15px;
 top: 240px;
 }
 #atmosphereSubFive {
-top: -460px;
+    top: -340px;
 }
 #atmosphereSubSix {
-top: -760px;
+top: -640px;
 }
 #atmosphereSubSeven {
-top: -1170px;
+top: -1080px;  
 }
 #atmosphereSubEight {
-top: -1530px;
+top: -1450px;
 }
 #atmosphereSubNine {
-top: -2060px;
+top: -1910px;
 }
 }

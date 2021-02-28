@@ -10,7 +10,7 @@
 #sedimentOne
 {
     position: relative;
-    top: 0.5vh;
+    top: -78.5vh;
     left: -6vw;
     width: 105vw;
     height: auto;
@@ -32,11 +32,10 @@
     width: 40vw;
 }
 
-#sedimentFour
-{
+#sedimentFour {
     position: relative;
     left: 34.6%;
-    top: -22%;
+    top: -13.4%;
     width: 31.3vw;
 }
 
@@ -166,22 +165,22 @@
 
 #sedimentSubSeven
 {
-    top: -13vh;
+    top: -37vh;
 }
 
 #sedimentSubEight
 {
-    top: -98vh;
+    top: -122vh;
 }
 
 #sedimentSubNine 
 {
-    top: -171vh;
+    top: -194vh;
 }
 
 #sedimentSubTen
 {
-    top: -167vh;
+    top: -188vh;
 }
 
 #sedimentGridOne
@@ -284,11 +283,10 @@
     z-index: 5;
 }
 
-#sedimentImageDescriptionTwo
-{
+#sedimentImageDescriptionTwo {
     position: relative;
     left: 35.3%;
-    top: -20%;
+    top: -11%;
     width: 13%;
 }
 
@@ -527,7 +525,7 @@
     top: 41%;
     width: 105vw;
     height: 105vh;
-    z-index: -5;
+    z-index: 10;
 }
 
 #sedimentVideoFour
@@ -687,7 +685,8 @@
     pointer-events: none
 }
 
-@media(max-width: 1299px) 
+/*------------ Desktop Responisve 1280 x 582 ---------------*/
+@media (min-width: 1026px) and (max-width: 1299px) 
 {
     #sedimentCopy 
     {
@@ -713,7 +712,7 @@
 
     #sedimentSubSix 
     {
-        top: 3vh;
+        top: 9vh;
     }
 
     #sedimentSubFour 
@@ -723,22 +722,22 @@
 
     #sedimentSubSeven 
     {
-        top: 150vh;
+        top: 127vh;
     }
 
     #sedimentSubEight 
     {
-        top: 88vh;
+        top: 67vh;
     }
 
     #sedimentSubNine 
     {
-        top: 27vh;
+        top: 7vh;
     }
 
     #sedimentSubTen 
     {
-        top: 65vh;
+        top: 50vh;
     }
 
     #sedimentCopyOne 
@@ -855,7 +854,7 @@
     #sedimentFour 
     {
         left: 34.5%;
-        top: -29%;
+        top: -16%;
         width: 31.6vw;
     }
 
@@ -910,7 +909,7 @@
     #sedimentVideoThree 
     {
         left: -13.5%;
-        top: 44%;
+        top: 47%;
         width: 115vw;
         height: 130vh;
     }
@@ -976,9 +975,8 @@
         top: -0.5%;
     }
 
-    #sedimentImageDescriptionTwo 
-    {
-        top: -29%;
+    #sedimentImageDescriptionTwo {
+        top: -14%;
     }
 
     #sedimentImageDescriptionFourteen 
@@ -1032,7 +1030,9 @@
     }
 }
 
+/*------------ Desktop Responisve 1366 x 768 ---------------*/
 @media (min-width: 1300px) and (max-width: 1399px) 
+and (min-height: 750px) and (max-height: 780px)
 {
 
     #sedimentSubThree 
@@ -1042,27 +1042,27 @@
 
     #sedimentSubFour 
     {
-        top: -85vh;
+        top: -82vh;
     }
 
     #sedimentSubFive 
     {
-        top: -153vh;
+        top: -149vh;
     }
 
     #sedimentSubSix 
     {
-        top: -130vh;
+        top: -117vh;
     }
 
     #sedimentSubSeven 
     {
-        top: -42vh;
+        top: -50vh;
     }
 
     #sedimentSubEight 
     {
-        top: -130vh;
+        top: -135vh;
     }
 
     #sedimentSubNine 
@@ -1078,6 +1078,11 @@
     #sedimentMainTitle
     {
         top: 17%;
+    }
+
+    #sedimentVideoThree {
+        left: -3.5%;
+        top: 47%;
     }
 
     #sedimentCopy 
@@ -1149,8 +1154,8 @@
 
     #sedimentFour 
     {
-        left: 34.8%;
-        top: -14%;
+        left: 34.5%;
+        top: -5%;
     }
 
     #sedimentSeven 
@@ -1185,8 +1190,8 @@
 
     #sedimentImageDescriptionTwo 
     {
-        left: 35.7%;
-        top: -12%;
+        left: 35.4%;
+        top: -3%;
     }
 
     #sedimentImageDescriptionThree 
@@ -1299,7 +1304,8 @@
 
 }
 
-@media (min-width: 1400px) and (max-width: 1499px) 
+/*------------ Desktop Responisve 1440 x 768 ---------------*/
+@media (min-width: 1400px) and (max-width: 1499px)
 {
     #sedimentCopy 
     {
@@ -1320,37 +1326,37 @@
 
     #sedimentSubFour 
     {
-        top: -62vh;
+        top: -60vh;
     }    
 
     #sedimentSubFive 
     {
-        top: -133vh;
+        top: -130vh;
     }
 
     #sedimentSubSix 
     {
-        top: -95vh;
+        top: -89vh;
     }
 
     #sedimentSubSeven 
     {
-        top: 1vh;
+        top: -14vh;
     }
 
     #sedimentSubEight 
     {
-        top: -91vh;
+        top: -105vh;
     }
 
     #sedimentSubNine 
     {
-        top: -165vh;
+        top: -175vh;
     }
 
     #sedimentSubTen 
     {
-        top: -158vh;
+        top: -168vh;
     }
 
     .sedimentCopyTwo 
@@ -1485,7 +1491,7 @@
     #sedimentFour 
     {
         left: 34.6%;
-        top: -20%;
+        top: -8%;
         width: 31.3vw;
     }
 
@@ -1511,7 +1517,7 @@
     #sedimentImageDescriptionTwo 
     {
         left: 35.3%;
-        top: -18%;
+        top: -6%;
         width: 13%;
     }
 
@@ -1613,7 +1619,8 @@
 
 }
 
-@media (min-width: 1500px) and (max-width: 1599px) 
+/*------------ Desktop Responisve 1536 x 730 ---------------*/
+@media (min-width: 1500px) and (max-width: 1599px)
 {
     #sedimentCopy 
     {
@@ -1628,35 +1635,35 @@
     }
 
     #sedimentSubThree {
-        top: 80vh;
+        top: 63vh;
     }
 
     #sedimentSubFour {
-        top: 5vh;
+        top: -9vh;
     }
 
     #sedimentSubFive {
-        top: -65vh;
+        top: -76vh;
     }
 
     #sedimentSubSix {
-        top: -29vh;
+        top: -1vh;
     }
 
     #sedimentSubSeven {
-        top: 100vh;
+        top: 106vh;
     }
 
     #sedimentSubEight {
-        top: 30vh;
+        top: 40vh;
     }
 
     #sedimentSubNine {
-        top: -40vh;
+        top: -26vh;
     }
 
     #sedimentSubTen {
-        top: -15vh;
+        top: -1vh;
     }
 
     #sedimentGridOne 
@@ -1791,7 +1798,7 @@
     #sedimentFour 
     {
         left: 34.6%;
-        top: -28.5%;
+        top: -15.5%;
     }
 
     #sedimentSeven
@@ -1833,7 +1840,7 @@
     #sedimentImageDescriptionTwo 
     {
         left: 35.3%;
-        top: -26%;
+        top: -14%;
     }
 
     #sedimentImageDescriptionThree 
@@ -1904,8 +1911,12 @@
 
     #sedimentVideoThree 
     {
-        left: -3.5%;
-        top: 42%;
+        left: -12.5%;
+        top: 54%;
+        position: relative;
+        width: 120vw;
+        height: 122vh;
+        z-index: 10;
     }
 
     #sedimentVideoFour 
@@ -1926,315 +1937,317 @@
     }
 }
 
-    /* common - 1600×750, 1600×900 */
-    @media (min-width: 1600px) and (max-width: 1699px) 
+/*------------ Desktop Responisve 1600 x 750 ---------------*/
+@media (min-width: 1600px) and (max-width: 1699px) 
+{
+    #sedimentCopy
     {
-        #sedimentCopy
-        {
-            font-size: 22px;
-            line-height: 25px;
-            top: 20.1%;
-        }
-
-        .sedimentCopyThree {    
-            top: 53%;
-            left: 8.3%;
-            width: 19%;
-        }
-
-        .sedimentCopyFour {
-            top: 3%;
-            left: 8.3%;
-            width: 20%;
-        }
-
-        .sedimentCopyFive {
-            top: 29%;
-            left: 1.7%;
-            width: 25%;
-        }
-
-        #sedimentCopyNine
-        {
-            top: 27%;
-            left: 1.7%;
-            width: 25%;
-        }
-
-        #sedimentCopyTen {
-            top: 30%;
-            width: 25%;
-            left: 1.7%;
-        }
-
-        #sedimentFifteen {
-            left: 1.1%;
-            top: -19.5%;
-            width: 31vw;
-            z-index: 5;
-        }
-
-        #sedimentEight {
-            left: 34.2%;
-            top: -114%;
-            width: 32vw;
-            z-index: -3;
-        }
-
-        #sedimentCopyFourteen 
-        {
-            top: 27%;
-            width: 20%;
-            left: 8.3%;
-        }
-
-        #sedimentCopyEleven {
-            top: 26%;
-            width: 31%;
-            left: 1.7%;
-        }
-
-        #sedimentCopyTwelve {
-            top: 25%;   
-            width: 27%;
-            left: 1.7%;
-        }
-
-        .sedimentCopySix 
-        {
-            top: 28%;
-            left: 8.3%;
-            width: 16%;
-        }
-
-        .sedimentcopySeven {
-            top: 30%;
-            left: 1.9%;
-        }
-
-        #sedimentCopyThirteen {
-            top: 30%;
-            width: 32%;
-            left: 1.7%;
-        }
-
-        #sedimentSubTwo 
-        {
-            top: 35vh;
-        }
-
-        #sedimentSubThree {
-            top: 75vh;
-        }
-
-        #sedimentSubFour {
-            top: -15vh;
-        }
-
-        #sedimentSubFive {
-            top: -86vh;
-        }
-
-        #sedimentSubSix {
-            top: -46vh;
-        }
-
-        #sedimentSubEight {
-            top: 4vh;
-        }
-
-        #sedimentSubNine {
-            top: -61vh;
-        }
-
-        #sedimentSubTen {
-            top: -28vh;
-        }
-
-        #sedimentSubSeven {
-            top: 88vh;
-        }
-
-        #sedimentSubTen {
-            top: -38vh;
-        }
-
-        #sedimentGridOne {
-            top: 11%;
-            left: -43.7%;
-        }
-
-        #sedimentGridTwo {
-            top: -82.5%;
-            left: -17.5%;
-        }
-
-        #sedimentGridSix {
-            top: -19%;
-            left: -49.4%;
-        }
-
-        #sedimentGridThirteen {
-            left: -17.5%;
-            top: -79.6%;
-        }
-
-        #sedimentGridEleven {
-            top: 13.5%;
-            left: -16.2%;
-        }
-
-        #sedimentGridTen {
-            top: 3.5%;
-            left: -16.35%;
-        }
-
-        #sedimentGridSeven {
-            top: 3%;
-            left: -47%;
-        }
-
-        #sedimentImageDescriptionOne 
-        {
-            left: 8.3%;
-            top: -185%;
-        }
-
-        #sedimentImageDescriptionTwo {
-            left: 35.3%;
-            top: -16%;
-            width: 13%;
-        }
-
-        #sedimentImageDescriptionThree {
-            left: 8.3%;
-            top: 8.8%;
-            width: 13%;
-        }
-
-        #sedimentImageDescriptionEleven {
-            left: 8.3%;
-            top: -85.7%;
-            width: 14%;
-            z-index: -5;
-        }
-
-        #sedimentImageDescriptionFive {
-            left: 8.3%;
-            top: -122.3%;
-            width: 14%;
-        }
-
-        #sedimentImageDescriptionSix {
-            left: 8.3%;
-            top: -4%;
-            width: 12%;
-        }
-
-        #sedimentImageDescriptionTwelve {
-            left: 8.3%;
-            top: 5%;
-            width: 14%;
-        }
-
-        #sedimentImageDescriptionSeven {
-            left: 52%;
-            top: 3.5%;
-            width: 14%;
-        }
-
-        #sedimentImageDescriptionEight {    
-            left: 35.3%;
-            top: -55%;
-            width: 14%;
-        }
-
-        #sedimentImageDescriptionFifteen {
-            left: 52.2%;
-            top: -24%;
-            width: 14%;
-        }
-
-        #sedimentThree {
-            left: 26vw;
-            top: -129%;
-        }
-
-        #sedimentFour {
-            left: 34.6%;
-            top: -18%;
-        }
-
-        #sedimentSeven {
-            left: 34.7%;
-            top: 3.5%;
-        }
-
-        #sedimentNine {
-            left: -32.9%;
-            top: -6%;
-            z-index: -5;
-            width: 30vw;
-        }
-
-        #sedimentTen {
-            left: 7.4%;
-            top: -56%;
-        }
-
-        #sedimentVideoFour 
-        {
-            left: -32.9%;
-            top: -35%;
-            z-index: -5;
-        }
-
-        #sedimentVideoOne {
-            left: -0.05%;
-            top: -4.7%;
-        }
-
-        #sedimentVideoThree {
-            left: -11.5%;
-            top: 51%;
-            width: 113vw;
-            height: 105vh;
-        }
-
-        #sedimentVideoTwo 
-        {
-            left: -32.85%;
-            top: 24%;
-        }
-
-        .endlineSedimentThree 
-        {
-            width: 64.5vw;
-            height: 1vh;
-            top: -145%;
-        }
-        
-        #sedimentImageDescriptionThirteen {
-            left: 52.5%;
-            top: -135%;
-        }
-
-        #sedimentImageDescriptionTen {
-            left: 52.3%;
-            top: -112.5%;
-            width: 12vw;
-        }
-        
-        #gridImageSediment 
-        {
-            width: 14.3vw;
-            margin-left: 8px;
-        }
-
-        #sedimentGridTwelve 
-        {
-            top: -11%;
-            left: -49.4%;
-        }
-            
+        font-size: 22px;
+        line-height: 25px;
+        top: 20.1%;
     }
+
+    .sedimentCopyThree {    
+        top: 53%;
+        left: 8.3%;
+        width: 19%;
+    }
+
+    .sedimentCopyFour {
+        top: 3%;
+        left: 8.3%;
+        width: 20%;
+    }
+
+    .sedimentCopyFive {
+        top: 29%;
+        left: 1.7%;
+        width: 25%;
+    }
+
+    #sedimentCopyNine
+    {
+        top: 27%;
+        left: 1.7%;
+        width: 25%;
+    }
+
+    #sedimentCopyTen {
+        top: 30%;
+        width: 25%;
+        left: 1.7%;
+    }
+
+    #sedimentFifteen {
+        left: 1.1%;
+        top: -19.5%;
+        width: 31vw;
+        z-index: 5;
+    }
+
+    #sedimentEight {
+        left: 34.2%;
+        top: -114%;
+        width: 32vw;
+        z-index: -3;
+    }
+
+    #sedimentCopyFourteen 
+    {
+        top: 27%;
+        width: 20%;
+        left: 8.3%;
+    }
+
+    #sedimentCopyEleven {
+        top: 26%;
+        width: 31%;
+        left: 1.7%;
+    }
+
+    #sedimentCopyTwelve {
+        top: 25%;   
+        width: 27%;
+        left: 1.7%;
+    }
+
+    .sedimentCopySix 
+    {
+        top: 28%;
+        left: 8.3%;
+        width: 16%;
+    }
+
+    .sedimentcopySeven {
+        top: 30%;
+        left: 1.9%;
+    }
+
+    #sedimentCopyThirteen {
+        top: 30%;
+        width: 32%;
+        left: 1.7%;
+    }
+
+    #sedimentSubTwo 
+    {
+        top: 35vh;
+    }
+
+    #sedimentSubThree {
+        top: 62vh;
+    }
+
+    #sedimentSubFour {
+        top: -25vh;
+    }
+
+    #sedimentSubFive {
+        top: -93vh;
+    }
+
+    #sedimentSubSix {
+        top: -32vh;
+    }
+
+    #sedimentSubEight {
+        top: -5vh;
+    }
+
+    #sedimentSubNine {
+        top: -61vh;
+    }
+
+    #sedimentSubTen {
+        top: -28vh;
+    }
+
+    #sedimentSubSeven {
+        top: 76vh;
+    }
+
+    #sedimentSubTen {
+        top: -38vh;
+    }
+
+    #sedimentGridOne {
+        top: 11%;
+        left: -43.7%;
+    }
+
+    #sedimentGridTwo {
+        top: -82.5%;
+        left: -17.5%;
+    }
+
+    #sedimentGridSix {
+        top: -19%;
+        left: -49.4%;
+    }
+
+    #sedimentGridThirteen {
+        left: -17.5%;
+        top: -92.6%;
+    }
+
+    #sedimentGridEleven {
+        top: 13.5%;
+        left: -16.2%;
+    }
+
+    #sedimentGridTen {
+        top: 3.5%;
+        left: -16.35%;
+    }
+
+    #sedimentGridSeven {
+        top: 3%;
+        left: -47%;
+    }
+
+    #sedimentImageDescriptionOne 
+    {
+        left: 8.3%;
+        top: -185%;
+    }
+
+    #sedimentImageDescriptionTwo {
+        left: 35.3%;
+        top: -7%;
+        width: 13%;
+    }
+
+    #sedimentImageDescriptionThree {
+        left: 8.3%;
+        top: 8.8%;
+        width: 13%;
+    }
+
+    #sedimentImageDescriptionEleven {
+        left: 8.3%;
+        top: -99.7%;
+        width: 14%;
+        z-index: -5;
+    }
+
+    #sedimentImageDescriptionFive {
+        left: 8.3%;
+        top: -122.3%;
+        width: 14%;
+    }
+
+    #sedimentImageDescriptionSix {
+        left: 8.3%;
+        top: -4%;
+        width: 12%;
+    }
+
+    #sedimentImageDescriptionTwelve {
+        left: 8.3%;
+        top: 5%;
+        width: 14%;
+    }
+
+    #sedimentImageDescriptionSeven {
+        left: 52%;
+        top: 3.5%;
+        width: 14%;
+    }
+
+    #sedimentImageDescriptionEight {    
+        left: 35.3%;
+        top: -55%;
+        width: 14%;
+    }
+
+    #sedimentImageDescriptionFifteen {
+        left: 52.2%;
+        top: -24%;
+        width: 14%;
+    }
+
+    #sedimentThree {
+        left: 26vw;
+        top: -129%;
+    }
+
+    #sedimentFour {
+
+        left: 34.6%;
+        top: -8%;
+    
+    }
+
+    #sedimentSeven {
+        left: 34.7%;
+        top: 3.5%;
+    }
+
+    #sedimentNine {
+        left: -32.9%;
+        top: -6%;
+        z-index: -5;
+        width: 30vw;
+    }
+
+    #sedimentTen {
+        left: 7.4%;
+        top: -56%;
+    }
+
+    #sedimentVideoFour 
+    {
+        left: -32.9%;
+        top: -35%;
+        z-index: -5;
+    }
+
+    #sedimentVideoOne {
+        left: -0.05%;
+        top: -4.7%;
+    }
+
+    #sedimentVideoThree {
+        left: -11.5%;
+        top: 51%;
+        width: 113vw;
+        height: 125vh;
+    }
+
+    #sedimentVideoTwo 
+    {
+        left: -32.85%;
+        top: 24%;
+    }
+
+    .endlineSedimentThree 
+    {
+        width: 64.5vw;
+        height: 1vh;
+        top: -145%;
+    }
+    
+    #sedimentImageDescriptionThirteen {
+        left: 52.5%;
+        top: -135%;
+    }
+
+    #sedimentImageDescriptionTen {
+        left: 52.3%;
+        top: -112.5%;
+        width: 12vw;
+    }
+    
+    #gridImageSediment 
+    {
+        width: 14.3vw;
+        margin-left: 8px;
+    }
+
+    #sedimentGridTwelve 
+    {
+        top: -11%;
+        left: -49.4%;
+    }
+        
+}

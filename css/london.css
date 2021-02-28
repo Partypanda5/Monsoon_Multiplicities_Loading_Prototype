@@ -240,8 +240,227 @@
     left: 35.3%;
 }
 
-@media (max-width: 1299px) 
+/*-----------------------------Responsive Code Starts Here -----------------------------*/
+/*--------------------------1000s----------------------------*/
+/*Saxon's 1st breakpoint - 1024 x 600*/
+@media (max-width: 1025px) and (max-height: 680px)
 {
+#londonSubTwo {
+    top: -500.75px;
+}
+
+#titleTwo {
+    position: relative;
+    top: 69vh;
+}
+
+#copyTwo {
+    position: relative;
+    top: 61vh;
+}
+
+#londonSubThree {
+    top: -1085.45px;
+}
+#londonSubFour {
+    top: -1477.6px;
+}
+#londonGridOne {
+    top: 25.5%;
+    left: 5.3%;
+}
+
+.londonHeading {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+}
+
+
+.londonReferences {
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 8px;
+    line-height: 9px;
+    width: 105%;
+    text-align: left;
+}
+
+.londonContainer .copyText{
+    font-size: 11px!important;
+    line-height: 13px!important;
+    top: 21%;
+}
+	.referencesLondon {
+    font-size: 9px;
+    line-height: 10px;
+}
+.referencesLondonTwo {
+    font-size: 9px;
+    line-height: 10px;
+}
+
+.londonEventsContainerOne {
+    margin-bottom: 10vh;
+    position: relative;
+    top: 42vh;
+    left: 35.2%;
+    width: 26%;
+    padding: 0;
+    margin: 0;
+}
+
+.londonEventsContainerTwo {
+    margin-bottom: 10vh;
+    position: relative;
+    top: 45.5vh;
+    left: 35.2%;
+    width: 26%;
+    padding: 0;
+    margin: 0;
+}
+
+.londonEventsContainerThree {
+    margin-bottom: 10vh;
+    position: relative;
+    top: 49vh;
+    left: 35.2%;
+    width: 26%;
+    padding: 0;
+    margin: 0;
+}
+
+.londonEventsContainerFour {
+    margin-bottom: 10vh;
+    position: relative;
+    top: 58vh;
+    left: 35.2%;
+    width: 26%;
+    padding: 0;
+    margin: 0;
+}
+
+#londonSubFive {
+    top: -1454.85px;
+    height: 40vh;
+}
+	
+}
+
+/*Saxon's 2nd breakpoint - 1024 x 768*/
+@media (max-width: 1025px) and (min-height: 681px) and (max-height: 780px)
+{
+#londonSubTwo {
+    top: -659.75px;
+}
+
+#titleTwo {
+    position: relative;
+    top: 69vh;
+}
+
+#copyTwo {
+    position: relative;
+    top: 61vh;
+}
+
+
+#londonSubThree {
+    top: -1348.45px;
+    z-index: 5;
+}
+
+#londonSubFour {
+    top: -1865.6px;
+}
+#londonGridOne {
+    top: 25.5%;
+    left: 5.3%;
+}
+
+.londonHeading {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+}
+
+
+.londonReferences {
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 8px;
+    line-height: 9px;
+    width: 105%;
+    text-align: left;
+}
+
+.londonContainer .copyText {
+    font-size: 11px!important;
+    line-height: 13px!important;
+    top: 21%;
+}
+
+.londonEventsContainerOne {
+    margin-bottom: 10vh;
+    position: relative;
+    top: 42vh;
+    left: 35.2%;
+    width: 26%;
+    padding: 0;
+    margin: 0;
+}
+
+.londonEventsContainerTwo {
+    margin-bottom: 10vh;
+    position: relative;
+    top: 45.5vh;
+    left: 35.2%;
+    width: 26%;
+    padding: 0;
+    margin: 0;
+}
+
+.londonEventsContainerThree {
+    margin-bottom: 10vh;
+    position: relative;
+    top: 49vh;
+    left: 35.2%;
+    width: 26%;
+    padding: 0;
+    margin: 0;
+}
+
+.londonEventsContainerFour {
+    margin-bottom: 10vh;
+    position: relative;
+    top: 58vh;
+    left: 35.2%;
+    width: 26%;
+    padding: 0;
+    margin: 0;
+}
+
+#londonSubFive {
+    top: -1922.85px;
+    height: 40vh;
+}
+.referencesLondon {
+    font-size: 9px;
+    line-height: 11px;
+}
+.referencesLondonTwo {
+    font-size: 9px;
+    line-height: 10px;
+}
+
+	
+}
+
+
+/*--------------------------1200s----------------------------*/
+@media (min-width: 1026px) and (max-width: 1299px) {
     #londonSubTwo 
     {
         top: -38vh;
@@ -329,8 +548,114 @@
     }
 }
 
-@media (max-width: 1299px) and (min-height: 680px) 
-and (max-height: 801px)
+/* Saxon's 3rd breakpoint - 1280 x 689*/
+@media (min-width: 1026px) and (max-width: 1299px) and (min-height: 680px) and (max-height: 766px)
+{
+	#londonSubTwo {
+    top: -374.58px;
+}
+
+#copyTwo {
+    position: relative;
+    top: 66vh;
+}
+
+#titleTwo {
+    position: relative;
+    top: 76vh;
+}
+
+#londonSubThree {
+    top: -894.95px;
+    z-index: 5;
+}
+
+.titleThree {
+    position: relative;
+    top: 271.6px;
+}
+
+#londonSubFour {
+    top: -1135.42px;
+}
+
+.londonEventsContainerFour {
+    top: 61vh;
+    left: 35.2%;
+}
+
+#londonSubFive {
+    top: -939.65px;
+}
+
+
+
+	
+}
+/*Saxon's 4th breakpoint - 1280 x 768*/
+@media (min-width: 1026px) and (max-width: 1299px) and (min-height: 767px) and (max-height: 798px)
+{
+	
+	#londonSubTwo {
+    top: -484.17px;
+}
+
+#copyTwo {
+    position: relative;
+    top: 60vh;
+}
+
+
+#titleTwo {
+    position: relative;
+    top: 68vh;
+}
+
+
+#londonSubThree {
+    top: -1137.6px;
+    z-index: 5;
+}
+
+#londonSubFour {
+    top: -1463.05px;
+}
+
+#londonGridOne {
+    top: 21%;
+    left: 5.5%;
+}
+
+.londonEventsContainerOne {
+    top: 35vh;
+}
+
+.londonEventsContainerTwo {
+    top: 39vh;
+    left: 35.2%;
+}
+
+
+.londonEventsContainerThree {
+    top: 42vh;
+    left: 35.2%;
+}
+
+
+.londonEventsContainerFour {
+    top: 52vh;
+    left: 35.2%;
+}
+
+#londonSubFive {
+    top: -1370.65px;
+}
+
+	
+	
+	
+}
+@media (min-width: 1026px) and (max-width: 1299px) and (min-height: 799px) and (max-height: 801px)
 {
     #londonSubTwo 
     {
@@ -418,6 +743,9 @@ and (max-height: 801px)
         line-height: 12px;
     }
 }
+
+
+/*--------------------------1300s----------------------------*/
 
 @media (min-width: 1300px) and (max-width: 1399px) 
 {
@@ -594,6 +922,149 @@ and (min-height: 680px) and (max-height: 749px)
         line-height: 12px;
     }
 }
+
+/*Saxon's 5th breakpoint - 1387 x 540*/
+@media (min-width: 1300px) and (max-width: 1399px) 
+and (min-height: 539px) and (max-height: 679px)
+{
+	#londonImageDescriptionOne {
+    position: relative;
+    top: 1%;
+    left: 35.5%;
+    width: 12%;
+}
+	
+	
+	#londonSubTwo {
+    top: -117.89px;
+}
+
+#copyTwo {
+    position: relative;
+    top: 78vh;
+}
+
+
+#titleTwo {
+    position: relative;
+    top: 89vh;
+}
+
+#londonSubThree {
+    top: -415.32px;
+    z-index: 5;
+}
+
+.titleThree {
+    position: relative;
+    top: 41vh;
+}
+
+#londonSubFour {
+    top: -539.97px;
+}
+
+.londonEventsContainerTwo {
+    top: 55.5vh;
+    left: 35.2%;
+}
+
+
+.TemplateBlock {
+    line-height: 28px;
+    text-align: right;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.londonEventsContainerOne {
+    top: 43vh;
+}
+
+.londonEventsContainerThree {
+    top: 63.5vh;
+    left: 35.2%;
+}
+
+.londonEventsContainerFour {
+    top: 80.5vh;
+    left: 35.2%;
+}
+
+#londonSubFive {
+    top: -55.35px;
+    height: 15vh;
+}
+
+	
+}
+/*Saxon's 6th breakpoint - 1366 x 1024*/
+@media (min-width: 1300px) and (max-width: 1399px) 
+and (min-height: 781px) and (max-height: 1025px)
+{
+	#londonSubTwo {
+    top: -980.89px;
+}
+
+#copyTwo {
+    position: relative;
+    top: 59vh;
+}
+
+#titleTwo {
+    position: relative;
+    top: 65vh;
+}
+
+
+#londonSubThree {
+    top: -192vh;
+    z-index: 5;
+}
+
+.titleThree {
+    position: relative;
+    top: 38vh;
+}
+
+
+#londonSubFour {
+    top: -2746.69px;
+}
+
+.londonEventsContainerOne {
+    top: 43vh;
+}
+
+.londonEventsContainerTwo {
+    top: 50.5vh;
+    left: 35.2%;
+}
+
+
+.londonEventsContainerThree {
+    top: 56.5vh;
+    left: 35.2%;
+}
+
+.londonEventsContainerFour {
+    top: 66.5vh;
+    left: 35.2%;
+}
+
+#londonSubFive {
+    top: -2727.35px;
+    height: 15vh;
+}
+
+
+
+	
+}
+
+
+/*--------------------------1400s----------------------------*/
 
 @media (min-width: 1400px) and (max-width: 1499px) 
 {
@@ -791,6 +1262,51 @@ and (min-height: 851px) and (max-height: 901px)
     }
 }
 
+/*Saxon's 7th breakpoint - 1440 x 833*/
+@media (min-width: 1400px) and (max-width: 1499px) 
+and (min-height: 800px) and (max-height: 850px)
+{
+	
+	#londonSubTwo {
+    top: -529.45px;
+}
+
+#titleTwo {
+    top: 69vh;
+}
+
+#copyTwo {
+    top: 61vh;
+}
+
+#londonSubThree {
+    top: -1236.32px;
+    z-index: 5;
+}
+
+.titleThree {
+    position: relative;
+    top: 39vh;
+}
+
+#londonSubFour {
+    top: -1665.58px;
+}
+
+.londonEventsContainerFour {
+    top: 63.1vh;
+}
+
+#londonSubFive {
+    top: -176vh;
+    height: 20vh;
+}
+}
+
+
+
+/*--------------------------1500s----------------------------*/
+
 @media (min-width: 1500px) and (max-width: 1599px) 
 {
 
@@ -962,7 +1478,86 @@ and (min-height: 780px) and (max-height: 810px)
     }
 }
 
-/* common - 1600×750, 1600×900 */
+/*Saxon's 8th breakpoint - 1536 x 757*/
+@media (min-width: 1500px) and (max-width: 1599px) 
+and (min-height: 751px) and (max-height: 785px)
+{
+	#londonSubTwo {
+    top: -371.55px;
+}
+
+#londonSubThree {
+    top: -793.46px;
+    z-index: 5;
+}
+
+
+#londonSubFour {
+    top: -1032.13px;
+}
+
+.londonEventsContainerFour {
+    top: 61vh;
+    left: 35.2%;
+}
+
+#londonSubFive {
+    top: -683.76px;
+    height: 20vh;
+}
+
+
+
+
+	
+}
+/*Saxon's 9th breakpoint - 1536 x 864*/
+@media (min-width: 1500px) and (max-width: 1599px) 
+and (min-height: 811px) 
+{
+	#londonSubTwo {
+    top: -550.55px;
+}
+
+#titleTwo {
+    top: 82vh;
+}
+
+#copyTwo {
+    top: 73vh;
+}
+
+#londonSubThree {
+    top: -1138.41px;
+    z-index: 5;
+}
+
+
+
+#londonSubFour {
+    top: -1522.13px;
+}
+
+
+
+.londonEventsContainerTwo {
+    top: 47.5vh;
+    left: 35.2%;
+}
+
+.londonEventsContainerFour {
+    top: 60vh;
+    left: 35.2%;
+}
+
+#londonSubFive {
+    top: -1307.76px;
+    height: 20vh;
+}
+}
+
+
+/*--------------------------1600s----------------------------*/
 @media (min-width: 1600px) and (max-width: 1699px) 
 {
     #londonSubTwo {
@@ -1224,8 +1819,52 @@ and (min-height: 901px) and (max-height: 1051px)
     }
 }
 
+/*Saxon's 10th breakpoint - 1600 x 829*/
+@media (min-width: 1600px) and (max-width: 1699px) 
+and (min-height: 786px) and (max-height: 830px)
+{
+	#londonSubTwo {
+    top: -465.37px;
+}
+
+#titleTwo {
+    position: relative;
+    top: 73vh;
+}
+
+#copyTwo {
+    position: relative;
+    top: 65vh;
+}
+
+#londonSubThree {
+    top: -139vh;
+    z-index: 5;
+}
+
+.titleThree {
+    position: relative;
+    top: 39vh;
+}
+
+#londonSubFour {
+    top: -1662.32px;
+}
+
+#londonSubFive {
+    top: -1372.36px;
+    height: 20vh;
+}
+
+
+	
+}
+
+
+/*--------------------------1900s----------------------------*/
+
 @media (min-width: 1900px) and (max-width: 1999px) 
-and (min-height: 920px) and (max-height: 1008px)
+and (min-height: 920px) and (max-height: 950px)
 {
     .londonContainer
 {
@@ -1471,7 +2110,7 @@ and (min-height: 920px) and (max-height: 1008px)
 }
 
 @media (min-width: 1900px) and (max-width: 1999px) 
-and (min-height: 1101px) and (max-height: 1210px)
+	and (min-height: 1101px) and (max-height: 1210px)
 {
     .londonContainer
 {
@@ -1715,3 +2354,43 @@ and (min-height: 1101px) and (max-height: 1210px)
     left: 35.3%;
 }
 }
+
+/*Saxon's 11th breakpoint - 1920 x 1007*/
+@media (min-width: 1900px) and (max-width: 1999px) 
+and (min-height: 951px) and (max-height: 1008px)
+{
+	#londonSubTwo {
+    top: -513.45px;
+}
+
+
+#titleTwo {
+    position: relative;
+    top: 79vh;
+}
+
+#copyTwo {
+    position: relative;
+    top: 69vh;
+}
+
+
+#londonSubThree {
+    top: -1233.49px;
+    z-index: 5;
+}
+
+
+#londonSubFour {
+    top: -1572.6px;
+}
+
+#londonSubFive {
+    top: -1239.85px;
+    height: 40vh;
+}
+
+
+	
+}
+	

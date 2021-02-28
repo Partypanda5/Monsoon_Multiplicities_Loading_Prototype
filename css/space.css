@@ -264,7 +264,215 @@
 }
 /* -------------------------- Katie's dope resposive code ---------------------------------*/
 
-@media (max-width: 1299px) {
+/*------------ Tablet Responisve 1024 x 600 ---------------*/
+@media (max-width: 1025px) and (min-height: 599px) 
+and (max-height: 680px)
+{
+	.copyTextSpaceThree {
+		top: 20.7% !important;
+	}
+	#spaceOne {
+		top: 23%;
+	}
+	.copyTextSpaceFour {
+		top: 8% !important;
+	}
+	#spaceSubTwo {
+		top: -97px;
+	}
+	.copyTextSpace {
+		top: 30% !important;
+	}
+	#spaceGridOne {
+		left: -45.3%;
+    	top: 20.5%;
+	}
+	#spaceImageDescriptionSeven {
+		top: 21%;
+	}
+	#SpaceVideoOne {
+		top: 25%;
+	}
+	#spaceSubThree {
+		top: -201px;
+	}
+	#SpaceVideoThree {
+		top: 61%;
+		height: 76vh;
+	}
+	#SpaceVideoTwo {
+		top: 65%;
+		height: 76vh;
+	}
+	#spaceSubFour {
+		top: 248px;
+	}
+	.copyTextSpaceTwo {
+		top: 30% !important;
+	}
+	#spaceGridTwo {
+		top: 38%;
+		left: -44.3%;
+	}
+	#spaceThree {
+		top: 9%;
+		left: 34%;
+	}
+	#spaceSubFive {
+		top: -24px;
+	}
+	#spaceGridThree {
+		position: relative;
+		top: 31%;
+		left: -12.4%;
+	}
+	#SpaceVideoFour {
+		top: 56.5%;
+		height: 35vh;
+	}
+	#spaceImageDescriptionFour {
+		top: 17%;
+	}
+	#spaceSubSix {
+		top: -101px;
+	}
+	
+	#SpaceVideoFive {
+	
+		left: -32.9%;
+		top: 55%;
+		height: 76vh;
+	
+	}
+	#SpaceVideoSix {
+		top: 52%;
+		height: 76vh;
+	}
+	#spaceSubSeven {
+		top: 369px;
+	}
+	#SpaceVideoSeven {
+		top: 73%;
+		height: 76vh;
+	}
+	#SpaceVideoEight {
+		top: 70%;
+		height: 76vh;
+	}
+	#spaceImageDescriptionSix {
+		top: 64%;
+	}
+	#spaceSubEight {
+		top: 1109px;
+	}
+}
+
+/*------------ Tablet Responisve 1024 x 768 ---------------*/
+@media (max-width: 1025px) and (min-height: 681px) 
+and (max-height: 780px)
+{
+	.copyTextSpaceThree {
+		top: 20.7% !important;
+	}
+	#spaceOne {
+		top: 23%;
+	}
+	.copyTextSpaceFour {
+		top: 11% !important;
+	}
+	#spaceSubTwo {
+		top: -317px;
+	}
+	.copyTextSpace {
+		top: 30% !important;
+	}
+	#spaceGridOne {
+		left: -45.3%;
+    	top: 20.5%;
+	}
+	#spaceImageDescriptionSeven {
+		top: 21%;
+	}
+	#SpaceVideoOne {
+		top: 23%;
+	}
+	#spaceSubThree {
+		top: -565px;
+	}
+	#SpaceVideoThree {
+		top: 53%;
+		height: 76vh;
+	}
+	#SpaceVideoTwo {
+		top: 56%;
+		height: 76vh;
+	}
+	#spaceSubFour {
+		top: -72px;
+	}
+	.copyTextSpaceTwo {
+		top: 30% !important;
+	}
+	#spaceGridTwo {
+		top: 35%;
+		left: -44.3%;
+	}
+	#spaceThree {
+		top: 12%;
+		left: 34%;
+	}
+	#spaceSubFive {
+		top: -574px;
+	}
+	#spaceGridThree {
+		position: relative;
+		top: 31%;
+		left: -12.4%;
+	}
+	#SpaceVideoFour {
+		top: 56.5%;
+		height: 35vh;
+	}
+	#spaceImageDescriptionFour {
+		top: 25%;
+	}
+	#spaceSubSix {
+		top: -801px;
+	}
+	
+	#SpaceVideoFive {
+	
+		left: -32.9%;
+		top: 48%;
+		height: 76vh;
+	
+	}
+	#SpaceVideoSix {
+		top: 45%;
+		height: 76vh;
+	}
+	#spaceSubSeven {
+		top: -301px;
+	}
+	#SpaceVideoSeven {
+		top: 62%;
+		height: 76vh;
+	}
+	#SpaceVideoEight {
+		top: 58%;
+		height: 76vh;
+	}
+	#spaceImageDescriptionSix {
+		top: 53%;
+	}
+	#spaceSubEight {
+		top: 519px;
+	}
+}
+
+/*------------ Desktop Responisve 1280 x 582 ---------------*/
+@media (min-width: 1026px) and (max-width: 1299px) 
+{
 .copyTextSpaceThree {
     top: 20.7% !important;
 }
@@ -275,7 +483,7 @@
 	top: 20% !important;
 }
 #spaceSubTwo {
-    top: 4vh;
+    top: 23px;
 }
 .copyTextSpace {
 	top: 43% !important;
@@ -291,7 +499,7 @@
     top: 12%;
 }
 #spaceSubThree {
-	top: -13vh;
+	top: -75px;
 }
 #SpaceVideoThree {
     top: 61%;
@@ -302,7 +510,7 @@
     height: 76vh;
 }
 #spaceSubFour {
-	top: 65vh;
+	top: 378px;
 }
 .copyTextSpaceTwo {
     top: 30% !important;
@@ -315,7 +523,7 @@
     top: -2%;
 }
 #spaceSubFive {
-    top: 32vh;
+    top: 186px;
 }
 #spaceGridThree {
     position: relative;
@@ -330,7 +538,7 @@
 	top: 6%;
 }
 #spaceSubSix {
-    top: 36vh;
+    top: 209px;
 }
 
 #SpaceVideoFive {
@@ -345,7 +553,7 @@
     height: 76vh;
 }
 #spaceSubSeven {
-    top: 115vh;
+    top: 669px;
 }
 #SpaceVideoSeven {
     top: 70%;
@@ -359,18 +567,506 @@
     top: 63%;
 }
 #spaceSubEight {
-    top: 237vh;
+    top: 1379px;
 }
 }
 
+/*------------ Desktop Responisve 1280 x 689 ---------------*/
+@media (min-width: 1026px) and (max-width: 1299px) 
+and (min-height: 680px) and (max-height: 766px)
+{
+	.copyTextSpaceThree {
+		top: 20.7% !important;
+	}
+	#spaceOne {
+		top: 28%;
+	}
+	.copyTextSpaceFour {
+		top: 15% !important;
+	}
+	#spaceSubTwo {
+		top: -157px;
+	}
+	.copyTextSpace {
+		top: 34% !important;
+	}
+	#spaceGridOne {
+		left: -44.3%;
+		top: 6.5%;
+	}
+	#spaceImageDescriptionSeven {
+		top: 25%;
+	}
+	#SpaceVideoOne {
+		top: 9%;
+	}
+	#spaceSubThree {
+		top: -375px;
+	}
+	#SpaceVideoThree {
+		top: 49%;
+		height: 76vh;
+	}
+	#SpaceVideoTwo {
+		top: 53%;
+		height: 76vh;
+	}
+	#spaceSubFour {
+		top: 58px;
+	}
+	.copyTextSpaceTwo {
+		top: 27% !important;
+	}
+	#spaceGridTwo {
+		top: 30%;
+		left: -44.3%;
+	}
+	#spaceThree {
+		top: -2%;
+	}
+	#spaceSubFive {
+		top: -294px;
+	}
+	#spaceGridThree {
+		position: relative;
+		top: 31%;
+		left: -12.4%;
+	}
+	#SpaceVideoFour {
+		top: 56.5%;
+		height: 35vh;
+	}
+	#spaceImageDescriptionFour {
+		top: 14%;
+	}
+	#spaceSubSix {
+		top: -361px;
+	}
+	
+	#SpaceVideoFive {
+	
+		left: -32.9%;
+		top: 45%;
+		height: 76vh;
+	
+	}
+	#SpaceVideoSix {
+		top: 41%;
+		height: 76vh;
+	}
+	#spaceSubSeven {
+		top: 79px;
+	}
+	#SpaceVideoSeven {
+		top: 59%;
+		height: 76vh;
+	}
+	#SpaceVideoEight {
+		top: 55%;
+		height: 76vh;
+	}
+	#spaceImageDescriptionSix {
+		top: 50%;
+	}
+	#spaceSubEight {
+		top: 779px;
+	}
+}
+
+/*------------ Desktop Responisve 1280 x 768 ---------------*/
+@media (min-width: 1026px) and (max-width: 1299px) 
+and (min-height: 767px) and (max-height: 798px)
+{
+	.copyTextSpaceThree {
+		top: 16.7% !important;
+	}
+	#spaceOne {
+		top: 18%;
+	}
+	.copyTextSpaceFour {
+		top: 7% !important;
+	}
+	#spaceSubTwo {
+		top: -317px;
+	}
+	.copyTextSpace {
+		top: 24% !important;
+	}
+	#spaceGridOne {
+		left: -44.3%;
+		top: 6.5%;
+	}
+	#spaceImageDescriptionSeven {
+		top: 16%;
+	}
+	#SpaceVideoOne {
+		top: 9%;
+	}
+	#spaceSubThree {
+		top: -585px;
+	}
+	#SpaceVideoThree {
+		top: 43%;
+		height: 76vh;
+	}
+	#SpaceVideoTwo {
+		top: 47%;
+		height: 76vh;
+	}
+	#spaceSubFour {
+		top: -142px;
+	}
+	.copyTextSpaceTwo {
+		top: 27% !important;
+	}
+	#spaceGridTwo {
+		top: 27%;
+		left: -44.3%;
+	}
+	#spaceThree {
+		top: -2%;
+	}
+	#spaceSubFive {
+		top: -594px;
+	}
+	#spaceGridThree {
+		position: relative;
+		top: 31%;
+		left: -12.4%;
+	}
+	#SpaceVideoFour {
+		top: 53.5%;
+		height: 35vh;
+	}
+	#spaceImageDescriptionFour {
+		top: 15%;
+	}
+	#spaceSubSix {
+		top: -701px;
+	}
+	
+	#SpaceVideoFive {
+	
+		left: -32.9%;
+		top: 41%;
+		height: 76vh;
+	
+	}
+	#SpaceVideoSix {
+		top: 37%;
+		height: 76vh;
+	}
+	#spaceSubSeven {
+		top: -241px;
+	}
+	#SpaceVideoSeven {
+		top: 53%;
+		height: 76vh;
+	}
+	#SpaceVideoEight {
+		top: 49%;
+		height: 76vh;
+	}
+	#spaceImageDescriptionSix {
+		top: 44%;
+	}
+	#spaceSubEight {
+		top: 479px;
+	}
+}
+
+/*------------ Desktop Responisve 1280 x 800 ---------------*/
+@media (min-width: 1026px) and (max-width: 1299px) 
+and (min-height: 799px) and (max-height: 801px)
+{
+	.copyTextSpaceThree {
+		top: 15.7% !important;
+	}
+	#spaceOne {
+		top: 17%;
+	}
+	.copyTextSpaceFour {
+		top: 6% !important;
+	}
+	#spaceSubTwo {
+		top: -377px;
+	}
+	.copyTextSpace {
+		top: 21% !important;
+	}
+	#spaceGridOne {
+		left: -44.3%;
+		top: 4.5%;
+	}
+	#spaceImageDescriptionSeven {
+		top: 14%;
+	}
+	#SpaceVideoOne {
+		top: 8%;
+	}
+	#spaceSubThree {
+		top: -675px;
+	}
+	#SpaceVideoThree {
+		top: 43%;
+		height: 76vh;
+	}
+	#SpaceVideoTwo {
+		top: 47%;
+		height: 76vh;
+	}
+	#spaceSubFour {
+		top: -212px;
+	}
+	.copyTextSpaceTwo {
+		top: 23% !important;
+	}
+	#spaceGridTwo {
+		top: 27%;
+		left: -44.3%;
+	}
+	#spaceThree {
+		top: -2%;
+	}
+	#spaceSubFive {
+		top: -694px;
+	}
+	#spaceGridThree {
+		position: relative;
+		top: 31%;
+		left: -12.4%;
+	}
+	#SpaceVideoFour {
+		top: 53.5%;
+		height: 35vh;
+	}
+	#spaceImageDescriptionFour {
+		top: 15%;
+	}
+	#spaceSubSix {
+		top: -821px;
+	}
+	
+	#SpaceVideoFive {
+	
+		left: -32.9%;
+		top: 41%;
+		height: 76vh;
+	
+	}
+	#SpaceVideoSix {
+		top: 37%;
+		height: 76vh;
+	}
+	#spaceSubSeven {
+		top: -331px;
+	}
+	#SpaceVideoSeven {
+		top: 53%;
+		height: 76vh;
+	}
+	#SpaceVideoEight {
+		top: 49%;
+		height: 76vh;
+	}
+	#spaceImageDescriptionSix {
+		top: 44%;
+	}
+	#spaceSubEight {
+		top: 399px;
+	}
+}
+
+/*------------ Desktop Responisve 1387 x 540 ---------------*/
 @media (min-width: 1300px) and (max-width: 1399px) 
+and (min-height: 539px) and (max-height: 679px)
+{
+	.copyTextSpaceThree {
+		top: 20% !important;
+	}
+	#spaceOne {
+		top: 22%;
+	}
+	.copyTextSpaceFour {
+		top: 8% !important;
+	}
+	#spaceSubTwo {
+		top: -37px;
+	}
+	.copyTextSpace {
+		top: 28% !important;
+	}
+	#spaceGridOne {
+		left: -44.3%;
+		top: -0.5%;
+	}
+	#spaceImageDescriptionSeven {
+		top: 20%;
+	}
+	#SpaceVideoOne {
+		top: 3%;
+	}
+	#spaceSubThree {
+		top: -155px;
+	}
+	#SpaceVideoThree {
+		top: 58%;
+		height: 76vh;
+	}
+	#SpaceVideoTwo {
+		top: 61%;
+		height: 76vh;
+	}
+	#spaceSubFour {
+		top: 228px;
+	}
+	.copyTextSpaceTwo {
+		top: 31% !important;
+	}
+	#spaceGridTwo {
+		top: 34%;
+		left: -44.3%;
+	}
+	#spaceThree {
+		top: -10%;
+	}
+	#spaceSubFive {
+		top: 106px;
+	}
+	#spaceGridThree {
+		position: relative;
+		top: 31%;
+		left: -12.4%;
+	}
+	#SpaceVideoFour {
+		top: 58.5%;
+		height: 35vh;
+	}
+	#spaceImageDescriptionFour {
+		top: 2%;
+	}
+	#spaceSubSix {
+		top: 229px;
+	}
+	
+	#SpaceVideoFive {
+	
+		left: -32.9%;
+		top: 54%;
+		height: 76vh;
+	
+	}
+	#SpaceVideoSix {
+		top: 52%;
+		height: 76vh;
+	}
+	#spaceSubSeven {
+		top: 659px;
+	}
+	#SpaceVideoSeven {
+		top: 70%;
+		height: 76vh;
+	}
+	#SpaceVideoEight {
+		top: 68%;
+		height: 76vh;
+	}
+	#spaceImageDescriptionSix {
+		top: 63%;
+	}
+	#spaceSubEight {
+		top: 1313px;
+	}
+}
+
+/*------------ Desktop Responisve 1366 x 695 ---------------*/
+@media (min-width: 1300px) and (max-width: 1399px) 
+and (min-height: 680px) and (max-height: 749px)
+{
+	#spaceMainTitle
+	{
+		top: 17%;
+	}	
+	#spaceSubTwo {
+		top: -294px;
+	}
+	#spaceGridOne {
+		top: 7%;
+		left: -44%;
+	}
+	#SpaceVideoOne {
+		top: 10%;
+	}
+	#SpaceVideoTwo {
+		top: 55%;
+	}
+	#SpaceVideoThree {
+		top: 51%;
+	}
+	#spaceSubThree {
+		top: -518px;
+	}
+	#spaceSubFour {
+		top: -300px;
+	}
+	#spaceGridTwo {
+		top: 32%;
+		left: -44%;
+	}
+	#spaceThree {
+		top: -2%;
+	}
+	#spaceSubFive {
+		top: -647px;
+	}
+	#spaceGridThree {
+		top: 28%;
+		left: -13%;
+	}
+	#SpaceVideoFour {
+		top: 50%;
+	}
+	#SpaceVideoFive {
+		top: 47%;
+	}
+	#SpaceVideoSeven {
+		top: 60%;
+	}
+	#SpaceVideoEight {
+		top: 56%;
+	}
+	#spaceImageDescriptionFour {
+		top: 5.7%;
+	}
+	#spaceImageDescriptionSix {
+		top: 51%;
+	}
+	#spaceSubSix {
+		top: -775px;
+	}
+	.copyTextSpaceTwo {
+		position: relative;
+		top: 30%;
+	}
+	#spaceSubSeven {
+		top: -580px;
+	}
+	#spaceSubEight {
+		top: -72px;
+		height: 85vh;
+	}
+}
+
+/*------------ Desktop Responisve 1366 x 768 ---------------*/
+@media (min-width: 1300px) and (max-width: 1399px) 
+and (min-height: 750px) and (max-height: 780px) 
 {
 #spaceMainTitle
 {
 	top: 17%;
 }	
 #spaceSubTwo {
-    top: -54.4vh;
+    top: -414px;
 }
 #spaceGridOne {
     top: 7%;
@@ -380,10 +1076,10 @@
 	top: 10%;
 }
 #spaceSubThree {
-	top: -91vh;
+	top: -698px;
 }
 #spaceSubFour {
-    top: -60vh;
+    top: -460px;
 }
 #spaceGridTwo {
     top: 27%;
@@ -393,7 +1089,7 @@
     top: -2%;
 }
 #spaceSubFive {
-	top: -126vh;
+	top: -967px;
 }
 #spaceGridThree {
 	top: 28%;
@@ -406,21 +1102,110 @@
 	top: 8.7%;
 }
 #spaceSubSix {
-	top: -153.5vh;
+	top: -1175px;
 }
 .copyTextSpaceTwo {
     position: relative;
     top: 27%;
 }
 #spaceSubSeven {
-    top: -125vh;
+    top: -960px;
 }
 #spaceSubEight {
-    top: -55vh;
+    top: -422px;
     height: 85vh;
 }
 }
 
+/*------------ Tablet Responisve 1366 x 1024 ---------------*/
+@media (min-width: 1300px) and (max-width: 1399px) 
+and (min-height: 781px) and (max-height: 1025px)
+{
+	#spaceMainTitle
+	{
+		top: 17%;
+	}	
+	.copyTextSpaceFour
+	{
+		top: 9%;
+	}
+	#spaceSubTwo {
+		top: -724px;
+	}
+	#spaceGridOne {
+		top: 9%;
+		left: -44%;
+	}
+	#SpaceVideoOne {
+		top: 12%;
+	}
+	#spaceSubThree {
+		top: -1218px;
+	}
+	#SpaceVideoTwo
+	{
+		top: 44%;
+	}
+	#SpaceVideoThree
+	{
+		top: 40%;
+	}
+	#spaceSubFour {
+		top: -1040px;
+	}
+	#spaceGridTwo {
+		top: 27%;
+		left: -44%;
+	}
+	#spaceThree {
+		top: 5%;
+	}
+	#spaceSubFive {
+		top: -1857px;
+	}
+	#spaceGridThree {
+		top: 28%;
+		left: -13%;
+	}
+	#SpaceVideoFour {
+		top: 47%;
+	}
+	#spaceImageDescriptionFour {
+		top: 15.7%;
+	}
+	#spaceSubSix {
+		top: -2335px;
+	}
+	#SpaceVideoFive {
+		top: 39%;
+	}
+	#SpaceVideoSix {
+		top: 35%;
+	}
+	.copyTextSpaceTwo {
+		position: relative;
+		top: 27%;
+	}
+	#spaceSubSeven {
+		top: -2150px;
+	}
+	#SpaceVideoSeven {
+		top: 47%;
+	}
+	#SpaceVideoEight {
+		top: 42%;
+	}
+	#spaceImageDescriptionSix
+	{
+		top: 36%
+	}
+	#spaceSubEight {
+		top: -1622px;
+		height: 85vh;
+	}
+}
+
+/*------------ Desktop Responisve 1440 x 768 ---------------*/
 @media (min-width: 1400px) and (max-width: 1499px) 
 {
 .copyTextSpaceThree {
@@ -433,7 +1218,7 @@
     top: 6.4%;
 }
 #spaceSubTwo {
-	top: -38vh;
+	top: -291px;
 }
 #spaceSubTwo .copyText {
 top: 18%;
@@ -447,7 +1232,7 @@ top: 18%;
     top: 6%;
 }
 #spaceSubThree {
-	top: -68.5vh;
+	top: -522px;
 }
 .copyTextSpaceFive {
     top: 18%;
@@ -461,7 +1246,7 @@ top: 18%;
     height: 65vh;
 }
 #spaceSubFour {
-	top: -29vh;
+	top: -222px;
 }
 #spaceGridTwo {
     left: -44%;
@@ -473,7 +1258,7 @@ top: 18%;
 top:25%;
 }
 #spaceSubFive {
-    top: -85vh;
+    top: -652px;
 }
 #spaceGridThree {
 	left: -12.9%;
@@ -486,7 +1271,7 @@ top:25%;
 }
 #spaceSubSix {
   
-    top: -103vh;
+    top: -791px;
 
 }
 #SpaceVideoFive {
@@ -499,7 +1284,7 @@ top:25%;
     left: -32.9%;
 }
 #spaceSubSeven {
-	top: -61vh;
+	top: -468px;
 }
 #SpaceVideoSeven {
 	left: -32.9%;
@@ -519,7 +1304,7 @@ top:25%;
     top: 16.5%;
 }
 #spaceSubEight {
-    top: 15vh;
+    top: 115px;
     height: 94vh;
 }
 
@@ -529,7 +1314,254 @@ top:25%;
 }
 }
 
-@media (min-width: 1500px) and (max-width: 1599px) {
+/*------------ Desktop Responisve 1440 x 833 ---------------*/
+@media (min-width: 1400px) and (max-width: 1499px) 
+and (min-height: 800px) and (max-height: 850px)
+{
+	.copyTextSpaceThree {
+		top: 18%;
+	}
+			#spaceImageDescriptionSeven {
+		top: 17.4%;
+	}
+	.copyTextSpaceFour {
+		top: 9.4%;
+	}
+	#spaceSubTwo {
+		top: -371px;
+	}
+	#spaceSubTwo .copyText {
+	top: 18%;
+	}
+	#spaceGridOne {
+		left: -44.2%;
+		top: 3%;
+	}
+	#SpaceVideoOne {
+		height: 65.5vh;
+		top: 6%;
+	}
+	#SpaceVideoTwo {
+		top: 47%;
+	}
+	#spaceSubThree {
+		top: -672px;
+	}
+	.copyTextSpaceFive {
+		top: 18%;
+	}
+	#SpaceVideoThree {
+		top: 43%;
+		height: 65vh;
+	}
+	#SpaceVideoTwo {
+		top: 47%;
+		height: 65vh;
+	}
+	#spaceSubFour {
+		top: -402px;
+	}
+	#spaceGridTwo {
+		left: -44%;
+	}
+			#spaceSubFour .copyText {
+	top: 18%;
+	}
+			#spaceSubFour .copyTextSpaceTwo {
+	top:25%;
+	}
+	#spaceSubFive {
+		top: -942px;
+	}
+	#spaceGridThree {
+		left: -12.9%;
+		top: 26%;
+	}
+	#SpaceVideoFour {
+		height: 30vh;
+		left: -34.5%;
+		top: 48%;
+	}
+	#spaceSubSix {
+	  
+		top: -1181px;
+	
+	}
+	#SpaceVideoFive {
+		left: -32.9%;
+		height: 65vh;
+		top: 41%;
+	}
+	#SpaceVideoSix {
+		height: 65vh;
+		left: -32.9%;
+		top: 37%;
+	}
+	#spaceSubSeven {
+		top: -898px;
+	}
+	#SpaceVideoSeven {
+		left: -32.9%;
+		height: 65vh;
+		top: 56%;
+	}
+	#SpaceVideoEight {
+		height: 65vh;
+	}
+	#spaceImageDescriptionFour {
+		top: 7.3%;
+	}
+	#spaceImageDescriptionEight {
+		top: 7.3%;
+	}
+	.endlineSpaceTwo {
+		top: 11.5%;
+	}
+	#spaceImageDescriptionNine {
+		top: 16.5%;
+	}
+	#spaceSubEight {
+		top: -275px;
+		height: 94vh;
+	}
+	
+	.copyTextSpaceSix
+	{
+		top: 18.5%;
+	}
+}
+
+/*------------ Desktop Responisve 1440 x 900 ---------------*/
+@media (min-width: 1400px) and (max-width: 1499px) 
+and (min-height: 851px) and (max-height: 901px)
+{
+	.copyTextSpaceThree {
+		top: 15%;
+	}
+	#spaceOne {
+		top: 17%;
+	}
+			#spaceImageDescriptionSeven {
+		top: 13.4%;
+	}
+	.copyTextSpaceFour {
+		top: 5.4%;
+	}
+	.copyTextSpace {
+		top: 20%;
+	}
+	#spaceSubTwo {
+		top: -491px;
+	}
+	#spaceSubTwo .copyText {
+	top: 16%;
+	}
+	#spaceGridOne {
+		left: -44.2%;
+		top: 3%;
+	}
+	#SpaceVideoOne {
+		height: 65.5vh;
+		top: 6%;
+	}
+	#spaceSubThree {
+		top: -822px;
+	}
+	.copyTextSpaceFive {
+		top: 16%;
+	}
+	#SpaceVideoThree {
+		top: 38%;
+		height: 65vh;
+	}
+	#SpaceVideoTwo {
+		top: 42%;
+		height: 65vh;
+	}
+	#spaceSubFour {
+		top: -562px;
+	}
+	#spaceGridTwo {
+		left: -44%;
+	}
+			#spaceSubFour .copyText {
+	top: 16%;
+	}
+			#spaceSubFour .copyTextSpaceTwo {
+	top:25%;
+	}
+	#spaceSubFive {
+		top: -1142px;
+	}
+	#spaceGridThree {
+		left: -12.9%;
+		top: 26%;
+	}
+	#SpaceVideoFour {
+		height: 30vh;
+		left: -34.5%;
+		top: 48%;
+	}
+	#spaceThree
+	{
+		top: -2%;
+	}
+	#spaceSubSix {
+	  
+		top: -1411px;
+	
+	}
+	#SpaceVideoFive {
+		left: -32.9%;
+		height: 65vh;
+		top: 37%;
+	}
+	#SpaceVideoSix {
+		height: 65vh;
+		left: -32.9%;
+		top: 34%;
+	}
+	#spaceSubSeven {
+		top: -1098px;
+	}
+	#SpaceVideoSeven {
+		left: -32.9%;
+		height: 65vh;
+		top: 47%;
+	}
+	#SpaceVideoEight {
+		height: 65vh;
+		top: 43%;
+	}
+	#spaceImageDescriptionFour {
+		top: 10.3%;
+	}
+	#spaceImageDescriptionSix {
+		top: 37%;
+	}
+	#spaceImageDescriptionEight {
+		top: 7.3%;
+	}
+	.endlineSpaceTwo {
+		top: 11.5%;
+	}
+	#spaceImageDescriptionNine {
+		top: 16.5%;
+	}
+	#spaceSubEight {
+		top: -565px;
+		height: 94vh;
+	}
+	
+	.copyTextSpaceSix
+	{
+		top: 15.5%;
+	}
+}
+
+/*------------ Desktop Responisve 1536 x 730 ---------------*/
+@media (min-width: 1500px) and (max-width: 1599px) 
+{
 	
 	.copyTextSpaceThree {
 		top: 20%;
@@ -541,7 +1573,7 @@ top:25%;
 		top: 17%;
 	}
 	#spaceSubTwo {
-		top: -14vh;
+		top: -102px;
 	}
 	#spaceGridOne {
 		top: 11%;
@@ -552,7 +1584,7 @@ top:25%;
 		height: 73vh;
 	}
 	#spaceSubThree {
-		top: -20vh;
+		top: -146px;
 	}
 	#SpaceVideoThree {
 		top: 58%;
@@ -565,17 +1597,17 @@ top:25%;
 	
 	}
 	#spaceSubFour {
-		top: 48vh;
+		top: 350px;
 	}
 	#spaceGridTwo {
 		top: 30%;
 		left: -43.7%;
 	}
 	#spaceSubFive {
-		top: 9vh;
+		top: 65px;
 	}
 	#spaceSubSix {
-		top: 3vh;
+		top: 21px;
 	}
 
 	#SpaceVideoFour {
@@ -594,7 +1626,7 @@ top:25%;
 		height: 73vh;
 	}
 	#spaceSubSeven {
-	    top: 79vh;
+	    top: 567px;
 	}
 	#SpaceVideoSeven {
 	    top: 71%;
@@ -615,7 +1647,7 @@ top:25%;
 
 	}
 	#spaceSubEight {
-		top: 195vh;
+		top: 1423px;
 		height: 95vh;
 	}
 	#spaceImageDescriptionEight {
@@ -627,46 +1659,585 @@ top:25%;
 	#spaceImageDescriptionNine {
 		top: 17%;
 	}
+}
+
+/*------------ Desktop Responisve 1536 x 757 ---------------*/
+@media (min-width: 1500px) and (max-width: 1599px) 
+and (min-height: 751px) and (max-height: 780px)
+{
+	
+	.copyTextSpaceThree {
+		top: 20%;
+	}
+	.copyTextSpaceFour {
+		top: 8%;
+	}
+	.copyTextSpace
+	{
+		top: 29%;
+	}
+	#spaceOne {
+		top: 22%;
+	}
+	#spaceImageDescriptionSeven {
+		top: 19%;
+	}
+	#spaceSubTwo {
+		top: -142px;
+	}
+	#spaceGridOne {
+		top: 11%;
+	}
+	#SpaceVideoOne {
+		left: -32.8%;
+		top: 14%;
+		height: 73vh;
+	}
+	#spaceSubThree {
+		top: -226px;
+	}
+	#SpaceVideoThree {
+		top: 58%;
+    height: 73vh;
+	}
+	#SpaceVideoTwo {
+	
+		top: 62%;
+		height: 72.8vh;
+	
+	}
+	#spaceSubFour {
+		top: 280px;
+	}
+	#spaceGridTwo {
+		top: 30%;
+		left: -43.7%;
+	}
+	#spaceSubFive {
+		top: -55px;
+	}
+	#spaceSubSix {
+		top: -139px;
 	}
 
-	/* common - 1600×750, 1600×900 */
-@media (min-width: 1600px) and (max-width: 1699px) {
+	#SpaceVideoFour {
+		left: -34.3%;
+		top: 49.5%;
+		width: 28.5vw;
+		height: 33.5vh;
+	}
+	#SpaceVideoFive {
+		top: 55.5%;
+		left: -32.9%;
+		height: 72.7vh;
+	}
+	#SpaceVideoSix {
+		top: 52%;
+		height: 73vh;
+	}
+	#spaceSubSeven {
+	    top: 417px;
+	}
+	#SpaceVideoSeven {
+	    top: 71%;
+    height: 73vh;
+	}
+	#SpaceVideoEight {
+		top: 67%;
+		height: 73vh;
+	}
+
+	#spaceImageDescriptionFour {
+		top: 2.3%;
+		left: 35.3%;
+		width: 9%;
+	}
+	#spaceImageDescriptionSix {
+		top: 63%;
+
+	}
+	#spaceSubEight {
+		top: 1283px;
+		height: 95vh;
+	}
+	#spaceImageDescriptionEight {
+		top: 8%;
+	}
+	.endlineSpaceTwo {
+		top: 12%;
+	}
+	#spaceImageDescriptionNine {
+		top: 17%;
+	}
+}
+
+/*------------ Desktop Responisve 1536 x 792 ---------------*/
+@media (min-width: 1500px) and (max-width: 1599px) 
+and (min-height: 781px) and (max-height: 810px)
+{
+	
+	.copyTextSpaceThree {
+		top: 18%;
+	}
+	.copyTextSpaceFour {
+		top: 8%;
+	}
+	.copyTextSpace
+	{
+		top: 29%;
+	}
+	#spaceOne {
+		top: 22%;
+	}
+	#spaceImageDescriptionSeven {
+		top: 19%;
+	}
+	#spaceSubTwo {
+		top: -172px;
+	}
+	#spaceGridOne {
+		top: 10%;
+	}
+	#SpaceVideoOne {
+		left: -32.8%;
+		top: 14%;
+		height: 73vh;
+	}
+	#spaceSubThree {
+		top: -256px;
+	}
+	#SpaceVideoThree {
+		top: 58%;
+    height: 73vh;
+	}
+	#SpaceVideoTwo {
+	
+		top: 59%;
+		height: 72.8vh;
+	
+	}
+	#spaceSubFour {
+		top: 300px;
+	}
+	#spaceGridTwo {
+		top: 30%;
+		left: -43.7%;
+	}
+	#spaceSubFive {
+		top: -55px;
+	}
+	#spaceSubSix {
+		top: -179px;
+	}
+
+	#SpaceVideoFour {
+		left: -34.3%;
+		top: 49.5%;
+		width: 28.5vw;
+		height: 33.5vh;
+	}
+	#SpaceVideoFive {
+		top: 55.5%;
+		left: -32.9%;
+		height: 72.7vh;
+	}
+	#SpaceVideoSix {
+		top: 52%;
+		height: 73vh;
+	}
+	#spaceSubSeven {
+	    top: 417px;
+	}
+	#SpaceVideoSeven {
+	    top: 71%;
+    height: 73vh;
+	}
+	#SpaceVideoEight {
+		top: 67%;
+		height: 73vh;
+	}
+
+	#spaceImageDescriptionFour {
+		top: 5.3%;
+		left: 35.3%;
+		width: 9%;
+	}
+	#spaceImageDescriptionSix {
+		top: 63%;
+
+	}
+	#spaceSubEight {
+		top: 1283px;
+		height: 95vh;
+	}
+	#spaceImageDescriptionEight {
+		top: 8%;
+	}
+	.endlineSpaceTwo {
+		top: 12%;
+	}
+	#spaceImageDescriptionNine {
+		top: 17%;
+	}
+}
+
+/*------------ Desktop Responisve 1536 x 864 ---------------*/
+@media (min-width: 1500px) and (max-width: 1599px) 
+and (min-height: 811px) and (max-height: 870px)
+{
+	
+	.copyTextSpaceThree {
+		top: 18%;
+	}
+	.copyTextSpaceFour {
+		top: 10%;
+	}
+	.copyTextSpace
+	{
+		top: 29%;
+	}
+	#spaceOne {
+		top: 22%;
+	}
+	#spaceImageDescriptionSeven {
+		top: 19%;
+	}
+	#spaceSubTwo {
+		top: -262px;
+	}
+	#spaceGridOne {
+		top: 10%;
+	}
+	#SpaceVideoOne {
+		left: -32.8%;
+		top: 14%;
+		height: 73vh;
+	}
+	#spaceSubThree {
+		top: -416px;
+	}
+	#SpaceVideoThree {
+		top: 58%;
+    height: 73vh;
+	}
+	#SpaceVideoTwo {
+	
+		top: 59%;
+		height: 72.8vh;
+	
+	}
+	#spaceThree
+	{
+		top: 0%;	
+	}
+	#spaceSubFour {
+		top: 170px;
+	}
+	#spaceGridTwo {
+		top: 30%;
+		left: -43.7%;
+	}
+	#spaceSubFive {
+		top: -295px;
+	}
+	#spaceSubSix {
+		top: -499px;
+	}
+
+	#SpaceVideoFour {
+		left: -34.3%;
+		top: 49.5%;
+		width: 28.5vw;
+		height: 33.5vh;
+	}
+	#SpaceVideoFive {
+		top: 50.5%;
+		left: -32.9%;
+		height: 72.7vh;
+	}
+	#SpaceVideoSix {
+		top: 47%;
+		height: 73vh;
+	}
+	#spaceSubSeven {
+	    top: 57px;
+	}
+	#SpaceVideoSeven {
+	    top: 65%;
+    height: 73vh;
+	}
+	#SpaceVideoEight {
+		top: 62%;
+		height: 73vh;
+	}
+
+	#spaceImageDescriptionFour {
+		top: 9%;
+		left: 35.3%;
+		width: 9%;
+	}
+	#spaceImageDescriptionSix {
+		top: 57%;
+
+	}
+	#spaceSubEight {
+		top: 963px;
+		height: 95vh;
+	}
+	#spaceImageDescriptionEight {
+		top: 8%;
+	}
+	.endlineSpaceTwo {
+		top: 12%;
+	}
+	#spaceImageDescriptionNine {
+		top: 17%;
+	}
+}
+
+/*------------ Desktop Responisve 1600 x 750 ---------------*/
+@media (min-width: 1600px) and (max-width: 1699px) 
+{
 	.copyTextSpaceThree {
     top: 20.5%;
+}
+.copyTextSpaceFour {
+    top: 8%;
+}
+#spaceImageDescriptionSeven
+{
+	top: 18%;
 }
 #spaceOne {
     top: 21%;
 }
 #spaceSubTwo {
-    top: -42vh;
+    top: -285px;
 }
 	#spaceGridOne {
     position: relative;
-    top: 18%;
-    left: 6.3%;
+	top: -1%;
+    left: -43.7%;
+}
+#SpaceVideoOne
+{
+	top: 3%;
+}
+#SpaceVideoFour
+{
+	top: 48%;
+}
+#spaceImageDescriptionFour
+{
+	top: -0.7%;
 }
 #spaceSubThree {
-    top: -88vh;
+    top: -560px;
 }
 #spaceSubFour {
-    top: -101vh;
+    top: -337px;
 }
 #spaceGridTwo {
     top: 33%;
     left: -43.55%;
 }
 #spaceSubFive {
-    top: -143.5vh;
+    top: -652px;
 }
 #spaceSubSix {
-    top: -154.5vh;
+    top: -745px;
 }
 #spaceSubSeven {
-    top: -163vh;
+    top: -522px;
+}
+
+#spaceImageDescriptionEight {
+    top: 8%;
+}
+.endlineSpaceTwo {
+    top: 11%;
+}
+#spaceImageDescriptionNine {
+    top: 15%;
 }
 #spaceSubEight {
-    top: -130vh;
-    height: 80vh;
+    top: -15px;
+    height: 89vh;
+}
+	
+}
+
+/*------------ Desktop Responisve 1600 x 829 ---------------*/
+@media (min-width: 1600px) and (max-width: 1699px) 
+and (min-height: 786px) and (max-height: 830px)
+{
+	.copyTextSpaceThree {
+    top: 20.5%;
+}
+.copyTextSpaceFour {
+    top: 8%;
+}
+#spaceImageDescriptionSeven
+{
+	top: 18%;
+}
+#spaceOne {
+    top: 21%;
+}
+#spaceSubTwo {
+    top: -405px;
+}
+	#spaceGridOne {
+    position: relative;
+	top: 1%;
+    left: -43.7%;
+}
+#SpaceVideoOne
+{
+	top: 4%;
+}
+#SpaceVideoFour
+{
+	top: 47%;
+}
+#spaceImageDescriptionFour
+{
+	top: 3.3%;
+}
+#spaceSubThree {
+    top: -740px;
+}
+#SpaceVideoTwo
+{
+	top: 49%;
+}
+#SpaceVideoThree
+{
+	top: 45%;
+}
+#SpaceVideoFive
+{
+	top: 43%;
+}
+#SpaceVideoSeven
+{
+	top: 55%;
+}
+#spaceSubFour {
+    top: -537px;
+}
+#spaceGridTwo {
+    top: 28%;
+    left: -43.55%;
+}
+#spaceSubFive {
+    top: -1002px;
+}
+#spaceSubSix {
+    top: -1195px;
+}
+#spaceSubSeven {
+    top: -962px;
+}
+
+#spaceImageDescriptionEight {
+    top: 8%;
+}
+.endlineSpaceTwo {
+    top: 11%;
+}
+#spaceImageDescriptionNine {
+    top: 15%;
+}
+#spaceSubEight {
+    top: -395px;
+    height: 89vh;
+}
+	
+}
+
+/*------------ Desktop Responisve 1600 x 900 ---------------*/
+@media (min-width: 1600px) and (max-width: 1699px) 
+and (min-height: 831px) and (max-height: 900px)
+{
+	.copyTextSpaceThree {
+    top: 17.5%;
+}
+.copyTextSpaceFour {
+    top: 8%;
+}
+#spaceImageDescriptionSeven
+{
+	top: 18%;
+}
+#spaceOne {
+    top: 21%;
+}
+#spaceSubTwo {
+    top: -465px;
+}
+	#spaceGridOne {
+    position: relative;
+	top: -2%;
+    left: -43.7%;
+}
+#SpaceVideoOne
+{
+	top: 1%;
+}
+#SpaceVideoFour
+{
+	top: 47%;
+}
+#spaceImageDescriptionFour
+{
+	top: 6.3%;
+}
+#spaceSubThree {
+    top: -870px;
+}
+#SpaceVideoTwo
+{
+	top: 42%;
+}
+#SpaceVideoThree
+{
+	top: 38%;
+}
+#SpaceVideoFive
+{
+	top: 38%;
+}
+#SpaceVideoSix
+{
+	top: 34%;
+}
+#SpaceVideoSeven
+{
+	top: 48%;
+}
+#SpaceVideoEight
+{
+	top: 45%;
+}
+#spaceSubFour {
+    top: -697px;
+}
+#spaceGridTwo {
+    top: 25%;
+    left: -43.55%;
+}
+#spaceSubFive {
+    top: -1252px;
+}
+#spaceSubSix {
+    top: -1485px;
+}
+#spaceSubSeven {
+    top: -1262px;
+}
+#spaceImageDescriptionSix {
+    top: 39%;
 }
 #spaceImageDescriptionEight {
     top: 8%;
@@ -678,8 +2249,1190 @@ top:25%;
     top: 15%;
 }
 #spaceSubEight {
-    top: -130vh;
+    top: -765px;
     height: 89vh;
 }
 	
+}
+
+/*------------ Desktop Responisve 1600 x 1050 ---------------*/
+@media (min-width: 1600px) and (max-width: 1699px) 
+and (min-height: 901px) and (max-height: 1051px)
+{
+	.copyTextSpaceThree {
+    top: 14.5%;
+}
+.copyTextSpaceFour {
+    top: 12%;
+}
+#spaceImageDescriptionSeven
+{
+	top: 18%;
+}
+#spaceOne {
+    top: 21%;
+}
+#spaceSubTwo {
+    top: -615px;
+}
+	#spaceGridOne {
+    position: relative;
+	top: -2%;
+    left: -43.7%;
+}
+#SpaceVideoOne
+{
+	top: 1%;
+}
+#SpaceVideoFour
+{
+	top: 45%;
+}
+#spaceImageDescriptionFour
+{
+	top: 8.3%;
+}
+#spaceSubThree {
+    top: -1120px;
+}
+#SpaceVideoTwo
+{
+	top: 38%;
+}
+#SpaceVideoThree
+{
+	top: 34%;
+}
+#SpaceVideoFive
+{
+	top: 34%;
+}
+#SpaceVideoSix
+{
+	top: 30%;
+}
+#SpaceVideoSeven
+{
+	top: 41%;
+}
+#SpaceVideoEight
+{
+	top: 36%;
+}
+#spaceSubFour {
+    top: -947px;
+}
+.copyTextSpaceTwo
+{
+	top: 21%;
+}
+#spaceGridTwo {
+    top: 23%;
+    left: -43.55%;
+}
+#spaceSubFive {
+    top: -1662px;
+}
+#spaceSubSix {
+    top: -2035px;
+}
+#spaceSubSeven {
+    top: -1842px;
+}
+#spaceImageDescriptionSix {
+    top: 30%;
+}
+#spaceImageDescriptionEight {
+    top: 8%;
+}
+.endlineSpaceTwo {
+    top: 11%;
+}
+#spaceImageDescriptionNine {
+    top: 15%;
+}
+#spaceSubEight {
+    top: -1405px;
+    height: 89vh;
+}
+	
+}
+
+/*------------ Desktop Responisve 1920 x 1080 ---------------*/
+@media (min-width: 1900px) and (max-width: 1999px)
+{
+	.spaceContainer {
+		max-width: 100vw;
+		flex: 100%;
+		height: 100%;
+		display: block;
+		z-index: 10;
+	}
+	#spaceSubTwo {
+		top: -378px;
+	}
+	#spaceSubThree {
+		top: -756px;
+	}
+	#spaceSubFour {
+		top: -345px;
+	}
+	#spaceSubFive {
+		top: -961px;
+	}
+	#spaceSubSix {
+		top: -1220px;
+	}
+	#spaceSubSeven {
+		top: -820px;
+	}
+	#spaceSubEight {
+		top: -54px;
+		height: 85vh;
+	}
+	.copyTextSpace {
+		position: relative;
+		top: 24%;
+		left: 8.3%;
+		width: 17%;
+	}
+	.copyTextSpaceTwo {
+		position: relative;
+		top: 25%;
+		left: 8.3%;
+		width: 20%;
+		text-align: left;
+	}
+	.copyTextSpaceThree {
+		position: relative;
+		top: 17%;
+		left: 35.3%;
+		width: 25%;
+	}
+	.copyTextSpaceFour {
+		position: relative;
+		top: 6%;
+		left: 35.3%;
+		width: 25%;
+	}
+	.copyTextSpaceFive {
+		width: 28%;
+	}
+	#spaceOne {
+		position: relative;
+		top: 20%;
+		left: -5%;
+		z-index: -5;
+		width: 102vw;
+	}
+	#spaceTwo {
+		position: relative;
+		top: 35%;
+		left: 7.5%;
+	}
+	#spaceThree {
+		position: relative;
+		top: -5%;
+		left: 34.9%;
+		z-index: -6;
+		width: 25vw;
+	}
+	#spaceGridOne {
+		position: relative;
+		top: 5%;
+		left: -43.7%;
+	}
+	#spaceGridTwo {
+		position: relative;
+		top: 25%;
+		left: -43.25%;
+	}
+	#spaceGridThree {
+		position: relative;
+		top: 25%;
+		left: -12.2%;	
+	}
+	#spaceImageDescriptionOne {
+		position: relative;
+		top: -15%;
+		left: 35.3%;
+		width: 14%;
+	}
+	#spaceImageDescriptionTwo {
+		position: relative;
+		top: 50%;
+		left: 35.3%;
+		width: 14%;
+	}
+	#spaceImageDescriptionThree {
+		position: relative;
+		top: -5%;
+		left: 35.3%;
+		width: 14%;
+	}
+	#spaceImageDescriptionFour {
+		position: relative;
+		top: 5.3%;
+		left: 35.3%;
+		width: 9%;
+	}
+	#spaceImageDescriptionFive {
+		position: relative;
+		top: 45%;
+		left: 35.3%;
+		width: 14%;
+	}
+	#spaceImageDescriptionSix {
+		position: relative;
+		top: 47%;
+		left: 35.3%;
+		width: 14%;
+	}
+	#spaceImageDescriptionSeven {
+		position: relative;
+		top: 16%;
+		left: 8.3%;
+		width: 14%;
+	}
+	#spaceImageDescriptionEight {
+		position: relative;
+		top: 5%;
+		left: 35.3%;
+		width: 24%;
+	}
+	#spaceImageDescriptionNine {
+		position: relative;
+		top: 8%;
+		left: 35.3%;
+		width: 25%;
+	}
+	#SpaceVideoOne {
+		position: relative;
+		left: -32.8%;
+		top: 8%;
+		width: 62vw;
+		height: 62vh;
+		z-index: -5;
+	}
+	#SpaceVideoTwo {
+		position: relative;
+		left: -32.9%;
+		top: 53%;
+		width: 61.5vw;
+		height: 61.6vh;
+		z-index: -5;
+	}
+	#SpaceVideoThree {
+		position: relative;
+		left: -32.8%;
+		top: 49%;
+		width: 61.5vw;
+		height: 61.6vh;
+		z-index: -6;
+	}
+	#SpaceVideoFour {
+	
+		position: relative;
+		left: -34.3%;
+		top: 46%;
+		width: 28.5vw;
+		height: 28.5vh;
+		z-index: -6;
+	
+	}
+	#SpaceVideoFive {
+		position: relative;
+		left: -32.9%;
+		top: 45%;
+		width: 61.5vw;
+		height: 61.5vh;
+		z-index: -10;
+	}
+	#SpaceVideoSix {
+		position: relative;
+		left: -32.9%;
+		top: 40%;
+		width: 61.5vw;
+		height: 61.5vh;
+		z-index: -6;
+	}
+	#SpaceVideoSeven {
+		position: relative;
+		left: -32.9%;
+		top: 57%;
+		width: 61.5vw;
+		height: 61.5vh;
+		z-index: -5;
+	}
+	#SpaceVideoEight {
+		position: relative;
+		left: -32.9%;
+		top: 52%;
+		width: 61.5vw;
+		height: 61.5vh;
+		z-index: -6;
+	}
+	.endlineSpace {
+		width: 64.5vw;
+		height: 1vh;
+		position: relative;
+		top: 3%;
+		left: 0%;
+		border-bottom: 1px solid black;
+	}
+	.endlineSpaceTwo {
+		width: 64.5vw;
+		height: 1vh;
+		position: relative;
+		top: 6%;
+		left: 0%;
+		border-bottom: 2px dotted black;
+	}
+	.referencesSpace {
+		position: relative;
+		font-family: 'Roboto', sans-serif;
+		font-weight: 300;
+		font-size: 14px;
+		line-height: 16px;
+		width: 30%;
+		height: 50%;
+		text-align: left;
+	}
+	.referenceBlockSpace {
+		width: 102%;
+		height: 6%;
+		position: relative;
+		top: 8%;
+		left: 35.2%;
+	}
+	.referenceBlockSpaceTwo {
+		width: 102%;
+		height: 6%;
+		position: relative;
+		top: 35%;
+		left: 35.2%;
+	}
+	#gridImageMiddleSpace {
+		width: 23.5vw;
+		margin-left: 30px;
+		margin-right: 5px;
+		margin-top: 3vh;
+		height: auto;
+		pointer-events: none;
+	}
+	
+	.hideImage
+	{
+		visibility: hidden;
+	}
+}
+
+/*------------ Desktop Responisve 1920 x 930 ---------------*/
+@media (min-width: 1900px) and (max-width: 1999px) 
+and (min-height: 920px) and (max-height: 950px)
+{
+	.spaceContainer {
+		max-width: 100vw;
+		flex: 100%;
+		height: 100%;
+		display: block;
+		z-index: 10;
+	}
+	#spaceSubTwo {
+		top: -218px;
+	}
+	#spaceSubThree {
+		top: -456px;
+	}
+	#spaceSubFour {
+		top: -75px;
+	}
+	#spaceSubFive {
+		top: -491px;
+	}
+	#spaceSubSix {
+		top: -600px;
+	}
+	#spaceSubSeven {
+		top: -190px;
+	}
+	#spaceSubEight {
+		top: 576px;
+		height: 85vh;
+	}
+	.copyTextSpace {
+		position: relative;
+		top: 24%;
+		left: 8.3%;
+		width: 17%;
+	}
+	.copyTextSpaceTwo {
+		position: relative;
+		top: 25%;
+		left: 8.3%;
+		width: 20%;
+		text-align: left;
+	}
+	.copyTextSpaceThree {
+		position: relative;
+		top: 20%;
+		left: 35.3%;
+		width: 25%;
+	}
+	.copyTextSpaceFour {
+		position: relative;
+		top: 6%;
+		left: 35.3%;
+		width: 25%;
+	}
+	.copyTextSpaceFive {
+		width: 28%;
+	}
+	#spaceOne {
+		position: relative;
+		top: 20%;
+		left: -5%;
+		z-index: -5;
+		width: 102vw;
+	}
+	#spaceTwo {
+		position: relative;
+		top: 35%;
+		left: 7.5%;
+	}
+	#spaceThree {
+		position: relative;
+		top: -5%;
+		left: 34.9%;
+		z-index: -6;
+		width: 25vw;
+	}
+	#spaceGridOne {
+		position: relative;
+		top: 5%;
+		left: -43.7%;
+	}
+	#spaceGridTwo {
+		position: relative;
+		top: 29%;
+		left: -43.25%;
+	}
+	#spaceGridThree {
+		position: relative;
+		top: 25%;
+		left: -12.2%;	
+	}
+	#spaceImageDescriptionOne {
+		position: relative;
+		top: -15%;
+		left: 35.3%;
+		width: 14%;
+	}
+	#spaceImageDescriptionTwo {
+		position: relative;
+		top: 50%;
+		left: 35.3%;
+		width: 14%;
+	}
+	#spaceImageDescriptionThree {
+		position: relative;
+		top: -5%;
+		left: 35.3%;
+		width: 14%;
+	}
+	#spaceImageDescriptionFour {
+		position: relative;
+		top: 2.3%;
+		left: 35.3%;
+		width: 9%;
+	}
+	#spaceImageDescriptionFive {
+		position: relative;
+		top: 45%;
+		left: 35.3%;
+		width: 14%;
+	}
+	#spaceImageDescriptionSix {
+		position: relative;
+		top: 55%;
+		left: 35.3%;
+		width: 14%;
+	}
+	#spaceImageDescriptionSeven {
+		position: relative;
+		top: 17%;
+		left: 8.3%;
+		width: 14%;
+	}
+	#spaceImageDescriptionEight {
+		position: relative;
+		top: 5%;
+		left: 35.3%;
+		width: 24%;
+	}
+	#spaceImageDescriptionNine {
+		position: relative;
+		top: 8%;
+		left: 35.3%;
+		width: 25%;
+	}
+	#SpaceVideoOne {
+		position: relative;
+		left: -32.8%;
+		top: 10%;
+		width: 62vw;
+		height: 62vh;
+		z-index: -5;
+	}
+	#SpaceVideoTwo {
+		position: relative;
+		left: -32.9%;
+		top: 59%;
+		width: 61.5vw;
+		height: 61.6vh;
+		z-index: -5;
+	}
+	#SpaceVideoThree {
+		position: relative;
+		left: -32.8%;
+		top: 55%;
+		width: 61.5vw;
+		height: 61.6vh;
+		z-index: -6;
+	}
+	#SpaceVideoFour {
+	
+		position: relative;
+		left: -34.3%;
+		top: 46%;
+		width: 28.5vw;
+		height: 28.5vh;
+		z-index: -6;
+	
+	}
+	#SpaceVideoFive {
+		position: relative;
+		left: -32.9%;
+		top: 51%;
+		width: 61.5vw;
+		height: 61.5vh;
+		z-index: -10;
+	}
+	#SpaceVideoSix {
+		position: relative;
+		left: -32.9%;
+		top: 47%;
+		width: 61.5vw;
+		height: 61.5vh;
+		z-index: -6;
+	}
+	#SpaceVideoSeven {
+		position: relative;
+		left: -32.9%;
+		top: 65%;
+		width: 61.5vw;
+		height: 61.5vh;
+		z-index: -5;
+	}
+	#SpaceVideoEight {
+		position: relative;
+		left: -32.9%;
+		top: 61%;
+		width: 61.5vw;
+		height: 61.5vh;
+		z-index: -6;
+	}
+	.endlineSpace {
+		width: 64.5vw;
+		height: 1vh;
+		position: relative;
+		top: 3%;
+		left: 0%;
+		border-bottom: 1px solid black;
+	}
+	.endlineSpaceTwo {
+		width: 64.5vw;
+		height: 1vh;
+		position: relative;
+		top: 6%;
+		left: 0%;
+		border-bottom: 2px dotted black;
+	}
+	.referencesSpace {
+		position: relative;
+		font-family: 'Roboto', sans-serif;
+		font-weight: 300;
+		font-size: 14px;
+		line-height: 16px;
+		width: 30%;
+		height: 50%;
+		text-align: left;
+	}
+	.referenceBlockSpace {
+		width: 102%;
+		height: 6%;
+		position: relative;
+		top: 8%;
+		left: 35.2%;
+	}
+	.referenceBlockSpaceTwo {
+		width: 102%;
+		height: 6%;
+		position: relative;
+		top: 35%;
+		left: 35.2%;
+	}
+	#gridImageMiddleSpace {
+		width: 23.5vw;
+		margin-left: 30px;
+		margin-right: 5px;
+		margin-top: 3vh;
+		height: auto;
+		pointer-events: none;
+	}
+	
+	.hideImage
+	{
+		visibility: hidden;
+	}
+}
+
+/*------------ Desktop Responisve 1920 x 1007 ---------------*/
+@media (min-width: 1900px) and (max-width: 1999px) 
+and (min-height: 951px) and (max-height: 1008px)
+{
+	.spaceContainer {
+		max-width: 100vw;
+		flex: 100%;
+		height: 100%;
+		display: block;
+		z-index: 10;
+	}
+	#spaceSubTwo {
+		top: -318px;
+	}
+	#spaceSubThree {
+		top: -626px;
+	}
+	#spaceSubFour {
+		top: -245px;
+	}
+	#spaceSubFive {
+		top: -731px;
+	}
+	#spaceSubSix {
+		top: -900px;
+	}
+	#spaceSubSeven {
+		top: -490px;
+	}
+	#spaceSubEight {
+		top: 246px;
+		height: 85vh;
+	}
+	.copyTextSpace {
+		position: relative;
+		top: 24%;
+		left: 8.3%;
+		width: 17%;
+	}
+	.copyTextSpaceTwo {
+		position: relative;
+		top: 25%;
+		left: 8.3%;
+		width: 20%;
+		text-align: left;
+	}
+	.copyTextSpaceThree {
+		position: relative;
+		top: 18%;
+		left: 35.3%;
+		width: 25%;
+	}
+	.copyTextSpaceFour {
+		position: relative;
+		top: 6%;
+		left: 35.3%;
+		width: 25%;
+	}
+	.copyTextSpaceFive {
+		width: 28%;
+	}
+	#spaceOne {
+		position: relative;
+		top: 20%;
+		left: -5%;
+		z-index: -5;
+		width: 102vw;
+	}
+	#spaceTwo {
+		position: relative;
+		top: 35%;
+		left: 7.5%;
+	}
+	#spaceThree {
+		position: relative;
+		top: -5%;
+		left: 34.9%;
+		z-index: -6;
+		width: 25vw;
+	}
+	#spaceGridOne {
+		position: relative;
+		top: 5%;
+		left: -43.7%;
+	}
+	#spaceGridTwo {
+		position: relative;
+		top: 29%;
+		left: -43.25%;
+	}
+	#spaceGridThree {
+		position: relative;
+		top: 25%;
+		left: -12.2%;	
+	}
+	#spaceImageDescriptionOne {
+		position: relative;
+		top: -15%;
+		left: 35.3%;
+		width: 14%;
+	}
+	#spaceImageDescriptionTwo {
+		position: relative;
+		top: 50%;
+		left: 35.3%;
+		width: 14%;
+	}
+	#spaceImageDescriptionThree {
+		position: relative;
+		top: -5%;
+		left: 35.3%;
+		width: 14%;
+	}
+	#spaceImageDescriptionFour {
+		position: relative;
+		top: 5.3%;
+		left: 35.3%;
+		width: 9%;
+	}
+	#spaceImageDescriptionFive {
+		position: relative;
+		top: 45%;
+		left: 35.3%;
+		width: 14%;
+	}
+	#spaceImageDescriptionSix {
+		position: relative;
+		top: 50%;
+		left: 35.3%;
+		width: 14%;
+	}
+	#spaceImageDescriptionSeven {
+		position: relative;
+		top: 16%;
+		left: 8.3%;
+		width: 14%;
+	}
+	#spaceImageDescriptionEight {
+		position: relative;
+		top: 5%;
+		left: 35.3%;
+		width: 24%;
+	}
+	#spaceImageDescriptionNine {
+		position: relative;
+		top: 8%;
+		left: 35.3%;
+		width: 25%;
+	}
+	#SpaceVideoOne {
+		position: relative;
+		left: -32.8%;
+		top: 8%;
+		width: 62vw;
+		height: 62vh;
+		z-index: -5;
+	}
+	#SpaceVideoTwo {
+		position: relative;
+		left: -32.9%;
+		top: 55%;
+		width: 61.5vw;
+		height: 61.6vh;
+		z-index: -5;
+	}
+	#SpaceVideoThree {
+		position: relative;
+		left: -32.8%;
+		top: 51%;
+		width: 61.5vw;
+		height: 61.6vh;
+		z-index: -6;
+	}
+	#SpaceVideoFour {
+	
+		position: relative;
+		left: -34.3%;
+		top: 46%;
+		width: 28.5vw;
+		height: 28.5vh;
+		z-index: -6;
+	
+	}
+	#SpaceVideoFive {
+		position: relative;
+		left: -32.9%;
+		top: 48%;
+		width: 61.5vw;
+		height: 61.5vh;
+		z-index: -10;
+	}
+	#SpaceVideoSix {
+		position: relative;
+		left: -32.9%;
+		top: 44%;
+		width: 61.5vw;
+		height: 61.5vh;
+		z-index: -6;
+	}
+	#SpaceVideoSeven {
+		position: relative;
+		left: -32.9%;
+		top: 60%;
+		width: 61.5vw;
+		height: 61.5vh;
+		z-index: -5;
+	}
+	#SpaceVideoEight {
+		position: relative;
+		left: -32.9%;
+		top: 56%;
+		width: 61.5vw;
+		height: 61.5vh;
+		z-index: -6;
+	}
+	.endlineSpace {
+		width: 64.5vw;
+		height: 1vh;
+		position: relative;
+		top: 3%;
+		left: 0%;
+		border-bottom: 1px solid black;
+	}
+	.endlineSpaceTwo {
+		width: 64.5vw;
+		height: 1vh;
+		position: relative;
+		top: 6%;
+		left: 0%;
+		border-bottom: 2px dotted black;
+	}
+	.referencesSpace {
+		position: relative;
+		font-family: 'Roboto', sans-serif;
+		font-weight: 300;
+		font-size: 14px;
+		line-height: 16px;
+		width: 30%;
+		height: 50%;
+		text-align: left;
+	}
+	.referenceBlockSpace {
+		width: 102%;
+		height: 6%;
+		position: relative;
+		top: 8%;
+		left: 35.2%;
+	}
+	.referenceBlockSpaceTwo {
+		width: 102%;
+		height: 6%;
+		position: relative;
+		top: 35%;
+		left: 35.2%;
+	}
+	#gridImageMiddleSpace {
+		width: 23.5vw;
+		margin-left: 30px;
+		margin-right: 5px;
+		margin-top: 3vh;
+		height: auto;
+		pointer-events: none;
+	}
+	
+	.hideImage
+	{
+		visibility: hidden;
+	}
+}
+
+/*------------ Desktop Responisve 1920 x 1200 ---------------*/
+@media (min-width: 1900px) and (max-width: 1999px) 
+and (min-height: 1101px) and (max-height: 1210px)
+{
+	.spaceContainer {
+		max-width: 100vw;
+		flex: 100%;
+		height: 100%;
+		display: block;
+		z-index: 10;
+	}
+	#spaceSubTwo {
+		top: -548px;
+	}
+	#spaceSubThree {
+		top: -996px;
+	}
+	#spaceSubFour {
+		top: -625px;
+	}
+	#spaceSubFive {
+		top: -1391px;
+	}
+	#spaceSubSix {
+		top: -1760px;
+	}
+	#spaceSubSeven {
+		top: -1400px;
+	}
+	#spaceSubEight {
+		top: -704px;
+		height: 85vh;
+	}
+	.copyTextSpace {
+		position: relative;
+		top: 24%;
+		left: 8.3%;
+		width: 17%;
+	}
+	.copyTextSpaceTwo {
+		position: relative;
+		top: 25%;
+		left: 8.3%;
+		width: 20%;
+		text-align: left;
+	}
+	.copyTextSpaceThree {
+		position: relative;
+		top: 15%;
+		left: 35.3%;
+		width: 25%;
+	}
+	.copyTextSpaceFour {
+		position: relative;
+		top: 6%;
+		left: 35.3%;
+		width: 25%;
+	}
+	.copyTextSpaceFive {
+		width: 28%;
+	}
+	#spaceOne {
+		position: relative;
+		top: 18%;
+		left: -5%;
+		z-index: -5;
+		width: 102vw;
+	}
+	#spaceTwo {
+		position: relative;
+		top: 35%;
+		left: 7.5%;
+	}
+	#spaceThree {
+		position: relative;
+		top: -5%;
+		left: 34.9%;
+		z-index: -6;
+		width: 25vw;
+	}
+	#spaceGridOne {
+		position: relative;
+		top: 5%;
+		left: -43.7%;
+	}
+	#spaceGridTwo {
+		position: relative;
+		top: 24%;
+		left: -43.25%;
+	}
+	#spaceGridThree {
+		position: relative;
+		top: 25%;
+		left: -12.2%;	
+	}
+	#spaceImageDescriptionOne {
+		position: relative;
+		top: -15%;
+		left: 35.3%;
+		width: 14%;
+	}
+	#spaceImageDescriptionTwo {
+		position: relative;
+		top: 50%;
+		left: 35.3%;
+		width: 14%;
+	}
+	#spaceImageDescriptionThree {
+		position: relative;
+		top: -5%;
+		left: 35.3%;
+		width: 14%;
+	}
+	#spaceImageDescriptionFour {
+		position: relative;
+		top: 8.3%;
+		left: 35.3%;
+		width: 9%;
+	}
+	#spaceImageDescriptionFive {
+		position: relative;
+		top: 45%;
+		left: 35.3%;
+		width: 14%;
+	}
+	#spaceImageDescriptionSix {
+		position: relative;
+		top: 40%;
+		left: 35.3%;
+		width: 14%;
+	}
+	#spaceImageDescriptionSeven {
+		position: relative;
+		top: 15%;
+		left: 8.3%;
+		width: 14%;
+	}
+	#spaceImageDescriptionEight {
+		position: relative;
+		top: 5%;
+		left: 35.3%;
+		width: 24%;
+	}
+	#spaceImageDescriptionNine {
+		position: relative;
+		top: 8%;
+		left: 35.3%;
+		width: 25%;
+	}
+	#SpaceVideoOne {
+		position: relative;
+		left: -32.8%;
+		top: 8%;
+		width: 62vw;
+		height: 62vh;
+		z-index: -5;
+	}
+	#SpaceVideoTwo {
+		position: relative;
+		left: -32.9%;
+		top: 47%;
+		width: 61.5vw;
+		height: 61.6vh;
+		z-index: -5;
+	}
+	#SpaceVideoThree {
+		position: relative;
+		left: -32.8%;
+		top: 43%;
+		width: 61.5vw;
+		height: 61.6vh;
+		z-index: -6;
+	}
+	#SpaceVideoFour {
+	
+		position: relative;
+		left: -34.3%;
+		top: 46%;
+		width: 28.5vw;
+		height: 28.5vh;
+		z-index: -6;
+	
+	}
+	#SpaceVideoFive {
+		position: relative;
+		left: -32.9%;
+		top: 40%;
+		width: 61.5vw;
+		height: 61.5vh;
+		z-index: -10;
+	}
+	#SpaceVideoSix {
+		position: relative;
+		left: -32.9%;
+		top: 35%;
+		width: 61.5vw;
+		height: 61.5vh;
+		z-index: -6;
+	}
+	#SpaceVideoSeven {
+		position: relative;
+		left: -32.9%;
+		top: 51%;
+		width: 61.5vw;
+		height: 61.5vh;
+		z-index: -5;
+	}
+	#SpaceVideoEight {
+		position: relative;
+		left: -32.9%;
+		top: 46%;
+		width: 61.5vw;
+		height: 61.5vh;
+		z-index: -6;
+	}
+	.endlineSpace {
+		width: 64.5vw;
+		height: 1vh;
+		position: relative;
+		top: 3%;
+		left: 0%;
+		border-bottom: 1px solid black;
+	}
+	.endlineSpaceTwo {
+		width: 64.5vw;
+		height: 1vh;
+		position: relative;
+		top: 6%;
+		left: 0%;
+		border-bottom: 2px dotted black;
+	}
+	.referencesSpace {
+		position: relative;
+		font-family: 'Roboto', sans-serif;
+		font-weight: 300;
+		font-size: 14px;
+		line-height: 16px;
+		width: 30%;
+		height: 50%;
+		text-align: left;
+	}
+	.referenceBlockSpace {
+		width: 102%;
+		height: 6%;
+		position: relative;
+		top: 8%;
+		left: 35.2%;
+	}
+	.referenceBlockSpaceTwo {
+		width: 102%;
+		height: 6%;
+		position: relative;
+		top: 35%;
+		left: 35.2%;
+	}
+	#gridImageMiddleSpace {
+		width: 23.5vw;
+		margin-left: 30px;
+		margin-right: 5px;
+		margin-top: 3vh;
+		height: auto;
+		pointer-events: none;
+	}
+	
+	.hideImage
+	{
+		visibility: hidden;
+	}
 }
