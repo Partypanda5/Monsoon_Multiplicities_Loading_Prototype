@@ -258,9 +258,10 @@
     }
     
     .saltCopyOne {
-        top: -64%;
+        top: -68%;
         left: 35.2%;
     }
+    
     
     #saltImageDescriptionOne {
         top: -54%;
@@ -271,7 +272,7 @@
         top: -53%;
     }
     #saltSubTwo {
-        top: 56px;
+        top: 120px;
     }
     
     #saltThree {
@@ -286,7 +287,7 @@
     }
     
     #saltSubThree {
-        top: 391px;
+        top: 510px;
     }
     #saltFive {
         top: 45.5%;
@@ -300,7 +301,7 @@
         top: 20%;
     }
     #saltSubFour {
-        top: 411px;
+        top: 590px;
     }
     .saltQuote {
         top: 32%;
@@ -323,7 +324,7 @@
         left: 34.4%;
     }
     #saltSubFive {
-        top: 474px;
+        top: 720px;
     }
     
     #saltTen {
@@ -333,7 +334,7 @@
         top: 21.3%;
     }
     #saltSubSix {
-        top: -11px;
+        top: 305px;
     }
     #saltEleven {
         top: 41%;
@@ -346,7 +347,7 @@
     }
     
     #saltSubSeven {
-        top: -122px;
+        top: 210px;
     }
     
 }
@@ -362,46 +363,48 @@
     }
     
     .saltCopyOne {
-        top: -58%;
+        top: -61.5%;
         left: 35.2%;
     }
     
     #saltImageDescriptionOne {
-        top: -43%;
+        top: -38%;
     }
     
     #saltVideoOne {
         height: 56.5vh;
-        top: -41%;
+        top: -37%;
     }
     #saltSubTwo {
-        top: 7px;
+        top: 37px;
     }
+    
+    
     
     #saltThree {
-        top: 35%;
-    }
-    
-    #saltFour {
-        top: 31%;
-    }
-    #saltImageDescriptionTwo {
-         top: 25.5%;
-    }
-    
-    #saltSubThree {
-        top: 107px;
-    }
-    #saltFive {
-        top: 35.5%;
-    }
-    
-    #saltSix {
         top: 30%;
     }
     
+    #saltFour {
+        top: 26%;
+    }
+    #saltImageDescriptionTwo {
+        top: 20.5%;
+
+    }
+    
+    #saltSubThree {
+        top: 120px;
+    }
+    #saltFive {
+        top: 28.5%;
+    }
+    
+    #saltSix {
+        top: 24%;
+    }
     #saltImageDescriptionThree {
-        top: 14%;
+        top: 8%;
     }
     #saltSubFour {
         top: -100px;
@@ -427,7 +430,7 @@
         left: 34.4%;
     }
     #saltSubFive {
-        top: -294px;
+        top: -280px;
     }
     
     #saltTen {
@@ -437,7 +440,7 @@
         top: 16.3%;
     }
     #saltSubSix {
-        top: -1021px;
+        top: -960px;
     }
     #saltEleven {
         top: 32%;
@@ -450,7 +453,7 @@
     }
     
     #saltSubSeven {
-        top: -1370px;
+        top: -1350px;
     }
     
 }

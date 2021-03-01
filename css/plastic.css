@@ -341,3 +341,536 @@
     left: 0vw;
     border-bottom: 2px dotted black;
 }
+
+/*------------ Desktop Responisve 1280 x 582 ---------------*/
+@media (min-width: 1026px) and (max-width: 1299px) 
+{
+
+    #plasticSubTwo {
+        top: 4px;
+    }
+
+    #plasticSubThree {
+        top: 262px;
+    }
+
+    #plasticSubFour {
+        top: 699px;
+    }
+
+    #plasticSubFive {
+        top: 1304px;
+    }
+
+    #plasticSubSix {
+        top: 2130px;
+    }
+
+    #plasticSubSeven {
+        top: 3318px;
+    }
+
+    #plasticSubEight {
+        top: 3510px;
+        height: 88vh;
+    }
+
+    #plasticOne {
+        top: -28.5%;
+        left: 7.5%;
+        width: 25.2vw;
+    }
+
+    #plasticFive {
+        top: -37%;
+        left: 7.5%;
+        width: 24.7vw;
+    }
+
+    #plasticEight {
+        top: -26%;
+        left: 0.9%;
+        width: 31.5vw;
+    }
+
+    #plasticNine {
+        top: -21%;
+        left: -32.9%;
+    }
+
+    #plasticTen {   
+        top: -24%;
+        left: -32.9%;
+    }
+
+    #plasticEleven {
+        top: -27%;
+        left: -32.9%;
+    }
+
+    .plasticCopyTwo {
+        top: -17%;
+    }
+
+    .plasticCopyThree {
+        top: -99%;
+    }
+
+    .plasticCopyFive {
+        top: -4.5%;
+        left: 35.3%;
+    }
+
+    .plasticCopySeven {
+        top: -4.2%;
+        left: 35.3%;
+    }
+
+    .plasticCopyNine {
+        top: -24.5%;
+        left: 35.3%;
+    }
+
+    .plasticCopyEleven {
+        top: 3.5%;
+        left: 35.3%;
+    }
+
+    .plasticCopyThirteen {
+        top: -3.9%;
+        left: 35.3%;
+    }
+
+    #plasticGridOne {
+        top: -30.5%;
+        left: -44.1%;
+    }
+
+    #plasticVideoOne {
+        width: 61.5vw;
+        height: 76.5vh;
+        top: 34%;
+        left: -32.9%;
+    }
+
+    #plasticVideoTwo {
+        width: 61.5vw;
+        height: 61.5vh;
+        top: -26%;
+        left: -32.9%;
+    }
+
+    #plasticImageDescriptionOne {
+        top: -24%;
+        left: 8.3%;
+        width: 12%;
+    }
+}
+
+/*------------ Desktop Responisve 1366 x 768 ---------------*/
+@media (min-width: 1300px) and (max-width: 1399px) 
+and (min-height: 750px) and (max-height: 780px)
+{
+
+    .plasticMainTitle
+    {
+        top: 17%;
+    }
+    #plasticSubTwo {
+        top: -120px ;
+    }
+
+    #plasticSubThree {
+        top: 35px;
+    }
+    #plasticSubFour {
+        top: 325px;
+    }
+
+    #plasticSubFive {
+        top: 855px;
+    }
+
+    #plasticSubSix {
+        top: 1490px;
+    }
+
+    #plasticSubSeven {
+        top: 2530px;
+    }
+
+    #plasticSubEight {
+        top: 2500px;
+        height: 88vh;
+    }
+
+    #plasticOne {
+        top: -20%;
+        left: 7.5%;
+        width: 25.2vw;
+    }
+
+    #plasticThree {
+        top: 1%;
+        left: -32.9%;
+    }
+
+    #plasticFive {
+        top: -36%;
+        left: 7.5%;
+        width: 24.7vw;
+    }
+
+    #plasticEight {
+        top: -26%;
+        left: 0.9%;
+        width: 31.5vw;
+    }
+
+    #plasticNine {
+        top: -21%;
+        left: -32.9%;
+    }
+
+    #plasticTen {   
+        top: -24%;
+        left: -32.9%;
+    }
+
+    #plasticEleven {
+        top: -27%;
+        left: -32.9%;
+    }
+
+    .plasticCopyOne {
+        width: 18%;
+        top: 17%;
+    }
+
+    .plasticCopyTwo {
+        top: -12%;
+    }
+
+    .plasticCopyThree {
+        top: -76%;
+    }
+
+    .plasticCopyFive {
+        top: -1%;
+        left: 35.3%;
+    }
+
+    .plasticCopySeven {
+        top: -1%;
+        left: 35.3%;
+    }
+
+    .plasticCopyNine {
+        top: -20.8%;
+        left: 35.3%;
+    }
+
+    .plasticCopyEleven {
+        top: 3.8%;
+        left: 35.3%;
+    }
+
+    .plasticCopyThirteen {
+        top: -0.5%;
+        left: 35.3%;
+    }
+
+    #plasticGridOne {
+        top: -23.5%;
+        left: -44.1%;
+    }
+    #plasticVideoOne {
+        width: 61.5vw;
+        height: 76.5vh;
+        top: 27%;
+        left: -32.9%;
+    }
+
+    #plasticVideoTwo {
+        width: 61.5vw;
+        height: 61.5vh;
+        top: -18%;
+        left: -32.9%;
+    }
+
+    #plasticImageDescriptionOne {
+        top: -24%;
+        left: 8.3%;
+        width: 12%;
+    }
+}
+
+/*------------ Desktop Responisve 1440 x 768 ---------------*/
+@media (min-width: 1400px) and (max-width: 1499px)
+{
+
+    .plasticMainTitle
+    {
+        top: 18%;
+    }
+    #plasticSubTwo {
+        top: -120px ;
+    }
+
+    #plasticSubThree {
+        top: 95px;
+    }
+    #plasticSubFour {
+        top: 435px;
+    }
+
+    #plasticSubFive {
+        top: 1020px;
+    }
+
+    #plasticSubSix {
+        top: 1750px;
+    }
+
+    #plasticSubSeven {
+        top: 2930px;
+    }
+
+    #plasticSubEight {
+        top: 2980px;
+        height: 88vh;
+    }
+
+    #plasticOne {
+        top: -22%;
+        left: 7.5%;
+        width: 25.2vw;
+    }
+
+    #plasticThree {
+        top: 1%;
+        left: -32.9%;
+    }
+
+    #plasticFive {
+        top: -36%;
+        left: 7.5%;
+        width: 24.7vw;
+    }
+
+    #plasticEight {
+        top: -19%;
+        left: 0.9%;
+        width: 31.5vw;
+    }
+    #plasticNine {
+        top: -16%;
+        left: -32.9%;
+    }
+
+    #plasticTen {   
+        top: -20%;
+        left: -32.9%;
+    }
+
+    #plasticEleven {
+        top: -24%;
+        left: -32.9%;
+
+    }
+
+    .plasticCopyOne {
+        width: 18%;
+        top: 18%;
+    }
+
+    .plasticCopyTwo {
+        top: -12%;
+    }
+
+    .plasticCopyThree {
+        top: -76%;
+    }
+
+    .plasticCopyFive {
+        top: -1.5%;
+        left: 35.3%;
+    }
+
+    .plasticCopySeven {
+        top: -1.5%;
+        left: 35.3%;
+    }
+
+    .plasticCopyNine {
+        top: -21.5%;
+        left: 35.3%;
+    }
+
+    .plasticCopyEleven {
+        top: 3.8%;
+        left: 35.3%;
+    }
+
+    .plasticCopyThirteen {
+        top: -1%;
+        left: 35.3%;
+    }
+
+    #plasticGridOne {
+        top: -23.5%;
+        left: -43.9%;
+    }
+    #plasticVideoOne {
+        width: 61.5vw;
+        height: 76.5vh;
+        top: 27%;
+        left: -32.9%;
+    }
+
+    #plasticVideoTwo {
+        width: 61.5vw;
+        height: 61.5vh;
+        top: -19%;
+        left: -32.9%;
+    }
+
+    #plasticImageDescriptionOne {
+        top: -18%;
+        left: 8.3%;
+        width: 12%;
+    }
+}
+
+/*------------ Desktop Responisve 1536 x 730 ---------------*/
+@media (min-width: 1500px) and (max-width: 1599px)
+{
+
+    .plasticMainTitle
+    {
+        top: 20%;
+    }
+    #plasticSubTwo {
+        top: -35px;
+    }
+
+    #plasticSubThree {
+        top: 235px;
+    }
+    #plasticSubFour {
+        top: 435px;
+    }
+
+    #plasticSubFive {
+        top: 1020px;
+    }
+
+    #plasticSubSix {
+        top: 1750px;
+    }
+
+    #plasticSubSeven {
+        top: 2930px;
+    }
+
+    #plasticSubEight {
+        top: 2980px;
+        height: 88vh;
+    }
+
+    #plasticOne {
+        top: -28%;
+        left: 7.5%;
+        width: 25.2vw;
+    }
+
+    #plasticThree {
+        top: 1%;
+        left: -32.9%;
+    }
+
+    #plasticFive {
+        top: -36%;
+        left: 7.5%;
+        width: 24.7vw;
+    }
+
+    #plasticEight {
+        top: -19%;
+        left: 0.9%;
+        width: 31.5vw;
+    }
+    #plasticNine {
+        top: -16%;
+        left: -32.9%;
+    }
+
+    #plasticTen {   
+        top: -20%;
+        left: -32.9%;
+    }
+
+    #plasticEleven {
+        top: -24%;
+        left: -32.9%;
+
+    }
+
+    .plasticCopyOne {
+        width: 18%;
+        top: 20%;
+    }
+
+    .plasticCopyTwo {
+        top: -15%;
+    }
+    .plasticCopyThree {
+        top: -95%;
+    }
+    .plasticCopyFive {
+        top: -5.5%;
+        left: 35.3%;
+    }
+
+    .plasticCopySeven {
+        top: -1.5%;
+        left: 35.3%;
+    }
+
+    .plasticCopyNine {
+        top: -21.5%;
+        left: 35.3%;
+    }
+
+    .plasticCopyEleven {
+        top: 3.8%;
+        left: 35.3%;
+    }
+
+    .plasticCopyThirteen {
+        top: -1%;
+        left: 35.3%;
+    }
+
+    #plasticGridOne {
+        top: -31.5%;
+        left: -43.9%;
+    }
+    #plasticVideoOne {
+        width: 61.5vw;
+        height: 76.5vh;
+        top: 32%;
+        left: -32.9%;
+    }
+    #plasticVideoTwo {
+        width: 61.5vw;
+        height: 61.5vh;
+        top: -26%;
+        left: -32.9%;
+    }
+    #plasticImageDescriptionOne {
+        top: -18%;
+        left: 8.3%;
+        width: 12%;
+    }
+}

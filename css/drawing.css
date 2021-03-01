@@ -854,6 +854,488 @@ position: relative;
     border-bottom: 2px dotted black;
 }
 
+/*------------ Tablet Responisve 1024 x 600 ---------------*/
+@media (max-width: 1025px) and (min-height: 599px) and (max-height: 680px) {
+
+    /* Sub One */
+    #drawingOne {
+        margin-top: -4.1%;
+    }
+
+    /* Sub Two */
+    #drawingSubTwo {
+        top: 8.2%;
+    }
+
+    #drawingImageDescriptionTwo {
+        top: 11%;
+    }
+
+    .drawingCopyThree {
+        top: -10.8%;
+    }
+
+    #drawingFour {
+        top: -12.6%;
+    }
+
+    #drawingImageDescriptionThree {
+        width: 14%;
+        top: -40.4%;
+    }
+
+    /* Sub Three */
+    #drawingSubThree {
+        top: 17.5%;
+    }
+
+    .drawingCopyFive {
+        top: -4.1%;
+    }
+
+    #drawingImageDescriptionFive,
+    #drawingImageDescriptionSix,
+    #drawingImageDescriptionSeven {
+        width: 18%;
+    }
+
+    /* Sub Four */
+    #drawingSubFour {
+        top: 47.8%;
+    }
+
+    .drawingCopySeven {
+        top: -6.8%;
+    }
+
+    #drawingImageDescriptionTen,
+    #drawingImageDescriptionEleven {
+        width: 22%;
+    }
+
+    #drawingImageDescriptionEleven {
+        top: -65%;
+    }
+
+    #drawingGridTwo {
+        top: -27%;
+        left: -17.8%;
+    }
+
+    #drawingGridThree {
+        top: -49.5%;
+        left: -44.8%;
+    }
+
+    #drawingFourteen {
+        top: -61%;
+    }
+
+    #drawingFifteen {
+        top: -63%;
+    }
+
+    #drawingImageDescriptionTwelve {
+        top: -61%;
+    }
+
+    #mapOne {
+        top: -56%;
+    }
+
+    #mapTwo {
+        top: -90.1%;
+    }
+
+    #drawingImageDescriptionThirteen {
+        top: -87%;
+        width: 18%;
+    }
+
+    /* Sub Five */
+    #drawingSubFive {
+        top: 92.5%;
+    }
+
+    #drawingImageDescriptionFourteen {
+        top: 9.7%;
+        width: 15%;
+    }
+
+    .drawingCopyEight {
+        top: -14.1%;
+    }
+
+    #drawingSeventeen {
+        top: -13%;
+        width: 40%;
+    }
+
+    /* Sub Six */
+    #drawingSubSix {
+        top: 109.3%;
+    }
+
+    #drawingImageDescriptionSixteen {
+        width: 14%;
+    }
+
+    .drawingCopyNine {
+        top: -2.5%;
+    }
+
+    #drawingTwentyOne {
+        width: 51.6%;
+        left: -39.9%;
+    }
+
+    #drawingGridFour {
+        top: 6.1%;
+        left: -44.7%;
+    }
+
+    #drawingGridFive {
+        top: -39%;
+        left: -17.8%;
+    }
+
+    #drawingImageDescriptionSeventeen {
+        top: -53.3%;
+        width: 18%;
+    }
+
+    #drawingTwentyTwo {
+        top: -60.9%;
+    }
+
+    #drawingImageDescriptionEighteen {
+        top: -66%;
+    }
+
+    /* Sub Seven */
+    #drawingSubSeven {
+        top: 124.7%;
+    }
+
+    #drawingImageDescriptionNineteen {
+        width: 14%;
+        top: 12%;
+    }
+
+    .drawingCopyTen {
+        top: -2.6%;
+    }
+
+    #DrawingVideoTwo {
+        top: -21%;
+        left: -3%;
+        width: 104%;
+    }
+
+    #DrawingVideoThree {
+        top: -57%;
+        left: -9%;
+        width: 115%;
+        height: 100%;
+    }
+
+    #drawingImageDescriptionTwenty {
+        top: -74.2%;
+        width: 24%;
+    }
+
+    /* Sub Eight */
+    #drawingSubEight {
+        top: 141%;
+    }
+
+    #drawingImageDescriptionTwentyOne {
+        top: 11%;
+    }
+
+    .drawingCopyEleven {
+        top: 3.1%;
+    }
+
+    #drawingImageDescriptionTwentyTwo {
+        top: -9%;
+        width: 22%;
+    }
+
+    /* Sub Nine */
+    #drawingSubNine {
+        top: 155.4%;
+    }
+
+    #drawingVideoFour, #drawingVideoFive {
+        height: 39.3%;
+    }
+
+    #drawingGridSix,
+    #drawingGridSeven {
+        left: -31.4%;
+    }
+
+    /* Sub Ten */
+    #drawingSubTen {
+        top: 162.8%;
+    }
+
+    #drawingGridEight,
+    #drawingGridNine {
+        left: -31.5%;
+    } 
+
+    #drawingImageDescriptionTwentyNine {
+        top: -151.5%;
+    }
+}
+
+/*------------ Tablet Responisve 1024 x 768 ---------------*/
+@media (max-width: 1025px) and (min-height: 681px) and (max-height: 780px) {
+
+    /* Sub One */
+    #drawingOne {
+        margin-top: 17.5%;
+    }
+
+    /* Sub Two */
+    #drawingSubTwo {
+        top: 5.8%;
+    }
+
+    #drawingImageDescriptionTwo {
+        top: 11%;
+    }
+
+    .drawingCopyThree {
+        top: -3.7%;
+    }
+
+    #drawingFour {
+        top: -7.6%;
+    }
+
+    #drawingFive {
+        top: -20%;
+    }
+
+    #drawingImageDescriptionThree {
+        width: 16%;
+        top: -27.4%;
+    }
+
+    /* Sub Three */
+    #drawingSubThree {
+        top: 10.7%;
+    }
+
+    .drawingCopyFive {
+        top: 0.5%;
+    }
+
+    #drawingImageDescriptionFive,
+    #drawingImageDescriptionSix,
+    #drawingImageDescriptionSeven {
+        width: 18%;
+    }
+
+    /* Sub Four */
+    #drawingSubFour {
+        top: 31.3%;
+    }
+
+    .drawingCopySeven {
+        top: -1.5%;
+    }
+
+    #drawingThirteen {
+        top: 0%;
+    }
+
+    #drawingImageDescriptionTen,
+    #drawingImageDescriptionEleven {
+        width: 22%;
+    }
+
+    #drawingImageDescriptionEleven {
+        top: -54%;
+    }
+
+    #drawingGridTwo {
+        top: -22.5%;
+        left: -17.8%;
+    }
+
+    #drawingGridThree {
+        top: -40.5%;
+        left: -44.8%;
+    }
+
+    #drawingFourteen {
+        top: -51%;
+    }
+
+    #drawingFifteen {
+        top: -56%;
+    }
+
+    #drawingImageDescriptionTwelve {
+        top: -54%;
+    }
+
+    #mapOne {
+        top: -51%;
+    }
+
+    #mapTwo {
+        top: -77.7%;
+    }
+
+    #drawingImageDescriptionThirteen {
+        top: -74%;
+        width: 18%;
+    }
+
+    /* Sub Five */
+    #drawingSubFive {
+        top: 62.8%;
+    }
+
+    #drawingImageDescriptionFourteen {
+        top: 9.7%;
+        width: 15%;
+    }
+
+    .drawingCopyEight {
+        top: -8.9%;
+    }
+
+    #drawingSeventeen {
+        top: -8%;
+        width: 42%;
+    }
+
+    /* Sub Six */
+    #drawingSubSix {
+        top: 73.3%;
+    }
+
+    #drawingImageDescriptionSixteen {
+        width: 14%;
+    }
+
+    .drawingCopyNine {
+        top: 0.5%;
+    }
+
+    #drawingTwentyOne {
+        width: 51.6%;
+        left: -39.9%;
+    }
+
+    #drawingGridFour {
+        top: 2.1%;
+        left: -44.7%;
+    }
+
+    #drawingGridFive {
+        top: -34%;
+        left: -17.8%;
+    }
+
+    #drawingImageDescriptionSeventeen {
+        top: -46.3%;
+        width: 18%;
+    }
+
+    #drawingTwentyTwo {
+        top: -53.9%;
+    }
+
+    #drawingImageDescriptionEighteen {
+        top: -61%;
+    }
+
+    /* Sub Seven */
+    #drawingSubSeven {
+        top: 82.1%;
+    }
+
+    #drawingImageDescriptionNineteen {
+        width: 14%;
+        top: 12%;
+    }
+
+    .drawingCopyTen {
+        top: 0.5%;
+    }
+
+    #DrawingVideoTwo {
+        top: -24%;
+        left: -3%;
+        width: 104%;
+    }
+
+    #DrawingVideoThree {
+        top: -74%;
+        left: -9%;
+        width: 115%;
+        height: 100%;
+    }
+
+    #drawingImageDescriptionTwenty {
+        top: -98.2%;
+        width: 24%;
+    }
+
+    /* Sub Eight */
+    #drawingSubEight {
+        top: 92.8%;
+    }
+
+    #drawingImageDescriptionTwentyOne {
+        top: 11%;
+    }
+
+    .drawingCopyEleven {
+        top: 5.1%;
+    }
+
+    #drawingImageDescriptionTwentyTwo {
+        top: -10%;
+        width: 22%;
+    }
+
+    /* Sub Nine */
+    #drawingSubNine {
+        top: 101.7%;
+    }
+
+    #drawingVideoFour, #drawingVideoFive {
+        height: 30.7%;
+    }
+
+    #drawingGridSix,
+    #drawingGridSeven {
+        left: -31.4%;
+    }
+
+    /* Sub Ten */
+    #drawingSubTen {
+        top: 105.4%;
+    }
+
+    #drawingGridEight,
+    #drawingGridNine {
+        left: -31.5%;
+    } 
+
+    #drawingImageDescriptionTwentyNine {
+        top: -117.5%;
+    }
+}
+
 /* Responsive Code */
 /*------------ Desktop Responisve 1280 x 582 ---------------*/
 @media (min-width: 1026px) and (max-width: 1299px) {
@@ -1280,6 +1762,242 @@ position: relative;
     }
 }
 
+/*------------ Desktop Responisve 1280 x 768 ---------------*/
+@media (min-width: 1026px) and (max-width: 1299px) and (min-height: 767px) and (max-height: 798px) {
+
+    /* Sub One */
+    #drawingOne {
+        margin-top: -27.8px;
+    }
+
+    /* Sub Two */
+    #drawingSubTwo {
+        top: 5%;
+    }
+
+    #drawingImageDescriptionTwo {
+        top: 9%;
+    }
+
+    .drawingCopyThree {
+        top: -7.1%;
+    }
+
+    #drawingFour {
+        top: -12.6%;
+    }
+
+    #drawingImageDescriptionThree {
+        top: -40.4%;
+        width: 14%;
+    }
+
+    /* Sub Three */
+    #drawingSubThree {
+        top: 7.5%;
+    }
+
+    .drawingCopyFive {
+        top: 0.6%;
+    }
+
+    #drawingImageDescriptionFive,
+    #drawingImageDescriptionSix,
+    #drawingImageDescriptionSeven {
+        width: 14%;
+    }
+
+    /* Sub Four */
+    #drawingSubFour {
+        top: 21.9%;
+    }
+
+    .drawingCopySeven {
+        top: -1.8%;
+    }
+
+    #drawingImageDescriptionTen,
+    #drawingImageDescriptionEleven {
+        width: 14%;
+    }
+
+    #drawingImageDescriptionEleven {
+        top: -56%;
+    }
+
+    #drawingGridTwo {
+        top: -21.1%;
+        left: -17.2%;
+    }
+
+    #drawingGridThree {
+        top: -39.3%;
+        left: -44.1%;
+    }
+
+    #drawingFourteen {
+        top: -52%;
+    }
+
+    #drawingFifteen {
+        top: -55.8%;
+    }
+
+    #drawingImageDescriptionTwelve {
+        top: -54%;
+    }
+
+    #mapOne {
+        top: -51%;
+    }
+
+    #mapTwo {
+        top: -78%;
+    }
+
+    #drawingImageDescriptionThirteen {
+        top: -77%;
+        width: 14%;
+    }
+
+    /* Sub Five */
+    #drawingSubFive {
+        top: 43.9%;
+    }
+
+    #drawingImageDescriptionFourteen {
+        top: 7.9%;
+        width: 15%;
+    }
+
+    .drawingCopyEight {
+        top: -4.9%;
+    }
+
+    #drawingSeventeen {
+        top: -4%;
+    }
+
+    /* Sub Six */
+    #drawingSubSix {
+        top: 49.9%;
+    }
+
+    #drawingImageDescriptionSixteen {
+        width: 14%;
+    }
+
+    .drawingCopyNine {
+        top: 3.3%;
+    }
+
+    #drawingTwentyOne {
+        left: -39.9%;
+        width: 51.6%;
+    }
+
+    #drawingGridFour {
+        top: 23.1%;
+        left: -43.2%;
+    }
+
+    #drawingGridFive {
+        top: -13.5%;
+        left: -16.4%;
+    }
+
+    #drawingImageDescriptionSeventeen {
+        top: -27.8%;
+        width: 14%;
+    }
+
+    #drawingTwentyTwo {
+        top: -33.9%;
+    }
+
+    #drawingImageDescriptionEighteen {
+        top: -40%;
+    }
+
+    /* Sub Seven */
+    #drawingSubSeven {
+        top: 56%;
+    }
+
+    #drawingImageDescriptionNineteen {
+        top: 12%;
+        width: 14%;
+    }
+
+    .drawingCopyTen {
+        top: 4.4%;
+    }
+
+    #DrawingVideoTwo {
+        top: -10%;
+        left: -3%;
+        width: 104%;
+    }
+
+    #DrawingVideoThree {
+        top: -43%;
+        left: -9%;
+        width: 115%;
+        height: 100%;
+    }
+
+    #drawingImageDescriptionTwenty {
+        top: -61.2%;
+        width: 14%;
+    }
+
+    /* Sub Eight */
+    #drawingSubEight {
+        top: 66.2%;
+    }
+
+    #drawingImageDescriptionTwentyOne {
+        top: 10.5%;
+    }
+
+    .drawingCopyEleven {
+        top: 5.9%;
+    }
+
+    #drawingImageDescriptionTwentyTwo {
+        top: -13%;
+        width: 14%;
+    }
+
+    /* Sub Nine */
+    #drawingSubNine {
+        top: 72.7%;
+    }
+
+    #drawingVideoFour, #drawingVideoFive {
+        height: 38.4%;
+    }
+
+    #drawingGridSix,
+    #drawingGridSeven {
+        left: -32.4%;
+    }
+
+    /* Sub Ten */
+    #drawingSubTen {
+        top: 75.5%;
+    }
+
+    #drawingGridEight,
+    #drawingGridNine {
+        left: -32.2%;
+    } 
+
+    #drawingImageDescriptionTwentyNine {
+        top: -98.6%;
+    }
+}
+
 /*------------ Desktop Responisve 1280 x 800 ---------------*/
 @media (min-width: 1026px) and (max-width: 1299px) and (min-height: 799px) and (max-height: 801px) {
 
@@ -1510,6 +2228,239 @@ position: relative;
     #drawingImageDescriptionTwentyNine {
         top: -94.8%;
         left: 35.3%;
+    }
+}
+
+/*------------ Desktop Responisve 1387 x 540 ---------------*/
+@media (min-width: 1300px) and (max-width: 1399px) and (min-height: 539px) and (max-height: 679px) {
+
+    /* Sub One */
+    #drawingOne {
+        margin-top: -30.1%;
+    }
+
+    /* Sub Two */
+    #drawingSubTwo {
+        top: 10.7%;
+    }
+
+    #drawingImageDescriptionTwo {
+        top: 11%;
+    }
+
+    .drawingCopyThree {
+        top: -9.7%;
+    }
+
+    #drawingFour {
+        top: -12.6%;
+    }
+
+    #drawingImageDescriptionThree {
+        width: 14%;
+        top: -40.4%;
+    }
+
+    /* Sub Three */
+    #drawingSubThree {
+        top: 27.6%;
+    }
+
+    .drawingCopyFive {
+        top: -3.1%;
+    }
+
+    #drawingImageDescriptionFive,
+    #drawingImageDescriptionSix,
+    #drawingImageDescriptionSeven {
+        width: 14%;
+    }
+
+    /* Sub Four */
+    #drawingSubFour {
+        top: 72.1%;
+    }
+
+    .drawingCopySeven {
+        top: -1.4%;
+    }
+
+    #drawingImageDescriptionTen,
+    #drawingImageDescriptionEleven {
+        width: 14%;
+    }
+
+    #drawingImageDescriptionEleven {
+        top: -90%;
+    }
+
+    #drawingGridTwo {
+        top: -33.9%;
+        left: -17%;
+    }
+
+    #drawingGridThree {
+        top: -66.9%;
+        left: -44.1%;
+    }
+
+    #drawingFourteen {
+        top: -84%;
+    }
+
+    #drawingFifteen {
+        top: -86%;
+    }
+
+    #drawingImageDescriptionTwelve {
+        top: -650px;
+    }
+
+    #mapOne {
+        top: -610px;
+    }
+
+    #mapTwo {
+        top: -126.7%;
+    }
+
+    #drawingImageDescriptionThirteen {
+        top: -120%;
+        width: 14%;
+    }
+
+    /* Sub Five */
+    #drawingSubFive {
+        top: 139.1%;
+    }
+
+    #drawingImageDescriptionFourteen {
+        width: 15%;
+        top: 11.7%;
+    }
+
+    .drawingCopyEight {
+        top: -8.9%;
+    }
+
+    #drawingSeventeen {
+        top: -2%;
+    }
+
+    /* Sub Six */
+    #drawingSubSix {
+        top: 166.9%;
+    }
+
+    #drawingImageDescriptionSixteen {
+        top: 13%;
+        width: 14%;
+    }
+
+    .drawingCopyNine {
+        top: 1.5%;
+    }
+
+    #drawingTwentyOne {
+        width: 51.6%;
+        left: -39.9%;
+    }
+
+    #drawingGridFour {
+        top: 3.1%;
+        left: -43.8%;
+    }
+
+    #drawingGridFive {
+        top: -62.9%;
+        left: -17%;
+    }
+
+    #drawingImageDescriptionSeventeen {
+        top: -84.3%;
+        width: 14%;
+    }
+
+    #drawingTwentyTwo {
+        top: -94.9%;
+    }
+
+    #drawingImageDescriptionEighteen {
+        top: -103%;
+    }
+
+    /* Sub Seven */
+    #drawingSubSeven {
+        top: 189.6%;
+    }
+
+    #drawingImageDescriptionNineteen {
+        width: 14%;
+        top: 12%;
+    }
+
+    .drawingCopyTen {
+        top: 0.4%;
+    }
+
+    #DrawingVideoTwo {
+        top: -1%;
+        left: -3%;
+        width: 104%;
+    }
+
+    #DrawingVideoThree {
+        top: -8%;
+        left: -9%;
+        width: 115%;
+        height: 120%;
+    }
+
+    #drawingImageDescriptionTwenty {
+        width: 14%;
+        top: -19.2%;
+    }
+
+    /* Sub Eight */
+    #drawingSubEight {
+        top: 216.8%;
+    }
+
+    .drawingCopyEleven {
+        top: 4.4%;
+    }
+
+    #drawingImageDescriptionTwentyTwo {
+        top: -7%;
+        width: 14%;
+    }
+
+    /* Sub Nine */
+    #drawingSubNine {
+        top: 241.1%;
+    }
+
+    #drawingVideoFour, #drawingVideoFive {
+        height: 59.1%;
+    }
+
+    #drawingGridSix,
+    #drawingGridSeven {
+        left: -32.4%;
+    }
+
+    /* Sub Ten */
+    #drawingSubTen {
+        top: 254.7%;
+    }
+
+    #drawingGridEight,
+    #drawingGridNine {
+        left: -31.9%;
+    } 
+
+    #drawingImageDescriptionTwentyNine {
+        top: -136%;
     }
 }
 
@@ -1939,6 +2890,256 @@ position: relative;
     }
 }
 
+/*------------ Tablet Responisve 1366 x 1024 ---------------*/
+@media (min-width: 1300px) and (max-width: 1399px) and (min-height: 781px) and (max-height: 1025px) {
+
+    .MainTitleDrawing
+    {
+        top: 12.6%;
+    }
+
+    /* Sub One */
+    #drawingOne {
+        margin-top: 17.4%;
+    }
+
+    /* Sub Two */
+    #drawingSubTwo {
+        top: 5.6%;
+    }
+
+    #drawingImageDescriptionTwo {
+        top: 9%;
+    }
+
+    .drawingCopyThree {
+        top: -2.1%;
+    }
+
+    #drawingFour {
+        top: -6.6%;
+    }
+
+    #drawingFive {
+        top: -21.6%;
+    }
+
+    #drawingImageDescriptionThree {
+        width: 14%;
+        top: -29.4%;
+    }
+
+    /* Sub Three */
+    #drawingSubThree {
+        top: 9.5%;
+    }
+
+    .drawingCopyFive {
+        top: 2.7%;
+    }
+
+    #drawingImageDescriptionFive,
+    #drawingImageDescriptionSix,
+    #drawingImageDescriptionSeven {
+        width: 14%;
+    }
+
+    /* Sub Four */
+    #drawingSubFour {
+        top: 28.5%;
+    }
+
+    .drawingCopySeven {
+        top: 0.9%;
+    }
+
+    #drawingImageDescriptionTen,
+    #drawingImageDescriptionEleven {
+        width: 14%;
+    }
+
+    #drawingThirteen {
+        top: 1.5%;
+    }
+
+    #drawingGridTwo {
+        top: -20.8%;
+        left: -16.9%;
+    }
+
+    #drawingGridThree {
+        top: -38.7%;
+        left: -43.9%;
+    }
+
+    #drawingImageDescriptionEleven {
+        top: -52.2%;
+    }
+
+    #drawingFourteen {
+        top: -47%;
+    }
+
+    #drawingFifteen {
+        top: -51.9%;
+    }
+
+    #drawingImageDescriptionTwelve {
+        top: -50%;
+    }
+
+    #mapOne {
+        top: -47.5%;
+    }
+
+    #mapTwo {
+        top: -74.1%;
+    }
+
+    #drawingImageDescriptionThirteen {
+        top: -70%;
+        width: 14%;
+    }
+
+    /* Sub Five */
+    #drawingSubFive {
+        top: 58.7%;
+    }
+
+    #drawingImageDescriptionFourteen {
+        top: 8.4%;
+        width: 15%;
+    }
+
+    .drawingCopyEight {
+        top: -2.4%;
+    }
+
+    #drawingSeventeen {
+        top: -2%;
+    }
+
+    /* Sub Six */
+    #drawingSubSix {
+        top: 67.9%;
+    }
+
+    #drawingImageDescriptionSixteen {
+        width: 14%;
+    }
+
+    .drawingCopyNine {
+        top: 4.2%;
+    }
+
+    #drawingTwentyOne {
+        width: 51.6%;
+        left: -39.8%;
+    }
+
+    #drawingGridFour {
+        top: -1.4%;
+        left: -43.8%;
+    }
+
+    #drawingGridFive {
+        top: -37.6%;
+        left: -17%;
+    }
+
+    #drawingImageDescriptionSeventeen {
+        top: -48.3%;
+        width: 14%;
+    }
+
+    #drawingTwentyTwo {
+        top: -52.9%;
+    }
+
+    #drawingImageDescriptionEighteen {
+        top: -60%;
+    }
+
+    /* Sub Seven */
+    #drawingSubSeven {
+        top: 75.5%;
+    }
+
+    #drawingImageDescriptionNineteen {
+        top: 10.7%;
+        width: 14%;
+    }
+
+    .drawingCopyTen {
+        top: 4.4%;
+    }
+
+    #DrawingVideoTwo {
+        top: -19%;
+        left: -4.8%;
+        width: 107%;
+    }
+
+    #DrawingVideoThree {
+        top: -69%;
+        left: -10%;
+        width: 117%;
+        height: 100%;
+    }
+
+    #drawingImageDescriptionTwenty {
+        top: -96.2%;
+        width: 14%;
+    }
+
+    /* Sub Eight */
+    #drawingSubEight {
+        top: 85.3%;
+    }
+
+    #drawingImageDescriptionTwentyOne {
+        top: 10.5%;
+    }
+
+    .drawingCopyEleven {
+        top: 6.4%;
+    }
+
+    #drawingImageDescriptionTwentyTwo {
+        top: -12%;
+        width: 14%;
+    }
+
+    /* Sub Nine */
+    #drawingSubNine {
+        top: 93.8%;
+    }
+
+    #drawingVideoFour, 
+    #drawingVideoFive {
+        height: 30.9%;
+    }
+
+    #drawingGridSix,
+    #drawingGridSeven {
+        left: -32%;
+    }
+
+    /* Sub Ten */
+    #drawingSubTen {
+        top: 97.4%;
+    }
+
+    #drawingGridEight,
+    #drawingGridNine {
+        left: -31.9%;
+    } 
+
+    #drawingImageDescriptionTwentyNine {
+        top: -70.8%;
+    }
+}
+
 /*------------ Desktop Responisve 1400 x 768 ---------------*/
 @media (min-width: 1400px) and (max-width: 1499px) {
 
@@ -2125,6 +3326,246 @@ position: relative;
     #drawingImageDescriptionTwentyNine {
         top: -93.7%;
         left: 35.3%;
+    }
+}
+
+/*------------ Desktop Responisve 1400 x 833 ---------------*/
+@media (min-width: 1400px) and (max-width: 1499px) and (min-height: 800px) and (max-height: 850px) {
+
+    /* Sub One */
+    #drawingOne {
+        margin-top: -5.1%;
+    }
+
+    /* Sub Two */
+    #drawingSubTwo {
+        top: 7.5%;
+    }
+
+    #drawingImageDescriptionTwo {
+        top: 9%;
+    }
+
+    .drawingCopyThree {
+        top: -5.1%;
+    }
+
+    #drawingFour {
+        top: -9.6%;
+    }
+
+    #drawingImageDescriptionThree {
+        width: 14%;
+        top: -40.4%;
+    }
+
+    /* Sub Three */
+    #drawingSubThree {
+        top: 13.5%;
+    }
+
+    .drawingCopyFive {
+        top: 0.7%;
+    }
+
+    #drawingImageDescriptionFive,
+    #drawingImageDescriptionSix,
+    #drawingImageDescriptionSeven {
+        width: 14%;
+    }
+
+    /* Sub Four */
+    #drawingSubFour {
+        top: 37.8%;
+    }
+
+    .drawingCopySeven {
+        top: -1.2%;
+    }
+
+    #drawingImageDescriptionTen,
+    #drawingImageDescriptionEleven {
+        width: 14%;
+    }
+
+    #drawingThirteen {
+        top: 1.5%;
+    }
+
+    #drawingGridTwo {
+        top: -24.3%;
+        left: -16.9%;
+    }
+
+    #drawingGridThree {
+        top: -46.1%;
+        left: -43.9%;
+    }
+
+    #drawingImageDescriptionEleven {
+        top: -60.2%;
+    }
+
+    #drawingFourteen {
+        top: -59%;
+    }
+
+    #drawingFifteen {
+        top: -62.9%;
+    }
+
+    #drawingImageDescriptionTwelve {
+        top: -60%;
+    }
+
+    #mapOne {
+        top: -56%;
+    }
+
+    #mapTwo {
+        top: -88.7%;
+    }
+
+    #drawingImageDescriptionThirteen {
+        top: -86%;
+        width: 14%;
+    }
+
+    /* Sub Five */
+    #drawingSubFive {
+        top: 75.4%;
+    }
+
+    #drawingImageDescriptionFourteen {
+        top: 8.4%;
+        width: 15%;
+    }
+
+    .drawingCopyEight {
+        top: -5.3%;
+    }
+
+    #drawingSeventeen {
+        top: -4%;
+    }
+
+    /* Sub Six */
+    #drawingSubSix {
+        top: 87.7%;
+    }
+
+    #drawingImageDescriptionSixteen {
+        width: 14%;
+    }
+
+    .drawingCopyNine {
+        top: 3.7%;
+    }
+
+    #drawingTwentyOne {
+        width: 51.6%;
+        left: 8.4%;
+    }
+
+    #drawingGridFour {
+        top: 23.6%;
+        left: -43.1%;
+    }
+
+    #drawingGridFive {
+        top: -19.6%;
+        left: -16.2%;
+    }
+
+    #drawingImageDescriptionSeventeen {
+        top: -33.3%;
+        width: 14%;
+    }
+
+    #drawingTwentyTwo {
+        top: -37.9%;
+    }
+
+    #drawingImageDescriptionEighteen {
+        top: -45%;
+    }
+
+    /* Sub Seven */
+    #drawingSubSeven {
+        top: 99.3%;
+    }
+
+    #drawingImageDescriptionNineteen {
+        top: 10.7%;
+        width: 14%;
+    }
+
+    .drawingCopyTen {
+        top: 3.1%;
+    }
+
+    #DrawingVideoTwo {
+        top: -1%;
+        left: -12.2%;
+        width: 107%;
+    }
+
+    #DrawingVideoThree {
+        top: -23%;
+        left: -18.7%;
+        width: 117%;
+        height: 100%;
+    }
+
+    #drawingImageDescriptionTwenty {
+        top: -38.2%;
+        width: 14%;
+    }
+
+    /* Sub Eight */
+    #drawingSubEight {
+        top: 115.8%;
+    }
+
+    #drawingImageDescriptionTwentyOne {
+        top: 10.5%;
+    }
+
+    .drawingCopyEleven {
+        top: 6.4%;
+    }
+
+    #drawingImageDescriptionTwentyTwo {
+        top: -13%;
+        width: 14%;
+    }
+
+    /* Sub Nine */
+    #drawingSubNine {
+        top: 127.2%;
+    }
+
+    #drawingVideoFour, #drawingVideoFive {
+        height: 39.8%;
+    }
+
+    #drawingGridSix,
+    #drawingGridSeven {
+        left: -32.4%;
+    }
+
+    /* Sub Ten */
+    #drawingSubTen {
+        top: 133.2%;
+    }
+
+    #drawingGridEight,
+    #drawingGridNine {
+        left: -32.4%;
+    } 
+
+    #drawingImageDescriptionTwentyNine {
+        top: -85.9%;
     }
 }
 
@@ -2575,6 +4016,246 @@ position: relative;
     }
 }
 
+/*------------ Desktop Responisve 1536 x 757 ---------------*/
+@media (min-width: 1500px) and (max-width: 1599px) and (min-height: 751px) and (max-height: 780px) {
+
+    /* Sub One */
+    #drawingOne {
+        margin-top: -16.4%;
+    }
+
+    /* Sub Two */
+    #drawingSubTwo {
+        top: 9.2%;
+    }
+
+    #drawingImageDescriptionTwo {
+        top: 9%;
+    }
+
+    .drawingCopyThree {
+        top: -5.7%;
+    }
+
+    #drawingFour {
+        top: -11.6%;
+    }
+
+    #drawingImageDescriptionThree {
+        top: -40.4%;
+        width: 14%;
+    }
+
+    /* Sub Three */
+    #drawingSubThree {
+        top: 20.3%;
+    }
+
+    .drawingCopyFive {
+        top: 0.6%;
+    }
+
+    #drawingImageDescriptionFive,
+    #drawingImageDescriptionSix,
+    #drawingImageDescriptionSeven {
+        width: 14%;
+    }
+
+    /* Sub Four */
+    #drawingSubFour {
+        top: 53.1%;
+    }
+
+    .drawingCopySeven {
+        top: -3.8%;
+    }
+
+    #drawingImageDescriptionTen,
+    #drawingImageDescriptionEleven {
+        width: 14%;
+    }
+
+    #drawingThirteen {
+        top: 0%;
+    }
+
+    #drawingGridTwo {
+        top: -20.8%;
+        left: -16.8%;
+    }
+
+    #drawingGridThree {
+        top: -43.4%;
+        left: -43.7%;
+    }
+
+    #drawingImageDescriptionEleven {
+        top: -61%;
+    }
+
+    #drawingFourteen {
+        top: -56%;
+    }
+
+    #drawingFifteen {
+        top: -60.1%;
+    }
+
+    #drawingImageDescriptionTwelve {
+        top: -59%;
+    }
+
+    #mapOne {
+        top: -56%;
+    }
+
+    #mapTwo {
+        top: -90.2%;
+    }
+
+    #drawingImageDescriptionThirteen {
+        top: -87%;
+        width: 14%;
+    }
+
+    /* Sub Five */
+    #drawingSubFive {
+        top: 103.8%;
+    }
+
+    #drawingImageDescriptionFourteen {
+        top: 8.4%;
+        width: 15%;
+    }
+
+    .drawingCopyEight {
+        top: -4.9%;
+    }
+
+    #drawingSeventeen {
+        top: -4%;
+    }
+
+    /* Sub Six */
+    #drawingSubSix {
+        top: 123.2%;
+    }
+
+    #drawingImageDescriptionSixteen {
+        width: 14%;
+    }
+
+    .drawingCopyNine {
+        top: 3.2%;
+    }
+
+    #drawingTwentyOne {
+        width: 51.6%;
+        left: 7.9%;
+    }
+
+    #drawingGridFour {
+        top: 26.8%;
+        left: -43.1%;
+    }
+
+    #drawingGridFive {
+        top: -18.5%;
+        left: -16.2%;
+    }
+
+    #drawingImageDescriptionSeventeen {
+        top: -33.3%;
+        width: 14%;
+    }
+
+    #drawingTwentyTwo {
+        top: -37.9%;
+    }
+
+    #drawingImageDescriptionEighteen {
+        top: -43%;
+    }
+
+    /* Sub Seven */
+    #drawingSubSeven {
+        top: 140.1%;
+    }
+
+    #drawingImageDescriptionNineteen {
+        top: 10.7%;
+        width: 14%;
+    }
+
+    .drawingCopyTen {
+        top: 2.8%;
+    }
+
+    #DrawingVideoTwo {
+        top: -1%;
+        left: -4.8%;
+        width: 107%;
+    }
+
+    #DrawingVideoThree {
+        top: -13%;
+        left: -22.4%;
+        width: 117%;
+        height: 100%;
+    }
+
+    #drawingImageDescriptionTwenty {
+        top: -26.2%;
+        width: 14%;
+    }
+
+    /* Sub Eight */
+    #drawingSubEight {
+        top: 159.8%;
+    }
+
+    #drawingImageDescriptionTwentyOne {
+        top: 12.4%;
+    }
+
+    .drawingCopyEleven {
+        top: 6.4%;
+    }
+
+    #drawingImageDescriptionTwentyTwo {
+        top: -13%;
+        width: 14%;
+    }
+
+    /* Sub Nine */
+    #drawingSubNine {
+        top: 176.9%;
+    }
+
+    #drawingVideoFour, #drawingVideoFive {
+        height: 46.8%;
+    }
+
+    #drawingGridSix,
+    #drawingGridSeven {
+        left: -32.4%;
+    }
+
+    /* Sub Ten */
+    #drawingSubTen {
+        top: 186.4%;
+    }
+
+    #drawingGridEight,
+    #drawingGridNine {
+        left: -32.4%;
+    } 
+
+    #drawingImageDescriptionTwentyNine {
+        top: -90.7%;
+    }
+}
+
 /*------------ Desktop Responisve 1536 x 792 ---------------*/
 @media (min-width: 1500px) and (max-width: 1599px) and (min-height: 781px) and (max-height: 810px) {
 
@@ -2815,6 +4496,246 @@ position: relative;
     }
 }
 
+/*------------ Desktop Responisve 1536 x 864 ---------------*/
+@media (min-width: 1500px) and (max-width: 1599px) and (min-height: 811px) and (max-height: 870px) {
+
+    /* Sub One */
+    #drawingOne {
+        margin-top: -7.2%;
+    }
+
+    /* Sub Two */
+    #drawingSubTwo {
+        top: 8%;
+    }
+
+    #drawingImageDescriptionTwo {
+        top: 8.4%;
+    }
+
+    .drawingCopyThree {
+        top: -5%;
+    }
+
+    #drawingFour {
+        top: -11.6%;
+    }
+
+    #drawingImageDescriptionThree {
+        top: -42.4%;
+        width: 14%;
+    }
+
+    /* Sub Three */
+    #drawingSubThree {
+        top: 16%;
+    }
+
+    .drawingCopyFive {
+        top: 1.4%;
+    }
+
+    #drawingImageDescriptionFive,
+    #drawingImageDescriptionSix,
+    #drawingImageDescriptionSeven {
+        width: 14%;
+    }
+
+    /* Sub Four */
+    #drawingSubFour {
+        top: 43.8%;
+    }
+
+    .drawingCopySeven {
+        top: -2.4%;
+    }
+
+    #drawingImageDescriptionTen,
+    #drawingImageDescriptionEleven {
+        width: 14%;
+    }
+
+    #drawingThirteen {
+        top: 0%;
+    }
+
+    #drawingGridTwo {
+        top: -19.5%;
+        left: -16.8%;
+    }
+
+    #drawingGridThree {
+        top: -39.5%;
+        left: -43.7%;
+    }
+
+    #drawingImageDescriptionEleven {
+        top: -55%;
+    }
+
+    #drawingFourteen {
+        top: -51%;
+    }
+
+    #drawingFifteen {
+        top: -55.4%;
+    }
+
+    #drawingImageDescriptionTwelve {
+        top: -52.5%;
+    }
+
+    #mapOne {
+        top: -49%;
+    }
+
+    #mapTwo {
+        top: -79%;
+    }
+
+    #drawingImageDescriptionThirteen {
+        top: -76%;
+        width: 14%;
+    }
+
+    /* Sub Five */
+    #drawingSubFive {
+        top:87.3%;
+    }
+
+    #drawingImageDescriptionFourteen {
+        top: 8.1%;
+        width: 15%;
+    }
+
+    .drawingCopyEight {
+        top: -4.2%;
+    }
+
+    #drawingSeventeen {
+        top: -4%;
+    }
+
+    /* Sub Six */
+    #drawingSubSix {
+        top: 103.3%;
+    }
+
+    #drawingImageDescriptionSixteen {
+        width: 18%;
+    }
+
+    .drawingCopyNine {
+        top: 4.2%;
+    }
+
+    #drawingTwentyOne {
+        width: 51.6%;
+        left: 7.9%;
+    }
+
+    #drawingGridFour {
+        top: 21.9%;
+        left: -43.1%;
+    }
+
+    #drawingGridFive {
+        top: -18.5%;
+        left: -16.2%;
+    }
+
+    #drawingImageDescriptionSeventeen {
+        top: -33.3%;
+        width: 14%;
+    }
+
+    #drawingTwentyTwo {
+        top: -37.9%;
+    }
+
+    #drawingImageDescriptionEighteen {
+        top: -43%;
+    }
+
+    /* Sub Seven */
+    #drawingSubSeven {
+        top: 116.7%;
+    }
+
+    #drawingImageDescriptionNineteen {
+        top: 10.7%;
+        width: 14%;
+    }
+
+    .drawingCopyTen {
+        top: 3.4%;
+    }
+
+    #DrawingVideoTwo {
+        top: -5%;
+        left: -4.8%;
+        width: 107%;
+    }
+
+    #DrawingVideoThree {
+        top: -28.6%;
+        left: -22.4%;
+        width: 115.7%;
+        height: 100%;
+    }
+
+    #drawingImageDescriptionTwenty {
+        top: -41.2%;
+        width: 14%;
+    }
+
+    /* Sub Eight */
+    #drawingSubEight {
+        top: 133.3%;
+    }
+
+    #drawingImageDescriptionTwentyOne {
+        top: 11.7%;
+    }
+
+    .drawingCopyEleven {
+        top: 6.4%;
+    }
+
+    #drawingImageDescriptionTwentyTwo {
+        top: -13%;
+        width: 14%;
+    }
+
+    /* Sub Nine */
+    #drawingSubNine {
+        top: 147.1%;
+    }
+
+    #drawingVideoFour, #drawingVideoFive {
+        height: 41%;
+    }
+
+    #drawingGridSix,
+    #drawingGridSeven {
+        left: -32.4%;
+    }
+
+    /* Sub Ten */
+    #drawingSubTen {
+        top: 154.5%;
+    }
+
+    #drawingGridEight,
+    #drawingGridNine {
+        left: -32.4%;
+    } 
+
+    #drawingImageDescriptionTwentyNine {
+        top: -79.1%;
+    }
+}
+
 /*------------ Desktop Responisve 1600 x 750 ---------------*/
 @media (min-width: 1600px) and (max-width: 1699px) {
 
@@ -3038,6 +4959,246 @@ position: relative;
     #drawingImageDescriptionTwentyNine {
         top: -84.7%;
         left: 35.3%;
+    }
+}
+
+/*------------ Desktop Responisve 1600 x 829 ---------------*/
+@media (min-width: 1600px) and (max-width: 1699px) and (min-height: 786px) and (max-height: 830px) {
+
+    /* Sub One */
+    #drawingOne {
+        margin-top: -13.1%;
+    }
+
+    /* Sub Two */
+    #drawingSubTwo {
+        top: 7.9%;
+    }
+
+    #drawingImageDescriptionTwo {
+        top: 9%;
+    }
+
+    .drawingCopyThree {
+        top: -5.3%;
+    }
+
+    #drawingFour {
+        top: -11.6%;
+    }
+
+    #drawingImageDescriptionThree {
+        top: -41.4%;
+        width: 14%;
+    }
+
+    /* Sub Three */
+    #drawingSubThree {
+        top: 17.1%;
+    }
+
+    .drawingCopyFive {
+        top: 0.8%;
+    }
+
+    #drawingImageDescriptionFive,
+    #drawingImageDescriptionSix,
+    #drawingImageDescriptionSeven {
+        width: 14%;
+    }
+
+    /* Sub Four */
+    #drawingSubFour {
+        top: 47%;
+    }
+
+    .drawingCopySeven {
+        top: -0.5%;
+    }
+
+    #drawingImageDescriptionTen,
+    #drawingImageDescriptionEleven {
+        width: 14%;
+    }
+
+    #drawingThirteen {
+        top: 1.2%;
+    }
+
+    #drawingGridTwo {
+        top: -21.3%;
+        left: -16.7%;
+    }
+
+    #drawingGridThree {
+        top: -46.3%;
+        left: -43.6%;
+    }
+
+    #drawingImageDescriptionEleven {
+        top: -63%;
+    }
+
+    #drawingFourteen {
+        top: -54%;
+    }
+
+    #drawingFifteen {
+        top: -56.9%;
+    }
+
+    #drawingImageDescriptionTwelve {
+        top: -54%;
+    }
+
+    #mapOne {
+        top: -50.4%;
+    }
+
+    #mapTwo {
+        top: -88.9%;
+    }
+
+    #drawingImageDescriptionThirteen {
+        top: -85.6%;
+        width: 14%;
+    }
+
+    /* Sub Five */
+    #drawingSubFive {
+        top: 94%;
+    }
+
+    #drawingImageDescriptionFourteen {
+        top: 8.4%;
+        width: 15%;
+    }
+
+    .drawingCopyEight {
+        top: -3.2%;
+    }
+
+    #drawingSeventeen {
+        top: -2%;
+    }
+
+    /* Sub Six */
+    #drawingSubSix {
+        top: 110.3%;
+    }
+
+    #drawingImageDescriptionSixteen {
+        width: 14%;
+    }
+
+    .drawingCopyNine {
+        top: 3.8%;
+    }
+
+    #drawingTwentyOne {
+        left: -40%;
+        width: 51.6%;
+    }
+
+    #drawingGridFour {
+        top: -0.7%;
+        left: -43.5%;
+    }
+
+    #drawingGridFive {
+        top: -51.2%;
+        left: -16.7%;
+    }
+
+    #drawingImageDescriptionSeventeen {
+        top: -64.3%;
+        width: 14%;
+    }
+
+    #drawingTwentyTwo {
+        top: -68.9%;
+    }
+
+    #drawingImageDescriptionEighteen {
+        top: -71%;
+    }
+
+    /* Sub Seven */
+    #drawingSubSeven {
+        top: 125.4%;
+    }
+
+    #drawingImageDescriptionNineteen {
+        top: 10.7%;
+        width: 14%;
+    }
+
+    .drawingCopyTen {
+        top: 4%;
+    }
+
+    #DrawingVideoTwo {
+        top: -9%;
+        left: -4.8%;
+        width: 107%;
+    }
+
+    #DrawingVideoThree {
+        top: -33%;
+        left: -9.3%;
+        width: 117%;
+        height: 100%;
+    }
+
+    #drawingImageDescriptionTwenty {
+        top: -44.2%;
+        width: 14%;
+    }
+
+    /* Sub Eight */
+    #drawingSubEight {
+        top: 143.1%;
+    }
+
+    #drawingImageDescriptionTwentyOne {
+        top: 11.9%;
+    }
+
+    .drawingCopyEleven {
+        top: 6.4%;
+    }
+
+    #drawingImageDescriptionTwentyTwo {
+        top: -11%;
+        width: 14%;
+    }
+
+    /* Sub Nine */
+    #drawingSubNine {
+        top: 158.3%;
+    }
+
+    #drawingVideoFour, #drawingVideoFive {
+        height: 44.3%;
+    }
+
+    #drawingGridSix,
+    #drawingGridSeven {
+        left: -32.4%;
+    }
+
+    /* Sub Ten */
+    #drawingSubTen {
+        top: 166.5%;
+    }
+
+    #drawingGridEight,
+    #drawingGridNine {
+        left: -32.4%;
+    } 
+
+    #drawingImageDescriptionTwentyNine {
+        top: -76.4%;
     }
 }
 
@@ -3969,6 +6130,226 @@ position: relative;
     #drawingGridNine {
         left: -32.4%;
     } 
+}
+
+/*------------ Desktop Responisve 1920 x 1007 ---------------*/
+@media (min-width: 1900px) and (max-width: 1999px) and (min-height: 951px) and (max-height: 1008px) {
+
+    /* Sub One */
+    #drawingOne {
+        margin-top: -12.2%;
+    }
+
+    /* Sub Two */
+    #drawingSubTwo {
+        top: 8.4%;
+    }
+
+    #drawingImageDescriptionTwo {
+        top: 9%;
+    }
+
+    .drawingCopyThree {
+        top: -7.4%;
+    }
+
+    #drawingFour {
+        top: -12.6%;
+    }
+
+    #drawingImageDescriptionThree {
+        width: 14%;
+        top: -40.4%;
+    }
+
+    /* Sub Three */
+    #drawingSubThree {
+        top: 18.2%;
+    }
+
+    .drawingCopyFive {
+        top: -0.7%;
+    }
+
+    #drawingImageDescriptionFive,
+    #drawingImageDescriptionSix,
+    #drawingImageDescriptionSeven {
+        width: 14%;
+    }
+
+    /* Sub Four */
+    #drawingSubFour {
+        top: 50.2%;
+    }
+
+    .drawingCopySeven {
+        top: -3%;
+    }
+
+    #drawingImageDescriptionTen,
+    #drawingImageDescriptionEleven {
+        width: 14%;
+    }
+
+    #drawingImageDescriptionEleven {
+        top: -69%;
+    }
+
+    #drawingGridTwo {
+        top: -27.3%;
+        left: -16.4%;
+    }
+
+    #drawingGridThree {
+        top: -52.1%;
+        left: -43.3%;
+    }
+
+    #drawingFourteen {
+        top: -63%;
+    }
+
+    #mapTwo {
+        top: -100.2%;
+    }
+
+    #drawingImageDescriptionThirteen {
+        top: -97%;
+        width: 14%;
+    }
+
+    /* Sub Five */
+    #drawingSubFive {
+        top: 97.9%;
+    }
+
+    #drawingImageDescriptionFourteen {
+        width: 15%;
+        top: 10%;
+    }
+
+    .drawingCopyEight {
+        top: -5.8%;
+    }
+
+    #drawingSeventeen {
+        top: -2%;
+    }
+
+    /* Sub Six */
+    #drawingSubSix {
+        top: 114.8%;
+    }
+
+    #drawingImageDescriptionSixteen {
+        width: 14%;
+    }
+
+    .drawingCopyNine {
+        top: 1.3%;
+    }
+
+    #drawingTwentyOne {
+        width: 51.6%;
+        left: -39.9%;
+    }
+
+    #drawingGridFour {
+        top: 2.1%;
+        left: -43.3%;
+    }
+
+    #drawingGridFive {
+        top: -47.8%;
+        left: -16.4%;
+    }
+
+    #drawingImageDescriptionSeventeen {
+        top: -62.3%;
+        width: 14%;
+    }
+
+    #drawingTwentyTwo {
+        top: -69.9%;
+    }
+
+    #drawingImageDescriptionEighteen {
+        top: -74%;
+    }
+
+    /* Sub Seven */
+    #drawingSubSeven {
+        top: 130.7%;
+    }
+
+    #drawingImageDescriptionNineteen {
+        width: 14%;
+        top: 12%;
+    }
+
+    .drawingCopyTen {
+        top: 3.3%;
+    }
+
+    #DrawingVideoTwo {
+        top: -11%;
+        left: -3%;
+        width: 104%;
+    }
+
+    #DrawingVideoThree {
+        top: -39%;
+        left: -9%;
+        width: 115%;
+        height: 100%;
+    }
+
+    #drawingImageDescriptionTwenty {
+        width: 14%;
+        top: -55.2%;
+    }
+
+    /* Sub Eight */
+    #drawingSubEight {
+        top: 148.9%;
+    }
+
+    .drawingCopyEleven {
+        top: 6%;
+    }
+
+    #drawingImageDescriptionTwentyTwo {
+        width: 14%;
+        top: -11%;
+    }
+
+    /* Sub Nine */
+    #drawingSubNine {
+        top: 165.1%;
+    }
+
+    #drawingVideoFour, #drawingVideoFive {
+        height: 43.9%;
+    }
+
+    #drawingGridSix,
+    #drawingGridSeven {
+        left: -32.4%;
+    }
+
+    /* Sub Ten */
+    #drawingSubTen {
+        top: 173.7%;
+    }
+
+    #drawingGridEight,
+    #drawingGridNine {
+        left: -32.4%;
+    } 
+
+    #drawingImageDescriptionTwentyNine {
+        top: -107.2%;
+    }
 }
 
 /*------------ Desktop Responisve 1920 x 1200 ---------------*/

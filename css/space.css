@@ -269,7 +269,7 @@
 and (max-height: 680px)
 {
 	.copyTextSpaceThree {
-		top: 20.7% !important;
+		top: 16.7% !important;
 	}
 	#spaceOne {
 		top: 23%;
@@ -278,7 +278,8 @@ and (max-height: 680px)
 		top: 8% !important;
 	}
 	#spaceSubTwo {
-		top: -97px;
+		top: -37px;
+
 	}
 	.copyTextSpace {
 		top: 30% !important;
@@ -294,7 +295,7 @@ and (max-height: 680px)
 		top: 25%;
 	}
 	#spaceSubThree {
-		top: -201px;
+		top: -90px;
 	}
 	#SpaceVideoThree {
 		top: 61%;
@@ -305,7 +306,7 @@ and (max-height: 680px)
 		height: 76vh;
 	}
 	#spaceSubFour {
-		top: 248px;
+		top: 420px;
 	}
 	.copyTextSpaceTwo {
 		top: 30% !important;
@@ -319,7 +320,7 @@ and (max-height: 680px)
 		left: 34%;
 	}
 	#spaceSubFive {
-		top: -24px;
+		top: 196px;
 	}
 	#spaceGridThree {
 		position: relative;
@@ -334,7 +335,7 @@ and (max-height: 680px)
 		top: 17%;
 	}
 	#spaceSubSix {
-		top: -101px;
+		top: 160px;
 	}
 	
 	#SpaceVideoFive {
@@ -349,7 +350,7 @@ and (max-height: 680px)
 		height: 76vh;
 	}
 	#spaceSubSeven {
-		top: 369px;
+		top: 680px;
 	}
 	#SpaceVideoSeven {
 		top: 73%;
@@ -363,7 +364,7 @@ and (max-height: 680px)
 		top: 64%;
 	}
 	#spaceSubEight {
-		top: 1109px;
+		top: 1439px;
 	}
 }
 
@@ -372,16 +373,16 @@ and (max-height: 680px)
 and (max-height: 780px)
 {
 	.copyTextSpaceThree {
-		top: 20.7% !important;
+	    top: 12.7% !important;
 	}
 	#spaceOne {
-		top: 23%;
+		top: 19%;
 	}
 	.copyTextSpaceFour {
 		top: 11% !important;
 	}
 	#spaceSubTwo {
-		top: -317px;
+		top: -400px;
 	}
 	.copyTextSpace {
 		top: 30% !important;
@@ -397,76 +398,78 @@ and (max-height: 780px)
 		top: 23%;
 	}
 	#spaceSubThree {
-		top: -565px;
+		top: -550px;
 	}
 	#SpaceVideoThree {
-		top: 53%;
+
+		top: 35%;
 		height: 76vh;
+	
 	}
 	#SpaceVideoTwo {
-		top: 56%;
+		top: 39%;
 		height: 76vh;
 	}
 	#spaceSubFour {
-		top: -72px;
+		top: -170px;
 	}
 	.copyTextSpaceTwo {
-		top: 30% !important;
+		top: 23% !important;
 	}
 	#spaceGridTwo {
-		top: 35%;
+		top: 27%;
 		left: -44.3%;
 	}
 	#spaceThree {
-		top: 12%;
+		top: 3%;
 		left: 34%;
 	}
 	#spaceSubFive {
-		top: -574px;
+		top: -684px;
 	}
 	#spaceGridThree {
 		position: relative;
-		top: 31%;
+		top: 18%;
 		left: -12.4%;
 	}
 	#SpaceVideoFour {
-		top: 56.5%;
+		top: 38.5%;
 		height: 35vh;
 	}
 	#spaceImageDescriptionFour {
-		top: 25%;
+		top: 12%;
 	}
 	#spaceSubSix {
-		top: -801px;
-	}
+		top: -1000px;
+	}	
 	
 	#SpaceVideoFive {
 	
 		left: -32.9%;
-		top: 48%;
+		top: 33%;
 		height: 76vh;
 	
 	}
 	#SpaceVideoSix {
-		top: 45%;
+		top: 30%;
 		height: 76vh;
 	}
 	#spaceSubSeven {
-		top: -301px;
+	    top: -600px;
 	}
 	#SpaceVideoSeven {
-		top: 62%;
+		top: 45%;
 		height: 76vh;
 	}
 	#SpaceVideoEight {
-		top: 58%;
+		top: 40%;
 		height: 76vh;
 	}
 	#spaceImageDescriptionSix {
-		top: 53%;
+		top: 35%;
 	}
 	#spaceSubEight {
-		top: 519px;
+		top: 30px;
 	}
 }
 
@@ -1867,7 +1870,7 @@ and (min-height: 781px) and (max-height: 810px)
 
 	}
 	#spaceSubEight {
-		top: 1283px;
+		top: 1343px;
 		height: 95vh;
 	}
 	#spaceImageDescriptionEight {

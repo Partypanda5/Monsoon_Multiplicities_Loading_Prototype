@@ -903,6 +903,13 @@ and (max-height: 680px)
         margin-bottom: -236px;
     }
 
+    .pedagogyCopyTextTwo
+    {
+        font-size: 13px;
+        line-height: 15px;
+        top: 21%;
+    }
+
     .pedagogyCopyTextOne {
         top: 65px;
     }
@@ -1132,7 +1139,7 @@ and (max-height: 780px)
     }
 
     .pedagogyCopyTextTwo {
-        margin-top: -30px;
+        margin-top: 78px;
     }
 
     #pedagogyGridOne {
@@ -1183,8 +1190,8 @@ and (max-height: 780px)
     }
 
     #pedagogyImageDescriptionSix {
-        top: -1962px;
-        margin-bottom: -60px;
+        top: -1904px;
+        margin-bottom: -60px;   
     }
 
     .pedagogyMapContainerOne {
@@ -1223,7 +1230,7 @@ and (max-height: 780px)
 
     /* Pedagogy Sub Four */
     #pedagogySubFour {
-        margin-top: -1371px;
+        margin-top: -1530px;
     }
 
     .pedagogyCopyTextFive {
@@ -1272,7 +1279,7 @@ and (max-height: 780px)
 
     /* Pedagogy Sub Five */
     #pedagogySubFive {
-        margin-top: -400px;
+        margin-top: -480px;
     }
 
     #pedagogyGridFour {
@@ -1302,7 +1309,7 @@ and (max-height: 780px)
 
     /* Pedagogy Sub Six */
     #pedagogySubSix {
-        margin-top: -250px;
+        margin-top: -410px;
     }
 
     .pedagogyCopyTextEight {
@@ -1331,7 +1338,7 @@ and (max-height: 780px)
 
     /* Pedagogy Sub Seven */
     #pedagogySubSeven {
-        margin-top: -1082px;
+        margin-top: -1260px;
     }
 
     .endlinePedagogyTwo {

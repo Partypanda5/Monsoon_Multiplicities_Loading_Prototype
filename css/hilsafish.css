@@ -358,7 +358,7 @@ and (max-height: 680px)
         }
         
         #fishSubTwo {
-            top: -54px;
+            top: 5px;
         }
         #fishThree {
             top: 32%;
@@ -372,7 +372,7 @@ and (max-height: 680px)
             top: 29%;
         }
         #fishSubThree {
-            top: -180px;
+            top: -80px;
         }
         #fishVideoOne {
             height: 76.1vh;
@@ -398,7 +398,7 @@ and (max-height: 680px)
             top: -2%;
         }
         #fishSubFour {
-            top: 725px;
+            top: 865px;
         }
         #fishFive {
             top: 43.8%;
@@ -424,7 +424,7 @@ and (max-height: 680px)
             top: 10%;
         }
         #fishSubFive {
-            top: 1698px;
+            top: 1880px;
         }
         #fishVideoTwo {
             height: 76.1vh;
@@ -443,7 +443,7 @@ and (max-height: 680px)
         }
         
         #fishSubSix {
-            top: 2076px;
+            top: 2300px;
         }
         #fishVideoThree {
             height: 76.1vh;
@@ -461,13 +461,13 @@ and (max-height: 680px)
             top: 26%;
         }
         #fishSubSeven {
-            top: 2508px;
+            top: 2790px;
         }
         #fishSeven {
             top: 38%;
         }
         #fishSubEight {
-            top: 2478px;
+            top: 2780px;
         }
         #fishVideoFive {
             height: 37vh;
@@ -490,7 +490,7 @@ and (max-height: 780px)
     }
     #fishTwo {
         left: -1.2%;
-        top: 7%;
+        top: 4%;
     }
     #fishImageDescriptionOne {
         top: -13%;
@@ -1663,6 +1663,11 @@ and (min-height: 781px) and (max-height: 1025px)
     #fishImageDescriptionTen 
     {
         top: -16.5%;
+    }
+
+    .endLineFishThree {
+        top: -1%;
+
     }
         
 }
