@@ -453,226 +453,622 @@
     border-bottom: 2px dotted black;
 }
 
-@media(max-width: 1299px) 
+/*------------ Tablet Responisve 1024 x 600 ---------------*/
+@media (max-width: 1025px) and (min-height: 599px) 
+and (max-height: 680px)
 {
+    #timeOne
+    {
+        width: 111vw; 
+    }
+    #timeMainTitle
+    {
+        top: 17%;
+    }
+    #timeVideoOne
+    {
+        top: -8%;
+    }
+    #timeVideoFive
+    {
+        top: 50%;
+    }
+    #timeVideoTen
+    {
+        top: -21%; 
+    }
     #timeSubTwo 
     {
-        position: relative;
-        top: -12vh;
+        top: -220px;
     }
-
+    #timeEight
+    {
+        top: -13%;
+    }
+    #timeNine
+    {
+        top: -3%;
+    }
+    .timeCopyOne
+    {
+        top: 56%;
+    }
+    #timeImageDescriptionOne
+    {
+        top: 83%;
+    }
     #timeSubThree 
     {
-        top: 20vh;
+        top: -110px;
     }
-
+    #timeTen 
+    {
+        top: -43%;
+    }
     #timeSubFour 
     {
-        top: 40vh;
+        top: -190px;
     }
-
     #timeSubFive 
     {
-        top: 65vh;
+        top: -140px;
     }
-
+    #timeVideoSeven
+    {
+        height: 35vh; 
+    }
     #timeSubSix 
     {
-        top: 222vh;
+        top: 550px;
     }
 
     #timeSubSeven 
     {
-        top: 310vh;
+        top: 1006px;
     }
 
     #timeSubEight 
     {
-        top: 380vh;
+        top: 1341px;
     }
 
     #timeSubNine 
     {
-        top: 345vh;
+        top: 1144px;
     }
 
     #timeSubTen 
     {
-        top: 360vh;
+        top: 1120px;
         height: 50vh;
-    }  
-
-    #timeVideoOne
-    {
-        top: -5%;
-        left: -32.9%;
     }
 
-    #timeVideoTen 
+    #timeGridTwo
     {
-        top: -28%;
-        left: -32.9%;
-    }
-
-    .timeCopyOne 
-    {
-        top: 57%;
-    }
-
-    #timeTwo 
-    {
-        left: 34.5%;
-        top: 10%;
-    }
-
-    #timeThree 
-    {
-        left: 0.8%;
-        top: -20%;
-    }
-
-    #timeSix 
-    {
-        left: -16.9%;
-        top: 53%;
-    }
-
-    #timeSeven 
-    {
-        left: -83%;
-        top: 71%;
-    }
-
-    #timeEight 
-    {
-        left: 7.5%;
-        top: -9%;
-    }
-
-    #timeNine 
-    {
-        left: -31.9%;
-        top: -10%;
-    }
-
-    #timeTen 
-    {
-        left: 29.1%;
-        top: -61%;
-    }
-
-    #timeEleven 
-    {
-        left: 34.5%;
-        top: -61%; 
-    }
-
-    #timeGridTwo 
-    {
-        left: -44.3%;
-        top: 0%;
+        top: 5%;
+        left: -45%;
     }
 
     #timeGridThree 
     {
-        left: -44.2%;
+        left: -44%;
         top: 15%;
     }
 
     #timeGridFour 
     {
+        left: -45%;
+    top: -51%;
+    }
+
+    #timeGridSix 
+    {
+        left: -45.4%;
+        top: -26%;
+    }
+
+    #timeGridSeven 
+    {
+        left: -48.5%;
+        top: -16%;
+    }
+    
+    #timeGridEight 
+    {
+        left: -14.7%;
+        top: -82%;
+    }
+
+    #timeEleven 
+    {
+        left: 34.5%;
+        top: -43%;
+    }
+
+    #timeTwo 
+    {   
+        left: 34.5%;
+        top: 11%;
+    }
+
+    #timeThree 
+    {
+        left: 0.65%;
+        top: -19%;
+    }
+    #timeFive
+    {
+        top: -23%;
+    }
+    #timeSix {
+        left: -16.9%;
+        top: 50%;
+        z-index: -10;
+    }
+
+    #timeSeven {
+        left: -83.5%;
+        top: 62%;
+    }
+    
+
+    #gridImageTimeTwo 
+    {
+        margin-left: 8px;
+        margin-right: 5px;
+    }
+
+    #gridImageTimeThree 
+    {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    #timeImageDescriptionFour 
+    {
+        top: 78%;
+        left: 35.3%;
+        width: 20%;
+      
+    }
+    #timeHorizontalGridOne 
+    {
+        top: 49%;
+    }
+    #timeHorizontalGridTwo 
+    {
+        top: 82%;
+        left: 0.8%;
+    }
+
+    #timeHorizontalGridThree 
+    {
+        top: 117%;
+        left: 0.8%;
+    }
+    #timeHorizontalGridFour
+    {
+        top: 151%;
+    }
+    #timeSubFive .copyText
+    {
+        top: 18%;
+    }
+    #timeSubThree .copyText 
+    {
+        top: 18%;
+    }
+
+    .endLineTimeTwo {
+        width: 64.5vw;
+        top: 28%;
+        left: 0%;
+    }
+
+    #timeImageDescriptionSix {
+        top: 37%;
+        pointer-events: none;
+        width: 24%;
+    }
+}
+
+/*------------ Tablet Responisve 1024 x 768 ---------------*/
+@media (max-width: 1025px) and (min-height: 681px) 
+and (max-height: 780px)
+{
+    #timeOne
+    {
+        width: 111vw; 
+    }
+    #timeMainTitle
+    {
+        top: 17%;
+    }
+    #timeVideoOne
+    {
+        top: 1%;
+    }
+    #timeVideoFive
+    {
+        top: 38%;
+    }
+    #timeVideoTen
+    {
+        top: -21%; 
+    }
+    #timeSubTwo 
+    {
+        top: -500px;
+    }
+    #timeEight
+    {
+        top: -4%;
+    }
+    #timeNine
+    {
+        top: -3%;
+    }
+    .timeCopyOne
+    {
+        top: 56%;
+    }
+    #timeImageDescriptionOne
+    {
+        top: 74%;
+    }
+    #timeSubThree 
+    {
+        top: -580px;
+    }
+    #timeTen 
+    {
+        top: -34%;
+    }
+    #timeSubFour 
+    {
+        top: -870px;
+    }
+    #timeSubFive 
+    {
+        top: -930px;
+    }
+    #timeVideoSeven
+    {
+        height: 27vh; 
+    }
+    #timeSubSix 
+    {
+        top: -480px;
+    }
+
+    #timeSubSeven 
+    {
+        top: -44px;
+    }
+
+    #timeSubEight 
+    {
+        top: 41px;
+    }
+
+    #timeSubNine 
+    {
+        top: -306px;
+    }
+
+    #timeSubTen 
+    {
+        top: -601px;
+        height: 50vh;
+    }
+
+    #timeGridTwo
+    {
+        top: 5%;
+        left: -45%;
+    }
+
+    #timeGridThree 
+    {
+        left: -44%;
+        top: 15%;
+    }
+
+    #timeGridFour 
+    {
+        left: -44%;
+        top: -31%;
+    }
+
+    #timeGridSix 
+    {
+        left: -45.4%;
+        top: -10%;
+    }
+
+    #timeGridSeven 
+    {
+        left: -48.5%;
+        top: -8%;
+    }
+    
+    #timeGridEight 
+    {
+        left: -14.7%;
+        top: -74%;
+    }
+
+    #timeEleven 
+    {
+        left: 34.5%;
+        top: -33%;
+    }
+
+    #timeTwo 
+    {   
+        left: 34.5%;
+        top: 11%;
+    }
+
+    #timeThree 
+    {
+        left: 0.65%;
+        top: -7%;
+    }
+    #timeFive
+    {
+        top: -16%;
+    }
+    #timeSix 
+    {
+        left: -16.9%;
+        top: 32%;
+    }
+
+    #timeSeven 
+    {
+        left: -83.5%;
+        top: 44%;
+    }
+
+    #gridImageTimeTwo 
+    {
+        margin-left: 8px;
+        margin-right: 5px;
+    }
+
+    #gridImageTimeThree 
+    {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    #timeImageDescriptionFour 
+    {
+        top: 53%;
+        left: 35.3%;    
+    }
+    #timeHorizontalGridOne 
+    {
+        top: 34%;
+    }
+    #timeHorizontalGridTwo 
+    {
+        top: 62%;
+        left: 0.8%;
+    }
+
+    #timeHorizontalGridThree 
+    {
+        top: 92%;
+        left: 0.8%;
+    }
+    #timeHorizontalGridFour
+    {
+        top: 120%;
+    }
+    #timeSubFive .copyText
+    {
+        top: 16%;
+    }
+    #timeSubThree .copyText
+    {
+        top: 18%;
+    }
+    #timeImageDescriptionSix {
+        top: 33%;
+        left: 35.3%;
+    }
+
+    .endLineTimeTwo {
+        top: 24%;
+        left: 0%;
+    }
+}
+
+/*------------ Desktop Responisve 1280 x 582 ---------------*/
+@media (min-width: 1026px) and (max-width: 1299px) 
+{
+    #timeSubTwo 
+    {
+        position: relative;
+        top: -69px;
+    }
+    #timeSubThree 
+    {
+        top: 116px;
+    }
+    #timeSubFour 
+    {
+        top: 232px;
+    }
+    #timeSubFive 
+    {
+        top: 378px;
+    }
+    #timeSubSix 
+    {
+        top: 1292px;
+    }
+    #timeSubSeven 
+    {
+        top: 1804px;
+    }
+    #timeSubEight 
+    {
+        top: 2211px;
+    }
+    #timeSubNine 
+    {
+        top: 2007px;
+    }
+    #timeSubTen 
+    {
+        top: 2095px;
+        height: 50vh;
+    }  
+    #timeVideoOne
+    {
+        top: -5%;
+        left: -32.9%;
+    }
+    #timeVideoTen 
+    {
+        top: -28%;
+        left: -32.9%;
+    }
+    .timeCopyOne 
+    {
+        top: 57%;
+    }
+    #timeTwo 
+    {
+        left: 34.5%;
+        top: 10%;
+    }
+    #timeThree 
+    {
+        left: 0.8%;
+        top: -20%;
+    }
+    #timeSix 
+    {
+        left: -16.9%;
+        top: 53%;
+    }
+    #timeSeven 
+    {
+        left: -83%;
+        top: 71%;
+    }
+    #timeEight 
+    {
+        left: 7.5%;
+        top: -9%;
+    }
+    #timeNine 
+    {
+        left: -31.9%;
+        top: -10%;
+    }
+    #timeTen 
+    {
+        left: 29.1%;
+        top: -61%;
+    }
+    #timeEleven 
+    {
+        left: 34.5%;
+        top: -61%; 
+    }
+    #timeGridTwo 
+    {
+        left: -44.3%;
+        top: 0%;
+    }
+    #timeGridThree 
+    {
+        left: -44.2%;
+        top: 15%;
+    }
+    #timeGridFour 
+    {
         left: -44.2%;
         top: -55%;
     }   
-
     #timeGridSix 
     {
         left: -45.7%;   
         top: -24%;
     }
-
     #timeGridSeven 
     {
         left: -48.4%;
         top: -19%;
     }
-
     #timeGridEight 
     {
         left: -14.7%;
         top: -85%;
     }
-
     #timeHorizontalGridOne 
     {
         top: 52%;
         left: 1.25%;
     }
-
     #timeHorizontalGridTwo 
     {
         top: 93%;
         left: 0.5%;
     }
-
     #timeHorizontalGridThree 
     {
         top: 134%;
         left: 0.5%;
     }
-
     #timeHorizontalGridFour 
     {
         top: 175%;
         left: 1.25%;
     }
-
     #timeImageDescriptionOne 
     {
         top: 84%;
         left: 35.3%;
     }
-
     #timeImageDescriptionTwo 
     {
         top: 87%;
         left: 51%;
     }
-
     #timeImageDescriptionThree 
     {
         top: 87%;
         left: 52.2%;
     }
-
     #timeImageDescriptionFour 
     {
         top: 87%;
     }
-
     #timeGridSix 
     {
         left: -44.5%;
         top: -24%;
     }
-
     #timeVideoSeven 
     {
         height: 45vh;
     }
-
     #timeVideoEight 
     {
         top: 14%;
         left: -32.9%;
     }
-
     #timeVideoFive 
     {
         top: 52%;
         left: -32.9%;
     }
-
     #gridImageTimeTwo 
     {
         width: 30vw;
@@ -680,21 +1076,991 @@
         margin-right: 5px;
         margin-top: 3vh;
     }
-
     #gridImageTimeThree 
     {
         width: 29.8vw;
         margin-left: 10px;
         margin-right: 0px;
     }
-
     .endLineTimeTwo 
     {
         top: 21%;
     }
 }
 
+/*------------ Desktop Responisve 1280 x 689 ---------------*/
+@media (min-width: 1026px) and (max-width: 1299px) 
+and (min-height: 680px) and (max-height: 766px)
+{
+    #timeSubTwo 
+    {
+        position: relative;
+        top: -259px;
+    }
+    #timeSubThree 
+    {
+        top: -164px;
+    }
+    #timeSubFour 
+    {
+        top: -188px;
+    }
+    #timeSubFive 
+    {
+        top: -122px;
+    }
+    #timeSubSix 
+    {
+        top: 952px;
+    }
+    #timeSubSeven 
+    {
+        top: 1444px;
+    }
+    #timeSubEight 
+    {
+        top: 1721px;
+    }
+    #timeSubNine 
+    {
+        top: 1417px;
+    }
+    #timeSubTen 
+    {
+        top: 1425px;
+        height: 50vh;
+    }  
+    #timeVideoOne
+    {
+        top: -3%;
+        left: -32.9%;
+    }
+    #timeVideoTen 
+    {
+        top: -28%;
+        left: -32.9%;
+    }
+    .timeCopyOne 
+    {
+        top: 57%;
+    }
+    #timeTwo 
+    {
+        left: 34.5%;
+        top: 10%;
+    }
+    #timeThree 
+    {
+        left: 0.8%;
+        top: -17%;
+    }
+    #timeSix 
+    {
+        left: -16.9%;
+        top: 46%;
+    }
+    #timeSeven 
+    {
+        left: -83%;
+        top: 63%;
+    }
+    #timeEight 
+    {
+        left: 7.5%;
+        top: -9%;
+    }
+    #timeNine 
+    {
+        left: -31.9%;
+        top: -10%;
+    }
+    #timeTen 
+    {
+        left: 29.1%;
+        top:-54%;
+    }
+    #timeEleven 
+    {
+        left: 34.5%;
+        top: -53%; 
+    }
+    #timeGridTwo 
+    {
+        left: -44.3%;
+        top: 0%;
+    }
+    #timeGridThree 
+    {
+        left: -44.2%;
+        top: 15%;
+    }
+    #timeGridFour 
+    {
+        left: -44.2%;
+        top: -48%;
+    }   
+    #timeGridSix 
+    {
+        left: -45.7%;   
+        top: -24%;
+    }
+    #timeGridSeven 
+    {
+        left: -48.4%;
+        top: -19%;
+    }
+    #timeGridEight 
+    {
+        left: -14.7%;
+        top: -85%;
+    }
+    #timeHorizontalGridOne 
+    {
+        top: 52%;
+        left: 1.25%;
+    }
+    #timeHorizontalGridTwo 
+    {
+        top: 93%;
+        left: 0.5%;
+    }
+    #timeHorizontalGridThree 
+    {
+        top: 134%;
+        left: 0.5%;
+    }
+    #timeHorizontalGridFour 
+    {
+        top: 175%;
+        left: 1.25%;
+    }
+    #timeImageDescriptionOne 
+    {
+        top: 84%;
+        left: 35.3%;
+    }
+    #timeImageDescriptionTwo 
+    {
+        top: 87%;
+        left: 51%;
+    }
+    #timeImageDescriptionThree 
+    {
+        top: 87%;
+        left: 52.2%;
+    }
+    #timeImageDescriptionFour 
+    {
+        top: 82%;
+    }
+    #timeGridSix 
+    {
+        left: -44.5%;
+        top: -24%;
+    }
+    #timeVideoSeven 
+    {
+        height: 45vh;
+    }
+    #timeVideoEight 
+    {
+        top: 14%;
+        left: -32.9%;
+    }
+    #timeVideoFive 
+    {
+        top: 44%;
+        left: -32.9%;
+    }
+    #gridImageTimeTwo 
+    {
+        width: 30vw;
+        margin-left: 7px;
+        margin-right: 5px;
+        margin-top: 3vh;
+    }
+    #gridImageTimeThree 
+    {
+        width: 29.8vw;
+        margin-left: 10px;
+        margin-right: 0px;
+    }
+    .endLineTimeTwo 
+    {
+        top: 21%;
+    }
+}
+
+/*------------ Desktop Responisve 1280 x 768 ---------------*/
+@media (min-width: 1026px) and (max-width: 1299px) 
+and (min-height: 767px) and (max-height: 798px)
+{
+    #timeSubTwo 
+    {
+        position: relative;
+        top: -389px;
+    }
+    #timeSubThree 
+    {
+        top: -374px;
+    }
+    #timeSubFour 
+    {
+        top: -498px;
+    }
+    #timeSubFive 
+    {
+        top: -452px;
+    }
+    #timeSubSix 
+    {
+        top: 302px;
+    }
+    #timeSubSeven 
+    {
+        top: 794px;
+    }
+    #timeSubEight 
+    {
+        top: 1021px;
+    }
+    #timeSubNine 
+    {
+        top: 646px;
+    }
+    #timeSubTen 
+    {
+        top: 535px;
+        height: 50vh;
+    }  
+    #timeVideoOne
+    {
+        top: -1%;
+        left: -32.9%;
+    }
+    #timeVideoTen 
+    {
+        top: -25%;
+        left: -32.9%;
+    }
+    .timeCopyOne 
+    {
+        top: 56%;
+    }
+    #timeTwo 
+    {
+        left: 34.5%;
+        top: 10%;
+    }
+    #timeThree 
+    {
+        left: 0.8%;
+        top: -14%;
+    }
+    #timeFive
+    {
+        top: -21%;
+    }
+    #timeSix 
+    {
+        left: -16.9%;
+        top: 41%;
+    }
+    #timeSeven 
+    {
+        left: -83%;
+        top: 57%;
+    }
+    #timeEight 
+    {
+        left: 7.5%;
+        top: -8%;
+    }
+    #timeNine 
+    {
+        left: -31.9%;
+        top: -8%;
+    }
+    #timeTen 
+    {
+        left: 29.1%;
+        top:-44%;
+    }
+    #timeEleven 
+    {
+        left: 34.5%;
+        top: -42%; 
+    }
+    #timeGridTwo 
+    {
+        left: -44.3%;
+        top: 3%;
+    }
+    #timeGridThree 
+    {
+        left: -44.2%;
+        top: 15%;
+    }
+    #timeGridFour 
+    {
+        left: -44.2%;
+        top: -40%;
+    }   
+    #timeGridSix 
+    {
+        left: -45.7%;   
+        top: -16%;
+    }
+    #timeGridSeven 
+    {
+        left: -48.4%;
+        top: -15%;
+    }
+    #timeGridEight 
+    {
+        left: -14.7%;
+        top: -81%;
+    }
+    #timeHorizontalGridOne 
+    {
+        top: 39%;
+        left: 1.25%;
+    }
+    #timeHorizontalGridTwo 
+    {
+        top: 76%;
+        left: 0.5%;
+    }
+    #timeHorizontalGridThree 
+    {
+        top: 109%;
+        left: 0.5%;
+    }
+    #timeHorizontalGridFour 
+    {
+        top: 137%;
+        left: 1.25%;
+    }
+    #timeImageDescriptionOne 
+    {
+        top: 76%;
+        left: 35.3%;
+    }
+    #timeImageDescriptionTwo 
+    {
+        top: 87%;
+        left: 51%;
+    }
+    #timeImageDescriptionThree 
+    {
+        top: 87%;
+        left: 52.2%;
+    }
+    #timeImageDescriptionFour 
+    {
+        top: 74%;
+    }
+    #timeVideoSeven 
+    {
+        height: 45vh;
+    }
+    #timeVideoEight 
+    {
+        top: 14%;
+        left: -32.9%;
+    }
+    #timeVideoFive 
+    {
+        top: 40%;
+        left: -32.9%;
+    }
+    #gridImageTimeTwo 
+    {
+        width: 30vw;
+        margin-left: 7px;
+        margin-right: 5px;
+        margin-top: 3vh;
+    }
+    #gridImageTimeThree 
+    {
+        width: 29.8vw;
+        margin-left: 10px;
+        margin-right: 0px;
+    }
+    .endLineTimeTwo 
+    {
+        top: 21%;
+    }
+}
+
+/*------------ Desktop Responisve 1280 x 800 ---------------*/
+@media (min-width: 1026px) and (max-width: 1299px) 
+and (min-height: 799px) and (max-height: 801px)
+{
+    #timeSubTwo 
+    {
+        position: relative;
+        top: -439px;
+    }
+    #timeSubThree 
+    {
+        top: -489px;
+    }
+    #timeSubFour 
+    {
+        top: -659px;
+    }
+    #timeSubFive 
+    {
+        top: -661px;
+    }
+    #timeSubSix 
+    {
+        top: 126px;
+    }
+    #timeSubSeven 
+    {
+        top: 608px;
+    }
+    #timeSubEight 
+    {
+        top: 803px;
+    }
+    #timeSubNine 
+    {
+        top: 429px;
+    }
+    #timeSubTen 
+    {
+        top: 305px;
+        height: 50vh;
+    }  
+    #timeVideoOne
+    {
+        top: -1%;
+        left: -32.9%;
+    }
+    #timeVideoTen 
+    {
+        top: -25%;
+        left: -32.9%;
+    }
+    .timeCopyOne 
+    {
+        top: 56%;
+    }
+    #timeTwo 
+    {
+        left: 34.5%;
+        top: 10%;
+    }
+    #timeThree 
+    {
+        left: 0.8%;
+        top: -14%;
+    }
+    #timeFive
+    {
+        top: -21%;
+    }
+    #timeSix 
+    {
+        left: -16.9%;
+        top: 41%;
+    }
+    #timeSeven 
+    {
+        left: -83%;
+        top: 57%;
+    }
+    #timeEight 
+    {
+        left: 7.5%;
+        top: -8%;
+    }
+    #timeNine 
+    {
+        left: -31.9%;
+        top: -8%;
+    }
+    #timeTen 
+    {
+        left: 29.1%;
+        top:-44%;
+    }
+    #timeEleven 
+    {
+        left: 34.5%;
+        top: -42%; 
+    }
+    #timeGridTwo 
+    {
+        left: -44.3%;
+        top: 3%;
+    }
+    #timeGridThree 
+    {
+        left: -44.2%;
+        top: 15%;
+    }
+    #timeGridFour 
+    {
+        left: -44.2%;
+        top: -40%;
+    }   
+    #timeGridSix 
+    {
+        left: -45.7%;   
+        top: -16%;
+    }
+    #timeGridSeven 
+    {
+        left: -48.4%;
+        top: -15%;
+    }
+    #timeGridEight 
+    {
+        left: -14.7%;
+        top: -81%;
+    }
+    #timeHorizontalGridOne 
+    {
+        top: 39%;
+        left: 1.25%;
+    }
+    #timeHorizontalGridTwo 
+    {
+        top: 76%;
+        left: 0.5%;
+    }
+    #timeHorizontalGridThree 
+    {
+        top: 109%;
+        left: 0.5%;
+    }
+    #timeHorizontalGridFour 
+    {
+        top: 137%;
+        left: 1.25%;
+    }
+    #timeImageDescriptionOne 
+    {
+        top: 76%;
+        left: 35.3%;
+    }
+    #timeImageDescriptionTwo 
+    {
+        top: 87%;
+        left: 51%;
+    }
+    #timeImageDescriptionThree 
+    {
+        top: 87%;
+        left: 52.2%;
+    }
+    #timeImageDescriptionFour 
+    {
+        top: 74%;
+    }
+    #timeVideoSeven 
+    {
+        height: 45vh;
+    }
+    #timeVideoEight 
+    {
+        top: 14%;
+        left: -32.9%;
+    }
+    #timeVideoFive 
+    {
+        top: 40%;
+        left: -32.9%;
+    }
+    #gridImageTimeTwo 
+    {
+        width: 30vw;
+        margin-left: 7px;
+        margin-right: 5px;
+        margin-top: 3vh;
+    }
+    #gridImageTimeThree 
+    {
+        width: 29.8vw;
+        margin-left: 10px;
+        margin-right: 0px;
+    }
+    .endLineTimeTwo 
+    {
+        top: 21%;
+    }
+}
+
+/*------------ Desktop Responisve 1387 x 540 ---------------*/
 @media (min-width: 1300px) and (max-width: 1399px) 
+and (min-height: 539px) and (max-height: 679px)
+{
+
+    #timeMainTitle
+    {
+        top: 17%;
+    }
+    #timeSubTwo 
+    {
+        top: 62px;
+    }
+    #timeSubThree 
+    {
+        top: 371px;
+    }
+    #timeSubFour 
+    {
+        top: 611px;
+    }
+    #timeSubFive 
+    {
+        top: 989px;
+    }
+
+    #timeSubSix 
+    {
+        top: 2000px;
+    }
+
+    #timeSubSeven 
+    {
+        top: 2506px;
+    }
+
+    #timeSubEight 
+    {
+        top: 3001px;
+    }
+
+    #timeSubNine 
+    {
+        top: 2794px;
+    }
+
+    #timeSubTen 
+    {
+        top: 2859px;
+        height: 50vh;
+    }
+
+    #timeGridTwo
+    {
+        left: -44%;
+    }
+
+    #timeGridThree 
+    {
+        left: -44%;
+        top: 15%;
+    }
+
+    #timeGridFour 
+    {
+        left: -44%;
+        top: -45%;
+    }
+
+    #timeGridSix 
+    {
+        left: -45.4%;
+        top: -22%;
+    }
+
+    #timeGridSeven 
+    {
+        left: -48.5%;
+        top: -13%;
+    }
+    
+    #timeGridEight 
+    {
+        left: -14.7%;
+        top: -79%;
+    }
+
+    #timeEleven 
+    {
+        left: 34.5%;
+        top: -69%;
+    }
+
+    #timeTwo 
+    {   
+        left: 34.5%;
+        top: 15%;
+    }
+
+    #timeThree 
+    {
+        left: 0.65%;
+        top: -12%;
+    }
+
+    #timeSix 
+    {
+        left: -16.9%;
+        top: 48%;
+    }
+
+    #timeSeven 
+    {
+        left: -83.5%;
+        top: 63%;
+    }
+    #timeNine
+    {
+        top: -7%;
+    }
+    #timeTen
+    {
+        top: -71%;
+    }
+    #gridImageTimeTwo 
+    {
+        margin-left: 8px;
+        margin-right: 5px;
+    }
+
+    #gridImageTimeThree 
+    {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    #timeImageDescriptionOne
+    {
+        top: 90%;
+    }
+    #timeImageDescriptionTwo
+    {
+        left: 51%;
+        top: 86%;
+    }
+    #timeImageDescriptionThree
+    {
+        top: 87%;
+    }
+    #timeImageDescriptionFour 
+    {
+        top: 83%;
+        left: 35.3%;    
+    }
+    #timeHorizontalGridOne
+    {
+        top: 49%;
+    }
+
+    #timeHorizontalGridTwo 
+    {
+        top: 95%;
+        left: 0.8%;
+    }
+
+    #timeHorizontalGridThree 
+    {
+        top: 142%;
+        left: 0.8%;
+    }
+    #timeHorizontalGridFour 
+    {
+        top: 188%;
+    }
+    #timeVideoOne
+    {
+        top: -7%; 
+    }
+    #timeVideoSeven
+    {
+        height: 52vh;
+    }
+    #timeVideoFive
+    {
+        top: 52%; 
+    }
+    .timeCopyTwo
+    {
+        top: 14%;
+    }
+}
+
+/*------------ Desktop Responisve 1366 x 695 ---------------*/
+@media (min-width: 1300px) and (max-width: 1399px) 
+and (min-height: 680px) and (max-height: 749px)
+{
+
+    #timeMainTitle
+    {
+        top: 17%;
+    }
+    #timeSubTwo 
+    {
+        top: -208px;
+    }
+    #timeSubThree 
+    {
+        top: 31px;
+    }
+    #timeSubFour 
+    {
+        top: 61px;
+    }
+    #timeSubFive 
+    {
+        top: 210px;
+    }
+
+    #timeSubSix 
+    {
+        top: 1010px;
+    }
+
+    #timeSubSeven 
+    {
+        top: 1576px;
+    }
+
+    #timeSubEight 
+    {
+        top: 1841px;
+    }
+
+    #timeSubNine 
+    {
+        top: 1504px;
+    }
+
+    #timeSubTen 
+    {
+        top: 1509px;
+        height: 50vh;
+    }
+
+    #timeGridTwo
+    {
+        left: -44%;
+    }
+
+    #timeGridThree 
+    {
+        left: -44%;
+        top: 15%;
+    }
+
+    #timeGridFour 
+    {
+        left: -44%;
+        top: -43%;
+    }
+
+    #timeGridSix 
+    {
+        left: -45.4%;
+        top: -22%;
+    }
+
+    #timeGridSeven 
+    {
+        left: -48.5%;
+        top: -13%;
+    }
+    
+    #timeGridEight 
+    {
+        left: -14.7%;
+        top: -79%;
+    }
+
+    #timeEleven 
+    {
+        left: 34.5%;
+        top: -47%;
+    }
+
+    #timeTwo 
+    {   
+        left: 34.5%;
+        top: 15%;
+    }
+
+    #timeThree 
+    {
+        left: 0.65%;
+        top: -12%;
+    }
+
+    #timeSix 
+    {
+        left: -16.9%;
+        top: 48%;
+    }
+
+    #timeSeven 
+    {
+        left: -83.5%;
+        top: 63%;
+    }
+    #timeTen
+    {
+        top: -51%;
+    }
+    #gridImageTimeTwo 
+    {
+        margin-left: 8px;
+        margin-right: 5px;
+    }
+
+    #gridImageTimeThree 
+    {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    #timeImageDescriptionFour 
+    {
+        top: 83%;
+        left: 35.3%;    
+    }
+    #timeHorizontalGridOne
+    {
+        top: 46%;
+    }
+
+    #timeHorizontalGridTwo 
+    {
+        top: 81%;
+        left: 0.8%;
+    }
+
+    #timeHorizontalGridThree 
+    {
+        top: 116%;
+        left: 0.8%;
+    }
+    #timeHorizontalGridFour 
+    {
+        top: 151%;
+    }
+    #timeVideoOne
+    {
+        top: -3%; 
+    }
+    #timeVideoFive
+    {
+        top: 46%; 
+    }
+    .timeCopyTwo
+    {
+        top: 14%;
+    }
+}
+
+
+/*------------ Desktop Responisve 1366 x 768 ---------------*/
+@media (min-width: 1300px) and (max-width: 1399px) 
+and (min-height: 750px) and (max-height: 780px)
 {
 
     #timeMainTitle
@@ -704,32 +2070,32 @@
 
     #timeSubFive 
     {
-        top: -30vh;
+        top: -230px;
     }
 
     #timeSubSix 
     {
-        top: 60vh;
+        top: 460px;
     }
 
     #timeSubSeven 
     {
-        top: 135vh;
+        top: 1036px;
     }
 
     #timeSubEight 
     {
-        top: 159vh;
+        top: 1221px;
     }
 
     #timeSubNine 
     {
-        top: 110vh;
+        top: 844px;
     }
 
     #timeSubTen 
     {
-        top: 95vh;
+        top: 729px;
         height: 50vh;
     }
 
@@ -829,6 +2195,204 @@
     }
 }
 
+/*------------ Tablet Responisve 1366 x 1024 ---------------*/
+@media (min-width: 1300px) and (max-width: 1399px) 
+and (min-height: 781px) and (max-height: 1025px)
+{
+
+    #timeMainTitle
+    {
+        top: 17%;
+    }
+    #timeVideoOne
+    {
+        top: 3%;
+    }
+    #timeVideoFive
+    {
+        top: 38%;
+    }
+    #timeVideoTen
+    {
+        top: -21%; 
+    }
+    #timeSubTwo 
+    {
+        top: -740px;
+    }
+    #timeEight
+    {
+        top: -4%;
+    }
+    #timeNine
+    {
+        top: -7%;
+    }
+    .timeCopyOne
+    {
+        top: 57%;
+    }
+    #timeImageDescriptionOne
+    {
+        top: 73%;
+    }
+    #timeSubThree 
+    {
+        top: -920px;
+    }
+    #timeTen 
+    {
+        top: -34%;
+    }
+    #timeSubFour 
+    {
+        top: -1320px;
+    }
+    #timeSubFive 
+    {
+        top: -1460px;
+    }
+    #timeVideoSeven
+    {
+        height: 27vh; 
+    }
+    #timeSubSix 
+    {
+        top: -1020px;
+    }
+
+    #timeSubSeven 
+    {
+        top: -444px;
+    }
+
+    #timeSubEight 
+    {
+        top: -489px;
+    }
+
+    #timeSubNine 
+    {
+        top: -1076px;
+    }
+
+    #timeSubTen 
+    {
+        top: -1471px;
+        height: 50vh;
+    }
+
+    #timeGridTwo
+    {
+        top: 5%;
+    }
+
+    #timeGridThree 
+    {
+        left: -44%;
+        top: 15%;
+    }
+
+    #timeGridFour 
+    {
+        left: -44%;
+        top: -31%;
+    }
+
+    #timeGridSix 
+    {
+        left: -45.4%;
+        top: -10%;
+    }
+
+    #timeGridSeven 
+    {
+        left: -48.5%;
+        top: -8%;
+    }
+    
+    #timeGridEight 
+    {
+        left: -14.7%;
+        top: -74%;
+    }
+
+    #timeEleven 
+    {
+        left: 34.5%;
+        top: -33%;
+    }
+
+    #timeTwo 
+    {   
+        left: 34.5%;
+        top: 11%;
+    }
+
+    #timeThree 
+    {
+        left: 0.65%;
+        top: -7%;
+    }
+    #timeFive
+    {
+        top: -16%;
+    }
+    #timeSix 
+    {
+        left: -16.9%;
+        top: 39%;
+    }
+
+    #timeSeven 
+    {
+        left: -83.5%;
+        top: 51%;
+    }
+
+    #gridImageTimeTwo 
+    {
+        margin-left: 8px;
+        margin-right: 5px;
+    }
+
+    #gridImageTimeThree 
+    {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    #timeImageDescriptionFour 
+    {
+        top: 62%;
+        left: 35.3%;    
+    }
+    #timeHorizontalGridOne 
+    {
+        top: 33%;
+    }
+    #timeHorizontalGridTwo 
+    {
+        top: 59%;
+        left: 0.8%;
+    }
+
+    #timeHorizontalGridThree 
+    {
+        top: 85%;
+        left: 0.8%;
+    }
+    #timeHorizontalGridFour
+    {
+        top: 111%;
+    }
+    #timeSubFive .copyText
+    {
+        top: 16%;
+    }
+}
+
+/*------------ Desktop Responisve 1400 x 768 ---------------*/
 @media (min-width: 1400px) and (max-width: 1499px) 
 {
     #timeMainTitle
@@ -838,39 +2402,39 @@
 
     #timeSubTwo 
     {
-        top: -35vh;
+        top: -268px;
     }
 
     #timeSubFour 
     {
-        top: -22vh;
+        top: -168px;
     }
 
     #timeSubFive 
     {
-        top: -8vh;
+        top: -61px;
     }
 
     #timeSubSix 
     {
-        top: 89vh;
+        top: 683px;
     }    
 
     #timeSubSeven 
     {
-        top: 166vh; 
+        top: 1274px; 
     }
 
     #timeSubEight {
-        top: 202vh;
+        top: 1551px;
     }
 
     #timeSubNine {
-        top: 160vh;
+        top: 1228px;
     }
 
     #timeSubTen {
-        top: 149vh;
+        top: 1144px;
         height: 50vh;
     }
 
@@ -1019,43 +2583,432 @@
     }
 }
 
-@media (min-width: 1500px) and (max-width: 1599px) 
+/*------------ Desktop Responisve 1400 x 833 ---------------*/
+@media (min-width: 1400px) and (max-width: 1499px) 
+and (min-height: 800px) and (max-height: 850px)
 {
+    #timeMainTitle
+    {
+        top: 16%;
+    }   
+
     #timeSubTwo 
     {
-        top: -21vh;
+        top: -408px;
+    }
+    #timeSubThree
+    {
+        top: -314px;
+    }
+    #timeSubFour 
+    {
+        top: -448px;
     }
 
-    #timeSubFour {
-        top: 4vh;
+    #timeSubFive 
+    {
+        top: -441px;
     }
 
-    #timeSubFive {
-        top: 28.5vh;
-    }
+    #timeSubSix 
+    {
+        top: 363px;
+    }    
 
-    #timeSubThree {
-    top: -8vh;
-    }
-
-    #timeSubSix {
-        top: 161vh;
-    }
-
-    #timeSubSeven {
-        top: 248vh;
+    #timeSubSeven 
+    {
+        top: 994px; 
     }
 
     #timeSubEight {
-        top: 295vh;
+        top: 1181px;
     }
 
     #timeSubNine {
-        top: 260vh;
-    }    
+        top: 778px;
+    }
 
     #timeSubTen {
-        top: 257vh;
+        top: 604px;
+        height: 50vh;
+    }
+
+    #timeTwo 
+    {
+        left: 34.6%;
+        top: 11.5%;
+    }
+
+    #timeThree 
+    {
+        left: 0.95%;
+        top: -13%;
+        width: 31.3vw;
+    }
+
+    #timeNine 
+    {
+        top: -1%;
+        width: 63vw;
+    }
+
+    #timeTen 
+    {
+        left: 29.3%;
+        top: -45%;
+    }
+
+    #timeEleven 
+    {
+        left: 34.6%;
+        top: -43.5%;
+    }
+
+    #timeSix 
+    {
+        left: -16.9%;
+        top: 39%;
+    }
+    #timeSeven {
+        top: 53%;
+    }
+
+    #timeGridTwo
+    {
+        left: -43.9%;
+        top: 4%;
+    }
+
+    #timeGridThree 
+    {
+        left: -43.9%;
+        top: 15%;
+    }   
+
+    #timeGridFour 
+    {
+        left: -43.9%;
+        top: -43%;
+    }
+
+    #timeGridSix 
+    {
+        left: -45.2%;
+        top: -22%;
+    }
+
+    #gridImageTimeTwo 
+    {
+        margin-left: 10px;
+        margin-right: 5px;
+        margin-top: 3vh;
+    }
+
+    .timeCopyFour
+    {
+        top: 17%;
+    }
+
+    .timeCopyTwo 
+    { 
+        top: 9.4%;
+        width: 26%;
+    }
+
+    #timeVideoSeven 
+    {
+        height: 34.2vh;
+    }
+
+    #timeVideoFive 
+    {
+        top: 40%;
+        left: -32.9%;
+    }
+
+    .drawingSeasonalTimeCopy
+    {
+        top: 17.5%;
+    }
+
+    #timeImageDescriptionTwo 
+    {
+        top: 82%;
+        left: 51%;
+    }
+
+    #timeImageDescriptionThree 
+    {
+        top: 84%;
+        left: 51.9%;
+    }
+
+    #timeImageDescriptionFour 
+    {
+        top: 71%;
+        left: 35.3%;
+    }
+
+    #timeHorizontalGridTwo 
+    {
+        top: 74%;
+        left: 0.6%;
+    }
+
+    #timeHorizontalGridThree 
+    {
+        top: 108%;
+        left: 0.6%;
+    }
+
+    #timeGridSeven 
+    {
+        left: -48.3%;
+        top: -14%;
+    }
+
+    #gridImageTimeThree 
+    {
+        width: 29.9vw;
+        margin-left: 10.2px;
+        margin-right: 0px;
+    }
+
+    #timeHorizontalGridFour 
+    {
+        top: 142%;
+        left: 1.25%;
+    }
+}
+
+/*------------ Desktop Responisve 1400 x 900 ---------------*/
+@media (min-width: 1400px) and (max-width: 1499px) 
+and (min-height: 851px) and (max-height: 901px)
+{
+    #timeMainTitle
+    {
+        top: 16%;
+    }   
+
+    #timeSubTwo 
+    {
+        top: -518px;
+    }
+    #timeSubThree
+    {
+        top: -484px;
+    }
+    #timeSubFour 
+    {
+        top: -698px;
+    }
+
+    #timeSubFive 
+    {
+        top: -781px;
+    }
+
+    #timeSubSix 
+    {
+        top: 63px;
+    }    
+
+    #timeSubSeven 
+    {
+        top: 714px; 
+    }
+
+    #timeSubEight {
+        top: 821px;
+    }
+
+    #timeSubNine {
+        top: 368px;
+    }
+
+    #timeSubTen {
+        top: 154px;
+        height: 50vh;
+    }
+
+    #timeTwo 
+    {
+        left: 34.6%;
+        top: 11.5%;
+    }
+
+    #timeThree 
+    {
+        left: 0.95%;
+        top: -13%;
+        width: 31.3vw;
+    }
+
+    #timeNine 
+    {
+        top: -1%;
+        width: 63vw;
+    }
+
+    #timeTen 
+    {
+        left: 29.3%;
+        top: -45%;
+    }
+
+    #timeEleven 
+    {
+        left: 34.6%;
+        top: -43.5%;
+    }
+
+    #timeSix 
+    {
+        left: -16.9%;
+        top: 39%;
+    }
+    #timeSeven {
+        top: 53%;
+    }
+
+    #timeGridTwo
+    {
+        left: -43.9%;
+        top: 4%;
+    }
+
+    #timeGridThree 
+    {
+        left: -43.9%;
+        top: 15%;
+    }   
+
+    #timeGridFour 
+    {
+        left: -43.9%;
+        top: -43%;
+    }
+
+    #timeGridSix 
+    {
+        left: -45.2%;
+        top: -22%;
+    }
+
+    #gridImageTimeTwo 
+    {
+        margin-left: 10px;
+        margin-right: 5px;
+        margin-top: 3vh;
+    }
+
+    .timeCopyFour
+    {
+        top: 17%;
+    }
+
+    .timeCopyTwo 
+    { 
+        top: 9.4%;
+        width: 26%;
+    }
+
+    #timeVideoSeven 
+    {
+        height: 34.2vh;
+    }
+
+    #timeVideoFive 
+    {
+        top: 37%;
+        left: -32.9%;
+    }
+
+    .drawingSeasonalTimeCopy
+    {
+        top: 17.5%;
+    }
+
+    #timeImageDescriptionTwo 
+    {
+        top: 82%;
+        left: 51%;
+    }
+
+    #timeImageDescriptionThree 
+    {
+        top: 84%;
+        left: 51.9%;
+    }
+
+    #timeImageDescriptionFour 
+    {
+        top: 71%;
+        left: 35.3%;
+    }
+
+    #timeHorizontalGridTwo 
+    {
+        top: 74%;
+        left: 0.6%;
+    }
+
+    #timeHorizontalGridThree 
+    {
+        top: 108%;
+        left: 0.6%;
+    }
+
+    #timeGridSeven 
+    {
+        left: -48.3%;
+        top: -14%;
+    }
+
+    #gridImageTimeThree 
+    {
+        width: 29.9vw;
+        margin-left: 10.2px;
+        margin-right: 0px;
+    }
+
+    #timeHorizontalGridFour 
+    {
+        top: 142%;
+        left: 1.25%;
+    }
+}
+
+/*------------ Desktop Responisve 1536 x 730 ---------------*/
+@media (min-width: 1500px) and (max-width: 1599px)
+{
+    #timeSubTwo 
+    {
+        top: -153px;
+    }
+    #timeSubThree {
+        top: -58px;
+        }
+    #timeSubFour {
+        top: 29px;
+    }
+    #timeSubFive {
+        top: 204px;
+    }
+    #timeSubSix {
+        top: 1175px;
+    }
+    #timeSubSeven {
+        top: 1810px;
+    }
+    #timeSubEight {
+        top: 2153px;
+    }
+    #timeSubNine {
+        top: 1898px;
+    }    
+    #timeSubTen {
+        top: 1876px;
         height: 50vh;
     }    
 
@@ -1234,44 +3187,682 @@
 
 }
 
-/* common - 1600×750, 1600×900 */
-@media (min-width: 1600px) and (max-width: 1699px) 
+/*------------ Desktop Responisve 1536 x 757 ---------------*/
+@media (min-width: 1500px) and (max-width: 1599px) 
+and (min-height: 751px) and (max-height: 780px)
 {
     #timeSubTwo 
     {
-        top: -18vh;
+        top: -193px;
+    }
+    #timeSubThree {
+        top: -58px;
+        }
+    #timeSubFour {
+        top: -1px;
+    }
+    #timeSubFive {
+        top: 144px;
+    }
+    #timeSubSix {
+        top: 1155px;
+    }
+    #timeSubSeven {
+        top: 1810px;
+    }
+    #timeSubEight {
+        top: 2133px;
+    }
+    #timeSubNine {
+        top: 1898px;
+    }    
+    #timeSubTen {
+        top: 1876px;
+        height: 50vh;
+    }    
+
+    #timeVideoOne 
+    {
+        top: -5%;
+        left: -32.9%;
+    }
+
+    #timeThree 
+    {
+        left: 1%;
+        top: -19.5%;
+    }
+
+    #timeFive 
+    {
+        left: -33%;
+        top: -33%;
+    }
+
+    #timeSix 
+    {
+        left: -16.9%;
+        top: 52%;
+    }
+
+    #timeSeven 
+    {
+        left: -84%;
+        top: 65%;
+    }
+
+    #timeEight 
+    {
+        left: 7.5%;
+        top: -12%;
+        z-index: -5;
+    }
+    
+    #timeNine 
+    {
+        left: -31.9%;
+        top: -17%;
+        z-index: -6;
+    }
+
+    #timeTen 
+    {
+        left: 29.1%;
+        top: -56%;
+    }
+
+    #timeEleven 
+    {
+        left: 34.7%;
+        top: -54%;
+        z-index: 0;
+    }
+
+    #timeImageDescriptionOne 
+    {
+        top: 86%;
+        left: 35.3%;
+    }
+
+    #timeImageDescriptionTwo 
+    {
+        top: 86%;
+        left: 51%;
+    }
+
+    #timeImageDescriptionThree 
+    {
+        top: 85%;
+        left: 51.4%;
+    }
+
+    #timeImageDescriptionFour 
+    {
+        top: 83%;
+        left: 35.3%;
+    }
+
+    #timeGridTwo 
+    {
+        left: -43.8%;
+        top: 0%;
+        z-index: 5;
+    }    
+
+    #timeGridThree 
+    {
+        left: -43.8%;
+        top: 15%;
+        z-index: -5;
+    }
+
+    #timeGridFour 
+    {
+        left: -43.8%;
+        top: -54%;
+        z-index: 5;
+    }
+
+    #timeGridSix
+    {
+        left: -44.6%;
+        top: -30%;
+    }
+
+    #timeGridSeven 
+    {
+        left: -48.35%;
+        top: -19%;
+    }
+
+    #timeGridEight {
+        left: -14.7%;
+        top: -85%;
+    }
+
+    #timeHorizontalGridOne 
+    {
+        top: 51%;
+        left: 1.25%;
+    }
+
+    #timeHorizontalGridTwo 
+    {
+        top: 88%;
+        left: 1%;
+    }
+
+    #timeHorizontalGridThree 
+    {
+        top: 125%;
+        left: 1%;
+    }
+
+    #timeHorizontalGridFour 
+    {
+        top: 162%;
+        left: 1.25%;
+    }
+
+    #timeVideoFive 
+    {
+        top: 53%;
+        left: -32.9%;
+    }
+
+    #timeVideoSeven 
+    {
+        width: 30vw;
+        height: 43vh;
+    }
+
+    #timeVideoTen 
+    {
+        top: -37%;
+        left: -32.9%;
+    }
+
+    #gridImageTimeTwo 
+    {
+        margin-left: 12px;
+    }
+
+    #gridImageTimeThree 
+    {
+        width: 30vw;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+}
+
+/*------------ Desktop Responisve 1536 x 792 ---------------*/
+@media (min-width: 1500px) and (max-width: 1599px) 
+and (min-height: 781px) and (max-height: 810px)
+{
+    #timeSubTwo 
+    {
+        top: -243px;
+    }
+    #timeSubThree {
+        top: -158px;
+        }
+    #timeSubFour {
+        top: -141px;
+    }
+    #timeSubFive {
+        top: -46px;
+    }
+    #timeSubSix {
+        top: 1005px;
+    }
+    #timeSubSeven {
+        top: 1660px;
+    }
+    #timeSubEight {
+        top: 1943px;
+    }
+    #timeSubNine {
+        top: 1688px;
+    }    
+    #timeSubTen {
+        top: 1646px;
+        height: 50vh;
+    }    
+
+    #timeVideoOne 
+    {
+        top: -5%;
+        left: -32.9%;
+    }
+
+    #timeThree 
+    {
+        left: 1%;
+        top: -19.5%;
+    }
+
+    #timeFive 
+    {
+        left: -33%;
+        top: -33%;
+    }
+
+    #timeSix 
+    {
+        left: -16.9%;
+        top: 50%;
+    }
+
+    #timeSeven 
+    {
+        left: -84%;
+        top: 65%;
+    }
+
+    #timeEight 
+    {
+        left: 7.5%;
+        top: -12%;
+        z-index: -5;
+    }
+    
+    #timeNine 
+    {
+        left: -31.9%;
+        top: -17%;
+        z-index: -6;
+    }
+
+    #timeTen 
+    {
+        left: 29.1%;
+        top: -54%;
+    }
+
+    #timeEleven 
+    {
+        left: 34.7%;
+        top: -54%;
+        z-index: 0;
+    }
+
+    #timeImageDescriptionOne 
+    {
+        top: 86%;
+        left: 35.3%;
+    }
+
+    #timeImageDescriptionTwo 
+    {
+        top: 86%;
+        left: 51%;
+    }
+
+    #timeImageDescriptionThree 
+    {
+        top: 85%;
+        left: 51.4%;
+    }
+
+    #timeImageDescriptionFour 
+    {
+        top: 83%;
+        left: 35.3%;
+    }
+
+    #timeGridTwo 
+    {
+        left: -43.8%;
+        top: 0%;
+        z-index: 5;
+    }    
+
+    #timeGridThree 
+    {
+        left: -43.8%;
+        top: 15%;
+        z-index: -5;
+    }
+
+    #timeGridFour 
+    {
+        left: -43.8%;
+        top: -54%;
+        z-index: 5;
+    }
+
+    #timeGridSix
+    {
+        left: -44.6%;
+        top: -30%;
+    }
+
+    #timeGridSeven 
+    {
+        left: -48.35%;
+        top: -19%;
+    }
+
+    #timeGridEight {
+        left: -14.7%;
+        top: -85%;
+    }
+
+    #timeHorizontalGridOne 
+    {
+        top: 51%;
+        left: 1.25%;
+    }
+
+    #timeHorizontalGridTwo 
+    {
+        top: 88%;
+        left: 1%;
+    }
+
+    #timeHorizontalGridThree 
+    {
+        top: 125%;
+        left: 1%;
+    }
+
+    #timeHorizontalGridFour 
+    {
+        top: 162%;
+        left: 1.25%;
+    }
+
+    #timeVideoFive 
+    {
+        top: 53%;
+        left: -32.9%;
+    }
+
+    #timeVideoSeven 
+    {
+        width: 30vw;
+        height: 40vh;
+    }
+
+    #timeVideoTen 
+    {
+        top: -37%;
+        left: -32.9%;
+    }
+
+    #gridImageTimeTwo 
+    {
+        margin-left: 12px;
+    }
+
+    #gridImageTimeThree 
+    {
+        width: 30vw;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .timeCopyThree
+    {
+        top: 13%;
+    }
+
+}
+
+/*------------ Desktop Responisve 1536 x 864 ---------------*/
+@media (min-width: 1500px) and (max-width: 1599px) 
+and (min-height: 811px) and (max-height: 870px)
+{
+    #timeSubTwo 
+    {
+        top: -373px;
+    }
+    #timeSubThree {
+        top: -238px;
+        }
+    #timeSubFour {
+        top: -321px;
+    }
+    #timeSubFive {
+        top: -346px;
+    }
+    #timeSubSix {
+        top: 505px;
+    }
+    #timeSubSeven {
+        top: 1150px;
+    }
+    #timeSubEight {
+        top: 1383px;
+    }
+    #timeSubNine {
+        top: 1018px;
+    }    
+    #timeSubTen {
+        top: 926px;
+        height: 50vh;
+    }    
+
+    #timeVideoOne 
+    {
+        top: -4%;
+        left: -32.9%;
+    }
+    #timeTwo
+    {
+        top: 10%;
+    }
+    #timeThree 
+    {
+        left: 1%;
+        top: -19.5%;
+    }
+
+    #timeFive 
+    {
+        left: -33%;
+        top: -30%;
+    }
+
+    #timeSix 
+    {
+        left: -16.9%;
+        top: 45%;
+    }
+
+    #timeSeven 
+    {
+        left: -84%;
+        top: 61%;
+    }
+
+    #timeEight 
+    {
+        left: 7.5%;
+        top: -12%;
+        z-index: -5;
+    }
+    
+    #timeNine 
+    {
+        left: -31.9%;
+        top: -8%;
+        z-index: -6;
+    }
+
+    #timeTen 
+    {
+        left: 29.1%;
+        top: -49%;
+    }
+
+    #timeEleven 
+    {
+        left: 34.7%;
+        top: -48%;
+        z-index: 0;
+    }
+
+    #timeImageDescriptionOne 
+    {
+        top: 82%;
+        left: 35.3%;
+    }
+
+    #timeImageDescriptionTwo 
+    {
+        top: 86%;
+        left: 51%;
+    }
+
+    #timeImageDescriptionThree 
+    {
+        top: 85%;
+        left: 51.4%;
+    }
+
+    #timeImageDescriptionFour 
+    {
+        top: 80%;
+        left: 35.3%;
+    }
+
+    #timeGridTwo 
+    {
+        left: -43.8%;
+        top: 0%;
+        z-index: 5;
+    }    
+
+    #timeGridThree 
+    {
+        left: -43.8%;
+        top: 15%;
+        z-index: -5;
+    }
+
+    #timeGridFour 
+    {
+        left: -43.8%;
+        top: -54%;
+        z-index: 5;
+    }
+
+    #timeGridSix
+    {
+        left: -44.6%;
+        top: -27%;
+    }
+
+    #timeGridSeven 
+    {
+        left: -48.35%;
+        top: -19%;
+    }
+
+    #timeGridEight {
+        left: -14.7%;
+        top: -85%;
+    }
+
+    #timeHorizontalGridOne 
+    {
+        top: 43%;
+        left: 1.25%;
+    }
+
+    #timeHorizontalGridTwo 
+    {
+        top: 76%;
+        left: 1%;
+    }
+
+    #timeHorizontalGridThree 
+    {
+        top: 109%;
+        left: 1%;
+    }
+
+    #timeHorizontalGridFour 
+    {
+        top: 142%;
+        left: 1.25%;
+    }
+
+    #timeVideoFive 
+    {
+        top: 45%;
+        left: -32.9%;
+    }
+
+    #timeVideoSeven 
+    {
+        width: 30vw;
+        height: 36vh;
+    }
+
+    #timeVideoTen 
+    {
+        top: -34%;
+        left: -32.9%;
+    }
+
+    #gridImageTimeTwo 
+    {
+        margin-left: 12px;
+    }
+
+    #gridImageTimeThree 
+    {
+        width: 30vw;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .timeCopyThree
+    {
+        top: 13%;
+    }
+
+}
+
+/*------------ Desktop Responisve 1600 x 750 ---------------*/
+@media (min-width: 1600px) and (max-width: 1699px)
+{
+    #timeSubTwo 
+    {
+        top: -135px;
     }
 
     #timeSubThree {
-        top: 12vh;
+        top: 90px;
     }
 
     #timeSubFour {
-        top: 23vh;
+        top: 172px;
     }
 
     #timeSubFive {
-        top: 46vh;
+        top: 345px;
     }
 
     #timeSubSix {
-        top: 169vh;
+        top: 1267px;
     }
 
     #timeSubSeven {
-        top: 251vh;
+        top: 1882px;
     }
 
     #timeSubEight {
-        top: 297vh;
+        top: 2227px;
     }
 
     #timeSubNine {
-        top: 249vh;
+        top: 1867px;
     }    
 
     #timeSubTen {
-        top: 239vh;
+        top: 1792px;
         height: 50vh;
     }
 
@@ -1409,5 +4000,2434 @@
         width: 30vw;
         margin-left: 9px;
         margin-right: 4px;
+    }
+}
+
+/*------------ Desktop Responisve 1600 x 829 ---------------*/
+@media (min-width: 1600px) and (max-width: 1699px) 
+and (min-height: 786px) and (max-height: 830px)
+{
+    #timeSubTwo 
+    {
+        top: -265px;
+    }
+
+    #timeSubThree {
+        top: -140px;
+    }
+
+    #timeSubFour {
+        top: -138px;
+    }
+
+    #timeSubFive {
+        top: -96px;
+    }
+
+    #timeSubSix {
+        top: 747px;
+    }
+
+    #timeSubSeven {
+        top: 1392px;
+    }
+
+    #timeSubEight {
+        top: 1657px;
+    }
+
+    #timeSubNine {
+        top: 1237px;
+    }    
+
+    #timeSubTen {
+        top: 1122px;
+        height: 50vh;
+    }
+
+    #timeNine 
+    {
+        left: -31.9%;
+        top: -7%;
+    }
+
+    #timeTen 
+    {
+        left: 29.3%;
+        top: -59%;
+    }
+
+    #timeTwo 
+    {
+        left: 34.7%;
+        top: 11%;
+    }
+
+    #timeThree 
+    {
+        left: 1%;
+        top: -12.5%;
+        width: 31.2vw;
+    }
+
+    #timeSix {
+        left: -16.9%;
+        top: 41%;
+    }
+
+    #timeSeven
+    {
+        left: -84%;
+        top: 58%;
+    }
+
+    #timeEleven 
+    {
+        left: 34.7%;
+        top: -56%;
+    }
+
+    #timeGridTwo 
+    {
+        left: -43.7%;
+        top: 0%;
+    }
+
+    #timeGridThree 
+    {
+        left: -43.7%;
+        top: 15%;
+    }
+
+    #timeGridFour 
+    {
+        left: -43.7%;
+        top: -49%;
+    }
+
+    #timeGridSix 
+    {
+        left: -44.8%;
+        top: -22%;
+    }
+
+    .drawingSeasonalTimeCopy
+    {
+        top: 17%;
+    }
+
+    #timeImageDescriptionTwo 
+    {
+        top: 86%;
+        left: 51%;
+    }
+
+    #timeImageDescriptionThree 
+    {
+        top: 86%;
+        left: 52.5%;
+    }
+
+    #timeImageDescriptionFour
+    {
+        top: 78%;
+        left: 35.3%;
+    }
+
+    #timeVideoSeven 
+    {
+        width: 30vw;
+        height: 39.5vh;
+    }
+    #timeVideoEight
+    {
+        top: 13%;
+    }
+
+    #timeVideoFive 
+    {
+        top: 41%;
+        left: -32.9%;
+    }
+
+    #timeHorizontalGridOne {
+        top: 38%;
+        left: 1.25%;
+    }
+
+    #timeHorizontalGridTwo 
+    {
+        top: 73%;
+        left: 0.69%;
+    }
+
+    #timeHorizontalGridThree 
+    {
+        top: 109%;
+        left: 0.69%;
+    }
+
+    #timeHorizontalGridFour 
+    {
+        top: 142%;
+        left: 1.25%;
+    }
+
+    #gridImageTimeTwo {
+        margin-left: 13px;
+        margin-right: 5px;
+    }
+
+    #gridImageTimeThree 
+    {
+        width: 30vw;
+        margin-left: 9px;
+        margin-right: 4px;
+    }
+}
+
+/*------------ Desktop Responisve 1600 x 900 ---------------*/
+@media (min-width: 1600px) and (max-width: 1699px) 
+and (min-height: 831px) and (max-height: 900px)
+{
+    #timeSubTwo 
+    {
+        top: -375px;
+    }
+
+    #timeSubThree {
+        top: -330px;
+    }
+
+    #timeSubFour {
+        top: -418px;
+    }
+
+    #timeSubFive {
+        top: -316px;
+    }
+
+    #timeSubSix {
+        top: 567px;
+    }
+
+    #timeSubSeven {
+        top: 1282px;
+    }
+
+    #timeSubEight {
+        top: 1467px;
+    }
+
+    #timeSubNine {
+        top: 1007px;
+    }    
+
+    #timeSubTen {
+        top: 872px;
+        height: 50vh;
+    }
+
+    #timeNine 
+    {
+        left: -31.9%;
+        top: -7%;
+    }
+
+    #timeTen 
+    {
+        left: 29.3%;
+        top: -50%;
+    }
+
+    #timeTwo 
+    {
+        left: 34.7%;
+        top: 11%;
+    }
+
+    #timeThree 
+    {
+        left: 1%;
+        top: -10.5%;
+        width: 31.2vw;
+    }
+
+    #timeSix {
+        left: -16.9%;
+        top: 41%;
+    }
+
+    #timeSeven
+    {
+        left: -84%;
+        top: 58%;
+    }
+
+    #timeEleven 
+    {
+        left: 34.7%;
+        top: -49%;
+    }
+
+    #timeGridTwo 
+    {
+        left: -43.7%;
+        top: 4%;
+    }
+
+    #timeGridThree 
+    {
+        left: -43.7%;
+        top: 15%;
+    }
+
+    #timeGridFour 
+    {
+        left: -43.7%;
+        top: -37%;
+    }
+
+    #timeGridSix 
+    {
+        left: -44.8%;
+        top: -22%;
+    }
+    #timeGridSeven 
+    {
+        top: -11%;
+    }
+    #timeGridEight 
+    {
+        top: -77%;
+    }
+
+    .drawingSeasonalTimeCopy
+    {
+        top: 17%;
+    }
+
+    #timeImageDescriptionTwo 
+    {
+        top: 86%;
+        left: 51%;
+    }
+
+    #timeImageDescriptionThree 
+    {
+        top: 86%;
+        left: 52.5%;
+    }
+
+    #timeImageDescriptionFour
+    {
+        top: 78%;
+        left: 35.3%;
+    }
+
+    #timeVideoSeven 
+    {
+        width: 30vw;
+        height: 36.5vh;
+    }
+    #timeVideoEight
+    {
+        top: 13%;
+    }
+
+    #timeVideoFive 
+    {
+        top: 38%;
+        left: -32.9%;
+    }
+
+    #timeHorizontalGridOne {
+        top: 38%;
+        left: 1.25%;
+    }
+
+    #timeHorizontalGridTwo 
+    {
+        top: 73%;
+        left: 0.69%;
+    }
+
+    #timeHorizontalGridThree 
+    {
+        top: 109%;
+        left: 0.69%;
+    }
+
+    #timeHorizontalGridFour 
+    {
+        top: 142%;
+        left: 1.25%;
+    }
+
+    #gridImageTimeTwo {
+        margin-left: 13px;
+        margin-right: 5px;
+    }
+
+    #gridImageTimeThree 
+    {
+        width: 30vw;
+        margin-left: 9px;
+        margin-right: 4px;
+    }
+}
+
+/*------------ Desktop Responisve 1600 x 1050 ---------------*/
+@media (min-width: 1600px) and (max-width: 1699px) 
+and (min-height: 901px) and (max-height: 1051px)
+{
+    #timeSubTwo 
+    {
+        top: -560px;
+    }
+
+    #timeSubThree {
+        top: -570px;
+    }
+
+    #timeSubFour {
+        top: -928px;
+    }
+
+    #timeSubFive {
+        top: -1076px;
+    }
+
+    #timeSubSix {
+        top: -400px;
+    }
+
+    #timeSubSeven {
+        top: 332px;
+    }
+
+    #timeSubEight {
+        top: 470px;
+    }
+
+    #timeSubNine {
+        top: -130px;
+    }    
+
+    #timeSubTen {
+        top: -540px;
+        height: 50vh;
+    }
+
+    #timeNine 
+    {
+        left: -31.9%;
+        top: -3%;
+    }
+
+    #timeTen 
+    {
+        left: 29.3%;
+        top: -45%;
+    }
+
+    #timeTwo 
+    {
+        left: 34.7%;
+        top: 11%;
+    }
+
+    #timeThree 
+    {
+        left: 1%;
+        top: -7.5%;
+        width: 31.2vw;
+    }
+    #timeFive {
+        top: -21%;
+    }
+    #timeSix {
+        left: -16.9%;
+        top: 34%;
+    }
+    #timeEight {
+        top: -2%;
+    }
+    #timeSeven
+    {
+        left: -84%;
+        top: 48%;
+    }
+
+    #timeEleven 
+    {
+        left: 34.7%;
+        top: -44%;
+    }
+
+    #timeGridTwo 
+    {
+        left: -43.7%;
+        top: 4%;
+    }
+
+    #timeGridThree 
+    {
+        left: -43.7%;
+        top: 8%;
+    }
+
+    #timeGridFour 
+    {
+        left: -43.7%;
+        top: -32%;
+    }
+
+    #timeGridSix 
+    {
+        left: -44.8%;
+        top: -16%;
+    }
+    #timeGridSeven 
+    {
+        top: -8%;
+    }
+    #timeGridEight 
+    {
+        top: -74%;
+    }
+
+    .drawingSeasonalTimeCopy
+    {
+        top: 17%;
+    }
+
+    #timeImageDescriptionTwo 
+    {
+        top: 86%;
+        left: 51%;
+    }
+    #timeImageDescriptionOne
+    {
+        top: 78%; 
+    }
+    #timeImageDescriptionThree 
+    {
+        top: 86%;
+        left: 52.5%;
+    }
+
+    #timeImageDescriptionFour
+    {
+        top: 63%;
+        left: 35.3%;
+    }
+    #timeVideoOne {
+        top: 4%;
+        z-index: 5;
+    }
+    #timeVideoSeven 
+    {
+        width: 30vw;
+        height: 31.5vh;
+    }
+    #timeVideoEight
+    {
+        top: 13%;
+    }
+    #timeVideoTen
+    {
+        top: -25%;
+    }
+
+    #timeVideoFive 
+    {
+        top: 33%;
+        left: -32.9%;
+    }
+
+    #timeHorizontalGridOne {
+        top: 34%;
+        left: 1.25%;
+    }
+
+    #timeHorizontalGridTwo 
+    {
+        top: 63%;
+        left: 0.69%;
+    }
+
+    #timeHorizontalGridThree 
+    {
+        top: 93%;
+        left: 0.69%;
+    }
+
+    #timeHorizontalGridFour 
+    {
+        top: 122%;
+        left: 1.25%;
+    }
+
+    #gridImageTimeTwo {
+        margin-left: 13px;
+        margin-right: 5px;
+    }
+
+    #gridImageTimeThree 
+    {
+        width: 30vw;
+        margin-left: 9px;
+        margin-right: 4px;
+    }
+}
+
+/*------------ Desktop Responisve 1920 x 1080 ---------------*/
+@media (min-width: 1900px) and (max-width: 1999px)
+{
+
+    .timeContainer
+    {
+    max-width: 100vw;
+    flex: 100%;
+    display: block;
+    z-index: 10;
+    }   
+
+#timeOne
+{
+    position: relative;
+    z-index: -5;
+    top: 0%;
+    left: -4%;
+    width: 102vw;
+    height: auto;
+}
+
+#timeTwo
+{
+    position: relative;
+    left: 34.7%;
+    top: 11%;
+}
+
+#timeThree
+{
+    position: relative;
+    left: 1%;
+    top: -13%;
+    z-index: 5;
+}
+
+#timeFour
+{
+    position: relative;
+    left: 12vw;
+    top: 40vh;
+}
+
+#timeFive
+{
+    position: relative;
+    left: -33%;
+    top: -25%;
+    z-index: -5;
+}
+
+#timeSix
+{
+    position: relative;
+    left: -16.9%;
+    top: 42%;
+}
+
+#timeSeven
+{
+    position: relative;
+    left: -83%;
+    top: 55%;
+}
+
+#timeEight
+{
+    position: relative;
+    left: 7.5%;
+    top: -6%;
+}
+
+#timeNine
+{
+    position: relative;
+    left: -31.9%;
+    top: -2%;
+    width: 63vw;
+}
+
+#timeTen
+{
+    position: relative;
+    left: 29.1%;
+    top: -48%;
+    z-index: 0;
+    width: 36.2vw;
+}
+
+#timeEleven
+{
+    position: relative;
+    left: 34.7%;
+    top: -45%;
+    z-index: 0;
+}
+
+#timeSubTwo
+{
+    position: relative;
+    top: -432px;
+}
+
+#timeSubThree
+{
+    top: -216px;
+}
+
+#timeSubFour
+{
+    top: -324px;
+}
+
+#timeSubFive
+{
+    top: -270px;
+}
+
+#timeSubSix
+{
+    top: 702px;
+}
+
+#timeSubSeven
+{
+    top: 1533px;
+}
+
+#timeSubEight
+{
+    top: 1890px;
+}
+
+#timeSubNine
+{
+    top: 1436px;
+}
+
+#timeSubTen
+{
+    top: 1220px;
+    height: 50vh;
+}
+
+#gridImageMiddleLarge
+{
+    width: 29.7vw;
+    margin-left: 25px;
+}
+
+#timeGridOne
+{
+    top: 64%;
+    left: 5.3%;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#timeGridTwo
+{
+    position: relative;
+    left: -43.3%;
+    top: 0%;
+    z-index: 5;
+}
+
+#timeGridThree
+{
+    position: relative;
+    left: -43.3%;
+    top: 15%;
+    z-index: -5;
+}
+
+#timeGridFour
+{
+    position: relative;
+    left: -43.3%;
+    top: -43%;
+    z-index: 5;
+}
+
+#timeGridFive
+{
+    position: relative;
+    left: 40.7%;
+    top: 140vh;
+}
+
+#timeGridSix
+{
+    position: relative;
+    left: -44.7%;
+    top: -22%;
+}
+
+#timeGridSeven
+{
+    position: relative;
+    left: -48.5%;
+    top: -14%;
+}
+
+#timeGridEight
+{
+    position: relative;
+    left: -14.7%;
+    top: -80%;
+}
+
+#timeHorizontalGridOne
+{
+    top: 42%;
+    left: 1.25%;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#timeHorizontalGridTwo
+{
+    top: 74%;
+    left: 0.25%;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#timeHorizontalGridThree
+{
+    top: 106%;
+    left: 0.25%;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#timeHorizontalGridFour
+{
+    top: 138%;
+    left: 1.25%;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#timeVideoOne
+{
+    position: relative;
+    top: 0%;
+    left: -32.9%;
+    z-index: 0;
+    width: 61.5vw;
+    height: 61.5vh;
+}
+
+#timeVideoTwo
+{
+    position: relative;
+    top: 40%;
+    left: 1.6vw;
+    z-index: 0;
+    width: 40vw;
+    z-index: 3;
+}
+
+#timeVideoThree
+{
+    position: relative;
+    top: 17%;
+    left: 8vw;
+    z-index: 0;
+    width: 40vw;
+}
+
+#timeVideoFour
+{
+    position: relative;
+    top: 42%;
+    left: 9.5vw;
+    z-index: 0;
+    width: 40vw;
+}
+
+#timeVideoFive
+{
+    position: relative;
+    top: 44%;
+    left: -32.9%;
+    z-index: 0;
+    width: 61.5vw;
+    height: 61.5vh;
+}
+
+#timeVideoSix
+{
+    position: relative;
+    width: 61.5vw;
+    height: 61.5vh;
+    top: 15%;
+    left: -32.9%;
+}
+
+#timeVideoSeven
+{
+    position: relative;
+    width: 30vw;
+    height: 36vh;
+}
+
+#timeVideoEight
+{
+    position: relative;
+    width: 61.5vw;
+    height: 61.5vh;
+    top: 15%;
+    left: -32.9%;
+}
+
+#timeVideoNine
+{
+    position: relative;
+    top: 3%;
+    width: 30vw;
+    margin-top: 3vh;
+    height: 30vh;
+}
+
+#timeVideoTen
+{
+    position: relative;
+    top: -30%;
+    left: -32.9%;
+    width: 61.5vw;
+    height: 61.5vh;
+}
+
+#timeImageDescriptionOne
+{
+    top: 82%;
+    left: 35.3%;
+    z-index: 1;
+    pointer-events: none;
+    width: 13%;
+}
+
+#timeImageDescriptionTwo
+{
+    top: 81%;
+    left: 51%;
+    z-index: 1;
+    pointer-events: none;
+    width: 20%;
+}
+
+#timeImageDescriptionThree
+{
+    top: 81%;
+    left: 51.7%;
+    z-index: 1;
+    pointer-events: none;
+    width: 20%;
+}
+
+#timeImageDescriptionFour
+{
+    top: 70%;
+    left: 35.3%;
+    z-index: 1;
+    pointer-events: none;
+    width: 12%;
+}
+
+#timeImageDescriptionFive
+{
+    top: 5%;
+    left: 35.3%;
+    z-index: 1;
+    pointer-events: none;
+    width: 23%;
+}
+
+#timeImageDescriptionSix
+{
+    top: 25%;
+    left: 35.3%;
+    z-index: 1;
+    pointer-events: none;
+    width: 24%;
+}
+
+.timeCopyOne
+{
+    position: relative;
+    top: 60%;
+    width: 26%; 
+}
+
+.timeCopyTwo
+{
+    position: relative;
+    top: 10%;
+    width: 26%;
+}
+
+.timeCopyThree
+{
+    position: relative;
+    top: 15%;
+    width: 26%;
+}
+
+#gridImageTime
+{
+    width: 23.7vw;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
+}
+
+#gridImageTimeTwo
+{
+    width: 30vw;
+    margin-left: 23px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
+}
+
+#gridImageTimeThree
+{
+    width: 30vw;
+    margin-left: 18px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
+}
+
+.endLineTime
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 0%;
+    left: 0%;
+    border-bottom: 1px solid black;
+}
+
+.endLineTimeTwo
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 16%;
+    left: 0%;
+    border-bottom: 2px dotted black;
+}
+}
+
+/*------------ Desktop Responisve 1920 x 930 ---------------*/
+@media (min-width: 1900px) and (max-width: 1999px) 
+and (min-height: 920px) and (max-height: 950px)
+{
+
+    .timeContainer
+    {
+    max-width: 100vw;
+    flex: 100%;
+    display: block;
+    z-index: 10;
+    }   
+
+#timeOne
+{
+    position: relative;
+    z-index: -5;
+    top: 0%;
+    left: -4%;
+    width: 102vw;
+    height: auto;
+}
+
+#timeTwo
+{
+    position: relative;
+    left: 34.7%;
+    top: 11%;
+}
+
+#timeThree
+{
+    position: relative;
+    left: 1%;
+    top: -17%;
+    z-index: 5;
+}
+
+#timeFour
+{
+    position: relative;
+    left: 12vw;
+    top: 40vh;
+}
+
+#timeFive
+{
+    position: relative;
+    left: -33%;
+    top: -25%;
+    z-index: -5;
+}
+
+#timeSix
+{
+    position: relative;
+    left: -16.9%;
+    top: 50%;
+}
+
+#timeSeven
+{
+    position: relative;
+    left: -83%;
+    top: 68%;
+}
+
+#timeEight
+{
+    position: relative;
+    left: 7.5%;
+    top: -6%;
+}
+
+#timeNine
+{
+    position: relative;
+    left: -31.9%;
+    top: -6%;
+    width: 63vw;
+}
+
+#timeTen
+{
+    position: relative;
+    left: 29.1%;
+    top: -56%;
+    z-index: 0;
+    width: 36.2vw;
+}
+
+#timeEleven
+{
+    position: relative;
+    left: 34.7%;
+    top: -55%;
+    z-index: 0;
+}
+
+#timeSubTwo
+{
+    position: relative;
+    top: -212px;
+}
+
+#timeSubThree
+{
+    top: 84px;
+}
+
+#timeSubFour
+{
+    top: 176px;
+}
+
+#timeSubFive
+{
+    top: 380px;
+}
+
+#timeSubSix
+{
+    top: 1632px;
+}
+
+#timeSubSeven
+{
+    top: 2383px;
+}
+
+#timeSubEight
+{
+    top: 2920px
+}
+
+#timeSubNine
+{
+    top: 2566px;
+}
+
+#timeSubTen
+{
+    top: 2720px;
+    height: 50vh;
+}
+
+#gridImageMiddleLarge
+{
+    width: 29.7vw;
+    margin-left: 25px;
+}
+
+#timeGridOne
+{
+    top: 64%;
+    left: 5.3%;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#timeGridTwo
+{
+    position: relative;
+    left: -43.3%;
+    top: 0%;
+    z-index: 5;
+}
+
+#timeGridThree
+{
+    position: relative;
+    left: -43.3%;
+    top: 15%;
+    z-index: -5;
+}
+
+#timeGridFour
+{
+    position: relative;
+    left: -43.3%;
+    top: -52%;
+    z-index: 5;
+}
+
+#timeGridFive
+{
+    position: relative;
+    left: 40.7%;
+    top: 140vh;
+}
+
+#timeGridSix
+{
+    position: relative;
+    left: -44.7%;
+    top: -22%;
+}
+
+#timeGridSeven
+{
+    position: relative;
+    left: -48.5%;
+    top: -14%;
+}
+
+#timeGridEight
+{
+    position: relative;
+    left: -14.7%;
+    top: -80%;
+}
+
+#timeHorizontalGridOne
+{
+    top: 50%;
+    left: 1.25%;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#timeHorizontalGridTwo
+{
+    top: 88%;
+    left: 0.25%;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#timeHorizontalGridThree
+{
+    top: 125%;
+    left: 0.25%;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#timeHorizontalGridFour
+{
+    top: 161%;
+    left: 1.25%;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#timeVideoOne
+{
+    position: relative;
+    top: -5%;
+    left: -32.9%;
+    z-index: 0;
+    width: 61.5vw;
+    height: 61.5vh;
+}
+
+#timeVideoTwo
+{
+    position: relative;
+    top: 40%;
+    left: 1.6vw;
+    z-index: 0;
+    width: 40vw;
+    z-index: 3;
+}
+
+#timeVideoThree
+{
+    position: relative;
+    top: 17%;
+    left: 8vw;
+    z-index: 0;
+    width: 40vw;
+}
+
+#timeVideoFour
+{
+    position: relative;
+    top: 42%;
+    left: 9.5vw;
+    z-index: 0;
+    width: 40vw;
+}
+
+#timeVideoFive
+{
+    position: relative;
+    top: 50%;
+    left: -32.9%;
+    z-index: 0;
+    width: 61.5vw;
+    height: 61.5vh;
+}
+
+#timeVideoSix
+{
+    position: relative;
+    width: 61.5vw;
+    height: 61.5vh;
+    top: 15%;
+    left: -32.9%;
+}
+
+#timeVideoSeven
+{
+    position: relative;
+    width: 30vw;
+    height: 42vh;
+}
+
+#timeVideoEight
+{
+    position: relative;
+    width: 61.5vw;
+    height: 61.5vh;
+    top: 15%;
+    left: -32.9%;
+}
+
+#timeVideoNine
+{
+    position: relative;
+    top: 3%;
+    width: 30vw;
+    margin-top: 3vh;
+    height: 30vh;
+}
+
+#timeVideoTen
+{
+    position: relative;
+    top: -30%;
+    left: -32.9%;
+    width: 61.5vw;
+    height: 61.5vh;
+}
+
+#timeImageDescriptionOne
+{
+    top: 85%;
+    left: 35.3%;
+    z-index: 1;
+    pointer-events: none;
+    width: 13%;
+}
+
+#timeImageDescriptionTwo
+{
+    top: 81%;
+    left: 51%;
+    z-index: 1;
+    pointer-events: none;
+    width: 20%;
+}
+
+#timeImageDescriptionThree
+{
+    top: 81%;
+    left: 51.7%;
+    z-index: 1;
+    pointer-events: none;
+    width: 20%;
+}
+
+#timeImageDescriptionFour
+{
+    top: 91%;
+    left: 35.3%;
+    z-index: 1;
+    pointer-events: none;
+    width: 12%;
+}
+
+#timeImageDescriptionFive
+{
+    top: 5%;
+    left: 35.3%;
+    z-index: 1;
+    pointer-events: none;
+    width: 23%;
+}
+
+#timeImageDescriptionSix
+{
+    top: 25%;
+    left: 35.3%;
+    z-index: 1;
+    pointer-events: none;
+    width: 24%;
+}
+
+.timeCopyOne
+{
+    position: relative;
+    top: 60%;
+    width: 26%; 
+}
+
+.timeCopyTwo
+{
+    position: relative;
+    top: 10%;
+    width: 26%;
+}
+
+.timeCopyThree
+{
+    position: relative;
+    top: 15%;
+    width: 26%;
+}
+
+#gridImageTime
+{
+    width: 23.7vw;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
+}
+
+#gridImageTimeTwo
+{
+    width: 30vw;
+    margin-left: 23px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
+}
+
+#gridImageTimeThree
+{
+    width: 30vw;
+    margin-left: 18px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
+}
+
+.endLineTime
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 0%;
+    left: 0%;
+    border-bottom: 1px solid black;
+}
+
+.endLineTimeTwo
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 16%;
+    left: 0%;
+    border-bottom: 2px dotted black;
+}
+}
+
+/*------------ Desktop Responisve 1920 x 1007 ---------------*/
+@media (min-width: 1900px) and (max-width: 1999px) 
+and (min-height: 951px) and (max-height: 1008px)
+{
+
+    .timeContainer
+    {
+    max-width: 100vw;
+    flex: 100%;
+    display: block;
+    z-index: 10;
+    }   
+
+#timeOne
+{
+    position: relative;
+    z-index: -5;
+    top: 0%;
+    left: -4%;
+    width: 102vw;
+    height: auto;
+}
+
+#timeTwo
+{
+    position: relative;
+    left: 34.7%;
+    top: 11%;
+}
+
+#timeThree
+{
+    position: relative;
+    left: 1%;
+    top: -15%;
+    z-index: 5;
+}
+
+#timeFour
+{
+    position: relative;
+    left: 12vw;
+    top: 40vh;
+}
+
+#timeFive
+{
+    position: relative;
+    left: -33%;
+    top: -25%;
+    z-index: -5;
+}
+
+#timeSix
+{
+    position: relative;
+    left: -16.9%;
+    top: 47%;
+}
+
+#timeSeven
+{
+    position: relative;
+    left: -83%;
+    top: 64%;
+}
+
+#timeEight
+{
+    position: relative;
+    left: 7.5%;
+    top: -6%;
+}
+
+#timeNine
+{
+    position: relative;
+    left: -31.9%;
+    top: -6%;
+    width: 63vw;
+}
+
+#timeTen
+{
+    position: relative;
+    left: 29.1%;
+    top: -56%;
+    z-index: 0;
+    width: 36.2vw;
+}
+
+#timeEleven
+{
+    position: relative;
+    left: 34.7%;
+    top: -55%;
+    z-index: 0;
+}
+
+#timeSubTwo
+{
+    position: relative;
+    top: -342px;
+}
+
+#timeSubThree
+{
+    top: -106px;
+}
+
+#timeSubFour
+{
+    top: -104px;
+}
+
+#timeSubFive
+{
+    top: -20px;
+}
+
+#timeSubSix
+{
+    top: 1112px;
+}
+
+#timeSubSeven
+{
+    top: 1893px;
+}
+
+#timeSubEight
+{
+    top: 2340px;
+}
+
+#timeSubNine
+{
+    top: 1906px;
+}
+
+#timeSubTen
+{
+    top: 1840px;
+    height: 50vh;
+}
+
+#gridImageMiddleLarge
+{
+    width: 29.7vw;
+    margin-left: 25px;
+}
+
+#timeGridOne
+{
+    top: 64%;
+    left: 5.3%;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#timeGridTwo
+{
+    position: relative;
+    left: -43.3%;
+    top: 0%;
+    z-index: 5;
+}
+
+#timeGridThree
+{
+    position: relative;
+    left: -43.3%;
+    top: 15%;
+    z-index: -5;
+}
+
+#timeGridFour
+{
+    position: relative;
+    left: -43.3%;
+    top: -52%;
+    z-index: 5;
+}
+
+#timeGridFive
+{
+    position: relative;
+    left: 40.7%;
+    top: 140vh;
+}
+
+#timeGridSix
+{
+    position: relative;
+    left: -44.7%;
+    top: -22%;
+}
+
+#timeGridSeven
+{
+    position: relative;
+    left: -48.5%;
+    top: -14%;
+}
+
+#timeGridEight
+{
+    position: relative;
+    left: -14.7%;
+    top: -80%;
+}
+
+#timeHorizontalGridOne
+{
+    top: 45%;
+    left: 1.25%;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#timeHorizontalGridTwo
+{
+    top: 79%;
+    left: 0.25%;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#timeHorizontalGridThree
+{
+    top: 115%;
+    left: 0.25%;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#timeHorizontalGridFour
+{
+    top: 150%;
+}
+
+#timeVideoOne
+{
+    position: relative;
+    top: -3%;
+    left: -32.9%;
+    z-index: 0;
+    width: 61.5vw;
+    height: 61.5vh;
+}
+
+#timeVideoTwo
+{
+    position: relative;
+    top: 40%;
+    left: 1.6vw;
+    z-index: 0;
+    width: 40vw;
+    z-index: 3;
+}
+
+#timeVideoThree
+{
+    position: relative;
+    top: 17%;
+    left: 8vw;
+    z-index: 0;
+    width: 40vw;
+}
+
+#timeVideoFour
+{
+    position: relative;
+    top: 42%;
+    left: 9.5vw;
+    z-index: 0;
+    width: 40vw;
+}
+
+#timeVideoFive
+{
+    position: relative;
+    top: 46%;
+    left: -32.9%;
+    z-index: 0;
+    width: 61.5vw;
+    height: 61.5vh;
+}
+
+#timeVideoSix
+{
+    position: relative;
+    width: 61.5vw;
+    height: 61.5vh;
+    top: 15%;
+    left: -32.9%;
+}
+
+#timeVideoSeven
+{
+    position: relative;
+    width: 30vw;
+    height: 39vh;
+}
+
+#timeVideoEight
+{
+    position: relative;
+    width: 61.5vw;
+    height: 61.5vh;
+    top: 15%;
+    left: -32.9%;
+}
+
+#timeVideoNine
+{
+    position: relative;
+    top: 3%;
+    width: 30vw;
+    margin-top: 3vh;
+    height: 30vh;
+}
+
+#timeVideoTen
+{
+    position: relative;
+    top: -30%;
+    left: -32.9%;
+    width: 61.5vw;
+    height: 61.5vh;
+}
+
+#timeImageDescriptionOne
+{
+    top: 85%;
+    left: 35.3%;
+    z-index: 1;
+    pointer-events: none;
+    width: 13%;
+}
+
+#timeImageDescriptionTwo
+{
+    top: 81%;
+    left: 51%;
+    z-index: 1;
+    pointer-events: none;
+    width: 20%;
+}
+
+#timeImageDescriptionThree
+{
+    top: 81%;
+    left: 51.7%;
+    z-index: 1;
+    pointer-events: none;
+    width: 20%;
+}
+
+#timeImageDescriptionFour
+{
+    top: 80%;
+    left: 35.3%;
+    z-index: 1;
+    pointer-events: none;
+    width: 12%;
+}
+
+#timeImageDescriptionFive
+{
+    top: 5%;
+    left: 35.3%;
+    z-index: 1;
+    pointer-events: none;
+    width: 23%;
+}
+
+#timeImageDescriptionSix
+{
+    top: 25%;
+    left: 35.3%;
+    z-index: 1;
+    pointer-events: none;
+    width: 24%;
+}
+
+.timeCopyOne
+{
+    position: relative;
+    top: 60%;
+    width: 26%; 
+}
+
+.timeCopyTwo
+{
+    position: relative;
+    top: 10%;
+    width: 26%;
+}
+
+.timeCopyThree
+{
+    position: relative;
+    top: 15%;
+    width: 26%;
+}
+
+#gridImageTime
+{
+    width: 23.7vw;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
+}
+
+#gridImageTimeTwo
+{
+    width: 30vw;
+    margin-left: 23px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
+}
+
+#gridImageTimeThree
+{
+    width: 30vw;
+    margin-left: 18px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
+}
+
+.endLineTime
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 0%;
+    left: 0%;
+    border-bottom: 1px solid black;
+}
+
+.endLineTimeTwo
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 16%;
+    left: 0%;
+    border-bottom: 2px dotted black;
+}
+}
+
+/*------------ Desktop Responisve 1920 x 1200 ---------------*/
+@media (min-width: 1900px) and (max-width: 1999px) 
+and (min-height: 1101px) and (max-height: 1210px)
+{
+
+    .timeContainer
+    {
+    max-width: 100vw;
+    flex: 100%;
+    display: block;
+    z-index: 10;
+    }   
+
+#timeOne
+{
+    position: relative;
+    z-index: -5;
+    top: 0%;
+    left: -4%;
+    width: 102vw;
+    height: auto;
+}
+
+#timeTwo
+{
+    position: relative;
+    left: 34.7%;
+    top: 11%;
+}
+
+#timeThree
+{
+    position: relative;
+    left: 1%;
+    top: -13%;
+    z-index: 5;
+}
+
+#timeFour
+{
+    position: relative;
+    left: 12vw;
+    top: 40vh;
+}
+
+#timeFive
+{
+    position: relative;
+    left: -33%;
+    top: -25%;
+    z-index: -5;
+}
+
+#timeSix
+{
+    position: relative;
+    left: -16.9%;
+    top: 38%;
+}
+
+#timeSeven
+{
+    position: relative;
+    left: -83%;
+    top: 51%;
+}
+
+#timeEight
+{
+    position: relative;
+    left: 7.5%;
+    top: -6%;
+}
+
+#timeNine
+{
+    position: relative;
+    left: -31.9%;
+    top: -2%;
+    width: 63vw;
+}
+
+#timeTen
+{
+    position: relative;
+    left: 29.1%;
+    top: -43%;
+    z-index: 0;
+    width: 36.2vw;
+}
+
+#timeEleven
+{
+    position: relative;
+    left: 34.7%;
+    top: -42%;
+    z-index: 0;
+}
+
+#timeSubTwo
+{
+    position: relative;
+    top: -652px;
+}
+
+#timeSubThree
+{
+    top: -506px;
+}
+
+#timeSubFour
+{
+    top: -754px;
+}
+
+#timeSubFive
+{
+    top: -710px;
+}
+
+#timeSubSix
+{
+    top: 172px;
+}
+
+#timeSubSeven
+{
+    top: 1033px;
+}
+
+#timeSubEight
+{
+    top: 1290px;
+}
+
+#timeSubNine
+{
+    top: 706px;
+}
+
+#timeSubTen
+{
+    top: 290px;
+    height: 50vh;
+}
+
+#gridImageMiddleLarge
+{
+    width: 29.7vw;
+    margin-left: 25px;
+}
+
+#timeGridOne
+{
+    top: 64%;
+    left: 5.3%;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#timeGridTwo
+{
+    position: relative;
+    left: -43.3%;
+    top: 0%;
+    z-index: 5;
+}
+
+#timeGridThree
+{
+    position: relative;
+    left: -43.3%;
+    top: 15%;
+    z-index: -5;
+}
+
+#timeGridFour
+{
+    position: relative;
+    left: -43.3%;
+    top: -38%;
+    z-index: 5;
+}
+
+#timeGridFive
+{
+    position: relative;
+    left: 40.7%;
+    top: 140vh;
+}
+
+#timeGridSix
+{
+    position: relative;
+    left: -44.7%;
+    top: -22%;
+}
+
+#timeGridSeven
+{
+    position: relative;
+    left: -48.5%;
+    top: -14%;
+}
+
+#timeGridEight
+{
+    position: relative;
+    left: -14.7%;
+    top: -80%;
+}
+
+#timeHorizontalGridOne
+{
+    top: 37%;
+    left: 1.25%;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#timeHorizontalGridTwo
+{
+    top: 67%;
+    left: 0.25%;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#timeHorizontalGridThree
+{
+    top: 97%;
+    left: 0.25%;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#timeHorizontalGridFour
+{
+    top: 127%;
+    left: 1.25%;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#timeVideoOne
+{
+    position: relative;
+    top: 0%;
+    left: -32.9%;
+    z-index: 0;
+    width: 61.5vw;
+    height: 61.5vh;
+}
+
+#timeVideoTwo
+{
+    position: relative;
+    top: 40%;
+    left: 1.6vw;
+    z-index: 0;
+    width: 40vw;
+    z-index: 3;
+}
+
+#timeVideoThree
+{
+    position: relative;
+    top: 17%;
+    left: 8vw;
+    z-index: 0;
+    width: 40vw;
+}
+
+#timeVideoFour
+{
+    position: relative;
+    top: 42%;
+    left: 9.5vw;
+    z-index: 0;
+    width: 40vw;
+}
+
+#timeVideoFive
+{
+    position: relative;
+    top: 39%;
+    left: -32.9%;
+    z-index: 0;
+    width: 61.5vw;
+    height: 61.5vh;
+}
+
+#timeVideoSix
+{
+    position: relative;
+    width: 61.5vw;
+    height: 61.5vh;
+    top: 15%;
+    left: -32.9%;
+}
+
+#timeVideoSeven
+{
+    position: relative;
+    width: 30vw;
+    height: 33vh;
+}
+
+#timeVideoEight
+{
+    position: relative;
+    width: 61.5vw;
+    height: 61.5vh;
+    top: 15%;
+    left: -32.9%;
+}
+
+#timeVideoNine
+{
+    position: relative;
+    top: 3%;
+    width: 30vw;
+    margin-top: 3vh;
+    height: 30vh;
+}
+
+#timeVideoTen
+{
+    position: relative;
+    top: -30%;
+    left: -32.9%;
+    width: 61.5vw;
+    height: 61.5vh;
+}
+
+#timeImageDescriptionOne
+{
+    top: 82%;
+    left: 35.3%;
+    z-index: 1;
+    pointer-events: none;
+    width: 13%;
+}
+
+#timeImageDescriptionTwo
+{
+    top: 81%;
+    left: 51%;
+    z-index: 1;
+    pointer-events: none;
+    width: 20%;
+}
+
+#timeImageDescriptionThree
+{
+    top: 81%;
+    left: 51.7%;
+    z-index: 1;
+    pointer-events: none;
+    width: 20%;
+}
+
+#timeImageDescriptionFour
+{
+    top: 63%;
+    left: 35.3%;
+    z-index: 1;
+    pointer-events: none;
+    width: 12%;
+}
+
+#timeImageDescriptionFive
+{
+    top: 5%;
+    left: 35.3%;
+    z-index: 1;
+    pointer-events: none;
+    width: 23%;
+}
+
+#timeImageDescriptionSix
+{
+    top: 25%;
+    left: 35.3%;
+    z-index: 1;
+    pointer-events: none;
+    width: 24%;
+}
+
+.timeCopyOne
+{
+    position: relative;
+    top: 60%;
+    width: 26%; 
+}
+
+.timeCopyTwo
+{
+    position: relative;
+    top: 10%;
+    width: 26%;
+}
+
+.timeCopyThree
+{
+    position: relative;
+    top: 15%;
+    width: 26%;
+}
+
+#gridImageTime
+{
+    width: 23.7vw;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
+}
+
+#gridImageTimeTwo
+{
+    width: 30vw;
+    margin-left: 23px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
+}
+
+#gridImageTimeThree
+{
+    width: 30vw;
+    margin-left: 18px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
+}
+
+.endLineTime
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 0%;
+    left: 0%;
+    border-bottom: 1px solid black;
+}
+
+.endLineTimeTwo
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 16%;
+    left: 0%;
+    border-bottom: 2px dotted black;
+}
+
+    #timeSubThree .copyText
+    {
+    top: 18%;
+    }
+
+    #timeSubFive .copyText
+    {
+        top: 16%;
     }
 }
