@@ -136,13 +136,13 @@
     height: 11.5%;
 }
 #glossarySection {
-    height: 168.7%;
+    height: 171%;
 }
 #collaboratorsSection {
-    height: 169.7%;
+    height: 172%;
 }
 #acknowledgementSection {
-    height: 29.3%;
+    height: 30%;
 }
 #assemblagesSection {
     height: 17.4%;
@@ -457,13 +457,15 @@ h2 {
     height: 8.8%;
 }
 #glossarySection {
-    height: 131.6%;
+    height: 134%;
 }
 #collaboratorsSection {
-    height: 138.3%;
+    
+    height: 140%;
+
 }
 #acknowledgementSection {
-    height: 23.2%;
+    height: 25%;
 }
 #assemblagesSection {
     height: 13.5%;
@@ -613,7 +615,7 @@ height: 55.5%;
 height: 12.5%;
 }
 #glossarySection {
-height: 221%;
+    height: 217%;
 }
 .rightSideSmallerSmallerText {
 font-size: 10.5px;
@@ -792,23 +794,23 @@ line-height: 12px;
     top: 28.3%;
 }
 #about {
-    height: 24.4%;
+    height: 26%;
 }
 #events {
-    height: 46.3%;
+    height: 48%;
 }
 #residency {
     height: 8.9%;
 }
 #glossarySection {
-    height: 185%;
+    height: 184%;
 }
 #collaboratorsSection {
-    height:149%;
+    height: 150%;
 }
 #acknowledgementSection {
     
-    height: 27%;
+    height: 28%;
 
 }
 #assemblagesSection {
@@ -984,7 +986,7 @@ line-height: 12px;
     height: 134.9%;
 }
 #acknowledgementSection {
-    height: 23.6%;
+    height: 25%;
 }
 #assemblagesSection {
     height: 13.7%;
@@ -1112,19 +1114,19 @@ line-height: 12px;
     height: 930px;
     }
     #events {
-    height: 1796px;
+        height: 1845px;
     }
     #residency {
     height: 340px;
     }
     #glossarySection {
-    height: 7005px;
+    height: 6950px;
     }
     #collaboratorsSection {
-    height: 5880px;
+    height: 5840px;
     }
     #acknowledgementSection {
-    height: 1168px;
+    height: 1070px;
     }
     #assemblagesSection {
     height: 600px;
@@ -1482,13 +1484,13 @@ line-height: 12px;
         height: 337px;
     }
     #glossarySection {
-        height: 7470px;
+        height: 7520px;
     }
     #collaboratorsSection {
         height: 6280px;
     }
     #acknowledgementSection {
-        height: 1188px;
+        height: 1100px;
     }
     #assemblagesSection {
         height: 570px;
@@ -1620,19 +1622,19 @@ and (min-height: 539px) and (max-height: 679px){
     height: 28.9%;
 }
 #events {
-    height: 60.3%;
+    height: 63%;
 }
 #residency {
     height: 11.4%;
 }
 #glossarySection {
-    height: 252.5%;
+    height: 257%;
 }
 #collaboratorsSection {
-    height: 199.3%;
+    height: 202%;
 }
 #acknowledgementSection {
-    height: 34%;
+    height: 36%;
 }
 #assemblagesSection {
     height: 19.6%;
@@ -1908,13 +1910,13 @@ font-size: 16px;
 line-height: 20px;
 }
 #events {
-height: 46%;
+    height: 44%;
 }
 #residency {
 height: 9.3%;
 }
 #glossarySection {
-height: 188.5%;
+    height: 186%;
 }
 #glossaryOne {
 top: 0.1%;
@@ -2098,13 +2100,15 @@ li.active {
     height: 7.4%;
 }
 #glossarySection {
-    height: 163.6%;
+    height: 171%;
 }
 #collaboratorsSection {
-    height: 137.6%;
+    height: 139%;
 }
 #acknowledgementSection {
-    height: 23.1%;
+   
+    height: 25%;
+
 }
 #assemblagesSection {
     height: 12.7%;
@@ -2277,10 +2281,10 @@ li.active {
         height: 7798px;
     }
     #collaboratorsSection {
-        height: 6540px;
+        height: 6465px;
     }
     #acknowledgementSection {
-        height: 1253px;
+        height: 1120px;
     }
     #assemblagesSection {
         height: 590px;
@@ -2398,19 +2402,22 @@ line-height: 28px;
 top: 5.21%;
 }
 #about {
-height: 24%;
+height: 26%;
 }
 .MMHeading {
 font-size: 25px;
 }
 #events {
-height: 57%;
+    height: 59%;
+
 }
 #residency {
 height: 8.7%;
 }
 #glossarySection {
-height: 208.5%;
+
+    height: 210%;
+
 }
 .CollabTitle {
 font-size: 25px;
@@ -2602,22 +2609,26 @@ line-height: 12px;
     bottom: 398px;
 }
 #about {
-    height: 23%;
+    height: 24%;
 }
 #events {
-    height: 55.4%;
+    height: 57%;
 }
 #residency {
     height: 9%;
 }
 #glossarySection {
-    height: 199.5%;
+    
+    height: 203%;
+
 }
 #collaboratorsSection {
-    height: 199.5%;
+    height: 201%;
 }
 #acknowledgementSection {
-    height: 29.6%;
+    
+    height: 31%;
+
 }
 #assemblagesSection {
     height: 16%;
@@ -2801,7 +2812,7 @@ line-height: 12px;
         height: 8455px;
     }
     #acknowledgementSection {
-        height: 1456px;
+        height: 1310px;
     }
     #assemblagesSection {
         height: 680px;
@@ -2934,20 +2945,22 @@ and (min-height: 811px) and (max-height: 870px)
         height: 966px;
     }
     #events {
-        height: 2345px;
+   
+        height: 2405px;
+
     }
     #residency {
         height: 380px;
     }
 #glossarySection {
-    height: 8313px;
+    height: 8450px;
 }
 
     #collaboratorsSection {
-        height: 8455px;
+        height: 8550px;
     }
 #acknowledgementSection {
-    height: 1256px;
+    height: 1310px;
 }
     #assemblagesSection {
         height: 680px;
@@ -2971,7 +2984,7 @@ top: 14.8vh;
 left: 0%;
 font-size: 14px;
 }
-sup {
+sup {   
 font-size: 8px;
 }
 li .section-title {
@@ -3336,7 +3349,7 @@ top: 1.5%;
     height: 9%;
     }
     #glossarySection {
-    height: 220%;
+    height: 212%;
     }
     .CollabTitle {
     font-size: 25px;
@@ -3352,10 +3365,10 @@ top: 1.5%;
     height: 35.6vh;
     }
     #collaboratorsSection {
-    height: 162%;
+        height: 155%;
     }
     #acknowledgementSection {
-    height: 34%;
+        height: 29%;
     }
     #assemblagesSection {
     height: 14%;
@@ -3791,13 +3804,15 @@ and (min-height: 786px) and (max-height: 830px)
     height: 289px;
 }
 #glossarySection {
-    height: 8606px;
+    
+    height: 8730px;
+
 }
 #collaboratorsSection {
-    height: 6470px;
+    height: 6540px;
 }
 #acknowledgementSection {
-    height: 1149px;
+    height: 1200px;
 }
 #assemblagesSection {
     height: 503px;
@@ -4157,10 +4172,13 @@ and (min-height: 786px) and (max-height: 830px)
         height: 298px;
     }
     #glossarySection {
-        height: 8900px;
+        height: 9170px;
+    }
+    #collaboratorsSection {
+        height: 119%;
     }
     #acknowledgementSection {
-        height: 1337px;
+        height: 1290px;
     }
 
     #backgroundVideo {
@@ -4303,16 +4321,19 @@ and (min-height: 786px) and (max-height: 830px)
     }
 
 #events {
-    height: 2563px;
+    height: 2630px;
+}
+#residency {
+    height: 12%;
 }
 #glossarySection {
-    height: 10329px;
+    height: 10520px;
 }
 #collaboratorsSection {
-    height: 8369px;
+    height: 8450px;
 }
 #acknowledgementSection {
-    height: 1441px;
+    height: 1510px;
 }
 #assemblagesSection {
     height: 851px;
@@ -4456,10 +4477,10 @@ and (min-height: 786px) and (max-height: 830px)
         height: 10447px;
     }
     #collaboratorsSection {
-        height: 8400px;
+        height: 8300px;
     }
     #acknowledgementSection {
-        height: 1687px;
+        height: 1520px;
     }
     #assemblagesSection {
         height: 840px;
