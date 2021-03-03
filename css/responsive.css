@@ -1,3 +1,26 @@
+
+/*--------mobile-------------*/
+@media (max-width: 1024px){
+    .mobileDisplay{
+        display: block;
+    }
+    sup {
+        font-size: 0.1em;
+        line-height: 0;
+        }   
+        
+      html,  body
+        {
+            overflow: hidden;
+        }
+
+        #backgroundVideo
+        {
+            display: none;
+        }
+    
+    }
+
 /* -------------------------- Katie's dope resposive code ---------------------------------*/
 /*---------------------------1000s--------------------------*/
 /* boss lady screen size - 1280x582, common - 1280x720, 1280x800*/
