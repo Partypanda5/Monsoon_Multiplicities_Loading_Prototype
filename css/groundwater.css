@@ -14,32 +14,32 @@
 
 #groundwaterSubThree
 {
-    top: -90vh;
+    top: -25vh;
 }
 
 #groundwaterSubFour
 {
-    top: -45vh;
+    top: 23vh;
 }
 
 #groundwaterSubFive
 {
-    top: -45vh;
+    top: 15vh;
 }
 
 #groundwaterSubSix
 {
-    top: -80vh;
+    top: 3vh;
 }
 
 #groundwaterSubSeven
 {
-    top: -140vh;
+    top: -60vh;
 }
 
 #groundwaterSubEight
 {
-    top: -140vh;
+    top: 5vh;
     height: 40vh;
 }
 
@@ -61,14 +61,14 @@
 #groundwaterThree
 {
     position: relative;
-    top: 1%;
+    top: 47%;
     left: -33%;
 }
 
 #groundwaterFour
 {
     position: relative;
-    top: 10%;
+    top: 28%;
     left: 34.7%;
 }
 
@@ -137,11 +137,16 @@
     z-index: 6;
 }
 
-#groundwaterGridSeven
-{
+#groundwaterGridSeven {
     position: relative;
-    top: -60%;
-    left: -43.2%;;
+    top: 16%;
+    left: -43.2%;
+}
+
+#groundwaterGridEight {
+    position: relative;
+    top: -25.9%;
+    left: -16.3%;
 }
 
 .copyTextGroundWaterOne {
@@ -201,7 +206,7 @@
 #groundwaterImageDescriptionFive
 {
     position: relative;
-    top: 4%;
+    top: 8%;
     left: 8.3%;
     width: 14%;
 }
@@ -294,6 +299,15 @@
     pointer-events: none;
 }
 
+#groundwaterVideoOne
+{
+    position: relative;
+    top: -18%;
+    width: 61.5vw;
+	height: 61.5vh;
+	left: -32.9%;
+}
+
 /*---------------------- 1000s--------------------*/
 
 /*------------ saxon's breakpoint 1 - 1024 x 600 ---------------*/
@@ -323,7 +337,7 @@
     top: -52vh;
 }
 #groundwaterSubThree {
-    top: -86vh;
+    top: -5vh;
 }
 #groundwaterGridOne {
     position: relative;
@@ -353,7 +367,7 @@
     width: 14%;
 }
 #groundwaterSubFour {
-    top: -30vh;
+    top: 60vh;
 }
 #groundwaterGridFour {
     position: relative;
@@ -378,11 +392,11 @@
     width: 14%;
 }
 #groundwaterSubFive {
-    top: -40vh;
+    top: 60vh;
 }
 #groundwaterThree {
     position: relative;
-    top: 6%;
+    top: 10%;
     left: -33%;
 }
 #groundwaterGridSix {
@@ -393,25 +407,25 @@
 }
 #groundwaterFour {
     position: relative;
-    top: -7%;
+    top: 5%;
     left: 34.3%;
 }
 #groundwaterImageDescriptionFive {
     position: relative;
-    top: -20%;
+    top: -14%;
     left: 8.3%;
     width: 14%;
 }
 #groundwaterSubSix {
-    top: -68vh;
+    top: 50vh;
 }
 #groundwaterSubSeven {
-    top: -135vh;
+    top: -11vh;
 }
 #groundwaterGridSeven {
     position: relative;
-    top: -55%;
-    left: -44.8%;
+    top: 14.4%;
+    left: -43.8%;
 }
 #groundwaterSix {
     position: relative;
@@ -420,8 +434,13 @@
     z-index: -5;
 }
 #groundwaterSubEight {
-    top: -147vh;
+    top: 44vh;
     height: 40vh;
+}
+#groundwaterImageDescriptionOne {
+    top: -24%;
+    left: 8.3%;
+    width: 19%;
 }
 
 }
@@ -430,6 +449,11 @@
 @media (max-width: 1025px) and (min-height: 648px) 
 and (max-height: 680px)
 {
+    #groundwaterSubOne .mainTitle {
+        top: 15.7%;
+        font-size: 20px;
+        line-height: 25px;
+    }
     #groundwaterSubOne .mainTitle {
         top: 15.7%;
         font-size: 20px;
@@ -452,7 +476,7 @@ and (max-height: 680px)
         top: -52vh;
     }
     #groundwaterSubThree {
-        top: -86vh;
+        top: -5vh;
     }
     #groundwaterGridOne {
         position: relative;
@@ -482,7 +506,7 @@ and (max-height: 680px)
         width: 14%;
     }
     #groundwaterSubFour {
-        top: -42vh;
+        top: 60vh;
     }
     #groundwaterGridFour {
         position: relative;
@@ -507,11 +531,11 @@ and (max-height: 680px)
         width: 14%;
     }
     #groundwaterSubFive {
-        top: -58vh;
+        top: 60vh;
     }
     #groundwaterThree {
         position: relative;
-        top: 6%;
+        top: 10%;
         left: -33%;
     }
     #groundwaterGridSix {
@@ -522,37 +546,40 @@ and (max-height: 680px)
     }
     #groundwaterFour {
         position: relative;
-        top: -7%;
+        top: 5%;
         left: 34.3%;
     }
     #groundwaterImageDescriptionFive {
         position: relative;
-        top: -20%;
+        top: -14%;
         left: 8.3%;
         width: 14%;
     }
     #groundwaterSubSix {
-        top: -90vh;
+        top: 50vh;
     }
     #groundwaterSubSeven {
-        
-    top: -157vh;
-
+        top: -11vh;
     }
     #groundwaterGridSeven {
         position: relative;
-        top: -40%;
-        left: -44.8%;
+        top: 11.8%;
+        left: -43.8%;
     }
     #groundwaterSix {
         position: relative;
-        top: 35%;
+        top: 18%;
         left: -32.7%;
         z-index: -5;
     }
     #groundwaterSubEight {
-        top: -147vh;
+        top: 29vh;
         height: 40vh;
+    }
+    #groundwaterImageDescriptionOne {
+        top: -24%;
+        left: 8.3%;
+        width: 19%;
     }
 }
 
@@ -560,168 +587,147 @@ and (max-height: 680px)
 @media (max-width: 1025px) and (min-height: 681px) 
 	and (max-height: 780px){
 		
-#groundwaterSubOne .mainTitle {
-    top: 15.7%;
-    font-size: 20px;
-    line-height: 25px;
-}
-		
-#groundwaterOne {
-    position: relative;
-    top: 16%;
-    left: -32%;
-    width: 62vw;
-    z-index: -5;
-}
-.copyTextGroundWaterOne {
-    position: relative;
-    top: 4.7%;
-    width: 22%;
-}
-#groundwaterSubTwo {
-    top: -78.7vh;
-}
-#groundwaterSubThree {
-    top: -86vh;
-}
-#groundwaterGridOne {
-    position: relative;
-    top: -22.5%;
-    left: -50.9%;
-}
-#groundwaterGridThree {
-    position: relative;
-    top: -45%;
-    left: -44.9%;
-}
-#groundwaterGridTwo {
-    position: relative;
-    top: 3%;
-    left: -17.8%;
-}
-#groundwaterImageDescriptionThree {
-    position: relative;
-    top: -44%;
-    left: 8.3%;
-    width: 14%;
-}
-#groundwaterImageDescriptionTwo {
-    position: relative;
-    top: 4%;
-    left: 35.5%;
-    width: 14%;
-}
-#groundwaterSubFour {
-    top: -149vh;
-}
-#groundwaterGridFour {
-    position: relative;
-    top: 17%;
-    left: -44.8%;
-}
-#groundwaterGridFive {
-    position: relative;
-    top: -32%;
-    left: -17.8%;
-}
-.copyTextGroundWaterThree {
-    position: relative;
-    top: -31%;
-    left: 35.4%;
-    width: 22%;
-}
-#groundwaterImageDescriptionFour {
-    position: relative;
-    top: 18%;
-    left: 8.3%;
-    width: 14%;
-}
-#groundwaterSubFive {
-    top: -194vh;
-}
-#groundwaterThree {
-    position: relative;
-    top: 6%;
-    left: -33%;
-}
-#groundwaterGridSix {
-    position: relative;
-    top: 20%;
-    left: -44.7%;
-    z-index: 6;
-}
-#groundwaterFour {
-    position: relative;
-    top: -11%;
-    left: 34.3%;
-}
-#groundwaterImageDescriptionFive {
-    position: relative;
-    top: -21%;
-    left: 8.3%;
-    width: 14%;
-}
-#groundwaterSubSix {
-    top: -252vh;
-}
-#groundwaterSubSeven {
-    top: -336vh;
-}
-#groundwaterGridSeven {
-    position: relative;
-    top: -45%;
-    left: -44.8%;
-}
-#groundwaterSix {
-    position: relative;
-    top: 14%;
-    left: -32.7%;
-    z-index: -5;
-}
-#groundwaterSubEight {
-    top: -379vh;
-    height: 40vh;
-}
-	
-#groundwaterImageDescriptionOne {
-    position: relative;
-    top: -22%;
-    left: 8.3%;
-    width: 14%;
-}
-#groundwaterTwo {
-    position: relative;
-    top: 25%;
-    left: 34.7%;
-    z-index: -5;
-}
-#groundwaterSubThree {
-    top: -146vh;
-}
-#imagewaterThree {
-    position: relative;
-    top: 17%;
-    left: 7.5%;
-}
-.copyTextGroundWaterTwo {
-    position: relative;
-    top: 17%;
-    left: 8.3%;
-    width: 22%;
-}
-
-#groundwaterThree {
-    position: relative;
-    top: 0%;
-    left: -33%;
-}
-
-#groundwaterFive {
-    position: relative;
-    top: 17%;
-    left: 1.1%;
-}
-
+        #groundwaterSubOne .mainTitle {
+            top: 15.7%;
+            font-size: 20px;
+            line-height: 25px;
+        }
+        #groundwaterSubOne .mainTitle {
+            top: 15.7%;
+            font-size: 20px;
+            line-height: 25px;
+        }
+                
+        #groundwaterOne {
+            position: relative;
+            top: 23%;
+            left: -32%;
+            width: 62vw;
+            z-index: -5;
+        }
+        .copyTextGroundWaterOne {
+            position: relative;
+            top: 8.7%;
+            width: 22%;
+        }
+        #groundwaterSubTwo {
+            top: -71vh;
+        }
+        #groundwaterSubThree {
+            top: -45vh;
+        }
+        #groundwaterGridOne {
+            position: relative;
+            top: -27.5%;
+            left: -50.9%;
+        }
+        #groundwaterGridThree {
+            position: relative;
+            top: -38%;
+            left: -44.9%;
+        }
+        #groundwaterGridTwo {
+            position: relative;
+            top: 3%;
+            left: -17.8%;
+        }
+        #groundwaterImageDescriptionThree {
+            position: relative;
+            top: -36%;
+            left: 8.3%;
+            width: 14%;
+        }
+        #groundwaterImageDescriptionTwo {
+            position: relative;
+            top: 4%;
+            left: 35.5%;
+            width: 14%;
+        }
+        #groundwaterSubFour {
+            top: -30vh;
+        }
+        #groundwaterGridFour {
+            position: relative;
+            top: 23%;
+            left: -44.8%;
+        }
+        #groundwaterGridFive {
+            position: relative;
+            top: -32%;
+            left: -17.8%;
+        }
+        .copyTextGroundWaterThree {
+            position: relative;
+            top: -31%;
+            left: 35.4%;
+            width: 22%;
+        }
+        #groundwaterImageDescriptionFour {
+            position: relative;
+            top: 24%;
+            left: 8.3%;
+            width: 14%;
+        }
+        #groundwaterSubFive {
+            top: -60vh;
+        }
+        #groundwaterThree {
+            position: relative;
+            top: 10%;
+            left: -33%;
+        }
+        #groundwaterGridSix {
+            position: relative;
+            top: 24%;
+            left: -44.7%;
+            z-index: 6;
+        }
+        #groundwaterFour {
+            position: relative;
+            top: 5%;
+            left: 34.3%;
+        }
+        #groundwaterImageDescriptionFive {
+            position: relative;
+            top: -10%;
+            left: 8.3%;
+            width: 14%;
+        }
+        #groundwaterSubSix {
+            top: -92vh;
+        }
+        #groundwaterSubSeven {
+            top: -165vh;
+        }
+        #groundwaterGridEight {
+            position: relative;
+            top: -20.6%;
+            left: -16.3%;
+        }
+        #groundwaterGridSeven {
+            position: relative;
+            top: 11.8%;
+            left: -43.8%;
+        }
+        #groundwaterSix {
+            position: relative;
+            top: 18%;
+            left: -32.7%;
+            z-index: -5;
+        }
+        #groundwaterSubEight {
+            top: -148vh;
+            height: 40vh;
+        }
+        #groundwaterImageDescriptionOne {
+            top: -24%;
+            left: 8.3%;
+            width: 19%;
+        }
+        #groundwaterVideoOne {
+            top: -5%;
+            left: -32.9%;
+        }
 		
 }
 
@@ -730,441 +736,311 @@ and (max-height: 680px)
 @media (min-width: 1026px) and (max-width: 1299px) 
 {
 
-
-#groundwaterSubTwo {
-    top: -36vh;
-}
-#groundwaterSubThree {
-    top: -40vh;
-}
-#groundwaterSubFour {
-    top: 38vh;
-}
-
-#groundwaterSubFive {
-    top: 48vh;
-}
-#groundwaterSubSix {
-    top: 48vh;
-}
-#groundwaterSubSeven {
-    top: 3vh;
-}
-#groundwaterSubEight {
-    top: 42vh;
-    height: 40vh;
-}
-
-#groundwaterOne {
-    top: 26%;
-    left: -32%;
-    width: 62vw;
-    z-index: -5;
-}
-
-    #groundwaterTwo 
-    {
-        top: 52%;
-        left: 34.45%;
+    #groundwaterSubOne .mainTitle {
+        top: 20.7%;
+        font-size: 20px;
+        line-height: 25px;
     }
-
-    #imagewaterThree 
-    {
-        top: 25%;
-        left: 7.6%;
-        width: 25.2vw;
+            
+    #groundwaterOne {
+        position: relative;
+        top: 28%;
+        left: -32%;
+        width: 62vw;
+        z-index: -5;
     }
-
-#groundwaterFour {
-    top: -10%;
-    left: 34.5%;
-}
-#groundwaterFive {
-    position: relative;
-    top: 27%;
-    left: 1.1%;
-}
-
-    #imagewaterThree 
-    {
-        top: 27%;
-        left: 7.5%;
+    .copyTextGroundWaterOne {
+        position: relative;
+        top: 14%;
+        width: 22%;    
     }
-
-    #groundwaterSix 
-    {
-        top: 31%;
-        left: -32.7%;
+    #groundwaterSubTwo {
+        top: -30vh;
     }
-
-.copyTextGroundWaterOne {
-    position: relative;
-    top: 11.7%;
-    width: 22%;
-}
-
-    .copyTextGroundWaterTwo 
-    {
-        top: 30%;
-        left: 8.3%;
+    #groundwaterSubThree {
+        top: 38vh;
     }
-
-    .copyTextGroundWaterThree 
-    {
-        top: -35%;
-        left: 35.4%;
+    
+    #groundwaterGridOne {
+        position: relative;
+        top: -27.5%;
+        left: -50.9%;
     }
-
-#groundwaterImageDescriptionFour {
-    top: 30%;
-    left: 8.3%;
-}
-
-#groundwaterImageDescriptionOne {
-    position: relative;
-    top: -36%;
-    left: 8.3%;
-    width: 14%;
-}
-
-    #groundwaterImageDescriptionFive 
-    {
-        top: -27%;
-        left: 8.3%;
+    #groundwaterGridThree {
+        position: relative;
+        top: -57%;
+        left: -44.9%;
     }
-
-    #groundwaterImageDescriptionSix 
-    {
-        top: 5%;
-        left: 8.3%;
-    }
-
-    #groundwaterImageDescriptionSeven 
-    {
-        top: 7%;
-        left: 8.3%;
-        padding-bottom: 5vh;
-    }
-
-#groundwaterGridOne {
-    top: -38%;
-    left: -50.3%;
-}
-
-#groundwaterGridTwo {
-    top: 3%;
-    left: -17.2%;
-}
-#groundwaterGridThree {
-    top: -62%;
-    left: -44.2%;
-}
-
-#groundwaterGridFour {
-    top: 28%;
-    left: -44.2%;
-}
-    #groundwaterGridFive 
-    {
-        top: -36%;
-        left: -17.1%;
-    }
-
-#groundwaterGridSix {
-    top: 35%;
-    left: -44.7%;
-    z-index: 6;
-}
-
-#groundwaterGridSeven {
-    top: -62%;
-    left: -44.2%;
-}
-
-    #groundwaterImageDescriptionTwo 
-    {
+    #groundwaterGridTwo {
+        position: relative;
         top: 3%;
-        left: 35.3%;
+        left: -17.8%;
     }
-	#groundwaterImageDescriptionThree {
-    top: -61%;
-    left: 8.3%;
-}
-	#groundwaterImageDescriptionFive {
-    top: -25%;
-    left: 8.3%;
-    width: 14%;
-}
-}
-
-@media (min-width: 1026px) and (max-width: 1299px) and (min-height: 799px) and (max-height: 801px)
-{
-#groundwaterSubTwo {
-    top: -518px;
-}
-
-#groundwaterSubThree {
-    top: -893px;
-}
-
-#groundwaterSubFour {
-    top: -802px;
-}
-
-#groundwaterSubFive {
-    top: -1142px;
-}
-#groundwaterSubSix {
-    top: -1522px;
-}
-#groundwaterSubSeven {
-    top: -2105px;
-}
-#groundwaterSubEight {
-    top: -2272px;
-    height: 40vh;
-}
-
-    #groundwaterOne 
-    {
-        top: 22%;
+    #groundwaterImageDescriptionThree {
+        position: relative;
+        top: -54%;
+        left: 7.7%;
+        width: 14%;
     }
-
-#groundwaterTwo {
-    top: 35%;
-    left: 34.45%;
-}
-
-#imagewaterThree {
-    top: 18%;
-    left: 7.5%;
-}
-
-    #groundwaterThree
-    {
-        top: -2%;
+    #groundwaterImageDescriptionTwo {
+        position: relative;
+        top: 4%;
+        left: 35.5%;
+        width: 14%;
+    }
+    #groundwaterSubFour {
+        top: 129vh;
+    }
+    #groundwaterGridFour {
+        position: relative;
+        top: 32%;
+        left: -44.8%;
+    }
+    #groundwaterGridFive {
+        position: relative;
+        top: -32%;
+        left: -17.8%;
+    }
+    .copyTextGroundWaterThree {
+        position: relative;
+        top: -31%;
+        left: 35.4%;
+        width: 22%;
+    }
+    #groundwaterImageDescriptionFour {
+        position: relative;
+        top: 33%;
+        left: 8.3%;
+        width: 14%;
+    }
+    #groundwaterSubFive {
+        top: 150vh;
+    }
+    #groundwaterFive {
+        position: relative;
+        top: 33%;
+        left: 1.1%;
+    }
+    #groundwaterThree {
+        position: relative;
+        top: 10%;
         left: -33%;
     }
-
-#groundwaterFour {
-    top: -15%;
-    left: 34.5%;
-}
-
-#groundwaterFive {
-    top: 20%;
-    left: 0.9%;
-}
-
-#groundwaterSix {
-    top: 17%;
-    left: -32.7%;
-}
-
-    .copyTextGroundWaterOne 
-    {
-        top: 7%;
+    #groundwaterGridSix {
+        position: relative;
+        top: 32%;
+        left: -44.7%;
+        z-index: 6;
     }
-
-.copyTextGroundWaterTwo {
-    top: 18%;
-    left: 8.3%;
-}
-
-    .copyTextGroundWaterThree 
-    {
-        top: -35%;
-        left: 35.4%;
-    }
-
-#groundwaterImageDescriptionFour {
-    top: 18%;
-    left: 8.3%;
-}
-
-#groundwaterImageDescriptionFive {
-    top: -27%;
-    left: 8.3%;
-}
-
-    #groundwaterImageDescriptionSix 
-    {
+    #groundwaterFour {
+        position: relative;
         top: 5%;
-        left: 8.3%;
+        left: 34.3%;
     }
-
-    #groundwaterImageDescriptionSeven 
-    {
-        top: 7%;
+    #groundwaterImageDescriptionFive {
+        position: relative;
+        top: -20%;
         left: 8.3%;
+        width: 14%;    
+    }
+    #groundwaterSubSix {
+        top: 176vh;
+    }
+    #groundwaterSubSeven {
+        top: 145vh;
+    }
+    #groundwaterGridEight {
+        position: relative;
+        top: -26%;
+        left: -16.3%;    
+    }
+    #groundwaterGridSeven {
+        position: relative;
+        top: 24.8%;
+        left: -43.8%;
+    }
+    #groundwaterSix {
+        position: relative;
+        top: 28%;
+        left: -32.7%;
+        z-index: -5;
+    }
+    #groundwaterSubEight {
+        top: 265vh;
+        height: 40vh;
+    }
+    #groundwaterImageDescriptionOne {
+        top: -24%;
+        left: 8.3%;
+        width: 19%;
+    }
+    #groundwaterVideoOne {
+        top: -21%;
+        left: -32.9%;
+    }
+    #groundwaterImageDescriptionSeven {
+        position: relative;
+        top: 14%;
+        left: 8.3%;
+        width: 21%;
         padding-bottom: 5vh;
     }
-
-#groundwaterGridOne {
-    top: -28%;
-    left: -50.4%;
 }
 
-#groundwaterGridTwo {
-    top: 1.4%;
-    left: -17.1%;
-}
-#groundwaterGridThree {
-    top: -52%;
-    left: -44.1%;
-}
-
-#groundwaterGridFour {
-    top: 17%;
-    left: -44.1%;
-}
-
-    #groundwaterGridFive 
-    {
-        top: -36%;
-        left: -17.1%;
-    }
-
-#groundwaterGridSix {
-    top: 19%;
-    left: -44.1%;
-}
-
-
-
-#groundwaterGridSeven {
-    top: -53%;
-    left: -44.2%;
-}
-
-#groundwaterImageDescriptionOne {
-    position: relative;
-    top: -27%;
-    left: 8.3%;
-    width: 14%;
-}
-
-#groundwaterImageDescriptionThree {
-    top: -51%;
-    left: 8.3%;
-}
-
-#groundwaterImageDescriptionTwo {
-    top: 3%;
-    left: 35.3%;
-}
-
-}
 
 /*------------ Saxons breakpoint 3 - 1280 x 689 ---------------*/
 @media (min-width: 1026px) and (max-width: 1299px) 
 	and (min-height: 680px) and (max-height: 766px)
 {
-.copyTextGroundWaterOne {
-    position: relative;
-    top: 7.7%;
-    width: 22%;
-}
-	#groundwaterGridOne {
-    top: -32%;
-    left: -50.3%;
-}
+    #groundwaterSubOne .mainTitle {
+        top: 17.5%;
+        font-size: 20px;
+        line-height: 25px;
+    }
 
-#groundwaterSubTwo {
-    top: -378.4px;
-}
-
-#groundwaterSubThree {
-    top: -666.1px;
-}
-
-#groundwaterSubFour {
-    top: -308.55px;
-}
-
-#groundwaterSubFive {
-    top: -394.55px;
-}
-#groundwaterGridThree {
-    position: relative;
-    top: -48%;
-    left: -44.2%;
-}
-#groundwaterGridTwo {
-    position: relative;
-    top: 3%;
-    left: -17.3%;
-}
-#groundwaterGridFour {
-    position: relative;
-    top: 28%;
-    left: -44.2%;
-}
-#groundwaterGridFive {
-    position: relative;
-    top: -37%;
-    left: -17.2%;
-}
-
-#groundwaterGridSeven {
-    position: relative;
-    top: -60%;
-    left: -44.1%;
-}
-#groundwaterGridSix {
-    position: relative;
-    top: 28%;
-    left: -44.2%;
-    z-index: 6;
-}
-
-	#groundwaterImageDescriptionOne {
-    position: relative;
-    top: -31.6%;
-    left: 8.3%;
-    width: 14%;
-}
-
-	#groundwaterImageDescriptionThree {
-    top: -47%;
-    left: 8.3%;
-}
-
-#groundwaterImageDescriptionFive {
-    position: relative;
-    top: -25%;
-    left: 8.3%;
-    width: 14%;
-}
-#groundwaterOne {
-    top: 21%;
-    left: -32%;
-    width: 62vw;
-    z-index: -5;
-}
-
-
-
-#groundwaterTwo {
-    top: 34%;
-    left: 34.45%;
-}
-
-#groundwaterFour {
-    position: relative;
-    top: -13%;
-    left: 34.4%;
-}
-#groundwaterSubSix {
-    top: -589.16px;
-}
-#groundwaterSubSeven {
-    top: -968.6px;
-}
-#groundwaterSubEight {
-    top: -862.4px;
-    height: 40vh;
-}
+    #groundwaterOne {
+        position: relative;
+        top: 28%;
+        left: -32%;
+        width: 62vw;
+        z-index: -5;
+    }
+    .copyTextGroundWaterOne {
+        position: relative;
+        top: 14%;
+        width: 22%;    
+    }
+    #groundwaterSubTwo {
+        top: -40vh;
+    }
+    #groundwaterSubThree {
+        top: 0vh;
+    }
+    
+    #groundwaterGridOne {
+        position: relative;
+        top: -27.5%;
+        left: -50.9%;
+    }
+    #groundwaterGridThree {
+        position: relative;
+        top: -55%;
+        left: -44.9%;
+    }
+    #groundwaterGridTwo {
+        position: relative;
+        top: 3%;
+        left: -17.8%;
+    }
+    #groundwaterImageDescriptionThree {
+        position: relative;
+        top: -54%;
+        left: 7.7%;
+        width: 14%;
+    }
+    #groundwaterImageDescriptionTwo {
+        position: relative;
+        top: 4%;
+        left: 35.5%;
+        width: 14%;
+    }
+    #groundwaterSubFour {
+        top: 45vh;
+    }
+    #groundwaterGridFour {
+        position: relative;
+        top: 32%;
+        left: -44.8%;
+    }
+    #groundwaterGridFive {
+        position: relative;
+        top: -32%;
+        left: -17.8%;
+    }
+    .copyTextGroundWaterThree {
+        position: relative;
+        top: -31%;
+        left: 35.4%;
+        width: 22%;
+    }
+    #groundwaterImageDescriptionFour {
+        position: relative;
+        top: 33%;
+        left: 8.3%;
+        width: 14%;
+    }
+    #groundwaterSubFive {
+        top: 42vh;
+    }
+    #groundwaterFive {
+        position: relative;
+        top: 33%;
+        left: 1.1%;
+    }
+    #groundwaterThree {
+        position: relative;
+        top: 10%;
+        left: -33%;
+    }
+    #groundwaterGridSix {
+        position: relative;
+        top: 29%;
+        left: -44.7%;
+        z-index: 6;
+    }
+    #groundwaterFour {
+        position: relative;
+        top: 5%;
+        left: 34.3%;
+    }
+    #groundwaterImageDescriptionFive {
+        position: relative;
+        top: -16%;
+        left: 8.3%;
+        width: 14%;  
+    }
+    #groundwaterSubSix {
+        top: 47vh;
+    }
+    #groundwaterSubSeven {
+        top: 5vh;
+    }
+    #groundwaterGridEight {
+        position: relative;
+        top: -18.8%;
+        left: -16.3%;   
+    }
+    #groundwaterGridSeven {
+        position: relative;
+        top: 24.8%;
+        left: -43.8%;
+    }
+    #groundwaterSix {
+        position: relative;
+        top: 28%;
+        left: -32.7%;
+        z-index: -5;
+    }
+    #groundwaterSubEight {
+        top: 92vh;
+        height: 40vh;
+    }
+    #groundwaterImageDescriptionOne {
+        top: -24%;
+        left: 8.3%;
+        width: 19%;
+    }
+    #groundwaterVideoOne {
+        top: -21%;
+        left: -32.9%;
+    }
+    #groundwaterImageDescriptionSeven {
+        position: relative;
+        top: 14%;
+        left: 8.3%;
+        width: 21%;
+        padding-bottom: 5vh;
+    }
 	
 }
 
@@ -1172,126 +1048,316 @@ and (max-height: 680px)
 @media (min-width: 1026px) and (max-width: 1299px) 
 	and (min-height: 767px) and (max-height: 798px)
 {
-	.copyTextGroundWaterOne {
-    position: relative;
-    top: 8.7%;
-    width: 22%;
-	}
-	
-	
-	#groundwaterOne {
-    top: 21%;
-    left: -32%;
-    width: 62vw;
-    z-index: -5;
-}
-	
-#groundwaterGridOne {
-    top: -28%;
-    left: -50.3%;
+    #groundwaterSubOne .mainTitle {
+        top: 17.5%;
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    #groundwaterOne {
+        position: relative;
+        top: 28%;
+        left: -32%;
+        width: 62vw;
+        z-index: -5;
+    }
+    .copyTextGroundWaterOne {
+        position: relative;
+        top: 14%;
+        width: 22%;    
+    }
+    #groundwaterSubTwo {
+        top: -40vh;
+    }
+    #groundwaterSubThree {
+        top: 0vh;
+    }
+    
+    #groundwaterGridOne {
+        position: relative;
+        top: -27.5%;
+        left: -50.9%;
+    }
+    #groundwaterGridThree {
+        position: relative;
+        top: -44%;
+        left: -44.9%;
+    }
+    #groundwaterGridTwo {
+        position: relative;
+        top: 3%;
+        left: -17.8%;
+    }
+    #groundwaterImageDescriptionThree {
+        position: relative;
+        top: -42%;
+        left: 7.7%;
+        width: 14%;
+    }
+    #groundwaterImageDescriptionTwo {
+        position: relative;
+        top: 4%;
+        left: 35.5%;
+        width: 14%;
+    }
+    #groundwaterSubFour {
+        top: 36vh;
+    }
+    #groundwaterGridFour {
+        position: relative;
+        top: 32%;
+        left: -44.8%;
+    }
+    #groundwaterGridFive {
+        position: relative;
+        top: -32%;
+        left: -17.8%;
+    }
+    .copyTextGroundWaterThree {
+        position: relative;
+        top: -31%;
+        left: 35.4%;
+        width: 22%;
+    }
+    #groundwaterImageDescriptionFour {
+        position: relative;
+        top: 33%;
+        left: 8.3%;
+        width: 14%;
+    }
+    #groundwaterSubFive {
+        top: 24vh;
+    }
+    #groundwaterFive {
+        position: relative;
+        top: 33%;
+        left: 1.1%;
+    }
+    #groundwaterThree {
+        position: relative;
+        top: 10%;
+        left: -33%;
+    }
+    #groundwaterGridSix {
+        position: relative;
+        top: 27%;
+        left: -44.7%;
+        z-index: 6;
+    }
+    #groundwaterFour {
+        position: relative;
+        top: 5%;
+        left: 34.3%;
+    }
+    #groundwaterImageDescriptionFive {
+        position: relative;
+        top: -14%;
+        left: 8.3%;
+        width: 14%; 
+    }
+    #groundwaterSubSix {
+        top: 15vh;
+    }
+    #groundwaterSubSeven {
+        top: -32vh;
+    }
+    #groundwaterGridEight {
+        position: relative;
+        top: -14.8%;
+        left: -16.3%;  
+    }
+    #groundwaterGridSeven {
+        position: relative;
+        top: 24.8%;
+        left: -43.8%;
+    }
+    #groundwaterSix {
+        position: relative;
+        top: 28%;
+        left: -32.7%;
+        z-index: -5;
+    }
+    #groundwaterSubEight {
+        top: 36vh;
+        height: 40vh;
+    }
+    #groundwaterImageDescriptionOne {
+        top: -24%;
+        left: 8.3%;
+        width: 19%;
+    }
+    #groundwaterVideoOne {
+        top: -13%;
+        left: -32.9%;
+    
+    }
+    #groundwaterImageDescriptionSeven {
+        position: relative;
+        top: 14%;
+        left: 8.3%;
+        width: 21%;
+        padding-bottom: 5vh;
+    }
 }
 
+/*------------ Saxons breakpoint 3 - 1280 x 800---------------*/
+@media (min-width: 1026px) and (max-width: 1299px) and (min-height: 799px) and (max-height: 801px)
+{
+    #groundwaterSubOne .mainTitle {
+        top: 15%;
+        font-size: 20px;
+        line-height: 25px;
+    }
 
-#groundwaterGridThree {
-    position: relative;
-    top: -46%;
-    left: -44.2%;
-}
-#groundwaterGridTwo {
-    position: relative;
-    top: 3%;
-    left: -17.3%;
-}
-#groundwaterGridFour {
-    position: relative;
-    top: 28%;
-    left: -44.2%;
-}
-#groundwaterGridFive {
-    position: relative;
-    top: -30%;
-    left: -17.4%;
-}
-#groundwaterGridSix {
-    position: relative;
-    top: 25%;
-    left: -44.1%;
-    z-index: 6;
-}
-#groundwaterGridSeven {
-    position: relative;
-    top: -52%;
-    left: -44.2%;
-}
-	#groundwaterTwo {
-    top: 33%;
-    left: 34.45%;
-}
-#groundwaterFour {
-    position: relative;
-    top: -12%;
-    left: 34.5%;
-}
-
-#groundwaterFive {
-    position: relative;
-    top: 22%;
-    left: 1.1%;
-}
-
-	#groundwaterImageDescriptionOne {
-    position: relative;
-    top: -27%;
-    left: 8.3%;
-    width: 14%;
-}
-	#groundwaterImageDescriptionThree {
-    top: -45%;
-    left: 8.3%;
-}
-
-
-#groundwaterImageDescriptionFive {
-    position: relative;
-    top: -24%;
-    left: 8.3%;
-    width: 14%;
-}
-	.copyTextGroundWaterTwo {
-    top: 25%;
-    left: 8.3%;
-}
-#imagewaterThree {
-    top: 24%;
-    left: 7.5%;
-}
-
-.copyTextGroundWaterThree {
-    top: -28%;
-    left: 35.4%;
-}
-	#groundwaterSubTwo {
-    top: -60vh;
-}
-#groundwaterSubThree {
-    top: -109.3vh;
-}
-#groundwaterSubFour {
-    top: -615.55px;
-}
-#groundwaterSubFive {
-    top: -779.55px;
-}
-#groundwaterSubSix {
-    top: -1079.2px;
-}
-#groundwaterSubSeven {
-    top: -1606.6px;
-}
-#groundwaterSubEight {
-    top: -1580.6px;
-    height: 40vh;
-}
+    #groundwaterOne {
+        position: relative;
+        top: 28%;
+        left: -32%;
+        width: 62vw;
+        z-index: -5;
+    }
+    .copyTextGroundWaterOne {
+        position: relative;
+        top: 14%;
+        width: 22%;    
+    }
+    #groundwaterSubTwo {
+        top: -40vh;
+    }
+    #groundwaterSubThree {
+        top: -15vh;
+    }
+    
+    #groundwaterGridOne {
+        position: relative;
+        top: -27.5%;
+        left: -50.9%;
+    }
+    #groundwaterGridThree {
+        position: relative;
+        top: -44%;
+        left: -44.9%;
+    }
+    #groundwaterGridTwo {
+        position: relative;
+        top: 3%;
+        left: -17.8%;
+    }
+    #groundwaterImageDescriptionThree {
+        position: relative;
+        top: -42%;
+        left: 7.7%;
+        width: 14%;
+    }
+    #groundwaterImageDescriptionTwo {
+        position: relative;
+        top: 4%;
+        left: 35.5%;
+        width: 14%;
+    }
+    #groundwaterSubFour {
+        top: 12vh;
+    }
+    #groundwaterGridFour {
+        position: relative;
+        top: 32%;
+        left: -44.8%;
+    }
+    #groundwaterGridFive {
+        position: relative;
+        top: -32%;
+        left: -17.8%;
+    }
+    .copyTextGroundWaterThree {
+        position: relative;
+        top: -31%;
+        left: 35.4%;
+        width: 22%;
+    }
+    #groundwaterImageDescriptionFour {
+        position: relative;
+        top: 33%;
+        left: 8.3%;
+        width: 14%;
+    }
+    #groundwaterSubFive {
+        top: -3vh;
+    }
+    #groundwaterFive {
+        position: relative;
+        top: 33%;
+        left: 1.1%;
+    }
+    #groundwaterThree {
+        position: relative;
+        top: 10%;
+        left: -33%;
+    }
+    #groundwaterGridSix {
+        position: relative;
+        top: 27%;
+        left: -44.7%;
+        z-index: 6;
+    }
+    #groundwaterFour {
+        position: relative;
+        top: 5%;
+        left: 34.3%;
+    }
+    #groundwaterImageDescriptionFive {
+        position: relative;
+        top: -14%;
+        left: 8.3%;
+        width: 14%; 
+    }
+    #groundwaterSubSix {
+        top: -15vh;
+    }
+    #groundwaterSubSeven {
+        top: -66vh;
+    }
+    #groundwaterGridEight {
+        position: relative;
+        top: -13.5%;
+        left: -16.3%; 
+    }
+    #groundwaterGridSeven {
+        position: relative;
+        top: 24.8%;
+        left: -43.8%;
+    }
+    #groundwaterSix {
+        position: relative;
+        top: 28%;
+        left: -32.7%;
+        z-index: -5;
+    }
+    #groundwaterSubEight {
+        top: -5vh;
+        height: 40vh;
+    }
+    #groundwaterImageDescriptionOne {
+        top: -24%;
+        left: 8.3%;
+        width: 19%;
+    }
+    #groundwaterVideoOne {
+        top: -17%;
+        left: -32.9%;    
+    }
+    #groundwaterImageDescriptionSeven {
+        position: relative;
+        top: 14%;
+        left: 8.3%;
+        width: 21%;
+        padding-bottom: 5vh;
+    }
+    #groundwaterTwo {
+        position: relative;
+        top: 35%;
+        left: 34.7%;
+        z-index: -5;
+    }
 
 }
 
@@ -1300,320 +1366,309 @@ and (max-height: 680px)
 
 @media (min-width: 1300px) and (max-width: 1399px) 
 {
-    #groundwaterSubOne
-    {
-        top: -5vh;
+    #groundwaterSubOne .mainTitle {
+        top: 20.7%;
+        font-size: 20px;
+        line-height: 25px;
     }
-
-#groundwaterSubTwo {
-    top: -70.2vh;
-}
-#groundwaterSubThree {
-    top: -119vh;
-}
-#groundwaterSubFour {
-    top: -93.2vh;
-}
-#groundwaterSubFive {
-    top: -116.7vh;
-}
-#groundwaterSubSix {
-    top: -155vh;
-}
-#groundwaterSubSeven {
-    top: -215vh;
-}
-#groundwaterSubEight {
-    top: -221vh;
-    height: 35vh;
-}
-
-    #groundwaterGridOne 
-    {
-        top: -26%;
-        left: -50.2%;
-    }
-
-    #groundwaterGridThree 
-    {
-        top: -53%;
-        left: -43.9%;
-    }
-
-    #groundwaterGridFour 
-    {
+            
+    #groundwaterOne {
+        position: relative;
         top: 28%;
-        left: -44%;
-    }
-
-    #groundwaterGridFive 
-    {
-        top: -32%;
-        left: -17%;
-    }
-
-    #groundwaterGridTwo 
-    {
-        top: 6%;
-        left: -17%;
-    }
-
-    #groundwaterGridSix 
-    {
-        top: 30%;
-        left: -43.9%;
-    }
-
-    #groundwaterGridSeven
-    {
-        top: -54%;
-        left: -44%;
-    }
-
-    #groundwaterImageDescriptionOne 
-    {
-        top: -24%;
-        left: 8.3%;
-    }
-
-    #groundwaterImageDescriptionTwo 
-    {
-        top: 7%;
-        left: 35.2%;
-    }
-
-    #groundwaterImageDescriptionThree 
-    {
-        top: -52%;
-        left: 8.3%;
-    }
-
-    #groundwaterImageDescriptionFour 
-    {
-        top: 29.5%;
-        left: 8.3%;
-    }
-
-    #groundwaterImageDescriptionFive 
-    {
-        top: -21.8%;
-        left: 8.3%;
-    }
-.copyTextGroundWaterOne {
-    position: relative;
-    top: 8.7%;
-    width: 22%;
-}
-
-    .copyTextGroundWaterThree 
-    {
-        top: -31%;
-        left: 35.4%;
-    }
-#groundwaterOne {
-    position: relative;
-    top: 23%;
-    left: -32%;
-    width: 62vw;
-    z-index: -5;
-}
-    #groundwaterTwo 
-    {
-        top: 34%;
-        left: 34.5%;
+        left: -32%;
+        width: 62vw;
         z-index: -5;
     }
-
-    #imagewaterThree 
-    {
-        top: 25%;
-        left: 7.7%;
+    .copyTextGroundWaterOne {
+        position: relative;
+        top: 14%;
+        width: 22%;    
     }
-
-    #groundwaterThree 
-    {
-        top: 2%;
+    #groundwaterSubTwo {
+        top: -54vh;
+    }
+    #groundwaterSubThree {
+        top: -20vh;
+    }
+    
+    #groundwaterGridOne {
+        position: relative;
+        top: -27.5%;
+        left: -50.9%;
+    }
+    #groundwaterGridThree {
+        position: relative;
+        top: -52%;
+        left: -44.9%;
+    }
+    #groundwaterGridTwo {
+        position: relative;
+        top: 3%;
+        left: -17.8%;
+    }
+    #groundwaterImageDescriptionThree {
+        position: relative;
+        top: -50%;
+        left: 7.7%;
+        width: 14%;
+    }
+    #groundwaterImageDescriptionTwo {
+        position: relative;
+        top: 4%;
+        left: 35.5%;
+        width: 14%;
+    }
+    #groundwaterSubFour {
+        top: 15vh;
+    }
+    #groundwaterGridFour {
+        position: relative;
+        top: 32%;
+        left: -44.8%;
+    }
+    #groundwaterGridFive {
+        position: relative;
+        top: -32%;
+        left: -17.8%;
+    }
+    .copyTextGroundWaterThree {
+        position: relative;
+        top: -31%;
+        left: 35.4%;
+        width: 22%;
+    }
+    #groundwaterImageDescriptionFour {
+        position: relative;
+        top: 33%;
+        left: 8.3%;
+        width: 14%;
+    }
+    #groundwaterSubFive {
+        top: 0vh;
+    }
+    #groundwaterFive {
+        position: relative;
+        top: 33%;
+        left: 1.1%;
+    }
+    #groundwaterThree {
+        position: relative;
+        top: 10%;
         left: -33%;
     }
-
-    #groundwaterFour 
-    {
-        top: -13%;
-        left: 34.6%;
+    #groundwaterGridSix {
+        position: relative;
+        top: 28%;
+        left: -44.7%;
+        z-index: 6;
     }
-
-    #groundwaterFive 
-    {
-        top: 27%;
-        left: 0.9%;
+    #groundwaterFour {
+        position: relative;
+        top: 5%;
+        left: 34.3%;
+    }
+    #groundwaterImageDescriptionFive {
+        position: relative;
+        top: -15%;
+        left: 8.3%;
+        width: 14%;     
+    }
+    #groundwaterSubSix {
+        top: -7vh;
+    }
+    #groundwaterSubSeven {
+        top: -57vh;
+    }
+    #groundwaterGridEight {
+        position: relative;
+        top: -17%;
+        left: -16.3%;  
+    }
+    #groundwaterGridSeven {
+        position: relative;
+        top: 24.8%;
+        left: -43.8%;
+    }
+    #groundwaterSix {
+        position: relative;
+        top: 28%;
+        left: -32.7%;
+        z-index: -5;
+    }
+    #groundwaterSubEight {
+        top: 21vh;
+        height: 40vh;
+    }
+    #groundwaterImageDescriptionOne {
+        top: -24%;
+        left: 8.3%;
+        width: 19%;
+    }
+    #groundwaterVideoOne {
+        top: -16%;
+        left: -32.9%;
+    }
+    #groundwaterImageDescriptionSeven {
+        position: relative;
+        top: 14%;
+        left: 8.3%;
+        width: 21%;
+        padding-bottom: 5vh;
     }
 }
 
 @media (min-width: 1300px) and (max-width: 1399px) and (min-height: 680px) and (max-height: 749px)
 {
-    #groundwaterSubOne
-    {
-        top: -35px;
+    #groundwaterSubOne .mainTitle {
+        top: 20.7%;
+        font-size: 20px;
+        line-height: 25px;
     }
-
-#groundwaterSubTwo {
-    top: -434px;
-}
-#groundwaterSubThree {
-    top: -672px;
-}
-#groundwaterSubFour {
-    top: -282px;
-}
-#groundwaterSubFive {
-    top: -359px;
-}
-#groundwaterSubSix {
-    top: -530px;
-}
-#groundwaterSubSeven {
-    top: -883px;
-}
-#groundwaterSubEight {
-    top: -826px;
-    height: 35vh;
-}
-
-    #groundwaterGridOne 
-    {
-        top: -26%;
-        left: -50.2%;
-    }
-
-    #groundwaterGridThree 
-    {
-        top: -50%;
-        left: -43.9%;
-    }
-
-    #groundwaterGridFour 
-    {
+            
+    #groundwaterOne {
+        position: relative;
         top: 28%;
-        left: -44%;
-    }
-
-    #groundwaterGridFive 
-    {
-        top: -32%;
-        left: -17%;
-    }
-
-    #groundwaterGridTwo 
-    {
-        top: 6%;
-        left: -17%;
-    }
-
-    #groundwaterGridSix 
-    {
-        top: 30%;
-        left: -43.9%;
-    }
-
-    #groundwaterGridSeven
-    {
-        top: -54%;
-        left: -44%;
-    }
-
-    #groundwaterImageDescriptionOne 
-    {
-        top: -24%;
-        left: 8.3%;
-    }
-
-    #groundwaterImageDescriptionTwo 
-    {
-        top: 7%;
-        left: 35.2%;
-    }
-
-    #groundwaterImageDescriptionThree 
-    {
-        top: -48%;
-        left: 8.3%;
-    }
-
-    #groundwaterImageDescriptionFour 
-    {
-        top: 29.5%;
-        left: 8.3%;
-    }
-
-    #groundwaterImageDescriptionFive 
-    {
-        top: -21.8%;
-        left: 8.3%;
-    }
-	.copyTextGroundWaterOne {
-    position: relative;
-    top: 9.7%;
-    width: 22%;
-}
-
-
-    .copyTextGroundWaterFive
-    {
-        top: 23%;
-    }
-
-    .copyTextGroundWaterThree 
-    {
-        top: -31%;
-        left: 35.4%;
-    }
-
-    .copyTextGroundWaterSix
-    {
-        top: 22%;
-    }
-
-    .copyTanksSix
-    {
-        top: 22.5%;
-    }
-
-	#groundwaterOne {
-    position: relative;
-    top: 24.2%;
-    left: -32%;
-    width: 62vw;
-    z-index: -5;
-}
-    #groundwaterTwo 
-    {
-        top: 34%;
-        left: 34.5%;
+        left: -32%;
+        width: 62vw;
         z-index: -5;
     }
-
-    #imagewaterThree 
-    {
-        top: 25%;
-        left: 7.7%;
+    .copyTextGroundWaterOne {
+        position: relative;
+        top: 14%;
+        width: 22%;    
     }
-
-    #groundwaterThree 
-    {
-        top: 2%;
+    #groundwaterSubTwo {
+        top: -44vh;
+    }
+    #groundwaterSubThree {
+        top: 5vh;
+    }
+    
+    #groundwaterGridOne {
+        position: relative;
+        top: -27.5%;
+        left: -50.9%;
+    }
+    #groundwaterGridThree {
+        position: relative;
+        top: -52%;
+        left: -44.9%;
+    }
+    #groundwaterGridTwo {
+        position: relative;
+        top: 3%;
+        left: -17.8%;
+    }
+    #groundwaterImageDescriptionThree {
+        position: relative;
+        top: -50%;
+        left: 7.7%;
+        width: 14%;
+    }
+    #groundwaterImageDescriptionTwo {
+        position: relative;
+        top: 4%;
+        left: 35.5%;
+        width: 14%;
+    }
+    #groundwaterSubFour {
+        top: 65vh;
+    }
+    #groundwaterGridFour {
+        position: relative;
+        top: 32%;
+        left: -44.8%;
+    }
+    #groundwaterGridFive {
+        position: relative;
+        top: -32%;
+        left: -17.8%;
+    }
+    .copyTextGroundWaterThree {
+        position: relative;
+        top: -31%;
+        left: 35.4%;
+        width: 22%;
+    }
+    #groundwaterImageDescriptionFour {
+        position: relative;
+        top: 33%;
+        left: 8.3%;
+        width: 14%;
+    }
+    #groundwaterSubFive {
+        top: 60vh;
+    }
+    #groundwaterFive {
+        position: relative;
+        top: 33%;
+        left: 1.1%;
+    }
+    #groundwaterThree {
+        position: relative;
+        top: 10%;
         left: -33%;
     }
-
-    #groundwaterFour 
-    {
-        top: -13%;
-        left: 34.6%;
+    #groundwaterGridSix {
+        position: relative;
+        top: 28%;
+        left: -44.7%;
+        z-index: 6;
     }
+    #groundwaterFour {
+        position: relative;
+        top: 5%;
+        left: 34.3%;
+    }
+    #groundwaterImageDescriptionFive {
+        position: relative;
+        top: -15%;
+        left: 8.3%;
+        width: 14%;     
+    }
+    #groundwaterSubSix {
+        top: 66vh;
+    }
+    #groundwaterSubSeven {
+        top: 23vh;
+    }
+    #groundwaterGridEight {
 
-    #groundwaterFive 
-    {
-        top: 27%;
-        left: 0.9%;
+        position: relative;
+        top: -21%;
+        left: -16.3%;
+    
+    }
+    #groundwaterGridSeven {
+        position: relative;
+        top: 24.8%;
+        left: -43.8%;
+    }
+    #groundwaterSix {
+        position: relative;
+        top: 28%;
+        left: -32.7%;
+        z-index: -5;
+    }
+    #groundwaterSubEight {
+        top: 115vh;
+        height: 40vh;
+    }
+    #groundwaterImageDescriptionOne {
+        top: -24%;
+        left: 8.3%;
+        width: 19%;
+    }
+    #groundwaterVideoOne {
+        top: -16%;
+        left: -32.9%;
+    }
+    #groundwaterImageDescriptionSeven {
+        position: relative;
+        top: 14%;
+        left: 8.3%;
+        width: 21%;
+        padding-bottom: 5vh;
     }
 }
 
@@ -1621,269 +1676,316 @@ and (max-height: 680px)
 @media (min-width: 1300px) and (max-width: 1399px) 
 and (min-height: 539px) and (max-height: 679px)
 {
-	.copyTextGroundWaterOne {
-    position: relative;
-    top: 10.7%;
-    width: 22%;
-}
-	#groundwaterOne {
-    position: relative;
-    top: 26%;
-    left: -32%;
-    width: 62vw;
-    z-index: -5;
-}
+    #groundwaterSubOne .mainTitle {
+        top: 20.7%;
+        font-size: 20px;
+        line-height: 25px;
+    }
+            
+    #groundwaterOne {
+        position: relative;
+        top: 28%;
+        left: -32%;
+        width: 62vw;
+        z-index: -5;
+    }
+    .copyTextGroundWaterOne {
+        position: relative;
+        top: 14%;
+        width: 22%;    
+    }
+    #groundwaterSubTwo {
+        top: -14vh;
+    }
+    #groundwaterSubThree {
+        top: 95vh;
+    }
+    
+    #groundwaterGridOne {
+        position: relative;
+        top: -27.5%;
+        left: -50.9%;
+    }
+    #groundwaterGridThree {
+        position: relative;
+        top: -69%;
+        left: -44.9%;
+    }
+    #groundwaterGridTwo {
+        position: relative;
+        top: 3%;
+        left: -17.8%;
+    }
+    #groundwaterImageDescriptionThree {
+        position: relative;
+        top: -67%;
+        left: 7.7%;
+        width: 14%;
+    }
+    #groundwaterImageDescriptionTwo {
+        position: relative;
+        top: 4%;
+        left: 35.5%;
+        width: 14%;
+    }
+    #groundwaterSubFour {
+    
+        top: 215vh;
 
-#groundwaterSubTwo {
-    top: -146.01px;
-}
+    }
+    #groundwaterGridFour {
+        position: relative;
+        top: 32%;
+        left: -44.8%;
+    }
+    #groundwaterGridFive {
+        position: relative;
+        top: -32%;
+        left: -17.8%;
+    }
+    .copyTextGroundWaterThree {
+        position: relative;
+        top: -31%;
+        left: 35.4%;
+        width: 22%;
+    }
+    #groundwaterImageDescriptionFour {
+        position: relative;
+        top: 33%;
+        left: 8.3%;
+        width: 14%;
+    }
+    #groundwaterSubFive {
+        top: 270vh;
+    }
+    #groundwaterFive {
+        position: relative;
+        top: 33%;
+        left: 1.1%;
+    }
+    #groundwaterThree {
+        position: relative;
+        top: 10%;
+        left: -33%;
+    }
+    #groundwaterGridSix {
+        position: relative;
+        top: 35%;
+        left: -44.7%;
+        z-index: 6;
+    }
+    #groundwaterFour {
+        position: relative;
+        top: 5%;
+        left: 34.3%;
+    }
+    #groundwaterImageDescriptionFive {
+        position: relative;
+        top: -15%;
+        left: 8.3%;
+        width: 14%;     
+    }
+    #groundwaterSubSix {
+        top: 330vh;
+    }
+    #groundwaterSubSeven {
+         top: 315vh;
+    }
+    #groundwaterGridEight {
 
-#groundwaterSubThree {
-    top: -174.75px;
-}
-
-#groundwaterGridThree {
-    top: -83%;
-    left: -43.9%;
-}
-
-#groundwaterImageDescriptionThree {
-    top: -81%;
-    left: 8.3%;
-}
-
-
-#groundwaterSubFour {
-    top: 353.18px;
-}
-#groundwaterGridFive {
-    top: -56%;
-    left: -17%;
-}
-
-.copyTextGroundWaterThree {
-    top: -51%;
-    left: 35.4%;
-}
-
-
-
-#groundwaterThree {
-    top: 51%;
-    left: -33%;
-}
-
-#groundwaterSubFive {
-    top: 483.2px;
-}
-
-
-#groundwaterFour {
-    top: 7%;
-    left: 34.6%;
-}
-
-#groundwaterImageDescriptionFive {
-    top: -6.8%;
-    left: 8.3%;
-}
-
-#groundwaterGridSix {
-    top: 3%;
-    left: 6.1%;
-}
-
-#groundwaterSubSix {
-    top: 497.77px;
-}
-#groundwaterSubSeven {
-    top: 341.25px;
-}
-
-
-#groundwaterGridSeven {
-    top: -86%;
-    left: -44%;
-}
-#groundwaterSix {
-    position: relative;
-    top: 23%;
-    left: -32.7%;
-    z-index: -5;
-}
-#groundwaterSubEight {
-    top: 620.33px;
-    height: 35vh;
-}
-	#groundwaterGridOne {
-    top: -46%;
-    left: -50.2%;
-}
-#groundwaterImageDescriptionOne {
-    top: -44%;
-    left: 8.3%;
-}
-
-
-
-
-
-
-	
+        position: relative;
+        top: -33%;
+        left: -16.3%;
+    
+    }
+    #groundwaterGridSeven {
+        position: relative;
+        top: 24.8%;
+        left: -43.8%;
+    }
+    #groundwaterSix {
+        position: relative;
+        top: 28%;
+        left: -32.7%;
+        z-index: -5;
+    }
+    #groundwaterSubEight {
+        top: 475vh;
+        height: 40vh;
+    }
+    #groundwaterImageDescriptionOne {
+        top: -24%;
+        left: 8.3%;
+        width: 19%;
+    }
+    #groundwaterVideoOne {
+        top: -16%;
+        left: -32.9%;
+    }
+    #groundwaterImageDescriptionSeven {
+        position: relative;
+        top: 14%;
+        left: 8.3%;
+        width: 21%;
+        padding-bottom: 5vh;
+    }
 }
 /*------------ Saxon's Breakpoint 6 1366 x 1024 ---------------*/
 @media (min-width: 1300px) and (max-width: 1399px) 
 	and (min-height: 781px) and (max-height: 1025px)
 {
-	.groundwaterContainer .mainTitle {
-    top: 16%;
-    font-size: 22px;
-    line-height: 25px;
+#groundwaterSubOne
+{
+    top: -12vh;
 }
-.copyTextGroundWaterFour{
-    font-size: 13px;
-    line-height: 17px;
-    top: 16.2%;
-}
-#groundwaterOne {
-    position: relative;
-    top: 18.5%;
-    left: -32%;
-    width: 62vw;
-    z-index: -5;
-}
-.copyTextGroundWaterOne {
-    position: relative;
-    top: 6%;
-    width: 22%;
-}
-#groundwaterSubTwo {
-    top: -905.02px;
-}
-#groundwaterGridOne {
-    top: -19%;
-    left: -50.2%;
-}
+            
+    #groundwaterOne {
+        position: relative;
+        top: 28%;
+        left: -32%;
+        width: 62vw;
+        z-index: -5;
+    }
+    .copyTextGroundWaterOne {
+        position: relative;
+        top: 14%;
+        width: 22%;    
+    }
+    #groundwaterSubTwo {
+        top: -85vh;
+    }
+    #groundwaterSubThree {
+        top: -70vh;
+    }
+    
+    #groundwaterGridOne {
+        position: relative;
+        top: -13.5%;
+        left: -50.9%;
+    }
+    #groundwaterGridThree {
+        position: relative;
+        top: -33%;
+        left: -44.9%;
+    }
+    #groundwaterGridTwo {
+        position: relative;
+        top: 9%;
+        left: -17.8%;
+    }
+    #groundwaterImageDescriptionThree {
+        position: relative;
+        top: -31%;
+        left: 7.7%;
+        width: 14%;
+    }
+    #groundwaterImageDescriptionTwo {
+        position: relative;
+        top: 10%;
+        left: 35.5%;
+        width: 14%;
+    }
+    #groundwaterSubFour {
+    
+        top: -75vh;
 
-#groundwaterTwo {
-    top: 26%;
-    left: 34.5%;
-    z-index: -5;
-}
+    }
+    #groundwaterGridFour {
+        position: relative;
+        top: 32%;
+        left: -44.8%;
+    }
+    #groundwaterGridFive {
+        position: relative;
+        top: -21%;
+        left: -17.8%;
+    }
+    .copyTextGroundWaterThree {
+        position: relative;
+        top: -20%;
+        left: 35.4%;
+        width: 22%;
+    }
+    #groundwaterImageDescriptionFour {
+        position: relative;
+        top: 33%;
+        left: 8.3%;
+        width: 14%;
+    }
+    #groundwaterSubFive {
+        top: -115vh;
+    }
+    #groundwaterFive {
+        position: relative;
+        top: 33%;
+        left: 1.1%;
+    }
+    #groundwaterThree {
+        position: relative;
+        top: 10%;
+        left: -33%;
+    }
+    #groundwaterGridSix {
+        position: relative;
+        top: 24%;
+        left: -44.7%;
+        z-index: 6;
+    }
+    #groundwaterFour {
+        position: relative;
+        top: 5%;
+        left: 34.3%;
+    }
+    #groundwaterImageDescriptionFive {
+        position: relative;
+        top: -10%;
+        left: 8.3%;
+        width: 14%;   
+    }
+    #groundwaterSubSix {
+        top: -158vh;
+    }
+    #groundwaterSubSeven {
+        top: -227vh;
+    }
+    #groundwaterGridEight {
 
-.copyTextGroundWaterFive {
-    top: 16.4%;
-}
-#groundwaterImageDescriptionOne {
-    top: -18.3%;
-    left: 8.3%;
-}
-#groundwaterSubThree {
-    top: -1657.75px;
-}
-
-.copyTextGroundWaterSix {
-    top: 16%;
-}
-#imagewaterThree {
-    top: 19%;
-    left: 7.7%;
-}
-#groundwaterSubThree .copyTextGroundWaterTwo {
-    top: 19.1%;
-    left: 8.3%;
-}
-
-#groundwaterImageDescriptionOne {
-    top: -19%;
-    left: 8.3%;
-	}
-#groundwaterGridTwo {
-    top: 3%;
-    left: -17%;
-}
-#groundwaterGridThree {
-    top: -42%;
-    left: -43.9%;
-}
-#groundwaterImageDescriptionThree {
-    top: -41%;
-    left: 8.3%;
-}
-
-#groundwaterImageDescriptionTwo {
-    top: 4%;
-    left: 35.2%;
-}
-
-#groundwaterSubFour {
-    top: -1826.82px;
-}
-
-
-#groundwaterGridFour {
-    top: 19%;
-    left: -44%;
-}
-
-#groundwaterGridFive {
-    top: -29%;
-    left: -17%;
-}
-
-.copyTextGroundWaterThree {
-    top: -29%;
-    left: 35.4%;
-}
-#groundwaterImageDescriptionFour {
-    top: 19.8%;
-    left: 8.3%;
-}
-
-
-#groundwaterSubFive {
-    top: -2400.8px;
-}
-#groundwaterGridSix {
-    top: 19%;
-    left: -43.9%;
-}
-#groundwaterThree {
-    top: -1%;
-    left: -33%;
-}
-
-#groundwaterFour {
-    top: -14%;
-    left: 34.6%;
-}
-
-#groundwaterImageDescriptionFive {
-    top: -22.8%;
-    left: 8.3%;
-}
-
-
-#groundwaterSubSix {
-    top: -3099.63px;
-}
-#groundwaterFive {
-    top: 19%;
-    left: 0.9%;
-}
-
-#groundwaterSubSeven {
-    top: -3989.85px;
-}
-#groundwaterGridSeven {
-    top: -43%;
-    left: -44%;
-}
-#groundwaterSubEight {
-    top: -422vh;
-    height: 35vh;
-}
-
+        position: relative;
+        top: -7.7%;
+        left: -16.3%;
+    
+    }
+    #groundwaterGridSeven {
+        position: relative;
+        top: 24.8%;
+        left: -43.8%;
+    }
+    #groundwaterSix {
+        position: relative;
+        top: 28%;
+        left: -32.7%;
+        z-index: -5;
+    }
+    #groundwaterSubEight {
+        top: -190vh;
+        height: 40vh;
+    }
+    #groundwaterImageDescriptionOne {
+        top: -10%;
+        left: 8.3%;
+        width: 19%;    
+    }
+    #groundwaterVideoOne {
+        top: 1%;
+        left: -32.9%;
+    }
+    #groundwaterImageDescriptionSeven {
+        position: relative;
+        top: 14%;
+        left: 8.3%;
+        width: 21%;
+        padding-bottom: 5vh;
+    }
 	
 	
 }
@@ -1901,37 +2003,37 @@ and (min-height: 539px) and (max-height: 679px)
 
     #groundwaterSubTwo 
     {
-        top: -44.5vh;
+        top: -43vh;
     }
 
     #groundwaterSubThree 
     {
-        top: -87vh;
+        top: -16vh;
     }
 
     #groundwaterSubFour 
     {
-        top: -38vh;
+        top: 35vh;
     }
 
     #groundwaterSubFive 
     {
-        top: -52vh;
+        top: 24vh;
     }
 
     #groundwaterSubSix 
     {
-        top: -87vh;
+        top: 20vh;
     }
 
     #groundwaterSubSeven 
     {
-        top: -146vh;
+        top: -36vh;
     }
 
     #groundwaterSubEight 
     {
-        top: -145vh;
+        top: 39vh;
         height: 40vh;
     }
 
@@ -1976,13 +2078,13 @@ and (min-height: 539px) and (max-height: 679px)
     }
 
     #groundwaterThree {
-        top: 43%;
+        top: 49%;
         left: -33%;
     }
 
     #groundwaterFour 
     {
-        top: 10%;
+        top: 30%;
         left: 34.6%;
     }
 
@@ -1990,6 +2092,9 @@ and (min-height: 539px) and (max-height: 679px)
     {
         top: 25%;
         left: 1.1%;
+    }
+    #groundwaterSix {
+        top: 23%;
     }
 
     #groundwaterGridOne 
@@ -2031,7 +2136,7 @@ and (min-height: 539px) and (max-height: 679px)
 
     #groundwaterGridSeven 
     {
-        top: -60%;
+        top: 18.1%;
         left: -43.8%;
     }
 
@@ -2055,9 +2160,18 @@ and (min-height: 539px) and (max-height: 679px)
 
     #groundwaterImageDescriptionFive 
     {
-        top: 1%;
+        top: 8.5%;
         left: 8.3%;
     }
+    #groundwaterVideoOne {
+        top: -53%;
+        left: -32.9%;
+    }
+    #groundwaterImageDescriptionSeven {
+        top: 12%;
+    }
+    
+    
 }
 
 @media (min-width: 1400px) and (max-width: 1499px) and (min-height: 851px) and (max-height: 901px)
@@ -2065,47 +2179,55 @@ and (min-height: 539px) and (max-height: 679px)
     .copyTextGroundWaterFour
     {
         position: relative;
-        top: 15.5%;
+        top: 15.5%;   
     }
 
-#groundwaterSubTwo {
-    top: -613px;
-}
+    #groundwaterSubTwo 
+    {
+        top: -53vh;
+    }
 
-#groundwaterSubThree {
-    top: -1091px;
-}
+    #groundwaterSubThree 
+    {
+        top: -39vh;
+    }
 
-#groundwaterSubFour {
-    top: -795px;
-}
-#groundwaterSubFive {
-    top: -1029px;
-}
-#groundwaterSubSix {
-    top: -1360px;
-}
-#groundwaterSubSeven {
-    top: -1956px;
-}
-#groundwaterSubEight {
-    top: -2100px;
-    height: 30vh;
-}
+    #groundwaterSubFour 
+    {
+        top: -11vh;
+    }
 
-.copyTextGroundWaterOne {
-    top: -5%;
-}
+    #groundwaterSubFive 
+    {
+        top: -33vh;
+    }
 
+    #groundwaterSubSix 
+    {
+        top: -50vh;
+    }
 
-.copyTextGroundWaterFive {
-    position: relative;
-    top: 15%;
-}
+    #groundwaterSubSeven 
+    {
+        top: -115vh;
+    }
 
-.copyTextGroundWaterSix {
-    top: 15.5%;
-}
+    #groundwaterSubEight 
+    {
+        top: -65vh;
+        height: 40vh;  
+    }
+
+    .copyTextGroundWaterFive
+    {
+        position: relative;
+        top: 18%;
+    }
+
+    .copyTextGroundWaterSix
+    {
+        top: 18.5%;
+    }
 
     .copyTextGroundWaterTwo 
     {
@@ -2119,20 +2241,31 @@ and (min-height: 539px) and (max-height: 679px)
         left: 35.4%;
     }
 #groundwaterOne {
-    top: 8%;
+    top: 13%;
     left: -32%;
+    width: 62vw;
+    z-index: -5;
+}
+.copyTextGroundWaterOne {
+    top: 2.7%;
+    width: 22%;
 }
 
     #groundwaterTwo 
     {
-        top: 11%;
+        top: 9%;
         left: 34%;
         z-index: -5;
     }
 
+    #groundwaterThree {
+        top: 47%;
+        left: -34%;
+    }
+
     #groundwaterFour 
     {
-        top: 18%;
+        top: 30%;
         left: 34.6%;
     }
 
@@ -2141,17 +2274,20 @@ and (min-height: 539px) and (max-height: 679px)
         top: 25%;
         left: 1.1%;
     }
+    #groundwaterSix {
+        top: 23%;
+    }
 
     #groundwaterGridOne 
     {
-        top: -50%;
+        top: -49%;
         left: -50.2%;
         z-index: -5;
     }
 
     #groundwaterGridTwo 
     {
-        top: 6%;
+        top: 5%;
         left: -16.9%;
     }   
     
@@ -2175,163 +2311,242 @@ and (min-height: 539px) and (max-height: 679px)
 
     #groundwaterGridThree 
     {
-        top: -37%;
+        top: -42%;
         left: -43.8%;
     }
 
     #groundwaterGridSeven 
     {
-        top: -48%;
+        top: 18.1%;
         left: -43.8%;
+    }
+    #groundwaterGridEight {
+
+        top: -20%;
+        left: -16.3%;
+    
     }
 
     #groundwaterImageDescriptionOne 
     {
-        top: -46%;
+        top: -47%;
         left: 8.3%;
     }
 
     #groundwaterImageDescriptionTwo 
     {
-        top: 12%;
+        top: 7%;
         left: 35.3%;
     }
 
     #groundwaterImageDescriptionThree 
     {
-        top: -34%;
+        top: -40%;
         left: 8.3%;
+    
     }
 
     #groundwaterImageDescriptionFive 
     {
-        top: 11%;
+        top: 11.5%;
         left: 8.3%;
     }
+    #groundwaterVideoOne {
+        top: -44%;
+        left: -32.9%;  
+    }
+    #groundwaterImageDescriptionSeven {
+        top: 12%;
+    }
+
 }
 
 /*------------ Saxon's Breakpoint 7 1400 x 833 ---------------*/
 @media (min-width: 1400px) and (max-width: 1499px) 
 and (min-height: 800px) and (max-height: 850px)
 {
-	#groundwaterSubOne .mainTitle {
-    top: 16.5%;
-    font-size: 22px;
-    line-height: 25px;
-}
-.copyTextGroundWaterFour {
-    position: relative;
-    top: 16.6%;
-}
+	.copyTextGroundWaterFour
+    {
+        position: relative;
+        top: 16%;
+        
+    }
 
+    #groundwaterSubTwo 
+    {
+        top: -43vh;
+    }
 
+    #groundwaterSubThree 
+    {
+        top: -26vh;
+    }
+
+    #groundwaterSubFour 
+    {
+        top: 10vh;
+    }
+
+    #groundwaterSubFive 
+    {
+        top: -6vh;
+    }
+
+    #groundwaterSubSix 
+    {
+        top: -15vh;
+    }
+
+    #groundwaterSubSeven 
+    {
+        top: -74vh;
+    }
+
+    #groundwaterSubEight 
+    {
+        top: -10vh;
+        height: 40vh;    
+    }
+
+    .copyTextGroundWaterFive
+    {
+        position: relative;
+        top: 18%;
+    }
+
+    .copyTextGroundWaterSix
+    {
+        top: 18.5%;
+    }
+
+    .copyTextGroundWaterTwo 
+    {
+        top: 28%;
+        left: 8.3%;
+    }
+
+    .copyTextGroundWaterThree 
+    {
+        top: -31%;
+        left: 35.4%;
+    
+    }
 #groundwaterOne {
-    top: 10%;
+    top: 13%;
     left: -32%;
     width: 62vw;
     z-index: -5;
 }
 .copyTextGroundWaterOne {
-    position: relative;
-    top: -2.3%;
+    top: 2.7%;
     width: 22%;
 }
 
+    #groundwaterTwo 
+    {
+        top: 9%;
+        left: 34%;
+        z-index: -5;
+    }
 
+    #groundwaterThree {
+        top: 47%;
+        left: -34%;
+    }
 
-#groundwaterSubTwo {
-    top: -478.255px;
-}
-.copyTextGroundWaterFive {
-    position: relative;
-    top: 16%;
-}
+    #groundwaterFour 
+    {
+        top: 30%;
+        left: 34.6%;
+    }
 
-#groundwaterGridOne {
-    top: -56%;
-    left: -50.2%;
-    z-index: -5;
-}
+    #groundwaterFive 
+    {
+        top: 25%;
+        left: 1.1%;
+    }
+    #groundwaterSix {
+        top: 23%;
+    }
 
-#groundwaterImageDescriptionOne {
-    top: -53%;
-    left: 8.3%;
-}
+    #groundwaterGridOne 
+    {
+        top: -60%;
+        left: -50.2%;
+        z-index: -5;
+    }
 
-#groundwaterSubThree {
-    top: -887.33px;
-}
-.copyTextGroundWaterSix {
-    top: 16.1%;
-}
-#groundwaterGridThree {
-    top: -47%;
-    left: -43.8%;
-}
+    #groundwaterGridTwo 
+    {
+        top: 3%;
+        left: -16.9%;
+    }   
+    
+    #groundwaterGridFour 
+    {
+        top: 28%;
+        left: -43.9%;
+    }
 
-#groundwaterImageDescriptionThree {
-    top: -45%;
-    left: 8.3%;
-}
+    #groundwaterGridFive 
+    {
+        top: -33.5%;
+        left: -16.8%;
+    }
 
-#groundwaterSubFour {
-    top: -599.42px;
-}
+    #groundwaterGridSix 
+    {
+        top: 7%;
+        left: 6.2%;
+    }
 
-#groundwaterGridFour {
-    top: 23%;
-    left: -43.9%;
-}
+    #groundwaterGridThree 
+    {
+        top: -48%;
+        left: -43.8%;
+    }
 
-#groundwaterImageDescriptionFour {
-    position: relative;
-    top: 26%;
-    left: 8.3%;
-    width: 14%;
-}
+    #groundwaterGridSeven 
+    {
+        top: 18.1%;
+        left: -43.8%;
+    }
+    #groundwaterGridEight {
+        top: -22.7%;
+        left: -16.3%;
+    }
 
-#groundwaterGridFive {
-    top: -31.5%;
-    left: -16.8%;
-}
+    #groundwaterImageDescriptionOne 
+    {
+        top: -57%;
+        left: 8.3%;
+    }
 
-.copyTextGroundWaterThree {
-    top: -29%;
-    left: 35.4%;
-}
+    #groundwaterImageDescriptionTwo 
+    {
+        top: 5%;
+        left: 35.3%;
+    }
 
-#groundwaterSubFive {
-    top: -794.68px;
-}
+    #groundwaterImageDescriptionThree 
+    {
+        top: -46%;
+        left: 8.3%;
+    
+    }
 
-#groundwaterImageDescriptionFive {
-    top: 3%;
-    left: 8.3%;
-}
-#groundwaterSubSix {
-    top: -1125.33px;
-}
-#groundwaterSubSeven {
-    top: -1641.14px;
-}
-
-
-#groundwaterSix {
-    position: relative;
-    top: 26%;
-    left: -29.7%;
-    z-index: -5;
-}
-
-#groundwaterGridSeven {
-    top: -54%;
-    left: -43.8%;
-}
-
-#groundwaterSubEight {
-    top: -1636.55px;
-    height: 40vh;
-}
+    #groundwaterImageDescriptionFive 
+    {
+        top: 9.5%;
+        left: 8.3%;
+    }
+    #groundwaterVideoOne {
+        top: -50%;
+        left: -32.9%;    
+    }
+    #groundwaterImageDescriptionSeven {
+        top: 12%;
+    }
 
 
 
@@ -2343,323 +2558,450 @@ and (min-height: 800px) and (max-height: 850px)
 {
 
 #groundwaterSubTwo {
-    top: -41vh;
+top: -31vh;
 }
-
 
 #groundwaterSubThree {
-    top: -67vh;
+    top: 25vh;
 }
 #groundwaterSubFour {
-    top: 9.4vh;
+    top: 110vh;
 }
 
-    #groundwaterSubFive {
-        top: 12vh;
-    }
+#groundwaterSubFive {
+    top: 120vh;
+}
 
-    #groundwaterSubSix {
-        top: -6vh;
-    }
+#groundwaterSubSix {
+    top: 143vh;
+}
 #groundwaterSubSeven {
-    top: -56.3vh;
+    top: 100vh;
 }
 #groundwaterSubEight {
-    top: -34vh;
+    top: 208vh;
     height: 36vh;
 }
 
 #groundwaterOne {
-    top: 26%;
-    left: -32%;
+top: 26%;
+left: -32%;
 }
-    #groundwaterFive 
-    {
-        top: 26%;
-        left: 1%;
-    }
+#groundwaterFive 
+{
+top: 26%;
+left: 1%;
+}
 
-    #imagewaterThree 
-    {
-        top: 29%;
-        left: 7.5%;
-    }
+#imagewaterThree 
+{
+top: 29%;
+left: 7.5%;
+}
 
 .copyTextGroundWaterOne {
-    top: 11%;
-    width: 22%;
+top: 11%;
+width: 22%;
 }
 
 
-    .copyTextGroundWaterTwo 
-    {
-        top: 30%;
-        left: 8.3%;
-    }
+.copyTextGroundWaterTwo 
+{
+top: 30%;
+left: 8.3%;
+}
 
-    .copyTextGroundWaterThree 
-    {
-        top: -35%;
-        left: 35.4%;
-    }
+.copyTextGroundWaterThree 
+{
+top: -35%;
+left: 35.4%;
+}
 
-    #groundwaterTwo 
-    {
-        top: 40%;
-        left: 34.7%;
-        z-index: -5;
-    }
+#groundwaterTwo 
+{
+top: 40%;
+left: 34.7%;
+z-index: -5;
+}
 
-    #groundwaterThree 
-    {
-        top: 51%;
-        left: -33%;
-    }
+#groundwaterThree 
+{
+    top: 56%;
+    left: -33%;
+}
 
-    #groundwaterFour 
-    {
-        top: 14%;
-        left: 34.7%;
-    }
+#groundwaterFour 
+{
+    top: 35%;
+    left: 34.7%;
+}
 
-    #groundwaterSix {
-        top: 25%;
-        left: -29.7%;
-    }
+#groundwaterSix {
+top: 25%;
+left: -29.7%;
+}
 
-    #groundwaterGridTwo 
-    {
-        top: 3%;
-        left: -17.6%;
-    }
+#groundwaterGridTwo 
+{
+top: 3%;
+left: -17.6%;
+}
 
-    #groundwaterGridThree 
-    {
-        top: -51%;
-        left: -43.6%;
-    }
+#groundwaterGridThree 
+{
+top: -51%;
+left: -43.6%;
+}
 
-    #groundwaterGridFour {
-        top: 34%;
-        left: -43.6%;
-    }
+#groundwaterGridFour {
+top: 34%;
+left: -43.6%;
+}
 
-    #groundwaterGridFive 
-    {
-        top: -37%;
-        left: -17.6%;
-    }
+#groundwaterGridFive 
+{
+top: -37%;
+left: -17.6%;
+}
 
-    #groundwaterGridSix 
-    {
-        top: 8%;
-        left: 6.2%;
-        z-index: 6;
-    }
+#groundwaterGridSix 
+{
+top: 8%;
+left: 6.2%;
+z-index: 6;
+}
 
-    #groundwaterGridSeven 
-    {
-        top: -66%;
-        left: -43.6%;
-    }    
+#groundwaterGridSeven 
+{
+    top: 23%;
+    left: -43.6%;
+}    
 
-    #groundwaterImageDescriptionThree 
-    {
-        top: -49%;
-        left: 8.5%;
-    }
+#groundwaterImageDescriptionThree 
+{
+top: -49%;
+left: 8.5%;
+}
 
-    #groundwaterImageDescriptionTwo 
-    {
-        top: 5%;
-        left: 35.3%;
-    }
+#groundwaterImageDescriptionTwo 
+{
+top: 5%;
+left: 35.3%;
+}
 
-    #groundwaterImageDescriptionFour 
-    {
-        top: 36%;
-        left: 8.5%;
-    }
+#groundwaterImageDescriptionFour 
+{
+top: 36%;
+left: 8.5%;
+}
+
+#groundwaterVideoOne {
+    top: -24%;
+}
+
+
 }
 
 @media (min-width: 1500px) and (max-width: 1599px) and (min-height: 780px) and (max-height: 810px)
 {
-#groundwaterSubTwo {
-    top: -337px;
-}
-#groundwaterSubThree {
-    top: -572px;
-}
-#groundwaterSubFour {
-    top: -138px;
-}
-#groundwaterSubFive {
-    top: -170px;
-}
-#groundwaterSubSix {
-    top: -186px;
-}
-#groundwaterSubSeven {
-    top: -615px;
-}
-#groundwaterSubEight {
-    top: -518.8px;
-    height: 36vh;
-}
-
-#groundwaterOne {
-    top: 26%;
-    left: -32%;
-}
-
-
-    #groundwaterFive 
-    {
+    #groundwaterSubTwo {
+        top: -31vh;
+        }
+        
+        #groundwaterSubThree {
+            top: 25vh;
+        }
+        #groundwaterSubFour {
+            top: 110vh;
+        }
+        
+        #groundwaterSubFive {
+            top: 120vh;
+        }
+        
+        #groundwaterSubSix {
+            top: 143vh;
+        }
+        #groundwaterSubSeven {
+            top: 100vh;
+        }
+        #groundwaterSubEight {
+            top: 190vh;
+            height: 36vh;
+        }
+        #groundwaterImageDescriptionFive {
+            top: 12%;
+        }
+        
+        #groundwaterOne {
+        top: 26%;
+        left: -32%;
+        }
+        #groundwaterFive 
+        {
         top: 26%;
         left: 1%;
-    }
-
-    #imagewaterThree 
-    {
+        }
+        
+        #imagewaterThree 
+        {
         top: 29%;
         left: 7.5%;
-    }
-.copyTextGroundWaterOne {
-    top: 13%;
-    width: 22%;
-}
-
-    .copyTextGroundWaterTwo 
-    {
-        top: 30% !important;
+        }
+        
+        .copyTextGroundWaterOne {
+        top: 11%;
+        width: 22%;
+        }
+        
+        
+        .copyTextGroundWaterTwo 
+        {
+        top: 30%;
         left: 8.3%;
-    }
-
-    .copyTextGroundWaterThree 
-    {
+        }
+        
+        .copyTextGroundWaterThree 
+        {
         top: -35%;
         left: 35.4%;
-    }
-
-    #groundwaterTwo 
-    {
+        }
+        
+        #groundwaterTwo 
+        {
         top: 40%;
         left: 34.7%;
         z-index: -5;
-    }
-
-    #groundwaterThree 
-    {
-        top: 64%;
-        left: -33%;
-    }
-
-    #groundwaterFour 
-    {
-        top: 30%;
-        left: 34.7%;
-    }
-
-    #groundwaterSix {
+        }
+        
+        #groundwaterThree 
+        {
+            top: 56%;
+            left: -33%;
+        }
+        
+        #groundwaterFour 
+        {
+            top: 35%;
+            left: 34.7%;
+        }
+        
+        #groundwaterSix {
         top: 25%;
         left: -29.7%;
-    }
-
-    #groundwaterGridTwo 
-    {
+        }
+        
+        #groundwaterGridTwo 
+        {
         top: 3%;
         left: -17.6%;
-    }
-
-    #groundwaterGridThree 
-    {
+        }
+        
+        #groundwaterGridThree 
+        {
         top: -51%;
         left: -43.6%;
-    }
-
-    #groundwaterGridFour {
+        }
+        
+        #groundwaterGridFour {
         top: 34%;
         left: -43.6%;
-    }
-
-    #groundwaterGridFive 
-    {
+        }
+        
+        #groundwaterGridFive 
+        {
         top: -37%;
         left: -17.6%;
-    }
-
-    #groundwaterGridSix 
-    {
+        }
+        
+        #groundwaterGridSix 
+        {
         top: 8%;
         left: 6.2%;
         z-index: 6;
-    }
-
-    #groundwaterGridSeven 
-    {
-        top: -62%;
-        left: -43.6%;
-    }    
-
-    #groundwaterImageDescriptionThree 
-    {
+        }
+        
+        #groundwaterGridSeven 
+        {
+            top: 21.5%;
+            left: -43.6%;
+        }    
+        
+        #groundwaterImageDescriptionThree 
+        {
         top: -49%;
         left: 8.5%;
-    }
-
-    #groundwaterImageDescriptionTwo 
-    {
+        }
+        
+        #groundwaterImageDescriptionTwo 
+        {
         top: 5%;
         left: 35.3%;
-    }
-
-    #groundwaterImageDescriptionFour 
-    {
+        }
+        
+        #groundwaterImageDescriptionFour 
+        {
         top: 36%;
         left: 8.5%;
-    }
+        }
+        
+        #groundwaterVideoOne {
+            top: -24%;
+        }
+        #groundwaterGridEight {
+            top: -23.9%;
+            left: -16.3%;
+        }
 
-    #groundwaterImageDescriptionFive {
-        top: 21%;
-        left: 8.3%;
-        width: 14%;
-    }
 }
 /*------------ Saxon's Breakpoint 8 - 1536 x 757 ---------------*/
 @media (min-width: 1500px) and (max-width: 1599px) 
 and (min-height: 751px) and (max-height: 780px)
 {
-#groundwaterOne {
-    top: 26%;
-    left: -32%;
-}
-.copyTextGroundWaterOne {
-    top: 11%;
-    width: 22%;
-}
-
-#groundwaterSubTwo {
-    top: -328.55px;
-}
-#groundwaterSubThree {
-    top: -537.71px;
-}
-#groundwaterSubFour {
-    top: -36.28px;
-}
-#groundwaterSubFive {
-    top: -34.92px;
-}
-#groundwaterSubSix {
-    top: -204.54px;
-}
-#groundwaterSubSeven {
-    top: -605.86px;
-}
-#groundwaterSubEight {
-    top: -467.88px;
-    height: 36vh;
-}
+    #groundwaterSubTwo {
+        top: -31vh;
+        }
+        
+        #groundwaterSubThree {
+            top: 25vh;
+        }
+        #groundwaterSubFour {
+            top: 110vh;
+        }
+        
+        #groundwaterSubFive {
+            top: 120vh;
+        }
+        
+        #groundwaterSubSix {
+            top: 143vh;
+        }
+        #groundwaterSubSeven {
+            top: 100vh;
+        }
+        #groundwaterSubEight {
+            top: 208vh;
+            height: 36vh;
+        }
+        #groundwaterImageDescriptionFive {
+            top: 12%;
+        }
+        
+        #groundwaterOne {
+        top: 26%;
+        left: -32%;
+        }
+        #groundwaterFive 
+        {
+        top: 26%;
+        left: 1%;
+        }
+        
+        #imagewaterThree 
+        {
+        top: 29%;
+        left: 7.5%;
+        }
+        
+        .copyTextGroundWaterOne {
+        top: 11%;
+        width: 22%;
+        }
+        
+        
+        .copyTextGroundWaterTwo 
+        {
+        top: 30%;
+        left: 8.3%;
+        }
+        
+        .copyTextGroundWaterThree 
+        {
+        top: -35%;
+        left: 35.4%;
+        }
+        
+        #groundwaterTwo 
+        {
+        top: 40%;
+        left: 34.7%;
+        z-index: -5;
+        }
+        
+        #groundwaterThree 
+        {
+            top: 56%;
+            left: -33%;
+        }
+        
+        #groundwaterFour 
+        {
+            top: 35%;
+            left: 34.7%;
+        }
+        
+        #groundwaterSix {
+        top: 25%;
+        left: -29.7%;
+        }
+        
+        #groundwaterGridTwo 
+        {
+        top: 3%;
+        left: -17.6%;
+        }
+        
+        #groundwaterGridThree 
+        {
+        top: -51%;
+        left: -43.6%;
+        }
+        
+        #groundwaterGridFour {
+        top: 34%;
+        left: -43.6%;
+        }
+        
+        #groundwaterGridFive 
+        {
+        top: -37%;
+        left: -17.6%;
+        }
+        
+        #groundwaterGridSix 
+        {
+        top: 8%;
+        left: 6.2%;
+        z-index: 6;
+        }
+        
+        #groundwaterGridSeven 
+        {
+            top: 21.5%;
+            left: -43.6%;
+        }    
+        
+        #groundwaterImageDescriptionThree 
+        {
+        top: -49%;
+        left: 8.5%;
+        }
+        
+        #groundwaterImageDescriptionTwo 
+        {
+        top: 5%;
+        left: 35.3%;
+        }
+        
+        #groundwaterImageDescriptionFour 
+        {
+        top: 36%;
+        left: 8.5%;
+        }
+        
+        #groundwaterVideoOne {
+            top: -24%;
+        }
 
 
 	
@@ -2668,68 +3010,157 @@ and (min-height: 751px) and (max-height: 780px)
 @media (min-width: 1500px) and (max-width: 1599px) 
 and (min-height: 811px) and (max-height: 870px)
 {
-	.copyTextGroundWaterOne {
-    top: 10%;
-    width: 22%;
-}
+    #groundwaterSubTwo {
+        top: -31vh;
+        }
+        
+        #groundwaterSubThree {
+            top: 25vh;
+        }
+        #groundwaterSubFour {
+            top: 110vh;
+        }
+        
+        #groundwaterSubFive {
+            top: 120vh;
+        }
+        
+        #groundwaterSubSix {
+            top: 130vh;
+        }
+        #groundwaterSubSeven {
+            top: 85vh;
 
-#groundwaterSubTwo {
-    top: -462.55px;
-}
+        }
+        #groundwaterSubEight {
+            top: 173vh;
+            height: 36vh;
+        }
+        #groundwaterImageDescriptionFive {
+            top: 12%;
+        }
+        
+        #groundwaterOne {
+        top: 26%;
+        left: -32%;
+        }
+        #groundwaterFive 
+        {
+        top: 26%;
+        left: 1%;
+        }
+        
+        #imagewaterThree 
+        {
+        top: 29%;
+        left: 7.5%;
+        }
+        
+        .copyTextGroundWaterOne {
+        top: 11%;
+        width: 22%;
+        }
+        
+        
+        .copyTextGroundWaterTwo 
+        {
+        top: 30%;
+        left: 8.3%;
+        }
+        
+        .copyTextGroundWaterThree 
+        {
+            top: -29%;
+            left: 35.4%;
+        }
+        
+        #groundwaterTwo 
+        {
+        top: 40%;
+        left: 34.7%;
+        z-index: -5;
+        }
+        
+        #groundwaterThree 
+        {
+            top: 50%;
+            left: -33%;
+        }
+        
+        #groundwaterFour 
+        {
+            top: 35%;
+            left: 34.7%;
+        }
+        
+        #groundwaterSix {
+        top: 25%;
+        left: -29.7%;
+        }
+        
+        #groundwaterGridTwo 
+        {
+        top: 3%;
+        left: -17.6%;
+        }
+        
+        #groundwaterGridThree 
+        {
+            top: -40%;
+            left: -43.6%;
+        }
+        
+        #groundwaterGridFour {
+        top: 34%;
+        left: -43.6%;
+        }
+        
+        #groundwaterGridFive 
+        {
+            top: -32%;
+            left: -17.6%;
+        }
+        
+        #groundwaterGridSix 
+        {
+        top: 8%;
+        left: 6.2%;
+        z-index: 6;
+        }
+        
+        #groundwaterGridSeven 
+        {
+            top: 21.5%;
+            left: -43.6%;
+        }    
+        
+        #groundwaterImageDescriptionThree 
+        {
 
-#groundwaterGridOne {
-    position: relative;
-    top: -26%;
-    left: -50%;
-}
-
-#groundwaterImageDescriptionOne {
-    position: relative;
-    top: -23%;
-    left: 8.3%;
-    width: 14%;
-}
-
-#groundwaterSubThree {
-    top: -762.71px;
-}
-#groundwaterGridThree {
-    top: -45%;
-    left: -43.6%;
-}
-#groundwaterImageDescriptionThree {
-    top: -45%;
-    left: 8.5%;
-}
-#groundwaterSubFour {
-    top: -424.28px;
-}
-#groundwaterSubFive {
-    top: -512.92px;
-}
-#groundwaterImageDescriptionFive {
-    position: relative;
-    top: 13%;
-    left: 8.3%;
-    width: 14%;
-}
-
-#groundwaterSubSix {
-    top: -716.54px;
-}
-#groundwaterSubSeven {
-    top: -1230.86px;
-}
-
-#groundwaterGridSeven {
-    top: -56%;
-    left: -43.6%;
-}
-
-#groundwaterSubEight {
-    top: -1211.88px;
-    height: 36vh;
-}
+            top: -37%;
+            left: 8.5%;
+        
+        }
+        
+        #groundwaterImageDescriptionTwo 
+        {
+        top: 5%;
+        left: 35.3%;
+        }
+        
+        #groundwaterImageDescriptionFour 
+        {
+        top: 36%;
+        left: 8.5%;
+        }
+        
+        #groundwaterVideoOne {
+            top: -18%;
+        }
+        #groundwaterGridEight {
+            top: -20.5%;
+            left: -16.3%;
+        }
 
 	
 }
@@ -2741,26 +3172,30 @@ and (min-height: 811px) and (max-height: 870px)
 @media (min-width: 1600px) and (max-width: 1699px) 
 {
 #groundwaterSubTwo {
-    top: -50vh;
+    top: -45vh;
 }
 #groundwaterSubThree {
-    top: -85vh;
+    top: 5vh;
 }
 #groundwaterSubFour {
-    top: -26vh;
+    top: 70vh;
 }
 #groundwaterSubFive {
-    top: -33.7vh;
+    top: 68vh;
 }
 #groundwaterSubSix {
-    top: -56vh;
+    top: 84vh;
+
 }
 #groundwaterSubSeven {
-    top: -107.8vh;
+    top: 40vh;
 }
 #groundwaterSubEight {
-    top: -83vh;
+    top: 150vh;
     height: 40vh;
+}
+#groundwaterVideoOne {
+    top: -30%;
 }
 
 #groundwaterOne {
@@ -2776,8 +3211,12 @@ and (min-height: 811px) and (max-height: 870px)
 
     #groundwaterThree 
     {
-        top: 45%;
+        top: 55%;
         left: -33%;
+    }
+    #groundwaterFour {
+        top: 32%;
+        left: 34.7%;
     }
 
     #groundwaterFive 
@@ -2821,7 +3260,7 @@ and (min-height: 811px) and (max-height: 870px)
     }
 
     #groundwaterGridSeven {
-        top: -60%;
+        top: 23.6%;
         left: -43.6%;
     }    
 .copyTextGroundWaterOne {
@@ -2860,7 +3299,7 @@ and (min-height: 811px) and (max-height: 870px)
 
     #groundwaterImageDescriptionFive 
     {
-        top: 1%;
+        top: 8%;
         left: 8.3%;
     }
 
@@ -2873,643 +3312,441 @@ and (min-height: 811px) and (max-height: 870px)
 
 @media (min-width: 1600px) and (max-width: 1699px) and (min-height: 831px) and (max-height: 900px)
 {
-    #groundwaterSubTwo {
-        top: -540px;
+	#groundwaterSubTwo {
+        top: -45vh;
     }
-
     #groundwaterSubThree {
-        top: -920px;
+        top: -15vh;
     }
-
     #groundwaterSubFour {
-        top: -630px;
-    }    
-
+        top: 23vh;
+    }
     #groundwaterSubFive {
-        top: -810px;
+        top: 10vh;
     }
-
     #groundwaterSubSix {
-        top: -1035px;
+        top: 18vh;    
     }
-
     #groundwaterSubSeven {
-        top: -1566px;
+        top: -37vh;
     }
-
     #groundwaterSubEight {
-        top: -1530px;
+        top: 40vh;
         height: 40vh;
     }
-
-    .copyTextGroundWaterOne 
-    {
-        top: 6%;
+    #groundwaterVideoOne {
+        top: -24%;
     }
-
-    #groundwaterOne 
-    {
-        top: 20%;
+    
+    #groundwaterOne {
+        top: 22%;
         left: -32%;
     }
-
-    #groundwaterTwo 
-    {
-        top: 33%;
-        left: 34.7%;
-        z-index: -5;
+        #groundwaterTwo 
+        {
+            top: 33%;
+            left: 34.7%;
+            z-index: -5;
+        }
+    
+        #groundwaterThree 
+        {
+            top: 51%;
+            left: -33%;
+        }
+        #groundwaterFour {
+            top: 37%;
+            left: 34.7%;        
+        }
+    
+        #groundwaterFive 
+        {
+            top: 25%;
+            left: 1%;
+        }
+    
+        #groundwaterSix {
+            top: 25%;
+            left: -29.7%;
+        }
+    
+        #groundwaterGridOne 
+        {
+            top: -37%;
+            left: -50%;
+        }
+    
+        #groundwaterGridTwo 
+        {
+            top: 1%;
+            left: -17.4%;
+        }
+    
+        #groundwaterGridThree 
+        {
+            top: -44%;
+            left: -43.7%;
+        }
+    
+        #groundwaterGridFour
+        {
+            top: 28%;
+            left: -43.7%;
+        }
+    
+        #groundwaterGridFive {
+            top: -32%;
+            left: -17.4%;
+        }
+    
+        #groundwaterGridSeven {
+            top: 23.6%;
+            left: -43.6%;
+        }  
+        #groundwaterGridEight {
+            top: -18.3%;
+            left: -16.3%;
+        }  
+    .copyTextGroundWaterOne {
+        top: 7.7%;
+        width: 22%;
     }
-
-    #groundwaterThree 
-    {
-        top: 45%;
-        left: -33%;
-    }
-
-    #groundwaterFour 
-    {
-        top: 18%;
-        left: 34.7%;
-    }
-
-    #groundwaterFive 
-    {
-        top: 25%;
-        left: 1%;
-    }
-
-    #groundwaterSix {
-        top: 25%;
-        left: -29.7%;
-    }
-
-    #groundwaterGridOne 
-    {
-        top: -28%;
-        left: -50%;
-    }
-
-    #groundwaterGridTwo 
-    {
-        top: 1%;
-        left: -17.4%;
-    }
-
-    #groundwaterGridThree 
-    {
-        top: -44%;
-        left: -43.7%;
-    }
-
-    #groundwaterGridFour
-    {
-        top: 28%;
-        left: -43.7%;
-    }
-
-    #groundwaterGridFive {
-        top: -37%;
-        left: -17.4%;
-    }
-
-    #groundwaterGridSeven {
-        top: -53%;
-        left: -43.6%;
-    }    
-
-    .copyTextGroundWaterTwo 
-    {
-        top: 27%;
-        left: 8.3%;
-    }    
-
-    .copyTextGroundWaterThree {
-        top: -35%;
-        left: 35.4%;
-    }
-
-    #groundwaterImageDescriptionOne 
-    {
-        top: -25%;
-        left: 8.3%;
-    }
-
-    #groundwaterImageDescriptionTwo
-    {
-        top: 3%;
-        left: 35.5%;
-    }
-
-    #groundwaterImageDescriptionThree 
-    {
-        top: -42%;
-        left: 8.3%;
-    }
-
-    #groundwaterImageDescriptionFive 
-    {
-        top: 6%;
-        left: 8.3%;
-    }
-
-    #groundwaterImageDescriptionSeven 
-    {
-        top: 15%;
-        left: 8.3%;
-    }
+    
+        .copyTextGroundWaterTwo 
+        {
+            top: 27%;
+            left: 8.3%;
+        }    
+    
+        .copyTextGroundWaterThree {
+            top: -30%;
+            left: 35.4%;
+        }
+    
+        #groundwaterImageDescriptionOne 
+        {
+            top: -35%;
+            left: 8.3%;
+        }
+    
+        #groundwaterImageDescriptionTwo
+        {
+            top: 3%;
+            left: 35.5%;
+        }
+    
+        #groundwaterImageDescriptionThree 
+        {
+            top: -41%;
+            left: 8.3%;
+        }
+    
+        #groundwaterImageDescriptionFive 
+        {
+            top: 15%;
+            left: 8.3%;
+        }
+    
+        #groundwaterImageDescriptionSeven 
+        {
+            top: 15%;
+            left: 8.3%;
+        }
 }
 
 @media (min-width: 1600px) and (max-width: 1699px) and (min-height: 901px) and (max-height: 1051px)
 {
-    #groundwaterSubTwo {
-        top: -710px;
+	#groundwaterSubTwo {
+        top: -60vh;
     }
-
     #groundwaterSubThree {
-        top: -1220px;
+        top: -40vh;
     }
-
     #groundwaterSubFour {
-        top: -1000px;
-    }    
-
+        top: -20vh;
+    }
     #groundwaterSubFive {
-        top: -1280px;
+        top: -40vh;
     }
-
     #groundwaterSubSix {
-        top: -1630px;
+        top: -50vh;   
     }
-
     #groundwaterSubSeven {
-        top: -2280px;
+        top: -110vh;
     }
-
     #groundwaterSubEight {
-        top: -2340px;
+        top: -53vh;
         height: 40vh;
     }
-
-    .copyTextGroundWaterOne 
-    {
-        top: 6%;
+    #groundwaterVideoOne {
+        top: -17%;
     }
-
-    #groundwaterOne 
-    {
-        top: 20%;
+    
+    #groundwaterOne {
+        top: 22%;
         left: -32%;
     }
-
-    #groundwaterTwo 
-    {
-        top: 33%;
-        left: 34.7%;
-        z-index: -5;
+        #groundwaterTwo 
+        {
+            top: 33%;
+            left: 34.7%;
+            z-index: -5;
+        }
+    
+        #groundwaterThree 
+        {
+            top: 47%;
+            left: -33%;
+        }
+        #groundwaterFour {
+            top: 32%;
+            left: 34.7%;      
+        }
+    
+        #groundwaterFive 
+        {
+            top: 25%;
+            left: 1%;
+        }
+    
+        #groundwaterSix {
+            top: 25%;
+            left: -29.7%;
+        }
+    
+        #groundwaterGridOne 
+        {
+            top: -37%;
+            left: -50%;
+        }
+    
+        #groundwaterGridTwo 
+        {
+            top: 1%;
+            left: -17.4%;
+        }
+    
+        #groundwaterGridThree 
+        {
+            top: -37%;
+            left: -43.7%;
+        }
+    
+        #groundwaterGridFour
+        {
+            top: 28%;
+            left: -43.7%;
+        }
+    
+        #groundwaterGridFive {
+            top: -32%;
+            left: -17.4%;
+        }
+    
+        #groundwaterGridSeven {
+            top: 23.6%;
+            left: -43.6%;
+        }  
+        #groundwaterGridEight {
+            top: -14.5%;
+            left: -16.3%;
+        }  
+    .copyTextGroundWaterOne {
+        top: 7.7%;
+        width: 22%;
     }
-
-    #groundwaterThree 
-    {
-        top: 45%;
-        left: -33%;
-    }
-
-    #groundwaterFour 
-    {
-        top: 18%;
-        left: 34.7%;
-    }
-
-    #groundwaterFive 
-    {
-        top: 25%;
-        left: 1%;
-    }
-
-    #groundwaterSix {
-        top: 25%;
-        left: -29.7%;
-    }
-
-    #groundwaterGridOne 
-    {
-        top: -24%;
-        left: -50%;
-    }
-
-    #groundwaterGridTwo 
-    {
-        top: 1%;
-        left: -17.4%;
-    }
-
-    #groundwaterGridThree 
-    {
-        top: -35%;
-        left: -43.7%;
-    }
-
-    #groundwaterGridFour
-    {
-        top: 28%;
-        left: -43.7%;
-    }
-
-    #groundwaterGridFive {
-        top: -30%;
-        left: -17.4%;
-    }
-
-    #groundwaterGridSeven {
-        top: -44%;
-        left: -43.6%;
-    }    
-
-    .copyTextGroundWaterTwo 
-    {
-        top: 27%;
-        left: 8.3%;
-    }    
-
-    .copyTextGroundWaterThree {
-        top: -27%;
-        left: 35.4%;
-    }
-
-    #groundwaterImageDescriptionOne 
-    {
-        top: -22%;
-        left: 8.3%;
-    }
-
-    #groundwaterImageDescriptionTwo
-    {
-        top: 3%;
-        left: 35.5%;
-    }
-
-    #groundwaterImageDescriptionThree 
-    {
-        top: -33%;
-        left: 8.3%;
-    }
-
-    #groundwaterImageDescriptionFive 
-    {
-        top: 11%;
-        left: 8.3%;
-    }
-
-    #groundwaterImageDescriptionSeven 
-    {
-        top: 15%;
-        left: 8.3%;
-    }
+    
+        .copyTextGroundWaterTwo 
+        {
+            top: 27%;
+            left: 8.3%;
+        }    
+    
+        .copyTextGroundWaterThree {
+            top: -30%;
+            left: 35.4%;
+        }
+    
+        #groundwaterImageDescriptionOne 
+        {
+            top: -35%;
+            left: 8.3%;
+        }
+    
+        #groundwaterImageDescriptionTwo
+        {
+            top: 3%;
+            left: 35.5%;
+        }
+    
+        #groundwaterImageDescriptionThree 
+        {
+            top: -35%;
+            left: 8.3%;
+        }
+    
+        #groundwaterImageDescriptionFive 
+        {
+            top: 15%;
+            left: 8.3%;
+        }
+    
+        #groundwaterImageDescriptionSeven 
+        {
+            top: 15%;
+            left: 8.3%;
+        }
 }
 /*------------ Saxon's Breakpoint 10  1600 x 829 -------------*/
 @media (min-width: 1600px) and (max-width: 1699px) 
 and (min-height: 786px) and (max-height: 830px)
 {
-	.copyTextGroundWaterOne {
-    position: relative;
-    top: 5.7%;
-    width: 22%;
-}
-
-#groundwaterSubTwo {
-    top: -489.63px;
-}
-#groundwaterGridOne {
-    top: -32%;
-    left: -50%;
-}
-
-#groundwaterImageDescriptionOne {
-    top: -29%;
-    left: 8.3%;
-}
-#groundwaterGridThree {
-    top: -51%;
-    left: -43.7%;
-}
-#groundwaterImageDescriptionThree {
-    top: -50%;
-    left: 8.3%;
-}
-
-
-#groundwaterSubThree {
-    top: -823.87px;
-}
-#groundwaterSubFour {
-    top: -503.06px;
-}
-#groundwaterSubFive {
-    top: -623.19px;
-}
-#groundwaterSubSix {
-    top: -891.76px;
-}
-#groundwaterSubSeven {
-    top: -1359.67px;
-}
-#groundwaterSubEight {
-    top: -1263.51px;
-    height: 40vh;
-}
+	#groundwaterSubTwo {
+        top: -45vh;
+    }
+    #groundwaterSubThree {
+        top: -15vh;
+    }
+    #groundwaterSubFour {
+        top: 36vh;
+    }
+    #groundwaterSubFive {
+        top: 27vh;
+    }
+    #groundwaterSubSix {
+        top: 43vh;
+    
+    }
+    #groundwaterSubSeven {
+        top: -7vh;
+    }
+    #groundwaterSubEight {
+        top: 85vh;
+        height: 40vh;
+    }
+    #groundwaterVideoOne {
+        top: -30%;
+    }
+    
+    #groundwaterOne {
+        top: 22%;
+        left: -32%;
+    }
+        #groundwaterTwo 
+        {
+            top: 33%;
+            left: 34.7%;
+            z-index: -5;
+        }
+    
+        #groundwaterThree 
+        {
+            top: 55%;
+            left: -33%;
+        }
+        #groundwaterFour {
+            top: 37%;
+            left: 34.7%;        
+        }
+    
+        #groundwaterFive 
+        {
+            top: 25%;
+            left: 1%;
+        }
+    
+        #groundwaterSix {
+            top: 25%;
+            left: -29.7%;
+        }
+    
+        #groundwaterGridOne 
+        {
+            top: -37%;
+            left: -50%;
+        }
+    
+        #groundwaterGridTwo 
+        {
+            top: 1%;
+            left: -17.4%;
+        }
+    
+        #groundwaterGridThree 
+        {
+            top: -48%;
+            left: -43.7%;
+        }
+    
+        #groundwaterGridFour
+        {
+            top: 28%;
+            left: -43.7%;
+        }
+    
+        #groundwaterGridFive {
+            top: -42%;
+            left: -17.4%;
+        }
+    
+        #groundwaterGridSeven {
+            top: 23.6%;
+            left: -43.6%;
+        }  
+        #groundwaterGridEight {
+            top: -21.5%;
+            left: -16.3%;
+        }  
+    .copyTextGroundWaterOne {
+        top: 7.7%;
+        width: 22%;
+    }
+    
+        .copyTextGroundWaterTwo 
+        {
+            top: 27%;
+            left: 8.3%;
+        }    
+    
+        .copyTextGroundWaterThree {
+            top: -40%;
+            left: 35.4%;
+        }
+    
+        #groundwaterImageDescriptionOne 
+        {
+            top: -35%;
+            left: 8.3%;
+        }
+    
+        #groundwaterImageDescriptionTwo
+        {
+            top: 3%;
+            left: 35.5%;
+        }
+    
+        #groundwaterImageDescriptionThree 
+        {
+            top: -45%;
+            left: 8.3%;
+        }
+    
+        #groundwaterImageDescriptionFive 
+        {
+            top: 15%;
+            left: 8.3%;
+        }
+    
+        #groundwaterImageDescriptionSeven 
+        {
+            top: 15%;
+            left: 8.3%;
+        }
 	
 }
 
 
 /* --------------------------1900s--------------------------*/
-@media (min-width: 1900px) and (max-width: 1999px) 
-{
-.groundwaterContainer
-{
-    max-width: 100vw;
-    flex: 100%;
-    display: block;
-    height: 200vh;
-    z-index: 10;
-}
-
-#groundwaterSubTwo {
-    top: -57vh;
-}
-#groundwaterSubThree {
-    top: -90vh;
-}
-#groundwaterSubFour {
-    top: -45vh;
-}
-#groundwaterSubFive {
-    top: -59vh;
-}
-
-#groundwaterSubSix {
-    top: -95vh;
-}
-#groundwaterSubSeven {
-    top: -161vh;
-}
-#groundwaterSubEight {
-    top: -165vh;
-    height: 40vh;
-}
-
-#groundwaterOne {
-    position: relative;
-    top: 21%;
-    left: -32%;
-    width: 63vw;
-    z-index: -5;
-}
-#groundwaterTwo
-{
-    position: relative;
-    top: 42%;
-    left: 34.7%;
-    z-index: -5;
-}
-
-#groundwaterThree
-{
-    position: relative;
-    top: 40%;
-    left: -33%;
-}
-
-#groundwaterFour
-{
-    position: relative;
-    top: 10%;
-    left: 34.7%;
-}
-
-#groundwaterFive
-{
-    position: relative;
-    top: 22%;
-    left: 1.1%;
-}
-
-#groundwaterSix
-{
-    position: relative;
-    top: 20%;
-    left: -29.7%;
-    z-index: -5;
-}
-
-#imagewaterThree
-{
-    position: relative;
-    top: 25%;
-    left: 7.5%;
-}
-
-#groundwaterGridOne
-{
-    position: relative;
-    top: -30%;
-    left: -50%;
-}
-
-#groundwaterGridTwo
-{
-    position: relative;
-    top: 3%;
-    left: -16.3%;
-}
-
-#groundwaterGridThree
-{
-    position: relative;
-    top: -48%;
-    left: -43.2%;
-}
-
-#groundwaterGridFour
-{
-    position: relative;
-    top: 28%;
-    left: -43.2%;
-}
-
-#groundwaterGridFive
-{
-    position: relative;
-    top: -30%;
-    left: -16.4%;
-}
-
-#groundwaterGridSix
-{
-    position: relative;
-    top: 8%;
-    left: 6.3%;
-    z-index: 6;
-}
-
-#groundwaterGridSeven
-{
-    position: relative;
-    top: -60%;
-    left: -43.2%;;
-}
-
-.copyTextGroundWaterOne {
-    position: relative;
-    top: 7%;
-    width: 22%;
-}
-
-
-.copyTextGroundWaterTwo
-{
-    position: relative;
-    top: 25%;
-    left: 8.3%;
-    width: 22%;
-}
-
-.copyTextGroundWaterThree
-{
-    position: relative;
-    top: -26%;
-    left: 35.4%;
-    width: 22%;
-}
-
-#groundwaterImageDescriptionOne
-{
-    position: relative;
-    top: -27%;
-    left: 8.3%;
-    width: 14%;
-}
-
-#groundwaterImageDescriptionTwo
-{
-    position: relative;
-    top: 5%;
-    left: 35.5%;
-    width: 14%;
-}
-
-#groundwaterImageDescriptionThree
-{
-    position: relative;
-    top: -45%;
-    left: 8.3%;
-    width: 14%;
-}
-
-#groundwaterImageDescriptionFour
-{
-    position: relative;
-    top: 30%;
-    left: 8.3%;
-    width: 14%;
-}
-
-#groundwaterImageDescriptionFive
-{
-    position: relative;
-    top: 4%;
-    left: 8.3%;
-    width: 14%;
-}
-
-#groundwaterImageDescriptionSix
-{
-    position: relative;
-    top: 4%;
-    left: 8.3%;
-    width: 23%;
-}
-
-#groundwaterImageDescriptionSeven
-{
-
-    position: relative;
-    top: 7%;
-    left: 8.3%;
-    width: 21%;
-}
-
-.endlineGroundWater
-{
-    width: 64.5vw;
-    height: 1vh;
-    position: relative;
-    top: 3%;
-    left: 0%;
-    border-bottom: 1px solid black;
-}
-
-.endlineGroundWaterTwo
-{
-    width: 64.5vw;
-    height: 1vh;
-    position: relative;
-    top: 5%;
-    left: 0%;
-    border-bottom: 2px dotted black;
-}
-
-.endlineGroundWaterThree
-{
-    width: 64.5vw;
-    height: 1vh;
-    position: relative;
-    top: 40%;
-    left: 0%;
-    border-bottom: 2px solid black;
-}
-
-
-#referenceBlockGroundwater
-{
-    width: 85%;
-    height: 8%;
-    position: absolute;
-    top: 8%;
-    left: 8%;
-}
-
-#referenceBlockGroundwaterTwo
-{
-    width: 85%;
-    height: 8%;
-    position: absolute;
-    top: 30%;
-    left: 8%;
-}
-
-.referencesGroundWater
-{
-    position: relative;
-    font-family: 'Roboto', sans-serif;
-    font-weight: 300;
-    font-size: 14px;
-    line-height: 16px;
-    width: 30%;
-    height: 50%;
-    text-align: left;
-}
-
-#groundwaterGridImage
-{
-    width: 23.5vw;
-    margin-left: 30px;
-    margin-right: 5px;
-    margin-top: 3vh;
-    height: auto;
-    pointer-events: none;
-}
-
-}
 
 @media (min-width: 1900px) and (max-width: 1999px) and (min-height: 920px) and (max-height: 950px)
 {
@@ -3524,49 +3761,360 @@ and (min-height: 786px) and (max-height: 830px)
     
     #groundwaterSubTwo
     {
-        top: -335px;
+        top: -45vh;
     }
     
     #groundwaterSubThree
     {
-        top: -530px;
+        top: 12vh;
     }
     
     #groundwaterSubFour
     {
-        top: 180px;
+        top: 105vh;
     }
     
     #groundwaterSubFive
     {
-        top: 224px;
+        top: 122vh;
     }
     
     #groundwaterSubSix
     {
-        top: 100px;
+        top: 135vh;
     }
     
     #groundwaterSubSeven
     {
-        top: -320px;
+        top: 95vh;
     }
     
     #groundwaterSubEight
     {
-        top: -170px;
+        top: 190vh;
         height: 40vh;
     }
     
-    #groundwaterOne
+    #groundwaterOne {
+        position: relative;
+        top: 21%;
+        left: -32%;
+        width: 62vw;
+        z-index: -5;
+    }
+    #groundwaterTwo
     {
         position: relative;
-        top: 24%;
-        left: -32%;
-        width: 63vw;
+        top: 42%;
+        left: 34.7%;
         z-index: -5;
     }
     
+    #groundwaterThree
+    {
+        position: relative;
+        top: 55%;
+        left: -33%;
+    }
+    
+    #groundwaterFour
+    {
+        position: relative;
+        top: 33%;
+        left: 34.7%;
+    }
+    
+    #groundwaterFive
+    {
+        position: relative;
+        top: 28%;
+        left: 1.1%;
+    }
+    
+    #groundwaterSix
+    {
+        position: relative;
+        top: 20%;
+        left: -29.7%;
+        z-index: -5;
+    }
+    
+    #imagewaterThree
+    {
+        position: relative;
+        top: 25%;
+        left: 7.5%;
+    }
+    
+    #groundwaterGridOne
+    {
+        position: relative;
+        top: -30%;
+        left: -50%;
+    }
+    
+    #groundwaterGridTwo
+    {
+        position: relative;
+        top: 3%;
+        left: -16.3%;
+    }
+    
+    #groundwaterGridThree
+    {
+        position: relative;
+        top: -48%;
+        left: -43.2%;
+    }
+    
+    #groundwaterGridFour
+    {
+        position: relative;
+        top: 28%;
+        left: -43.2%;
+    }
+    
+    #groundwaterGridFive
+    {
+        position: relative;
+        top: -30%;
+        left: -16.4%;
+    }
+    
+    #groundwaterGridSix
+    {
+        position: relative;
+        top: 8%;
+        left: 6.3%;
+        z-index: 6;
+    }
+    
+    #groundwaterGridSeven {
+        position: relative;
+        top: 16%;
+        left: -43.2%;
+    }
+    
+    #groundwaterGridEight {
+        position: relative;
+        top: -31.9%;
+        left: -16.3%;
+    }
+    
+    .copyTextGroundWaterOne {
+        position: relative;
+        top: 4.7%;
+        width: 22%;
+    }
+    
+    .copyTextGroundWaterTwo
+    {
+        position: relative;
+        top: 25%;
+        left: 8.3%;
+        width: 22%;
+    }
+    
+    .copyTextGroundWaterThree
+    {
+        position: relative;
+        top: -26%;
+        left: 35.4%;
+        width: 22%;
+    }
+    
+    #groundwaterImageDescriptionOne
+    {
+        position: relative;
+        top: -27%;
+        left: 8.3%;
+        width: 14%;
+    }
+    
+    #groundwaterImageDescriptionTwo
+    {
+        position: relative;
+        top: 5%;
+        left: 35.5%;
+        width: 14%;
+    }
+    
+    #groundwaterImageDescriptionThree
+    {
+        position: relative;
+        top: -45%;
+        left: 8.3%;
+        width: 14%;
+    }
+    
+    #groundwaterImageDescriptionFour
+    {
+        position: relative;
+        top: 30%;
+        left: 8.3%;
+        width: 14%;
+    }
+    
+    #groundwaterImageDescriptionFive
+    {
+        position: relative;
+        top: 11%;
+        left: 8.3%;
+        width: 14%;
+    }
+    
+    #groundwaterImageDescriptionSix
+    {
+        position: relative;
+        top: 4%;
+        left: 8.3%;
+        width: 23%;
+    }
+    
+    #groundwaterImageDescriptionSeven
+    {
+    
+        position: relative;
+        top: 7%;
+        left: 8.3%;
+        width: 21%;
+    }
+    
+    .endlineGroundWater
+    {
+        width: 64.5vw;
+        height: 1vh;
+        position: relative;
+        top: 3%;
+        left: 0%;
+        border-bottom: 1px solid black;
+    }
+    
+    .endlineGroundWaterTwo
+    {
+        width: 64.5vw;
+        height: 1vh;
+        position: relative;
+        top: 5%;
+        left: 0%;
+        border-bottom: 2px dotted black;
+    }
+    
+    .endlineGroundWaterThree
+    {
+        width: 64.5vw;
+        height: 1vh;
+        position: relative;
+        top: 40%;
+        left: 0%;
+        border-bottom: 2px solid black;
+    }
+    
+    
+    #referenceBlockGroundwater
+    {
+        width: 85%;
+        height: 8%;
+        position: absolute;
+        top: 8%;
+        left: 8%;
+    }
+    
+    #referenceBlockGroundwaterTwo
+    {
+        width: 85%;
+        height: 8%;
+        position: absolute;
+        top: 30%;
+        left: 8%;
+    }
+    
+    .referencesGroundWater
+    {
+        position: relative;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 16px;
+        width: 30%;
+        height: 50%;
+        text-align: left;
+    }
+    
+    #groundwaterGridImage
+    {
+        width: 23.5vw;
+        margin-left: 30px;
+        margin-right: 5px;
+        margin-top: 3vh;
+        height: auto;
+        pointer-events: none;
+    }
+    
+    #groundwaterVideoOne
+    {
+        position: relative;
+        top: -24%;
+        width: 61.5vw;
+        height: 61.5vh;
+        left: -32.9%;
+    }
+}
+
+@media (min-width: 1900px) and (max-width: 1999px) and (min-height: 1101px) and (max-height: 1210px)
+{
+    .groundwaterContainer
+    {
+        max-width: 100vw;
+        flex: 100%;
+        display: block;
+        height: 200vh;
+        z-index: 10;
+    }
+    
+    #groundwaterSubTwo
+    {
+        top: -60vh;
+    }
+    
+    #groundwaterSubThree
+    {
+        top: -25vh;
+    }
+    
+    #groundwaterSubFour
+    {
+        top: 23vh;
+    }
+    
+    #groundwaterSubFive
+    {
+        top: 15vh;
+    }
+    
+    #groundwaterSubSix
+    {
+        top: 3vh;
+    }
+    
+    #groundwaterSubSeven
+    {
+        top: -60vh;
+    }
+    
+    #groundwaterSubEight
+    {
+        top: -10vh;
+        height: 40vh;
+    }
+    
+    #groundwaterOne {
+        position: relative;
+        top: 21%;
+        left: -32%;
+        width: 62vw;
+        z-index: -5;
+    }
     #groundwaterTwo
     {
         position: relative;
@@ -3585,14 +4133,14 @@ and (min-height: 786px) and (max-height: 830px)
     #groundwaterFour
     {
         position: relative;
-        top: 16%;
+        top: 32%;
         left: 34.7%;
     }
     
     #groundwaterFive
     {
         position: relative;
-        top: 26%;
+        top: 22%;
         left: 1.1%;
     }
     
@@ -3628,21 +4176,21 @@ and (min-height: 786px) and (max-height: 830px)
     #groundwaterGridThree
     {
         position: relative;
-        top: -55%;
+        top: -40%;
         left: -43.2%;
     }
     
     #groundwaterGridFour
     {
         position: relative;
-        top: 32%;
+        top: 28%;
         left: -43.2%;
     }
     
     #groundwaterGridFive
     {
         position: relative;
-        top: -39%;
+        top: -30%;
         left: -16.4%;
     }
     
@@ -3654,24 +4202,28 @@ and (min-height: 786px) and (max-height: 830px)
         z-index: 6;
     }
     
-    #groundwaterGridSeven
-    {
+    #groundwaterGridSeven {
         position: relative;
-        top: -60%;
-        left: -43.2%;;
+        top: 16%;
+        left: -43.2%;
     }
     
-    .copyTextGroundWaterOne
-    {
+    #groundwaterGridEight {
         position: relative;
-        top: 10%;
+        top: -22%;
+        left: -16.3%;
+    }
+    
+    .copyTextGroundWaterOne {
+        position: relative;
+        top: 4.7%;
         width: 22%;
     }
     
     .copyTextGroundWaterTwo
     {
         position: relative;
-        top: 28%;
+        top: 25%;
         left: 8.3%;
         width: 22%;
     }
@@ -3679,7 +4231,7 @@ and (min-height: 786px) and (max-height: 830px)
     .copyTextGroundWaterThree
     {
         position: relative;
-        top: -36%;
+        top: -26%;
         left: 35.4%;
         width: 22%;
     }
@@ -3703,7 +4255,7 @@ and (min-height: 786px) and (max-height: 830px)
     #groundwaterImageDescriptionThree
     {
         position: relative;
-        top: -52%;
+        top: -38%;
         left: 8.3%;
         width: 14%;
     }
@@ -3711,7 +4263,7 @@ and (min-height: 786px) and (max-height: 830px)
     #groundwaterImageDescriptionFour
     {
         position: relative;
-        top: 35%;
+        top: 30%;
         left: 8.3%;
         width: 14%;
     }
@@ -3719,7 +4271,7 @@ and (min-height: 786px) and (max-height: 830px)
     #groundwaterImageDescriptionFive
     {
         position: relative;
-        top: 4%;
+        top: 13%;
         left: 8.3%;
         width: 14%;
     }
@@ -3811,10 +4363,22 @@ and (min-height: 786px) and (max-height: 830px)
         height: auto;
         pointer-events: none;
     }
+    
+    #groundwaterVideoOne
+    {
+        position: relative;
+        top: -12%;
+        width: 61.5vw;
+        height: 61.5vh;
+        left: -32.9%;
+    }
 }
 
-@media (min-width: 1900px) and (max-width: 1999px) and (min-height: 1101px) and (max-height: 1210px)
+/*------------ saxons Breakpoint 11 1920 x 1007 ---------------*/
+@media (min-width: 1900px) and (max-width: 1999px) 
+	and (min-height: 951px) and (max-height: 1008px)
 {
+	
     .groundwaterContainer
     {
         max-width: 100vw;
@@ -3824,41 +4388,53 @@ and (min-height: 786px) and (max-height: 830px)
         z-index: 10;
     }
     
-    #groundwaterSubTwo {
-    top: -780px;
-}
-#groundwaterSubThree {
-    top: -1408px;
-}
-#groundwaterSubFour {
-    top: -1064px;
-}
-#groundwaterSubFive {
-    top: -1400px;
-}
-#groundwaterSubSix {
-    top: -1800px;
-}
-#groundwaterSubSeven {
-    top: -2588px;
-}
-#groundwaterSubEight {
-    top: -2788px;
-    height: 40vh;
-}
-
-#groundwaterOne {
-    position: relative;
-    top: 19%;
-    left: -32%;
-    width: 63vw;
-    z-index: -5;
-}
+    #groundwaterSubTwo
+    {
+        top: -45vh;
+    }
     
+    #groundwaterSubThree
+    {
+        top: 0vh;
+    }
+    
+    #groundwaterSubFour
+    {
+        top: 75vh;
+    }
+    
+    #groundwaterSubFive
+    {
+        top: 85vh;
+    }
+    
+    #groundwaterSubSix
+    {
+        top: 105vh;
+    }
+    
+    #groundwaterSubSeven
+    {
+        top: 65vh;
+    }
+    
+    #groundwaterSubEight
+    {
+        top: 150vh;
+        height: 40vh;
+    }
+    
+    #groundwaterOne {
+        position: relative;
+        top: 21%;
+        left: -32%;
+        width: 62vw;
+        z-index: -5;
+    }
     #groundwaterTwo
     {
         position: relative;
-        top: 32%;
+        top: 42%;
         left: 34.7%;
         z-index: -5;
     }
@@ -3866,21 +4442,21 @@ and (min-height: 786px) and (max-height: 830px)
     #groundwaterThree
     {
         position: relative;
-        top: 47%;
+        top: 55%;
         left: -33%;
     }
     
     #groundwaterFour
     {
         position: relative;
-        top: 20%;
+        top: 37%;
         left: 34.7%;
     }
     
     #groundwaterFive
     {
         position: relative;
-        top: 26%;
+        top: 28%;
         left: 1.1%;
     }
     
@@ -3902,7 +4478,7 @@ and (min-height: 786px) and (max-height: 830px)
     #groundwaterGridOne
     {
         position: relative;
-        top: -25%;
+        top: -30%;
         left: -50%;
     }
     
@@ -3916,21 +4492,21 @@ and (min-height: 786px) and (max-height: 830px)
     #groundwaterGridThree
     {
         position: relative;
-        top: -42%;
+        top: -48%;
         left: -43.2%;
     }
     
     #groundwaterGridFour
     {
         position: relative;
-        top: 25%;
+        top: 28%;
         left: -43.2%;
     }
     
     #groundwaterGridFive
     {
         position: relative;
-        top: -31%;
+        top: -30%;
         left: -16.4%;
     }
     
@@ -3942,24 +4518,28 @@ and (min-height: 786px) and (max-height: 830px)
         z-index: 6;
     }
     
-    #groundwaterGridSeven
-    {
+    #groundwaterGridSeven {
         position: relative;
-        top: -50%;
-        left: -43.2%;;
+        top: 16%;
+        left: -43.2%;
     }
     
-.copyTextGroundWaterOne {
-    position: relative;
-    top: 6%;
-    width: 22%;
-}
-
+    #groundwaterGridEight { 
+        position: relative;
+        top: -28.5%;
+        left: -16.3%;    
+    }
+    
+    .copyTextGroundWaterOne {
+        position: relative;
+        top: 4.7%;
+        width: 22%;
+    }
     
     .copyTextGroundWaterTwo
     {
         position: relative;
-        top: 28%;
+        top: 25%;
         left: 8.3%;
         width: 22%;
     }
@@ -3967,15 +4547,15 @@ and (min-height: 786px) and (max-height: 830px)
     .copyTextGroundWaterThree
     {
         position: relative;
-        top: -28%;
+        top: -26%;
         left: 35.4%;
-        width: 18%;
+        width: 22%;
     }
     
     #groundwaterImageDescriptionOne
     {
         position: relative;
-        top: -22%;
+        top: -27%;
         left: 8.3%;
         width: 14%;
     }
@@ -3991,7 +4571,7 @@ and (min-height: 786px) and (max-height: 830px)
     #groundwaterImageDescriptionThree
     {
         position: relative;
-        top: -40%;
+        top: -45%;
         left: 8.3%;
         width: 14%;
     }
@@ -3999,7 +4579,7 @@ and (min-height: 786px) and (max-height: 830px)
     #groundwaterImageDescriptionFour
     {
         position: relative;
-        top: 27%;
+        top: 30%;
         left: 8.3%;
         width: 14%;
     }
@@ -4007,7 +4587,7 @@ and (min-height: 786px) and (max-height: 830px)
     #groundwaterImageDescriptionFive
     {
         position: relative;
-        top: 12%;
+        top: 11%;
         left: 8.3%;
         width: 14%;
     }
@@ -4099,84 +4679,15 @@ and (min-height: 786px) and (max-height: 830px)
         height: auto;
         pointer-events: none;
     }
-}
-
-/*------------ saxons Breakpoint 11 1920 x 1007 ---------------*/
-@media (min-width: 1900px) and (max-width: 1999px) 
-	and (min-height: 951px) and (max-height: 1008px)
-{
-	
-#groundwaterOne {
-    position: relative;
-    top: 22%;
-    left: -32%;
-    width: 63vw;
-    z-index: -5;
-}
-.copyTextGroundWaterOne {
-    position: relative;
-    top: 6%;
-    width: 22%;
-}
-
-#groundwaterSubTwo {
-    top: -543.4px;
-}
-#groundwaterSubThree {
-    top: -838.1px;
-}
-
-#groundwaterGridThree {
-    position: relative;
-    top: -60%;
-    left: -43.2%;
-}
-
-#groundwaterImageDescriptionThree {
-    position: relative;
-    top: -58%;
-    left: 8.3%;
-    width: 14%;
-}
-
-#groundwaterSubFour {
-    top: -405.55px;
-}
-#groundwaterSubFive {
-    top: -430.55px;
-}
-
-
-#groundwaterThree {
-    position: relative;
-    top: 42%;
-    left: -33%;
-}
-
-#groundwaterGridSix {
-    position: relative;
-    top: 4%;
-    left: 6.3%;
-    z-index: 6;
-}
-
-#groundwaterImageDescriptionFive {
-    position: relative;
-    top: -1%;
-    left: 8.3%;
-    width: 14%;
-}
-
-#groundwaterSubSix {
-    top: -767.2px;
-}
-#groundwaterSubSeven {
-    top: -1403.6px;
-}
-#groundwaterSubEight {
-    top: -1374.6px;
-    height: 40vh;
-}
+    
+    #groundwaterVideoOne
+    {
+        position: relative;
+        top: -24%;
+        width: 61.5vw;
+        height: 61.5vh;
+        left: -32.9%;
+    }
 	
 	
 }
@@ -4191,33 +4702,34 @@ and (min-height: 786px) and (max-height: 830px)
     }
 
     #groundwaterSubThree {
-        top: -72vh;
+        top: -10vh;
+
     }
 
     #groundwaterSubFour {
-        top: -10vh;
+        top: 35vh;
+
     }
 
     #groundwaterSubFive {
-        top: 0vh;
+        top: 29vh;
     }
 
     #groundwaterSubSix {
-        top: -22vh;
+        top: 24vh;
     }
 
     #groundwaterSubSeven {
-        top: -75vh;
+        top: -32vh;
     }
 
     #groundwaterSubEight {
-        top: -67vh;
+        top: 35vh;
         height: 40vh;
     }
-
     #groundwaterThree {
         position: relative;
-        top: 44%;
+        top: 47.5%;
         left: -33%;
     }
 }
