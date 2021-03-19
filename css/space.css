@@ -266,7 +266,7 @@
 
 /*------------ Tablet Responisve 1024 x 600 ---------------*/
 @media (max-width: 1025px) and (min-height: 599px) 
-and (max-height: 680px)
+and (max-height: 647px)
 {
 	.copyTextSpaceThree {
 		top: 16.7% !important;
@@ -365,6 +365,110 @@ and (max-height: 680px)
 	}
 	#spaceSubEight {
 		top: 1439px;
+	}
+}
+
+/*------------ Tablet Responisve 1024 x 650 ---------------*/
+@media (max-width: 1025px) and (min-height: 648px) 
+and (max-height: 680px)
+{
+	.copyTextSpaceThree 	{
+		top: 16.7% !important;
+	}
+	#spaceOne {
+		top: 23%;
+	}
+	.copyTextSpaceFour {
+		top: 8% !important;
+	}
+	#spaceSubTwo {
+		top: -100px;
+
+	}
+	.copyTextSpace {
+		top: 30% !important;
+	}
+	#spaceGridOne {
+		left: -45.3%;
+    	top: 20.5%;
+	}
+	#spaceImageDescriptionSeven {
+		top: 21%;
+	}
+	#SpaceVideoOne {
+		top: 25%;
+	}
+	#spaceSubThree {
+		top: -160px;
+	}
+	#SpaceVideoThree {
+		top: 61%;
+		height: 76vh;
+	}
+	#SpaceVideoTwo {
+		top: 65%;
+		height: 76vh;
+	}
+	#spaceSubFour {
+		top: 420px;
+	}
+	.copyTextSpaceTwo {
+		top: 30% !important;
+	}
+	#spaceGridTwo {
+		top: 38%;
+		left: -44.3%;
+	}
+	#spaceThree {
+		top: 9%;
+		left: 34%;
+	}
+	#spaceSubFive {
+		top: 196px;
+	}
+	#spaceGridThree {
+		position: relative;
+		top: 31%;
+		left: -12.4%;
+	}
+	#SpaceVideoFour {
+		top: 56.5%;
+		height: 35vh;
+	}
+	#spaceImageDescriptionFour {
+		top: 21%;
+	}
+	#spaceSubSix {
+		top: 160px;
+	}
+	
+	#SpaceVideoFive {
+	
+		left: -32.9%;
+		top: 55%;
+		height: 76vh;
+	
+	}
+	#SpaceVideoSix {
+		top: 52%;
+		height: 76vh;
+	}
+	#spaceSubSeven {
+		top: 750px;
+	}
+	#SpaceVideoSeven {
+		top: 73%;
+		height: 76vh;
+	}
+	#SpaceVideoEight {
+		top: 70%;
+		height: 76vh;
+	}
+	#spaceImageDescriptionSix {
+	    top: 66%;
+	}
+	#spaceSubEight {
+		top: 1590px;
 	}
 }
 
@@ -3438,4 +3542,39 @@ and (min-height: 1101px) and (max-height: 1210px)
 	{
 		visibility: hidden;
 	}
+}
+
+    /* ----------------------20000s-------------------------*/
+/*2048 x 1080*/
+@media (min-width: 2000px) and (min-height: 1000px) and (max-height: 1999px) 
+{
+	#spaceSubTwo {
+		top: -350px;
+	}
+
+	#spaceSubThree {
+		top: -610px;
+	}
+
+	#spaceSubFour {
+		top: -150px;
+	}
+
+	#spaceSubFive {
+		top: -680px;
+	}
+
+	#spaceSubSix {
+		top: -780px;
+	}
+
+	#spaceSubSeven {
+		top: -320px;
+	}
+
+	#spaceSubEight {
+		top: 500px;
+		height: 85vh;
+	}
+	
 }

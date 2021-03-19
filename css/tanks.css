@@ -219,10 +219,17 @@
 }
 #tanksImageDescriptionSix {
 	position: relative;
-	top: 8%;
+	top: 20%;
 	left: 8.3%;
 	width: 20%;
 	padding-bottom: 5vh;
+}
+
+#tanksImageDescriptionSeven {
+	position: relative;
+	top: 8%;
+	left: 8.3%;
+	width: 20%;
 }
 #tanksVideoOne {
 	width: 61.5vw;
@@ -268,6 +275,14 @@
 	left: 0%;
 	border-bottom: 1px solid black;
 }
+.endlineTanksTwo {
+	width: 64.5vw;
+	height: 1vh;
+	position: relative;
+	top: 12%;
+	left: 0%;
+	border-bottom: 1px dotted black;
+}
 #gridImageMiddleTanks {
 	width: 23.5vw;
 	margin-left: 30px;
@@ -305,7 +320,7 @@
 
 
 /*------------ Tablet Responisve 1024 x 600 ---------------*/
-@media (max-width: 1025px) and (min-height: 599px) and (max-height: 680px) {
+@media (max-width: 1025px) and (min-height: 599px) and (max-height: 647px) {
 	.mainTitle {
     top: 15.7%;
     font-size: 20px;
@@ -443,6 +458,163 @@
     top: 377vh;
     height: 65vh;
 }
+}
+
+/*------------ Tablet Responisve 1024 x 650 ---------------*/
+@media (max-width: 1025px) and (min-height: 648px) 
+and (max-height: 680px)
+{
+	.mainTitle {
+		top: 15.7%;
+		font-size: 20px;
+		line-height: 25px;
+	}
+	#tanksSubTwo {
+		top: -49vh;
+	}
+	.copyTanksOne {
+		position: relative;
+		top: -14%;
+		left: 35.3%;
+	}
+	#tanksGridOne {
+		position: relative;
+		left: -32.2%;
+		top: -15%;
+	}
+	#gridImageMiddleTanksTwo {
+		width: 30vw;
+		margin-left: -2px;
+		margin-right: 2px;
+		margin-top: 3vh;
+		height: auto;
+		pointer-events: none;
+	}
+	#tanksThree {
+		position: relative;
+		top: -20.9%;
+		left: 8%;
+	}
+	#tanksSubThree {
+		top: -21.6vh;
+	}
+	.copyTanksTwo {
+		position: relative;
+		top: -23.8%;
+		left: 35.3%;
+	}
+	#tanksFive {
+		position: relative;
+		top: -13%;
+		left: -32.9%;
+	}
+	#tanksGridTwo {
+		position: relative;
+		left: -44.7%;
+		top: -26%;
+	}
+	#tanksGridThree {
+		position: relative;
+		left: -17.8%;
+		top: -58%;
+	}
+	#tanksSubFour {
+		top: 60vh;
+	}
+	.copyTanksTwo {
+		position: relative;
+		top: -16.5%;
+		left: 35.3%;
+	}
+	#tanksGridFour {
+		position: relative;
+		left: -48.2%;
+		top: -17%;
+	}
+	#tanksGridFive {
+		position: relative;
+		left: -17.9%;
+		top: -63.8%;
+	}
+	#tanksSubFive {
+		top: 126vh;
+	}
+
+	.copyTanksThree {
+		top: -11%;
+		left: 35.3%;
+	}
+
+	.copyTanksFour {	
+		top: -26%;
+		left: 35.3%;
+	}
+	
+	#tanksTen {
+		position: relative;
+		top: -47%;
+		left: -45.3%;
+		z-index: 5;
+		width: 7vw;
+	}
+	#tanksNine {
+		position: relative;
+		top: -15%;
+		left: 7.4%;
+		z-index: -5;
+	}
+	#tanksGridSeven {
+		position: relative;
+		left: -17.8%;
+		top: -79.8%;
+	}
+	#tanksSubSeven {
+		top: 190vh;
+	}
+	#tanksGridEight {
+		position: relative;
+		left: -44.8%;
+		top: 1%;
+		pointer-events: none;
+	}
+	#tanksGridNine {
+
+		position: relative;
+		left: -17.9%;
+		top: -82%;
+	
+	}
+	#tanksTwelve {
+		position: relative;
+		top: -29%;
+		left: 7.1%;
+		z-index: -5;
+	}
+	#tanksSubEight {
+		
+		top: 238vh;
+
+	}
+	.copyTanksFive {
+		position: relative;
+		top: -4%;
+		left: 35.3%;
+	}
+	#tanksGridEleven {
+		position: relative;
+		left: -44.8%;
+		top: -13.4%;
+	}
+	#tanksThirteen {
+		position: relative;
+		top: -26%;
+		left: -32.9%;
+		z-index: -5;
+	}
+	#tanksSubNine {
+		top: 290vh;
+		height: 65vh;
+	}
 }
 
 /*------------ Tablet Responisve 1024 x 768 ---------------*/
@@ -884,7 +1056,7 @@
 	top: 559vh;
 }
 #tanksSubNine {
-	top: 652vh;
+	top: 660vh;
 	height: 65vh;
 }
 .copyTanksOne {
@@ -927,7 +1099,7 @@
 }
 #tanksImageDescriptionSix {
 	position: relative;
-	top: 10%;
+	top: 22%;
 	left: 8.3%;
 	width: 20%;
 }
@@ -1050,7 +1222,7 @@
 	top: 335vh;
 }
 #tanksSubNine {
-    top: 400vh;
+    top: 405vh;
     height: 65vh;
 }
 .copyTanksOne {
@@ -1092,10 +1264,10 @@
 	left: 8.3%;
 }
 #tanksImageDescriptionSix {
-	position: relative;
-	top: 5%;
-	left: 8.3%;
-	width: 20%;
+    position: relative;
+    top: 23%;
+    left: 8.3%;
+    width: 20%;
 }
 #tanksGridOne {
 	top: -8%;
@@ -1259,7 +1431,7 @@
 }
 #tanksImageDescriptionSix {
 	position: relative;
-	top: 5%;
+    top: 20%;
 	left: 8.3%;
 	width: 20%
 }
@@ -1421,7 +1593,7 @@
 }
 #tanksImageDescriptionSix {
 	position: relative;
-	top: 5%;
+	top: 21%;
 	left: 8.3%;
 	width: 20%;
 }
@@ -1524,6 +1696,10 @@
 	margin-top: 3vh;
 	height: auto;
 	pointer-events: none;
+}
+
+.endlineTanksTwo {
+    top: 12%;
 }
 }
 
@@ -1851,11 +2027,11 @@
 	width: 17%;
 }
 #tanksImageDescriptionSix {
-	position: relative;
-	top: 5vh;
-	left: 8.3%;
-	width: 20%;
-	padding-bottom: 5vh;
+    position: relative;
+    top: 14vh;
+    left: 8.3%;
+    width: 20%;
+    padding-bottom: 5vh;
 }
 #tanksVideoOne {
 	width: 61.5vw;
@@ -1988,10 +2164,26 @@
 
 #tanksImageDescriptionSix {
     position: relative;
-    top: 1%;
+    top: 3%;
     left: 8.3%;
     width: 20%;
     padding-bottom: 5vh;
+}
+
+#tanksImageDescriptionSeven {
+    position: relative;
+    top: 1%;
+    left: 8.3%;
+    width: 20%;
+}
+
+.endlineTanksTwo {
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 2%;
+    left: 0%;
+    border-bottom: 1px dotted black;
 }
 
 	
@@ -3599,7 +3791,7 @@
 }
 #tanksImageDescriptionSix {
 	position: relative;
-	top: 8%;
+	top: 20%;
 	left: 8.3%;
 	width: 20%;
 	padding-bottom: 5vh;
@@ -3902,11 +4094,11 @@
 	width: 17%;
 }
 #tanksImageDescriptionSix {
-	position: relative;
-	top: 5%;
-	left: 8.3%;
-	width: 20%;
-	padding-bottom: 5vh;
+    position: relative;
+    top: 22%;
+    left: 8.3%;
+    width: 20%;
+    padding-bottom: 5vh;
 }
 #tanksVideoOne {
 	width: 61.5vw;
@@ -4209,11 +4401,11 @@
 	width: 17%;
 }
 #tanksImageDescriptionSix {
-	position: relative;
-	top: 7%;
-	left: 8.3%;
-	width: 20%;
-	padding-bottom: 5vh;
+    position: relative;
+    top: 20%;
+    left: 8.3%;
+    width: 20%;
+    padding-bottom: 5vh;
 }
 #tanksVideoOne {
 	width: 61.5vw;
@@ -4325,4 +4517,50 @@ pointer-events: none;
     height: 65vh;
 }
 
+#tanksImageDescriptionSix {
+    position: relative;
+    top: 20%;
+    left: 8.3%;
+    width: 20%;
+    padding-bottom: 5vh;
+}
+
+}
+
+    /* ----------------------20000s-------------------------*/
+/*2048 x 1080*/
+@media (min-width: 2000px) and (min-height: 1000px) and (max-height: 1999px) 
+{
+	#tanksSubTwo {
+		top: -33vh;
+	}
+
+	#tanksSubThree {
+		top: 15vh;
+	}
+
+	#tanksSubFour {
+		top: 128vh;
+	}
+
+	#tanksSubFive {
+		top: 213vh;
+	}
+
+	#tanksSubSeven {
+		top: 295vh;
+	}
+
+	#tanksSubEight {
+		top: 365vh;
+	}
+
+	#tanksSubNine {
+		top: 450vh;
+		height: 65vh;
+	}
+
+	#tanksImageDescriptionTwo {
+		top: 9%;
+	}
 }

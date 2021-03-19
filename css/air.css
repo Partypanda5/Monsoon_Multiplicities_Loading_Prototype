@@ -6,38 +6,38 @@
 	height: 100%;
 }
 #airSubTwo {
-    top: -35vh;
+    top: -20vh;
 }
 #airSubThree {
-    top: -86.5vh;
+    top: -65vh;
 }
 #airSubFour {
-    top: -122.1vh;
+    top: -93vh;
 }
 #airSubFive {
-    top: -210vh;
+    top: -170vh;
 }
 #airSubSix {
-    top: -242.7vh;
+    top: -195vh;
 }
 #airSubSeven {
-    top: -215.4vh;
+    top: -162vh;
 }
 #airSubEight {
-    top: -160vh;
+    top: -96vh;
 }
 #airSubNine {
-    top: -197vh;
+    top: -125vh;
 }
 #airSubTen {
-    top: -159.2vh;
+    top: -77vh;
 }
 #airSubEleven {
-    top: -259.7vh;
-}
+    top: -160vh;
 
+}
 #airSubTwelve {
-    top: -292.3vh;
+    top: -185vh;
     height: 30vh;
 }
 #airVideoOne {
@@ -80,7 +80,7 @@
 #airTwo {
 	position: relative;
 	top: -10%;
-	left: 30%;
+    left: 34.7%;
 }
 #airThree {
 	position: relative;
@@ -140,6 +140,20 @@
 	height: auto;
 	z-index: -5;
 }
+#airThirteen
+{
+    position: relative;
+    top: -46%;
+    left: 1%;
+    height: auto;
+}
+#airFourteen
+{
+    position: relative;
+    top: -80%;
+    left: 1%;
+    height: auto;
+}
 .verticalGridContainerAir {
 	width: 50%;
 	height: 53%;
@@ -151,9 +165,15 @@
 	top: 27%;
 	left: -50%;
 }
+#airGridTwo
+{
+	position: relative;
+	top: 30%;
+	left: -50%;
+}
 #airImageDescriptionZero {
 	position: relative;
-	top: 21%;
+	top: 23%;
 	left: 35.3%;
 	width: 14%;
 }
@@ -189,7 +209,7 @@
 }
 #airImageDescriptionSix {
 	position: relative;
-	top: 65%;
+    top: 80%;
 	left: 35.3%;
 	width: 9%;
 }
@@ -219,9 +239,45 @@
 }
 #airImageDescriptionEleven {
 	position: relative;
-	top: 2%;
+	top: 15%;
 	left: 35.3%;
-	width: 14%;
+    width: 30%;
+}
+#airImageDescriptionTwelve {
+    position: relative;
+    top: -471%;
+    left: 35.3%;
+    width: 30%;
+}
+#airImageDescriptionThirteen {
+    position: relative;
+    top: -398%;
+    left: 35.3%;
+    width: 30%;
+}
+#airImageDescriptionFourteen {
+    position: relative;
+    top: -18%;
+    left: 35.3%;
+    width: 30%
+}
+#airImageDescriptionFifteen {
+    position: relative;
+    top: -31%;
+    left: 35.3%;
+    width: 30%;
+}
+#airImageDescriptionSixteen {
+    position: relative;
+    top: -75%;
+    left: 35.3%;
+    width: 30%;
+}
+#airImageDescriptionSeventeen {
+    position: relative;
+    top: -33%;
+    left: 35.3%;
+    width: 30%;
 }
 .endlineAir {
 	width: 64.5vw;
@@ -230,6 +286,15 @@
 	top: 0%;
 	left: 0vw;
 	border-bottom: 1px solid black;
+}
+
+.endlineAirTwo {
+	width: 64.5vw;
+	height: 1vh;
+	position: relative;
+    top: -55%;
+	left: 0vw;
+	border-bottom: 2px dotted black;
 }
 #gridImageMiddleAir {
 	width: 23.5vw;
@@ -252,7 +317,7 @@
 /*---------------------1000s----------------------*/
 
 /*1024 x 600*/
-@media (max-width: 1025px) and (min-height: 599px)  and (max-height: 680px) {
+@media (max-width: 1025px) and (min-height: 599px)  and (max-height: 647px) {
 	#airVideoOne {
     position: relative;
     top: 32%;
@@ -274,7 +339,7 @@
     width: 14%;
 }
 #airSubTwo {
-    top: -27.2vh;
+    top: -12vh;
 }
 #airGridOne {
     position: relative;
@@ -284,7 +349,7 @@
 #airTwo {
     position: relative;
     top: -5%;
-    left: 30%;
+    left: 34.2%;
 }
 #airImageDescriptionOne {
     position: relative;
@@ -293,7 +358,7 @@
     width: 9%;
 }
 #airSubThree {
-    top: -81.4vh;
+    top: -62vh;
 }
 #airVideoTwo {
     position: relative;
@@ -309,7 +374,7 @@
     width: 9%;
 }
 #airSubFour {
-    top: -99vh;
+    top: -75vh;
 }
 #airThree {
     position: relative;
@@ -323,7 +388,7 @@
     width: 9%;
 }
 #airSubFive {
-    top: -165.2vh;
+    top: -135vh;
 }
 #airVideoThree {
     position: relative;
@@ -340,7 +405,7 @@
     width: 9%;
 }
 #airSubSix {
-    top: -185.4vh;
+    top: -150vh;
 }
 #airFour {
     position: relative;
@@ -360,7 +425,7 @@
     width: 9%;
 }
 #airSubSeven {
-    top: -143.4vh;
+    top: -102vh;
 }
 #airSix {
     position: relative;
@@ -385,7 +450,7 @@
     width: 9%;
 }
 #airSubEight {
-    top: -76vh;
+    top: -30vh;
 }
 #airVideoFour {
     position: relative;
@@ -402,7 +467,7 @@
     width: 9%;
 }
 #airSubNine {
-    top: -104vh;
+    top: -54vh;
 }
 #airSeven {
     position: relative;
@@ -417,7 +482,7 @@
     width: 9%;
 }
 #airSubTen {
-    top: -57vh;
+    top: -3vh;
 }
 #airNine {
     position: relative;
@@ -431,11 +496,9 @@
     width: 9%;
 }
 #airSubEleven {
-    top: -147vh;
+    top: -85vh;
 }
-#airSubEleven {
-    top: -147vh;
-}
+
 #airTen {
     position: relative;
     top: 42%;
@@ -453,11 +516,244 @@
     width: 9%;
 }
 #airSubTwelve {
-    top: -172vh;
+    top: -107vh;
     height: 30vh;
 }
 
+#airGridTwo {
+    top: 14%;
+    left: -51.5%;
+}
 
+#airImageDescriptionThirteen {
+    top: -429%;
+}
+
+#airThirteen {
+    top: -55%;
+}
+
+#airFourteen {
+    top: -94%;
+}
+
+}
+
+/*------------ Tablet Responisve 1024 x 650 ---------------*/
+@media (max-width: 1025px) and (min-height: 648px) 
+and (max-height: 680px)
+{
+    #airVideoOne {
+        position: relative;
+        top: 32%;
+        width: 61.5vw;
+        height: 61.5vh;
+        left: -32.9%;
+        z-index: -2;
+    }
+    #airOne {
+        position: relative;
+        top: 26%;
+        left: 34.3%;
+        z-index: -2;
+    }
+    #airImageDescriptionZero {
+        position: relative;
+        top: 25%;
+        left: 35.3%;
+        width: 14%;
+    }
+    #airSubTwo {
+        top: -14vh;
+    }
+    #airGridOne {
+        position: relative;
+        top: 27.4%;
+        left: -51.5%;
+    }
+    #airTwo {
+        position: relative;
+        top: -5%;
+        left: 34.3%;
+    }
+    #airImageDescriptionOne {
+        position: relative;
+        top: -5%;
+        left: 35.3%;
+        width: 9%;
+    }
+    #airSubThree {
+        top: -81.4vh;
+    }
+    #airVideoTwo {
+        position: relative;
+        top: 55%;
+        width: 61.5vw;
+        height: 61.5vh;
+        left: -32.9%;
+    }
+    #airImageDescriptionTwo {
+        position: relative;
+        top: 48.8%;
+        left: 35.3%;
+        width: 9%;
+    }
+    #airSubFour {
+        top: -99vh;
+    }
+    #airThree {
+        position: relative;
+        top: 42%;
+        left: 0.7%;
+    }
+    #airImageDescriptionThree {
+        position: relative;
+        top: 36%;
+        left: 35.3%;
+        width: 9%;
+    }
+    #airSubFive {
+        top: -165.2vh;
+    }
+    #airVideoThree {
+        position: relative;
+        top: 56%;
+        width: 61.5vw;
+        height: 61.5vh;
+        left: -32.9%;
+        z-index: -5;
+    }
+    #airImageDescriptionFour {
+        position: relative;
+        top: 50%;
+        left: 35.3%;
+        width: 9%;
+    }
+    #airSubSix {
+        top: -185.4vh;
+    }
+    #airFour {
+        position: relative;
+        top: 58%;
+        left: -32.9%;
+        z-index: -5;
+    }
+    #airFive {
+        position: relative;
+        top: 36%;
+        left: 34.3%;
+    }
+    #airImageDescriptionFive {
+        position: relative;
+        top: 35%;
+        left: 35.3%;
+        width: 9%;
+    }
+    #airSubSeven {
+        top: -143.4vh;
+    }
+    #airSix {
+        position: relative;
+        top: 53%;
+        left: 0.3%;
+        width: 45.7vw;
+        height: auto;
+        z-index: -5;
+    }
+    #airTwelve {
+        position: relative;
+        top: 91%;
+        left: -49.7%;
+        width: 45.7vw;
+        height: auto;
+        z-index: -5;
+    }
+    #airImageDescriptionSix {
+        position: relative;
+        top: 85%;
+        left: 35.3%;
+        width: 9%;
+    }
+    #airSubEight {
+        top: -76vh;
+    }
+    #airVideoFour {
+        position: relative;
+        top: 48%;
+        width: 61.5vw;
+        height: 61.5vh;
+        left: -32.9%;
+        z-index: 5;
+    }
+    #airImageDescriptionSeven {
+        position: relative;
+        top: 42%;
+        left: 35.3%;
+        width: 9%;
+    }
+    #airSubNine {
+        top: -104vh;
+    }
+    #airSeven {
+        position: relative;
+        top: 53%;
+        left: -32.9%;
+        z-index: -5;
+    }
+    #airImageDescriptionEight {
+        position: relative;
+        top: 29.9%;
+        left: 35.3%;
+        width: 9%;
+    }
+    #airSubTen {
+        top: -57vh;
+    }
+    #airNine {
+        position: relative;
+        top: 30%;
+        left: 0.7%;
+    }
+    #airImageDescriptionNine {
+        position: relative;
+        top: 24.5%;
+        left: 35.3%;
+        width: 9%;
+    }
+    #airSubEleven {
+        top: -147vh;
+    }
+    #airSubEleven {
+        top: -147vh;
+    }
+    #airTen {
+        position: relative;
+        top: 42%;
+        left: 0.7%;
+    }
+    #airEleven {
+        position: relative;
+        top: 30%;
+        left: 34.1%;
+    }
+    #airImageDescriptionTen {
+        position: relative;
+        top: 29.7%;
+        left: 35.3%;
+        width: 9%;
+    }
+    #airSubTwelve {
+        top: -172vh;
+        height: 30vh;
+    }
+    #airImageDescriptionTwelve {
+        top: -419%;
+    }
+
+    #airGridTwo {
+        top: 30%;
+        left: -51.2%;
+    }
 }
 
 /* 1024 x 768 */
@@ -484,12 +780,12 @@
 }
 
 #airSubTwo {
-    top: -43.1vh;
+    top: -33vh;
 }
 #airTwo {
     position: relative;
     top: -1%;
-    left: 30%;
+    left: 34.5%;
 }
 #airGridOne {
     position: relative;
@@ -667,44 +963,55 @@
     top: -510.7vh;
     height: 30vh;
 }
+
+#airImageDescriptionTwelve {
+    top: -353%;
+}
+#airImageDescriptionThirteen {
+    top: -318%;
+}
+#airGridTwo {
+    top: 30%;
+    left: -51.3%;
+}
 }
 
 /*-------------------1200s----------------------*/
 /*1280 x 582-*/
 @media(min-width: 1026px) and (max-width: 1299px) {
 #airSubTwo {
-	top: -20vh;
+    top: -8vh;
 }
 #airSubThree {
-	top: -55vh;
+    top: -40vh;
 }
 #airSubFour {
-	top: -75vh;
+    top: -56vh;
 }
 #airSubFive {
-	top: -140vh;
+    top: -122vh;
 }
 #airSubSix {
-	top: -164vh;
+    top: -142vh;
 }
 #airSubSeven {
-	top: -103vh;
+    top: -78vh;
 }
 #airSubEight {
-	top: 1vh;
+    top: 40vh;
 }
 #airSubNine {
-	top: -25vh;
+    top: 18vh;
 }
 #airSubTen {
-	top: 53vh;
+    top: 100vh;
 }
 #airSubEleven {
-	top: -22vh;
+    top: 32vh;
 }
 #airSubTwelve {
-	top: -36vh;
-	height: 30vh;
+    top: 22vh;
+    height: 30vh;
 }
 #airVideoOne {
 	top: 34%;
@@ -727,8 +1034,8 @@
 	left: 34.5%;
 }
 #airTwo {
-	top: -15%;
-	left: 30%;
+    top: -15%;
+    left: 34.5%;
 }
 #airThree {
 	top: 35%;
@@ -796,8 +1103,8 @@
 	left: 35.3%;
 }
 #airImageDescriptionSix {
-	top: 80%;
-	left: 35.3%;
+    top: 102%;
+    left: 35.3%;
 }
 #airImageDescriptionSeven {
 	top: 48%;
@@ -819,33 +1126,66 @@
 	top: 27%;
 	left: -50.8%;
 }
+#airImageDescriptionTwelve {
+    top: -587%;
+}
+#airImageDescriptionThirteen {
+    top: -502%;
+}
+#airGridTwo {
+    top: 30%;
+    left: -50.6%;
+}
+#airThirteen {
+    top: -72%;
+}
+#airImageDescriptionFourteen {
+    top: -48%;
+}
+#airFourteen {
+    top: -120%;
+}
+#airImageDescriptionFifteen {
+    top: -67%;
+}
+#airImageDescriptionSixteen {
+    top: -115%;
+}
+.endlineAirTwo {
+    top: -92%;
+    border-bottom: 1px dotted black;
+}
+#airImageDescriptionSeventeen {
+    top: -66%;
+    padding-bottom: 5vh;
+}
 }
 
 /*------------ SAXONS BREAKPOINT 1 1280 x 689 ---------------*/
 @media (min-width: 1026px) and (max-width: 1299px) and (min-height: 680px) and (max-height: 766px) {
 #airSubTwo {
-	top: -172.93px;
+	top: -95px;
 }
 #airSubThree {
-	top: -523.84px;
+    top: -421px;
 }
 #airSubFour {
-    top: -736.25px;
+    top: -620px;
 }
 #airSubFive {
-    top: -1248.6px;
+    top: -1120px;
 }
 #airSubSix {
-    top: -1476.56px;
+    top: -1330px;
 }
 #airSubSeven {
-    top: -1232.19px;
+    top: -1070px;
 }
 #airSubEight {
-    top: -759.63px;
+    top: -580px;
 }
 #airSubNine {
-    top: -1015.3px;
+    top: -810px;
 }
 	#airVideoTwo {
     top: 49%;
@@ -900,21 +1240,43 @@
     left: 35.3%;
 }
 #airSubTen {
-    top: -679.93px;
+    top: -460px;
 }
 #airSubEleven {
-    top: -1238.28px;
+    top: -965px;
 }
 #airSubTwelve {
-    top: -209vh;
+    top: -166vh;
     height: 30vh;
+}
+#airImageDescriptionThirteen {
+    top: -420%;
+}
+#airImageDescriptionTwelve {
+    top: -495%;
+}
+#airThirteen {
+    top: -58%;
+}
+#airImageDescriptionFourteen {
+    top: -38%;
+}
+#airFourteen {
+    top: -100%;
+}
+#airImageDescriptionFifteen {
+    top: -56%;
 }
 }
 
 /*------------ SAXONS BREAKPOINT 2 1280 x 768 ---------------*/
 @media (min-width: 1026px) and (max-width: 1299px) and (min-height: 767px) and (max-height: 798px) {
 #airSubTwo {
-	top: -206.8px;
+    top: -120px;
+}
+#airTwo {
+    top: -10%;
+    left: 34.5%;
 }
 #airVideoTwo {
 	top: 43%;
@@ -924,13 +1286,13 @@
 	top: 38%;
 }
 #airSubThree {
-	top: -639.45px;
+    top: -530px;
 }
 #airSubFour {
-	top: -916.25px;
+    top: -800px;
 }
 #airSubFive {
-	top: -1506.6px;
+    top: -1370px;
 }
 #airVideoThree {
 	top: 45%;
@@ -941,7 +1303,7 @@
 	left: 35.3%;
 }
 #airSubSix {
-	top: -1773.76px;
+    top: -1620px;
 }
 #airFour {
 	top: 45%;
@@ -956,7 +1318,7 @@
 	left: 35.3%;
 }
 #airSubSeven {
-	top: -1642.19px;
+    top: -1460px;
 }
 #airSix {
 	top: 43%;
@@ -971,7 +1333,7 @@
 	left: 35.3%;
 }
 #airSubEight {
-	top: -1233.73px;
+    top: -1030px;
 }
 #airVideoFour {
 	top: 41%;
@@ -982,7 +1344,7 @@
 	left: 35.3%;
 }
 #airSubNine {
-	top: -1518.75px;
+    top: -1280px;
 }
 #airSeven {
 	top: 43%;
@@ -993,36 +1355,54 @@
 	left: 35.3%;
 }
 #airSubTen {
-	top: -1295.21px;
+	top: -1040px;
 }
 #airSubEleven {
-	top: -1928.9px;
+    top: -1640px;
 }
 #airSubTwelve {
 	top: -1898.34px;
 	height: 30vh;
 }
 #airSubTwelve {
-	top: -2244.34px;
-	height: 30vh;
+    top: -1900px;
+    height: 30vh;
+}
+#airImageDescriptionThirteen {
+    top: -375%;
+}
+#airImageDescriptionTwelve {
+    top: -443%;
+}
+#airImageDescriptionFourteen {
+    top: -30%;
+}
+#airThirteen {
+    top: -48%;
+}
+#airFourteen {
+    top: -80%;
+}
+#airImageDescriptionFifteen {
+    top: -42%;
 }
 }
 
 /*------------ SAXONS BREAKPOINT 3 1280 x 800 ---------------*/
 @media (min-width: 1026px) and (max-width: 1299px) and (min-height: 799px) and (max-height: 801px) {
 #airSubTwo {
-	top: -209.8px;
+    top: -100px;
 }
 #airGridOne {
 	top: 25%;
 	left: -50.8%;
 }
 #airTwo {
-	top: -12%;
-	left: 30%;
+    top: -9%;
+    left: 34.5%;
 }
 #airSubThree {
-	top: -694.45px;
+    top: -550px;
 }
 #airVideoTwo {
 	top: 42%;
@@ -1032,10 +1412,10 @@
 	top: 36%;
 }
 #airSubFour {
-	top: -995.39px;
+    top: -840px;
 }
 #airSubFive {
-	top: -1615px;
+    top: -1440px;
 }
 #airVideoThree {
 	top: 43%;
@@ -1046,7 +1426,7 @@
 	left: 35.3%;
 }
 #airSubSix {
-	top: -1918.76px;
+    top: -1730px;
 }
 #airFour {
 	top: 43%;
@@ -1061,7 +1441,7 @@
 	left: 35.3%;
 }
 #airSubSeven {
-	top: -1837.67px;
+    top: -1620px;
 }
 #airSix {
 	top: 42%;
@@ -1076,7 +1456,7 @@
 	left: 35.3%;
 }
 #airSubEight {
-	top: -1479.31px;
+    top: -1250px;
 }
 #airVideoFour {
 	top: 39%;
@@ -1087,7 +1467,7 @@
 	left: 35.3%;
 }
 #airSubNine {
-	top: -1808.75px;
+    top: -1560px;
 }
 #airSeven {
 	top: 42%;
@@ -1098,15 +1478,38 @@
 	left: 35.3%;
 }
 #airSubTen {
-	top: -1646.33px;
+    top: -1370px;
 }
 #airSubEleven {
-	top: -2306.48px;
+    top: -1980px;
 }
 #airSubTwelve {
-	top: -2654.03px;
+    top: -2270px;
 	height: 30vh;
 }
+#airThirteen {
+    top: -40%;
+}
+
+#airImageDescriptionFourteen {
+    top: -22%;
+}
+#airImageDescriptionFifteen {
+    top: -33%;
+}
+#airImageDescriptionSixteen {
+    top: -100%;
+}
+#airImageDescriptionTwelve {
+    top: -425%;
+}
+#airImageDescriptionThirteen {
+    top: -360%;
+}
+#airFourteen {
+    top: -70%;
+}
+
 }
 
 /*-------------------1300s----------------------*/
@@ -1116,38 +1519,38 @@
 	top: -5vh;
 }
 #airSubTwo {
-	top: -42vh;
+    top: -30vh;
 }
 #airSubThree {
-	top: -97vh;
+    top: -83vh;
 }
 #airSubFour {
-	top: -138vh;
+    top: -123vh;
 }
 #airSubFive {
-	top: -230vh;
+    top: -210vh;
 }
 #airSubSix {
-	top: -269vh;
+    top: -245vh;
 }
 #airSubSeven {
-	top: -248vh;
+    top: -220vh;
 }
 #airSubEight {
-	top: -191vh;
+    top: -158vh;
 }
 #airSubNine {
-	top: -234vh;
+    top: -196vh;
 }
 #airSubTen {
-	top: -201vh;
+    top: -160vh;
 }
 #airSubEleven {
-	top: -294vh;
+    top: -246vh;
 }
 #airSubTwelve {
-	top: -333vh;
-	height: 30vh;
+    top: -282vh;
+    height: 30vh;
 }
 #airVideoOne {
 	top: 30%;
@@ -1240,12 +1643,12 @@
 	width: 14%;
 }
 #airSubTwo {
-	top: -74.78px;
+    top: 45px;
 }
 #airTwo {
-	position: relative;
-	top: -24%;
-	left: 30%;
+    position: relative;
+    top: -24%;
+    left: 34.5%;
 }
 #airImageDescriptionOne {
 	position: relative;
@@ -1254,7 +1657,7 @@
 	width: 9%;
 }
 #airSubThree {
-	top: -185.57px;
+    top: -45px;
 }
 #airVideoTwo {
 	position: relative;
@@ -1270,14 +1673,16 @@
 	width: 9%;
 }
 #airSubFour {
-	top: -297.32px;
+
+    top: -115px;
+
 }
 #airThree {
 	top: 35%;
 	left: 0.8%;
 }
 #airSubFive {
-	top: -683.46px;
+    top: -440px;
 }
 #airVideoThree {
 	position: relative;
@@ -1294,7 +1699,7 @@
 	width: 9%;
 }
 #airSubSix {
-	top: -805.21px;
+    top: -505px;
 }
 #airFour {
 	position: relative;
@@ -1303,7 +1708,7 @@
 	z-index: -5;
 }
 #airSubSeven {
-	top: -344.63px;
+    top: -20px;
 }
 #airSix {
 	top: 57%;
@@ -1324,7 +1729,7 @@
 	width: 9%;
 }
 #airSubEight {
-	top: 437.41px;
+    top: 800px;
 }
 #airVideoFour {
 	position: relative;
@@ -1341,7 +1746,7 @@
 	width: 9%;
 }
 #airSubNine {
-	top: 278.66px;
+    top: 700px;
 }
 #airSeven {
 	position: relative;
@@ -1356,14 +1761,21 @@
 	width: 9%;
 }
 #airSubTen {
-	top: 911.97px;
+    top: 1350px;
 }
 #airSubEleven {
-	top: 507.32px;
+    top: 970px;
 }
 #airSubTwelve {
-	top: 478.59px;
+    top: 970px;
 	height: 30vh;
+}
+#airImageDescriptionTwelve {
+    position: relative;
+    top: -677%;
+}
+#airImageDescriptionThirteen {
+    top: -573%;
 }
 }
 
@@ -1385,7 +1797,7 @@
     width: 14%;
 }
 #airSubTwo {
-    top: -254.78px;
+    top: -150px;
 }
 #airImageDescriptionOne {
     position: relative;
@@ -1394,34 +1806,36 @@
     width: 9%;
 }
 #airSubThree {
-    top: -622.57px;
+    top: -500px;
 }
 #airSubFour {
-    top: -886.32px;
+    top: -730px;
 }
 #airSubFive {
-    top: -1503.46px;
+    top: -1320px;
 }
 #airSubSix {
-    top: -1738.21px;
+    top: -1520px;
 }
 #airSubSeven {
-    top: -1503.63px;
+    top: -1250px;
 }
 #airSubEight {
-    top: -967.59px;
+    top: -680px;
 }
 #airSubNine {
-    top: -1248.34px;
+    top: -928px;
 }
 #airSubTen {
-    top: -880.03px;
+    top: -520px;
 }
 #airSubEleven {
-    top: -1514.68px;
+
+    top: -1110px;
+
 }
 #airSubTwelve {
-    top: -1732.41px;
+    top: -1270px;
     height: 30vh;
 }	
 	
@@ -1507,6 +1921,12 @@
 	left: 35.3%;
 	width: 9%;
 }
+#airImageDescriptionTwelve {
+    top: -523%;
+}
+#airImageDescriptionThirteen {
+    top: -442%;
+}
 
 }
 
@@ -1552,15 +1972,15 @@
 	top: 16.1%;
 }
 #airSubTwo {
-	top: -546.6px;
+    top: -460px;
 }
 #airTwo {
-	position: relative;
-	top: -3%;
-	left: 30%;
+    position: relative;
+    top: -3%;
+    left: 34.5%;
 }
 #airSubThree {
-	top: -1253.94px;
+    top: -1120px;
 }
 	#airVideoTwo {
     position: relative;
@@ -1577,10 +1997,10 @@
 }
 
 #airSubFour {
-    top: -1783.57px;
+    top: -1630px;
 }
 #airSubFive {
-    top: -2771.31px;
+    top: -2600px;
 }
 
 
@@ -1610,7 +2030,7 @@
 
 
 #airSubSix {
-    top: -3242.78px;
+    top: -3070px;
 }
 #airFour {
     position: relative;
@@ -1621,7 +2041,7 @@
 
 
 #airSubSeven {
-    top: -3439.54px;
+    top: -3250px;
 }
 
 #airSix {
@@ -1639,7 +2059,7 @@
 	width: 9%;
 }
 #airSubEight {
-    top: -3345.73px;
+    top: -3130px;
 }
 #airVideoFour {
 	position: relative;
@@ -1656,7 +2076,9 @@
 	width: 9%;
 }
 #airSubNine {
-    top: -3880.92px;
+   
+    top: -3650px;
+
 }
 #airSeven {
 	position: relative;
@@ -1671,14 +2093,29 @@
 	width: 9%;
 }
 #airSubTen {
-    top: -3966.5px;
+    top: -3720px;
 }
 #airSubEleven {
-    top: -4953.45px;
+    top: -4670px;
 }
 #airSubTwelve {
-    top: -5546.33px;
+    top: -5240px;
     height: 30vh;
+}
+#airImageDescriptionThirteen {
+    top: -294%;
+}
+#airImageDescriptionTwelve {
+    top: -352%;
+}
+#airThirteen {
+    top: -26%;
+}
+#airFourteen {
+    top: -52%;
+}
+#airImageDescriptionFifteen {
+    top: -20%;
 }
 }
 
@@ -1689,38 +2126,38 @@
 	top: -4vh;
 }
 #airSubTwo {
-	top: -40vh;
+    top: -25vh;
 }
 #airSubThree {
-	top: -86vh;
+    top: -64vh;
 }
 #airSubFour {
-	top: -123vh;
+    top: -98vh;
 }
 #airSubFive {
-	top: -209vh;
+    top: -177vh;
 }
 #airSubSix {
-	top: -242vh;
+    top: -205vh;
 }
 #airSubSeven {
-	top: -206vh;
+    top: -165vh;
 }
 #airSubEight {
-	top: -147vh;
+    top: -100vh;
 }
 #airSubNine {
-	top: -188vh;
+    top: -135vh;
 }
 #airSubTen {
-	top: -150vh;
+    top: -90vh;
 }
 #airSubEleven {
-	top: -255vh;
+    top: -180vh;
 }
 #airSubTwelve {
-	top: -287vh;
-	height: 30vh;
+    top: -210vh;
+    height: 30vh;
 }
 #airVideoOne {
 	top: 25%;
@@ -1820,6 +2257,27 @@
 	top: 20.8%;
 	left: 1.7%;
 }
+
+#airImageDescriptionTwelve {
+    top: -498%;
+}
+#airImageDescriptionThirteen {
+    top: -412%;
+}
+#airGridTwo {
+    left: -50.5%;
+}
+#airImageDescriptionFourteen {
+    top: -27%;
+}
+#airImageDescriptionFifteen {
+    top: -46%;
+}
+#airImageDescriptionSeventeen {
+    top: -33%;
+    padding-bottom: 5vh;
+}
+
 }
 
 /*------------ SAXONS BREAKPOINT 7 1400 x 833 ---------------*/
@@ -1864,47 +2322,49 @@
 	top: 18.8%;
 }
 #airSubTwo {
-	top: -345.6px;
+    top: -245px;
 }
 #airTwo {
-	position: relative;
-	top: -11%;
-	left: 30%;
+    position: relative;
+    top: -9%;
+    left: 34.5%;
 }
 #airSubThree {
-    top: -768.94px;
+    top: -630px;
 }
 #airSubFour {
-    top: -1143.57px;
+    top: -970px;
 }
 #airSubFive {
-    top: -1869.31px;
+    top: -1665px;
 }
 #airSubSix {
-    top: -2240.78px;
+    top: -2000px;
 }
 #airFour {
 	top: 40%;
 	left: -32.9%;
 }
 #airSubSeven {
-    top: -2129.54px;
+    top: -1855px;
 }
 	#airSubEight {
-    top: -1727.73px;
+        top: -1430px;
 }
 	#airSubNine {
-    top: -2124.92px;
+        top: -1800px;
+
 }
 #airSubTen {
-    top: -1931.5px;
+    top: -1580px;
 }
 #airSubEleven {
-    top: -2743.45px;
+    top: -2360px;
 }
 #airSubTwelve {
-    top: -3068.33px;
+    top: -2660px;
     height: 30vh;
+
 }
 #airImageDescriptionSix {
 	top: 73%;
@@ -1978,8 +2438,12 @@
     left: 35.3%;
 }
 
-
-
+#airImageDescriptionTwelve {
+    top: -458%;
+}
+#airImageDescriptionThirteen {
+    top: -377%;
+}
 
 }
 
@@ -2010,9 +2474,9 @@
 	width: 14%;
 }
 #airTwo {
-	position: relative;
-	top: -1%;
-	left: 30%;
+    position: relative;
+    top: -7%;
+    left: 34.5%;
 }
 .airContainer .mainTitle {
 	top: 17.5%;
@@ -2025,15 +2489,11 @@
 	top: 17.6%;
 }
 #airSubTwo {
-	top: -381.6px;
+	top: -290px;
 }
-#airTwo {
-	position: relative;
-	top: -11%;
-	left: 30%;
-}
+
 #airSubThree {
-    top: -871.74px;
+    top: -750px;
 }
 #airVideoTwo {
     top: 37%;
@@ -2046,10 +2506,10 @@
 
 
 #airSubFour {
-    top: -1258.57px;
+    top: -1120px;
 }
 #airSubFive {
-    top: -2045.31px;
+    top: -1880px;
 }
 
 #airVideoThree {
@@ -2067,7 +2527,7 @@
 	width: 9%;
 }
 #airSubSix {
-    top: -2419.78px;
+    top: -2240px;
 }
 #airFive {
     top: 16%;
@@ -2085,7 +2545,7 @@
 	left: -32.9%;
 }
 #airSubSeven {
-    top: -2388.54px;
+    top: -2190px;
 }
 #airSix {
     top: 35%;
@@ -2100,7 +2560,7 @@
     left: 35.3%;
 }
 #airSubEight {
-    top: -2096.73px;
+    top: -1875px;
 }
 #airVideoFour {
     top: 32.2%;
@@ -2111,7 +2571,7 @@
     left: 35.3%;
 }
 #airSubNine {
-    top: -2550.92px;
+    top: -2300px;
 }
 
 	
@@ -2122,14 +2582,34 @@
 	z-index: -5;
 }
 #airSubTen {
-    top: -2420.5px;
+    top: -2150px;
 }
 #airSubEleven {
-    top: -3294.45px;
+ 
+    top: -3015px;
+
 }
 #airSubTwelve {
-    top: -3696.33px;
+    top: -3400px;
     height: 30vh;
+}
+#airImageDescriptionTwelve {
+    top: -424%;
+}
+#airImageDescriptionThirteen {
+    top: -348%;
+}
+#airThirteen {
+    top: -30%;
+}
+#airImageDescriptionFourteen {
+    top: -14%;
+}
+#airFourteen {
+    top: -55%;
+}
+#airImageDescriptionFifteen {
+    top: -26%;
 }
 }
 
@@ -2137,38 +2617,38 @@
 /* 1536 x 730*/
 @media (min-width: 1500px) and (max-width: 1599px) {
 #airSubTwo {
-	top: -25vh;
+    top: -10vh;
 }
 #airSubThree {
-	top: -68vh;
+    top: -43vh;
 }
 #airSubFour {
-	top: -90vh;
+    top: -55vh;
 }
 #airSubFive {
-	top: -167vh;
+    top: -125vh;
 }
 #airSubSix {
-	top: -195vh;
+    top: -145vh;
 }
 #airSubSeven {
-	top: -148vh;
+    top: -92vh;
 }
 #airSubEight {
-	top: -45vh;
+    top: 17vh;
 }
 #airSubNine {
-	top: -77vh;
+	top: -8vh;
 }
 #airSubTen {
-	top: -4vh;
+    top: 70vh;
 }
 #airSubEleven {
-	top: -93vh;
+    top: -12vh;
 }
 #airSubTwelve {
-	top: -113vh;
-	height: 30vh;
+    top: -25vh;
+    height: 30vh;
 }
 #airVideoOne {
 	top: 33%;
@@ -2286,6 +2766,12 @@
 	top: 104%;
 	left: -49.7%;
 }
+#airImageDescriptionTwelve {
+    top: -561%;
+}
+#airImageDescriptionThirteen {
+    top: -461%;
+}
 }
 
 /*------------ SAXONS BREAKPOINT 9 1536 x 757 ---------------*/
@@ -2320,14 +2806,16 @@
 	left: 30%;
 }
 #airSubTwo {
-    top: -221.75px;
+  
+    top: -130px;
+
 }#airTwo {
     position: relative;
     top: -10%;
-    left: 30%;
+    left: 34.5%;
 }
 #airSubThree {
-    top: -532.12px;
+    top: -400px;
 }
 #airVideoTwo {
     top: 40%;
@@ -2337,14 +2825,14 @@
     left: 35.3%;
 }
 #airSubFour {
-    top: -851.1px;
+     top: -680px;
 }
 #airImageDescriptionThree {
     top: 22%;
     left: 35.3%;
 }
 #airSubFive {
-    top: -1503.53px;
+    top: -1270px;
 }
 #airVideoThree {
     position: relative;
@@ -2361,7 +2849,7 @@
     width: 9%;
 }
 #airSubSix {
-    top: -1838.92px;
+    top: -1560px;
 }
 #airFour {
     position: relative;
@@ -2381,7 +2869,7 @@
     width: 9%;
 }
 #airSubSeven {
-    top: -1582.32px;
+    top: -1270px;
 }
 #airSix {
     top: 39%;
@@ -2396,7 +2884,7 @@
     left: 35.3%;
 }
 #airSubEight {
-    top: -1019.55px;
+    top: -670px;
 }
 #airVideoFour {
 	top: 41%;
@@ -2407,7 +2895,7 @@
 	left: 35.3%;
 }
 #airSubNine {
-    top: -1316.43px;
+    top: -930px;
 }
 #airSeven {
     position: relative;
@@ -2420,14 +2908,20 @@
     left: 35.3%;
 }
 #airSubTen {
-    top: -965.36px;
+    top: -550px;
 }
 #airSubEleven {
-    top: -1602.87px;
+    top: -1150px;
 }
 #airSubTwelve {
-    top: -1773.67px;
+    top: -1300px;
     height: 30vh;
+}
+#airImageDescriptionTwelve {
+    top: -540%;
+}
+#airImageDescriptionThirteen {
+    top: -444%;
 }
 }
 
@@ -2458,15 +2952,15 @@
 	width: 14%;
 }
 #airSubTwo {
-	top: -248.75px;
+    top: -170px;
 }
 #airTwo {
 	position: relative;
 	top: -13%;
-	left: 30%;
+	left: 34.5%;
 }
 #airSubThree {
-	top: -635.12px;
+    top: -505px;
 }
 #airVideoTwo {
 	top: 43%;
@@ -2476,14 +2970,14 @@
 	left: 35.3%;
 }
 #airSubFour {
-	top: -927.1px;
+    top: -770px;
 }
 #airImageDescriptionThree {
 	top: 21%;
 	left: 35.3%;
 }
 #airSubFive {
-	top: -1661.53px;
+    top: -1450px;
 }
 #airVideoThree {
 	position: relative;
@@ -2500,7 +2994,7 @@
 	width: 9%;
 }
 #airSubSix {
-	top: -1963.05px;
+	top: -1720px;
 }
 #airFour {
 	position: relative;
@@ -2509,7 +3003,7 @@
 	z-index: -5;
 }
 #airSubSeven {
-	top: -1681.32px;
+    top: -1400px;
 }
 #airSix {
 	top: 41%;
@@ -2524,7 +3018,7 @@
 	left: 35.3%;
 }
 #airSubEight {
-	top: -1147.55px;
+    top: -830px;
 }
 #airVideoFour {
 	top: 40%;
@@ -2535,7 +3029,7 @@
 	left: 35.3%;
 }
 #airSubNine {
-	top: -1496.43px;
+    top: -1130px;
 }
 #airSeven {
 	position: relative;
@@ -2548,48 +3042,54 @@
 	left: 35.3%;
 }
 #airSubTen {
-	top: -1147.36px;
+    top: -760px;
 }
 #airSubEleven {
-	top: -1855.87px;
+    top: -1425px;
 }
 #airSubTwelve {
-	top: -2074.67px;
-	height: 30vh;
+    top: -1610px;
+    height: 30vh;
+}
+#airImageDescriptionTwelve {
+    top: -516%;
+}
+#airImageDescriptionThirteen {
+    top: -423%;
 }
 }
 
 /*------------ SAXONS BREAKPOINT 11 1536 x 864 ---------------*/
 @media (min-width: 1500px) and (max-width: 1599px)  and (min-height: 811px) and (max-height: 870px) {
 #airSubThree {
-    top: -673.8px;
+    top: -500px;
 }
 #airSubFour {
-    top: -935.268px;
+    top: -710px;
 }
 #airSubFive {
-    top: -1626.78px;
+    top: -1350px;
 }
 #airSubSix {
-    top: -1917.6px;
+    top: -1600px;
 }
 #airSubSeven {
-    top: -1710.6px;
+    top: -1350px;
 }
 #airSubEight {
-    top: -1137.36px;
+    top: -740px;
 }
 #airSubNine {
-    top: -1475.4px;
+    top: -1035px;
 }
 #airSubTen {
-    top: -1130.08px;
+    top: -660px;
 }
 #airSubEleven {
-    top: -1915px;
+    top: -1400px;
 }
 #airSubTwelve {
-    top: -2201.52px;
+    top: -1650px;
     height: 30vh;
 }
 	
@@ -2663,46 +3163,55 @@
     width: 9%;
 }
 
+#airImageDescriptionThirteen {
+    top: -385%;
+}
 
-
+#airImageDescriptionTwelve {
+    top: -470%;
+}
+#airGridTwo {
+    left: -50.3%;
+}
 }
 
 /*-------------------1600s----------------------*/
 /*1600 x 750*/
 @media (min-width: 1600px) and (max-width: 1699px) {
 #airSubTwo {
-	top: -30vh;
+    top: -18vh;
 }
 #airSubThree {
-	top: -72vh;
+    top: -53vh; 
 }
 #airSubFour {
-	top: -107vh;
+    top: -83vh;
 }
 #airSubFive {
-	top: -193vh;
+	top: -162vh;
 }
 #airSubSix {
-	top: -233vh;
+    top: -196vh;
 }
 #airSubSeven {
-	top: -185vh;
+    top: -144vh;
 }
 #airSubEight {
-	top: -100vh;
+    top: -50vh;
 }
 #airSubNine {
-	top: -142vh;
+    top: -87vh;
 }
 #airSubTen {
-	top: -84vh;
+	top: -25vh;
 }
 #airSubEleven {
-	top: -172vh;
+    top: -107vh;
+
 }
 #airSubTwelve {
-	top: -203vh;
-	height: 30vh;
+    top: -135vh;
+    height: 30vh;
 }
 #airVideoOne {
 	top: 31.2%;
@@ -2723,8 +3232,8 @@
 	z-index: -2;
 }
 #airTwo {
-	top: -18%;
-	left: 30%;
+    top: -18%;
+    left: 34.5%;
 }
 #airThree {
 	top: 27%;
@@ -2807,6 +3316,12 @@
 	top: 15%;
 	left: 35.3%;
 }
+#airImageDescriptionTwelve {
+    top: -569%;
+}
+#airImageDescriptionThirteen {
+    top: -465%;
+}
 }
 
 /*------------ SAXONS BREAKPOINT 12 1600 x 829 ---------------*/
@@ -2842,15 +3357,15 @@
 }
 
 #airSubTwo {
-    top: -299.8px;
+    top: -210px;
 }
 #airTwo {
     position: relative;
     top: -10%;
-    left: 30%;
+    left: 34.5%;
 }
 #airSubThree {
-    top: -705.8px;
+    top: -570px;
 }
 #airVideoTwo {
     top: 41%;
@@ -2860,10 +3375,10 @@
     top: 35%;
 }
 #airSubFour {
-    top: -1075.268px;
+    top: -905px;
 }
 #airSubFive {
-    top: -1796.78px;
+    top: -1590px;
 }
 #airVideoThree {
     position: relative;
@@ -2880,7 +3395,7 @@
     width: 9%;
 }
 #airSubSix {
-    top: -2178.6px;
+    top: -1940px;
 }
 #airFour {
     position: relative;
@@ -2900,7 +3415,7 @@
     width: 9%;
 }
 #airSubSeven {
-    top: -1995.6px;
+    top: -1730px;
 }
 #airSix {
     top: 39%;
@@ -2915,7 +3430,9 @@
     left: 35.3%;
 }
 #airSubEight {
-    top: -1483.36px;
+   
+    top: -1200px;
+
 }
 #airVideoFour {
     top: 37%;
@@ -2926,7 +3443,8 @@
     left: 35.3%;
 }
 #airSubNine {
-    top: -1915.4px;
+    top: -1610px;
+
 }
 #airSeven {
     position: relative;
@@ -2939,158 +3457,190 @@
     left: 35.3%;
 }
 #airSubTen {
-    top: -1600.08px;
+    top: -1280px;
 }
 #airSubEleven {
-    top: -2344px;
-}
-#airSubEleven {
-    top: -2344px;
+    top: -1990px;
 }
 #airSubTwelve {
-    top: -2664.52px;
+    top: -2280px;
     height: 30vh;
+}
+#airImageDescriptionThirteen {
+    top: -418%;
+}
+#airImageDescriptionTwelve {
+    top: -514%;
+}
+#airThirteen {
+    top: -43%;
+}
+#airGridTwo {
+    left: -50.2%;
 }
 	
 }
 
 /*------------ SAXONS BREAKPOINT 13 1600 x 900 ---------------*/
 @media (min-width: 1600px) and (max-width: 1699px)  and (min-height: 831px) and (max-height: 900px) {
-.airContainer .mainTitle {
-    top: 17.1%;
-    font-size: 22px;
-    line-height: 25px;
-}
-.airContainer .copyText {
-    font-size: 13px;
-    line-height: 17px;
-    top: 17.3%;
-}
-#airVideoOne {
-    top: 25%;
-    left: -32.9%;
-}
-#airOne {
-    top: 19.3%;
-    left: 34.5%;
-}
-#airImageDescriptionZero {
-    position: relative;
-    top: 19%;
-    left: 35.3%;
-    width: 14%;
-}
-#airSubTwo {
-    top: -344.8px;
-}
-#airTwo {
-    position: relative;
-    top: -7%;
-    left: 30%;
-}
-#airSubThree {
-    top: -822.8px;
-}
-#airVideoTwo {
-    top: 37%;
-    left: -32.9%;
-}
-#airImageDescriptionTwo {
-    top: 31%;
-}
-#airSubFour {
-    top: -1260.268px;
-}
-#airSubFive {
-    top: -2065.78px;
-}
-#airVideoThree {
-    position: relative;
-    top: 37%;
-    width: 61.5vw;
-    height: 61.5vh;
-    left: -32.9%;
-    z-index: -5;
-}
-#airImageDescriptionFour {
-    position: relative;
-    top: 31%;
-    left: 35.3%;
-    width: 9%;
-}
-#airSubSix {
-    top: -2524.6px;
-}
-#airFour {
-    position: relative;
-    top: 38%;
-    left: -32.9%;
-    z-index: -5;
-}
-#airFive {
-    position: relative;
-    top: 9%;
-    left: 34.5%;
-}
-#airImageDescriptionFive {
-    position: relative;
-    top: 9%;
-    left: 35.3%;
-    width: 9%;
-}
-#airSubSeven {
-    top: -2525.6px;
-}
-#airSix {
-    top: 37%;
-    left: -0.1%;
-}
-#airTwelve {
-    top: 76%;
-    left: -49.7%;
-}
-#airImageDescriptionSix {
-    top: 70%;
-    left: 35.3%;
-}
-#airSubEight {
-    top: -2110.36px;
-}
-#airVideoFour {
-    top: 35%;
-    left: -32.9%;
-}
-#airImageDescriptionSeven {
-    top: 29%;
-    left: 35.3%;
-}
-#airSubNine {
-    top: -2579.4px;
-}
-#airSeven {
-    position: relative;
-    top: 37%;
-    left: -32.9%;
-    z-index: -5;
-}
-#airImageDescriptionEight {
-    top: 10%;
-    left: 35.3%;
-}
-#airSubTen {
-    top: -2382.08px;
-}
-#airSubEleven {
-    top: -3205px;
-}
-#airSubTwelve {
-    top: -3608.52px;
-    height: 30vh;
-}
+    .airContainer .mainTitle {
+        top: 18.5%;
+        font-size: 22px;
+        line-height: 25px;
+    }
+    .airContainer .copyText {
+        font-size: 13px;
+        line-height: 17px;
+        top: 18.5%;
+    }
+    #airVideoOne {
+        top: 27%;
+        left: -32.9%;
+    }
+    #airOne {
+        top: 21.3%;
+        left: 34.5%;
+    }
+    #airImageDescriptionZero {
+        position: relative;
+        top: 20.3%;
+        left: 35.3%;
+        width: 14%;
+    }
+    #airTwo {
+        position: relative;
+        top: -1%;
+        left: 30%;
+    }
+    
+    #airSubTwo {
+        top: -210px;
+    }
+    #airTwo {
+        position: relative;
+        top: -10%;
+        left: 34.5%;
+    }
+    #airSubThree {
+        top: -570px;
+    }
+    #airVideoTwo {
+        top: 41%;
+        left: -32.9%;
+    }
+    #airImageDescriptionTwo {
+        top: 35%;
+    }
+    #airSubFour {
+        top: -905px;
+    }
+    #airSubFive {
+        top: -1590px;
+    }
+    #airVideoThree {
+        position: relative;
+        top: 42%;
+        width: 61.5vw;
+        height: 61.5vh;
+        left: -32.9%;
+        z-index: -5;
+    }
+    #airImageDescriptionFour {
+        position: relative;
+        top: 36%;
+        left: 35.3%;
+        width: 9%;
+    }
+    #airSubSix {
+        top: -1940px;
+    }
+    #airFour {
+        position: relative;
+        top: 42%;
+        left: -32.9%;
+        z-index: -5;
+    }
+    #airFive {
+        position: relative;
+        top: 17%;
+        left: 34.7%;
+    }
+    #airImageDescriptionFive {
+        position: relative;
+        top: 17%;
+        left: 35.3%;
+        width: 9%;
+    }
+    #airSubSeven {
+        top: -1730px;
+    }
+    #airSix {
+        top: 39%;
+        left: -0.1%;
+    }
+    #airTwelve {
+        top: 82%;
+        left: -49.7%;
+    }
+    #airImageDescriptionSix {
+        top: 76%;
+        left: 35.3%;
+    }
+    #airSubEight {
+       
+        top: -1200px;
+    
+    }
+    #airVideoFour {
+        top: 37%;
+        left: -32.9%;
+    }
+    #airImageDescriptionSeven {
+        top: 31%;
+        left: 35.3%;
+    }
+    #airSubNine {
+        top: -1610px;
+    
+    }
+    #airSeven {
+        position: relative;
+        top: 40%;
+        left: -32.9%;
+        z-index: -5;
+    }
+    #airImageDescriptionEight {
+
+        top: 15%;
+        left: 35.3%;
+    
+    }
+    #airSubTen {
+        top: -1280px;
+    }
+    #airSubEleven {
+        top: -1990px;
+    }
+    #airSubTwelve {
+        top: -2280px;
+        height: 30vh;
+    }
+    #airImageDescriptionThirteen {
+        top: -384%;
+    }
+    #airImageDescriptionTwelve {
+        top: -472%;
+    }
+    #airThirteen {
+        top: -43%;
+    }
+    #airGridTwo {
+        left: -50.2%;
+    }
 	
 }
 
-/*------------ SAXONS BREAKPOINT 14 1600 x 1050 ---------------*/
+/*------------ SAXONS BREAKPOINT 14 1680 x 1050 ---------------*/
 @media (min-width: 1600px) and (max-width: 1699px)  and (min-height: 901px) and (max-height: 1051px) {
 
 #airVideoOne {
@@ -3118,15 +3668,16 @@
     top: 15.5%;
 }
 #airSubTwo {
-    top: -454.8px;
+    top: -400px;
 }
 #airTwo {
     position: relative;
     top: -7%;
-    left: 30%;
+    left: 34.5%;
 }
 #airSubThree {
-    top: -1060.8px;
+    top: -990px;
+
 }
 #airVideoTwo {
     top: 31%;
@@ -3136,10 +3687,10 @@
     top: 25%;
 }
 #airSubFour {
-    top: -1640.268px;
+    top: -1550px;
 }
 #airSubFive {
-    top: -2600.78px;
+    top: -2480px;
 }
 #airVideoThree {
     position: relative;
@@ -3156,7 +3707,7 @@
     width: 9%;
 }
 #airSubSix {
-    top: -3189.6px;
+    top: -3060px;
 }
 #airFour {
     position: relative;
@@ -3176,7 +3727,7 @@
     width: 9%;
 }
 #airSubSeven {
-    top: -3312.6px;
+    top: -3180px;
 }
 #airSix {
     top: 32%;
@@ -3191,7 +3742,7 @@
     left: 35.3%;
 }
 #airSubEight {
-    top: -3066.36px;
+    top: -2920px;
 }
 #airVideoFour {
     top: 32%;
@@ -3202,7 +3753,7 @@
     left: 35.3%;
 }
 #airSubNine {
-    top: -3638.4px;
+    top: -3475px;
 }
 #airSeven {
     position: relative;
@@ -3215,14 +3766,26 @@
     left: 35.3%;
 }
 #airSubTen {
-    top: -3600.08px;
+    top: -3430px;
 }
 #airSubEleven {
-    top: -4569px;
+    top: -4370px;
 }
 #airSubTwelve {
-    top: -5122.52px;
+    top: -4910px;
     height: 30vh;
+}
+#airImageDescriptionTwelve {
+    top: -424%;
+}
+#airImageDescriptionThirteen {
+    top: -338%;
+}
+#airThirteen {
+    top: -24%;
+}
+#airFourteen {
+    top: -53%;
 }
 }
 
@@ -3246,38 +3809,38 @@
 }
 
 #airSubTwo {
-    top: -227.8px;
+    top: -85px;
 }
 #airSubThree {
-    top: -590.8px;
+    top: -400px;
 }
 #airSubFour {
-    top: -1080.268px;
+    top: -850px;
 }
 #airSubFive {
-    top: -1805.78px;
+    top: -1540px;
 }
 
 #airSubSix {
-    top: -2283.6px;
+    top: -1980px;
 }
 #airSubSeven {
-    top: -2026.1px;
+    top: -1680px;
 }
 #airSubEight {
-    top: -1375.36px;
+    top: -1000px;
 }
 #airSubNine {
-    top: -1892.4px;
+    top: -1480px;
 }
 #airSubTen {
-    top: -1492.08px;
+    top: -1050px;
 }
 #airSubEleven {
-    top: -2349px;
+    top: -1860px;
 }
 #airSubTwelve {
-    top: -2552.52px;
+    top: -2040px;
     height: 30vh;
 }
 #airVideoOne {
@@ -3298,7 +3861,7 @@
 #airTwo {
     position: relative;
     top: -12%;
-    left: 30%;
+    left: 34.5%;
 }
 #airImageDescriptionOne {
     position: relative;
@@ -3405,364 +3968,580 @@
     left: 35.3%;
     width: 9%;
 }
-
+#airImageDescriptionTwelve {
+    top: -551%;
+}
+#airImageDescriptionThirteen {
+    top: -465%;
+}
 
 }
 
 /*------------ SAXONS BREAKPOINT 16 1920 x 1007 ---------------*/
 @media (min-width: 1900px) and (max-width: 1999px)  and (min-height: 951px) and (max-height: 1008px) {
-.airContainer .mainTitle {
-    top: 18.4%;
-    font-size: 22px;
-    line-height: 25px;
-}
-.airContainer .copyText {
-    font-size: 13px;
-    line-height: 17px;
-    top: 18.7%;
-}
-#airVideoOne {
-    top: 25.6%;
-    left: -32.9%;
-}
-#airOne {
-    top: 19.3%;
-    left: 34.5%;
-}
-#airImageDescriptionZero {
-    position: relative;
-    top: 19%;
-    left: 35.3%;
-    width: 14%;
-}
-
-#airTwo {
-    position: relative;
-    top: -8%;
-    left: 30%;
-}
-#airImageDescriptionOne {
-    position: relative;
-    top: -8%;
-    left: 35.3%;
-    width: 9%;
-}
-
-#airVideoTwo {
-    position: relative;
-    top: 35%;
-    width: 61.5vw;
-    height: 61.5vh;
-    left: -32.9%;
-}
-#airImageDescriptionTwo {
-    position: relative;
-    top: 28%;
-    left: 35.3%;
-    width: 9%;
-}
-
-#airVideoThree {
-    position: relative;
-    top: 36%;
-    width: 61.5vw;
-    height: 61.5vh;
-    left: -32.9%;
-    z-index: -5;
-}
-#airImageDescriptionFour {
-    position: relative;
-    top: 30%;
-    left: 35.3%;
-    width: 9%;
-}
-
-#airFour {
-    position: relative;
-    top: 35%;
-    left: -32.9%;
-    z-index: -5;
-}
-#airFive {
-    position: relative;
-    top: 13%;
-    left: 34.7%;
-}
-#airImageDescriptionFive {
-    position: relative;
-    top: 13%;
-    left: 35.3%;
-    width: 9%;
-}
-
-#airSix {
-    position: relative;
-    top: 34%;
-    left: -0.5%;
-    width: 45.7vw;
-    height: auto;
-    z-index: -5;
-}
-#airTwelve {
-    position: relative;
-    top: 76%;
-    left: -49.7%;
-    width: 45.7vw;
-    height: auto;
-    z-index: -5;
-}
-#airImageDescriptionSix {
-    position: relative;
-    top: 69%;
-    left: 35.3%;
-    width: 9%;
-}
-
-#airVideoFour {
-    position: relative;
-    top: 33%;
-    width: 61.5vw;
-    height: 61.5vh;
-    left: -32.9%;
-    z-index: 5;
-}
-#airImageDescriptionSeven {
-    position: relative;
-    top: 26%;
-    left: 35.3%;
-    width: 9%;
-}
-
-#airSeven {
-    position: relative;
-    top: 34%;
-    left: -32.9%;
-    z-index: -5;
-}
-#airImageDescriptionEight {
-    position: relative;
-    top: 5%;
-    left: 35.3%;
-    width: 9%;
-}
-
-	#airSubTwo {
-    top: -377.8px;
-}
-#airSubThree {
-    top: -878.7px;
-}
-#airSubFour {
-    top: -1419.268px;
-}
-#airSubFive {
-    top: -2289.78px;
-}
-#airSubSix {
-    top: -2816.6px;
-}
-#airSubSeven {
-    top: -2629.1px;
-}
-#airSubEight {
-    top: -2105.36px;
-}
-#airSubNine {
-    top: -2674.4px;
-}
-#airSubTen {
-    top: -2402.08px;
-}
-#airSubEleven {
-    top: -3403px;
-}
-#airSubTwelve {
-    top: -3706.52px;
-    height: 30vh;
-}
+    .airContainer .mainTitle {
+        top: 16%;
+        font-size: 22px;
+        line-height: 25px;
+    }
+    .airContainer .copyText {
+        font-size: 13px;
+        line-height: 17px;
+        top: 16%;
+    }
+    
+    #airSubOne{
+        top: 6.2%;
+    }
+    
+    #airSubTwo {
+        top: -85px;
+    }
+    #airSubThree {
+        top: -400px;
+    }
+    #airSubFour {
+        top: -850px;
+    }
+    #airSubFive {
+        top: -1540px;
+    }
+    
+    #airSubSix {
+        top: -1980px;
+    }
+    #airSubSeven {
+        top: -1680px;
+    }
+    #airSubEight {
+        top: -1000px;
+    }
+    #airSubNine {
+        top: -1480px;
+    }
+    #airSubTen {
+        top: -1050px;
+    }
+    #airSubEleven {
+        top: -1860px;
+    }
+    #airSubTwelve {
+        top: -2040px;
+        height: 30vh;
+    }
+    #airVideoOne {
+        top: 25%;
+        left: -32.9%;
+    }
+    #airOne {
+        top: 19.3%;
+        left: 34.5%;
+    }
+    #airImageDescriptionZero {
+        position: relative;
+        top: 19%;
+        left: 35.3%;
+        width: 14%;
+    }
+    
+    #airTwo {
+        position: relative;
+        top: -12%;
+        left: 34.5%;
+    }
+    #airImageDescriptionOne {
+        position: relative;
+        top: -11%;
+        left: 35.3%;
+        width: 9%;
+    }
+    
+    #airVideoTwo {
+        position: relative;
+        top: 33%;
+        width: 61.5vw;
+        height: 61.5vh;
+        left: -32.9%;
+    }
+    #airImageDescriptionTwo {
+        position: relative;
+        top: 26%;
+        left: 35.3%;
+        width: 9%;
+    }
+    
+    
+    #airVideoThree {
+        position: relative;
+        top: 34%;
+        width: 61.5vw;
+        height: 61.5vh;
+        left: -32.9%;
+        z-index: -5;
+    }
+    #airImageDescriptionFour {
+        position: relative;
+        top: 28%;
+        left: 35.3%;
+        width: 9%;
+    }
+    
+    #airFour {
+        position: relative;
+        top: 34%;
+        left: -32.9%;
+        z-index: -5;
+    }
+    #airFive {
+        position: relative;
+        top: 9%;
+        left: 34.7%;
+    }
+    #airImageDescriptionFive {
+        position: relative;
+        top: 8%;
+        left: 35.3%;
+        width: 9%;
+    }
+    
+    #airSix {
+        position: relative;
+        top: 33%;
+        left: -0.5%;
+        width: 45.7vw;
+        height: auto;
+        z-index: -5;
+    }
+    #airTwelve {
+        position: relative;
+        top: 79%;
+        left: -49.7%;
+        width: 45.7vw;
+        height: auto;
+        z-index: -5;
+    }
+    #airImageDescriptionSix {
+        position: relative;
+        top: 72%;
+        left: 35.3%;
+        width: 9%;
+    }
+    
+    #airVideoFour {
+        position: relative;
+        top: 31%;
+        width: 61.5vw;
+        height: 61.5vh;
+        left: -32.9%;
+        z-index: 5;
+    }
+    #airImageDescriptionSeven {
+        position: relative;
+        top: 24%;
+        left: 35.3%;
+        width: 9%;
+    }
+    
+    #airSeven {
+        position: relative;
+        top: 33%;
+        left: -32.9%;
+        z-index: -5;
+    }
+    #airImageDescriptionEight {
+        position: relative;
+        top: 3%;
+        left: 35.3%;
+        width: 9%;
+    }
+    #airImageDescriptionTwelve {
+        top: -509%;
+    }
+    #airImageDescriptionThirteen {
+        top: -430%;
+    }
 }
 
 /*------------ SAXONS BREAKPOINT 17 1920 x 1200 ---------------*/
 @media (min-width: 1900px) and (max-width: 1999px)  and (min-height: 1101px) and (max-height: 1210px) {
 
-.airContainer .copyText {
-    font-size: 13px;
-    line-height: 17px;
-    top: 15.7%;
-}.airContainer .mainTitle {
-    top: 15.2%;
-    font-size: 22px;
-}
-#airVideoOne {
-    position: relative;
-    top: 23%;
-    width: 61.5vw;
-    height: 61.5vh;
-    left: -32.9%;
-    z-index: -2;
-}
-#airOne {
-    position: relative;
-    top: 16.6%;
-    left: 34.7%;
-    z-index: -2;
-}
-#airImageDescriptionZero {
-    position: relative;
-    top: 16%;
-    left: 35.3%;
-    width: 14%;
+    .airContainer {
+        max-width: 100vw;
+        flex: 100%;
+        display: block;
+        z-index: 10;
+        height: 100%;
+    }
+    #airSubTwo {
+        top: -20vh;
+    }
+    #airSubThree {
+        top: -65vh;
+    }
+    #airSubFour {
+        top: -93vh;
+    }
+    #airSubFive {
+        top: -170vh;
+    }
+    #airSubSix {
+        top: -195vh;
+    }
+    #airSubSeven {
+        top: -162vh;
+    }
+    #airSubEight {
+        top: -96vh;
+    }
+    #airSubNine {
+        top: -125vh;
+    }
+    #airSubTen {
+        top: -77vh;
+    }
+    #airSubEleven {
+        top: -160vh;
+    
+    }
+    #airSubTwelve {
+        top: -185vh;
+        height: 30vh;
+    }
+    #airVideoOne {
+        position: relative;
+        top: 28%;
+        width: 61.5vw;
+        height: 61.5vh;
+        left: -32.9%;
+        z-index: -2;
+    }
+    #airVideoTwo {
+        position: relative;
+        top: 45%;
+        width: 61.5vw;
+        height: 61.5vh;
+        left: -32.9%;
+    }
+    #airVideoThree {
+        position: relative;
+        top: 48%;
+        width: 61.5vw;
+        height: 61.5vh;
+        left: -32.9%;
+        z-index: -5;
+    }
+    #airVideoFour {
+        position: relative;
+        top: 43%;
+        width: 61.5vw;
+        height: 61.5vh;
+        left: -32.9%;
+        z-index: 5;
+    }
+    #airOne {
+        position: relative;
+        top: 22%;
+        left: 34.7%;
+        z-index: -2;
+    }
+    #airTwo {
+        position: relative;
+        top: -10%;
+        left: 34.7%;
+    }
+    #airThree {
+        position: relative;
+        top: 27%;
+        left: 1.2%;
+    }
+    #airFour {
+        position: relative;
+        top: 48%;
+        left: -32.9%;
+        z-index: -5;
+    }
+    #airFive {
+        position: relative;
+        top: 25%;
+        left: 34.7%;
+    }
+    #airSix {
+        position: relative;
+        top: 46%;
+        left: -0.5%;
+        width: 45.7vw;
+        height: auto;
+        z-index: -5;
+    }
+    #airSeven {
+        position: relative;
+        top: 46%;
+        left: -32.9%;
+        z-index: -5;
+    }
+    #airEight {
+        position: relative;
+        top: -35%;
+        left: 34.7%;
+    }
+    #airNine {
+        position: relative;
+        top: 23%;
+        left: 1%;
+    }
+    #airTen {
+        position: relative;
+        top: 30%;
+        left: 1.2%;
+    }
+    #airEleven {
+        position: relative;
+        top: 23%;
+        left: 34.7%;
+    }
+    #airTwelve {
+        position: relative;
+        top: 85%;
+        left: -49.7%;
+        width: 45.7vw;
+        height: auto;
+        z-index: -5;
+    }
+    #airThirteen
+    {
+        position: relative;
+        top: -46%;
+        left: 1%;
+        height: auto;
+    }
+    #airFourteen
+    {
+        position: relative;
+        top: -80%;
+        left: 1%;
+        height: auto;
+    }
+    .verticalGridContainerAir {
+        width: 50%;
+        height: 53%;
+        display: inline-grid;
+        position: relative;
+    }
+    #airGridOne {
+        position: relative;
+        top: 27%;
+        left: -50%;
+    }
+    #airGridTwo
+    {
+        position: relative;
+        top: 30%;
+        left: -50%;
+    }
+    #airImageDescriptionZero {
+        position: relative;
+        top: 23%;
+        left: 35.3%;
+        width: 14%;
+    }
+    #airImageDescriptionOne {
+        position: relative;
+        top: -1%;
+        left: 35.3%;
+        width: 9%;
+    }
+    #airImageDescriptionTwo {
+        position: relative;
+        top: 39%;
+        left: 35.3%;
+        width: 9%;
+    }
+    #airImageDescriptionThree {
+        position: relative;
+        top: 25%;
+        left: 35.3%;
+        width: 9%;
+    }
+    #airImageDescriptionFour {
+        position: relative;
+        top: 42%;
+        left: 35.3%;
+        width: 9%;
+    }
+    #airImageDescriptionFive {
+        position: relative;
+        top: 25%;
+        left: 35.3%;
+        width: 9%;
+    }
+    #airImageDescriptionSix {
+        position: relative;
+        top: 80%;
+        left: 35.3%;
+        width: 9%;
+    }
+    #airImageDescriptionSeven {
+        position: relative;
+        top: 38%;
+        left: 35.3%;
+        width: 9%;
+    }
+    #airImageDescriptionEight {
+        position: relative;
+        top: 23%;
+        left: 35.3%;
+        width: 9%;
+    }
+    #airImageDescriptionNine {
+        position: relative;
+        top: 18.5%;
+        left: 35.3%;
+        width: 9%;
+    }
+    #airImageDescriptionTen {
+        position: relative;
+        top: 24%;
+        left: 35.3%;
+        width: 9%;
+    }
+    #airImageDescriptionEleven {
+        position: relative;
+        top: 15%;
+        left: 35.3%;
+        width: 30%;
+    }
+    #airImageDescriptionTwelve {
+        position: relative;
+        top: -425%;
+        left: 35.3%;
+        width: 30%;
+    }
+    #airImageDescriptionThirteen {
+        position: relative;
+        top: -356%;
+        left: 35.3%;
+        width: 30%;
+    }
+    #airImageDescriptionFourteen {
+        position: relative;
+        top: -18%;
+        left: 35.3%;
+        width: 30%
+    }
+    #airImageDescriptionFifteen {
+        position: relative;
+        top: -31%;
+        left: 35.3%;
+        width: 30%;
+    }
+    #airImageDescriptionSixteen {
+        position: relative;
+        top: -75%;
+        left: 35.3%;
+        width: 30%;
+    }
+    #airImageDescriptionSeventeen {
+        position: relative;
+        top: -33%;
+        left: 35.3%;
+        width: 30%;
+    }
+    .endlineAir {
+        width: 64.5vw;
+        height: 1vh;
+        position: relative;
+        top: 0%;
+        left: 0vw;
+        border-bottom: 1px solid black;
+    }
+    
+    .endlineAirTwo {
+        width: 64.5vw;
+        height: 1vh;
+        position: relative;
+        top: -55%;
+        left: 0vw;
+        border-bottom: 2px dotted black;
+    }
+    #gridImageMiddleAir {
+        width: 23.5vw;
+        margin-left: 30px;
+        margin-right: 5px;
+        margin-top: 3vh;
+        height: auto;
+        pointer-events: none;
+    }
+    #gridImageMiddleAirLarger {
+        width: 30vw;
+        margin-left: 30px;
+        margin-right: 5px;
+        margin-top: 3vh;
+        height: auto;
+        pointer-events: none;
+    }
 }
 
-#airTwo {
-    position: relative;
-    top: -7%;
-    left: 30%;
-}
-#airGridOne {
-    position: relative;
-    top: 22%;
-    left: -50%;
-}
-#airImageDescriptionOne {
-    position: relative;
-    top: -7%;
-    left: 35.3%;
-    width: 9%;
-}
+    /* ----------------------20000s-------------------------*/
+/*2048 x 1080*/
+@media (min-width: 2000px) and (min-height: 1000px) and (max-height: 1999px) 
+{
 
-#airVideoTwo {
-    position: relative;
-    top: 29%;
-    width: 61.5vw;
-    height: 61.5vh;
-    left: -32.9%;
-}
-#airImageDescriptionTwo {
-    position: relative;
-    top: 22%;
-    left: 35.3%;
-    width: 9%;
-}
+    #airSubTwo {
+        top: -180px;
+    }
 
+    #airSubThree {
+   
+        top: -590px;
 
-#airVideoThree {
-    position: relative;
-    top: 30%;
-    width: 61.5vw;
-    height: 61.5vh;
-    left: -32.9%;
-    z-index: -5;
-}
-#airImageDescriptionFour {
-    position: relative;
-    top: 23%;
-    left: 35.3%;
-    width: 9%;
-}
+    }
 
-#airFour {
-    position: relative;
-    top: 30%;
-    left: -32.9%;
-    z-index: -5;
-}
-#airFive {
-    position: relative;
-    top: 14%;
-    left: 34.7%;
-}
-#airImageDescriptionFive {
-    position: relative;
-    top: 14%;
-    left: 35.3%;
-    width: 9%;
-}
+    #airSubFour {
+        top: -940px;
+    }
 
-#airSix {
-    position: relative;
-    top: 28%;
-    left: -0.5%;
-    width: 45.7vw;
-    height: auto;
-    z-index: -5;
-}
-#airTwelve {
-    position: relative;
-    top: 63%;
-    left: -49.7%;
-    width: 45.7vw;
-    height: auto;
-    z-index: -5;
-}
-#airImageDescriptionSix {
-    position: relative;
-    top: 56%;
-    left: 35.3%;
-    width: 9%;
-}
+    #airSubFive {
+        top: -1810px;
+    }
 
-#airVideoFour {
-    position: relative;
-    top: 27%;
-    width: 61.5vw;
-    height: 61.5vh;
-    left: -32.9%;
-    z-index: 5;
-}
-#airImageDescriptionSeven {
-    position: relative;
-    top: 20%;
-    left: 35.3%;
-    width: 9%;
-}
+    #airSubSix {
+        top: -2130px;
+    }
 
-#airSeven {
-    position: relative;
-    top: 29%;
-    left: -32.9%;
-    z-index: -5;
-}
-#airImageDescriptionEight {
-    position: relative;
-    top: 4%;
-    left: 35.3%;
-    width: 9%;
-}
+    #airSubSeven {
+        top: -1700px;
+    }
 
-	#airSubTwo {
-    top: -507.8px;
-}
-#airSubThree {
-    top: -1286.7px;
-}
-#airSubFour {
-    top: -1991.268px;
-}
-#airSubFive {
-    top: -3068.78px;
-}
-#airSubSix {
-    top: -3767.6px;
-}
-#airSubSeven {
-    top: -3786.1px;
-}
-#airSubEight {
-    top: -3551.36px;
-}
-#airSubNine {
-    top: -4293.4px;
-}
-#airSubTen {
-    top: -4273.08px;
-}
-#airSubEleven {
-    top: -5487px;
-}
+    #airSubEight {
+        top: -850px;
+    }
 
-#airSubTwelve {
-    top: -5997.52px;
-    height: 30vh;
-}
+    #airSubNine {
+        top: -1170px;
+    }
+
+    #airSubTen {
+        top: -600px;
+    }
+
+    #airTwelve {
+        top: 88%;
+    }
+
+    #airSubEleven {
+        top: -1550px;
+    }
+
+    #airSubTwelve {
+        top: -1830px;
+        height: 30vh;
+    }
+
+    #airImageDescriptionEleven {
+        top: 20%;
+    }
+
+    #airImageDescriptionSix {
+        top: 83%;
+    }
 }

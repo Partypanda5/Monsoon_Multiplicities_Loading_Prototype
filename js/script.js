@@ -20,7 +20,6 @@ var contentText = document.querySelector('.contentText');
 var cityTitle = document.querySelector('.cityTitle');
 var leftHandHeadings = document.querySelector('.headings');
 
-//var imageInCorner = document.querySelector('#imageInCorner');
 var airSubchapter = document.querySelector('#airFocus');
 var atmosphereSubchapter = document.querySelector('#atmosphereFocus');
 var groundwaterSubchapter = document.querySelector('#groundwaterFocus');
@@ -245,6 +244,14 @@ Array.from(groupedFocusedSubtitles).forEach(subtitle => {
     leftHandSideMM = true;
     checkLeftHandSideMM();  
   });
+});
+
+
+leftHandHeadings.addEventListener('click', function() 
+{
+  leftHandSideMM = false;
+  location.reload();
+
 });
 
 monsoonalMultiplicitiesTitle.addEventListener('click', function() 

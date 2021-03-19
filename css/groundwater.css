@@ -298,7 +298,7 @@
 
 /*------------ saxon's breakpoint 1 - 1024 x 600 ---------------*/
 @media (max-width: 1025px) and (min-height: 599px) 
-	and (max-height: 680px){
+	and (max-height: 647px){
 		
 
 #groundwaterSubOne .mainTitle {
@@ -424,6 +424,136 @@
     height: 40vh;
 }
 
+}
+
+/*------------ Tablet Responisve 1024 x 650 ---------------*/
+@media (max-width: 1025px) and (min-height: 648px) 
+and (max-height: 680px)
+{
+    #groundwaterSubOne .mainTitle {
+        top: 15.7%;
+        font-size: 20px;
+        line-height: 25px;
+    }
+            
+    #groundwaterOne {
+        position: relative;
+        top: 23%;
+        left: -32%;
+        width: 62vw;
+        z-index: -5;
+    }
+    .copyTextGroundWaterOne {
+        position: relative;
+        top: 8.7%;
+        width: 22%;
+    }
+    #groundwaterSubTwo {
+        top: -52vh;
+    }
+    #groundwaterSubThree {
+        top: -86vh;
+    }
+    #groundwaterGridOne {
+        position: relative;
+        top: -27.5%;
+        left: -50.9%;
+    }
+    #groundwaterGridThree {
+        position: relative;
+        top: -48%;
+        left: -44.9%;
+    }
+    #groundwaterGridTwo {
+        position: relative;
+        top: 3%;
+        left: -17.8%;
+    }
+    #groundwaterImageDescriptionThree {
+        position: relative;
+        top: -47%;
+        left: 8.3%;
+        width: 14%;
+    }
+    #groundwaterImageDescriptionTwo {
+        position: relative;
+        top: 4%;
+        left: 35.5%;
+        width: 14%;
+    }
+    #groundwaterSubFour {
+        top: -42vh;
+    }
+    #groundwaterGridFour {
+        position: relative;
+        top: 23%;
+        left: -44.8%;
+    }
+    #groundwaterGridFive {
+        position: relative;
+        top: -32%;
+        left: -17.8%;
+    }
+    .copyTextGroundWaterThree {
+        position: relative;
+        top: -31%;
+        left: 35.4%;
+        width: 22%;
+    }
+    #groundwaterImageDescriptionFour {
+        position: relative;
+        top: 24%;
+        left: 8.3%;
+        width: 14%;
+    }
+    #groundwaterSubFive {
+        top: -58vh;
+    }
+    #groundwaterThree {
+        position: relative;
+        top: 6%;
+        left: -33%;
+    }
+    #groundwaterGridSix {
+        position: relative;
+        top: 27%;
+        left: -44.7%;
+        z-index: 6;
+    }
+    #groundwaterFour {
+        position: relative;
+        top: -7%;
+        left: 34.3%;
+    }
+    #groundwaterImageDescriptionFive {
+        position: relative;
+        top: -20%;
+        left: 8.3%;
+        width: 14%;
+    }
+    #groundwaterSubSix {
+        top: -90vh;
+    }
+    #groundwaterSubSeven {
+        
+    top: -157vh;
+
+    }
+    #groundwaterGridSeven {
+        position: relative;
+        top: -40%;
+        left: -44.8%;
+    }
+    #groundwaterSix {
+        position: relative;
+        top: 35%;
+        left: -32.7%;
+        z-index: -5;
+    }
+    #groundwaterSubEight {
+        top: -147vh;
+        height: 40vh;
+    }
 }
 
 /*------------ saxon's breakpoint 2 - 1024 x 768 ---------------*/
@@ -4049,4 +4179,45 @@ and (min-height: 786px) and (max-height: 830px)
 }
 	
 	
+}
+
+
+    /* ----------------------20000s-------------------------*/
+/*2048 x 1080*/
+@media (min-width: 2000px) and (min-height: 1000px) and (max-height: 1999px)
+{
+    #groundwaterSubTwo {
+        top: -50vh;
+    }
+
+    #groundwaterSubThree {
+        top: -72vh;
+    }
+
+    #groundwaterSubFour {
+        top: -10vh;
+    }
+
+    #groundwaterSubFive {
+        top: 0vh;
+    }
+
+    #groundwaterSubSix {
+        top: -22vh;
+    }
+
+    #groundwaterSubSeven {
+        top: -75vh;
+    }
+
+    #groundwaterSubEight {
+        top: -67vh;
+        height: 40vh;
+    }
+
+    #groundwaterThree {
+        position: relative;
+        top: 44%;
+        left: -33%;
+    }
 }

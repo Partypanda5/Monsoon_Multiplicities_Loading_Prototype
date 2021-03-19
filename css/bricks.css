@@ -360,7 +360,7 @@
 }
 /*------------ Tablet Responisve 1024 x 600 ---------------*/
 @media (max-width: 1025px) and (min-height: 599px) 
-and (max-height: 680px)
+and (max-height: 647px)
 {
 
     #brickSubOne .mainTitle
@@ -511,6 +511,186 @@ and (max-height: 680px)
         top: -46%;
         left: -32.9%;
         z-index: -5;
+    }
+    #brickVideOne
+    {
+        top: -1%;
+    }
+    #brickVideTwo
+    {
+        top: -1%;
+    }
+    #brickVideThree
+    {
+        top: -2%;
+    }
+}
+
+/*------------ Tablet Responisve 1024 x 650 ---------------*/
+@media (max-width: 1025px) and (min-height: 648px) 
+and (max-height: 680px)
+{
+    #brickSubOne .mainTitle
+    {
+        top: 16%;
+    }
+
+    .copyBrickOne {
+        top: 16%;
+    left: 41%;
+    }
+    .copyBrickTwo {
+        top: 81%;
+        left: 35.3%;
+    }
+
+    .copyBrickThree {
+        top: -48%;
+        left: 35.8%;
+    }
+    .copyBrickFour {
+        top: -51%;
+    }
+    .copyBrickFive {
+        top: -41%;
+    }
+
+    .copyBrickSeven {
+        top: -41%;
+        left: 35.3%;
+        width: 29%;
+    }
+    .copyBrickEight {
+        top: -47%;
+    }
+
+    .copyBrickNine {
+        top: 15%;
+        left: 35.2%;
+        width: 29%;
+    }
+
+    #brickSubTwo {
+        top: -75px;
+        height: 170vh;
+    }
+
+    #brickSubThree {
+        top: 42px;
+        height: 170vh;
+    }
+
+    #brickSubFour {
+        top: 530px;
+    }
+    #brickSubFive {
+        top: 730px;
+    }
+    #brickSubSix {
+        top: 1320px;
+    }
+
+    #brickSubSeven {
+        top: 1900px;
+    }
+
+    #brickSubEight {
+        top: 1830px;
+        height: 59vh;
+    }
+
+    #brickGridOne {
+        top: -3%;
+        left: -44.05%;
+    }
+
+    #brickGridTwo {
+        top: -50%;
+        left: -17.5%;
+    }
+    #brickGridThree {
+        top: -19.1%;
+        left: -44.05%;
+    }
+
+    #brickGridFour {
+
+        top: -49%;
+        left: -20%;
+    
+    }
+    #brickGridFive {
+        top: -8.5%;
+        left: -44.1%;
+    }
+
+    #brickGridSix {
+        top: -6.5%;
+        left: -44.1%;
+    }
+
+    #brickGridSeven {
+        top: -45%;
+        left: -39%;
+    }
+    #brickGridEight {
+        top: -8.5%;
+        left: -44.1%;
+    }
+
+    #brickGridNine {
+        top: -56%;
+        left: -44%;
+    }
+    #brickOne {
+        width: 111vw;
+    }
+
+    #brickTwo {
+        top: -14%;
+        left: 7.6%;
+    }
+    #brickThree {
+        top: -13.1%;
+    }
+
+    #brickFour {
+        top: -44.2%;
+        left: -42.7%;
+    }
+
+    #brickFive {
+        top: -3%;
+        left: 7.5%;
+        width: 25vw;
+    }
+
+    #brickSix {
+        top: -3%;
+        left: 7.5%;
+        width: 25.2vw;
+    }
+
+    #brickEight {
+        top: -3%;
+        left: 7.5%;
+        width: 25.2vw;
+    }
+
+    #brickSeven {
+        top: -39%;
+        left: -39.6%;
+        width: 49vw;
+    }
+    #brickNine {
+        top: -39%;
+        left: -32.9%;
+        z-index: -5;
+    }
+
+    #brickTen {
+        top: 18%;
+        left: -32.9%;
     }
     #brickVideOne
     {
@@ -4726,6 +4906,363 @@ and (min-height: 1101px) and (max-height: 1210px)
 {
     position: relative;
     top: -24.35%;
+    left: -19.35%;
+}
+
+#brickGridFive
+{
+    position: relative;
+    top: -10.5%;
+    left: -43.3%;
+}
+
+#brickGridSix
+{
+    position: relative;
+    top: -11.5%;
+    left: -43.2%;
+}
+
+#brickGridSeven
+{
+    position: relative;
+    top: -40.5%;
+    left: -39.26%;
+}
+
+#brickGridEight
+{
+    position: relative;
+    top: -12.5%;
+    left: -43.2%;
+}
+#brickGridNine
+{
+    position: relative;
+    top: -80%;
+    left: -43.2%;
+}
+
+
+#brickVideOne
+{
+    width: 61.5vw;
+    height: 61.5vh;
+    position: relative;
+    top: -4%;
+    left: -32.9%;
+}
+
+#brickVideTwo
+{
+    width: 61.5vw;
+    height: 61.5vh;
+    position: relative;
+    top: -4%;
+    left: -32.9%;
+}
+
+#brickVideThree
+{
+    width: 61.5vw;
+    height: 61.5vh;
+    position: relative;
+    top: -6%;
+    left: -32.9%;
+}
+
+#gridImageMiddleBrick
+{
+    width: 23.5vw;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
+}
+
+#gridImageMiddleBrickHor
+{
+    width: 23.6vw;
+    margin-left: 1vw;
+    margin-right: 0px;
+    margin-top: 3vh;
+    height: auto;
+    pointer-events: none;
+}
+
+#brickImageDescriptionOne
+{
+    position: relative;
+    top: 8%;
+    left: 35.3%;
+    width: 19%;
+}
+
+#brickImageDescriptionTwo {
+    position: relative;
+    top: 17%;
+    left: 35.2%;
+    width: 21%;
+    padding-bottom: 5vh;
+}
+
+.endLineBrick
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 5%;
+    left: 0vw;
+    border-bottom: 1px solid black;
+}
+
+.endLineBrickTwo
+{
+    width: 64.5vw;
+    height: 1vh;
+    position: relative;
+    top: 10%;
+    left: 0vw;
+    border-bottom: 2px dotted black;
+}
+}
+
+    /* ----------------------20000s-------------------------*/
+/*2048 x 1080*/
+@media (min-width: 2000px) and (min-height: 1000px) and (max-height: 1999px)
+{
+    #brickSubTwo
+{
+    top: 56px;
+    height: 170vh;
+}
+
+#brickSubThree
+{
+    top: 550px;
+    height: 170vh;
+}
+
+#brickSubFour
+{
+    top: 1920px;
+}
+
+#brickSubFive
+{
+    top: 2570px;
+}
+
+#brickSubSix
+{
+    top: 3990px;
+}
+
+#brickSubSeven
+{
+    top: 5030px;
+}
+
+#brickSubEight
+{
+    top: 5000px;
+    height: 59vh;
+}
+
+#brickOne
+{
+    position: relative;
+    z-index: -5;
+    top: 0%;
+    left: -4%;
+    width: 102vw;
+    height: auto;
+}
+
+#brickTwo
+{
+    position: relative;
+    top: -17%;
+    left: 7.7%;
+    width: 24.8vw;
+}
+
+#brickThree
+{
+    position: relative;
+    top: -16.1%;
+    left: -32.9%;
+}
+
+#brickFour
+{
+    position: relative;
+    top: -41.2%;
+    left: 8.1%;
+}
+
+#brickFive
+{
+    position: relative;
+    top: -8%;
+    left: 7.8%;
+    width: 24.7vw;
+}
+
+#brickSix
+{
+    position: relative;
+    top: -8%;
+    left: 7.8%;
+    width: 24.6vw;
+}
+
+#brickSeven {
+    position: relative;
+    top: -33.5%;
+    left: -39.5%;
+    width: 49vw;
+}
+
+#brickEight {
+    position: relative;
+    top: -8%;
+    left: 7.9%;
+    width: 24.6vw;
+}
+
+#brickNine
+{
+    position: relative;
+    top: -45%;
+    left: -32.9%;
+    z-index: -5;
+}
+
+#brickTen
+{
+    position: relative;
+    top: 15%;
+    left: -32.9%;
+    z-index: -5;
+}
+
+.mainTitleBrickOne
+{
+    position: relative;
+    top: 16.3%;
+    left: 35.2%;
+}
+
+.mainTitleBrickTwo
+{
+    position: relative;
+    top: 0%;
+    left: 35.2%;
+}
+
+.mainTitleBrickThree
+{
+    position: relative;
+    top: 13.5%;
+    left: 35.2%;
+}
+
+
+.copyBrickOne
+{
+    width: 22%;
+}
+
+.copyBrickTwo {
+
+    top: 95%;
+    left: 35.3%;
+
+}
+.copyBrickThree
+{
+    position: relative;
+    top: -51%;
+    left: 35.2%;
+    width: 25%;
+}
+
+.copyBrickFour {
+    position: relative;
+    top: -55%;
+    left: 35.2%;
+    width: 24%;
+}
+
+.copyBrickFive
+{
+    position: relative;
+    top: -6%;
+    left: 35.2%;
+    width: 24%;
+}
+
+.copyBrickSix
+{
+    position: relative;
+    top: -6%;
+    left: 32.5%;
+    width: 24%;
+}
+
+.copyBrickSeven
+{
+    position: relative;
+    top: -50%;
+    left: 35.3%;
+    width: 24%;
+}
+
+.copyBrickEight
+{
+    position: relative;
+    top: -66%;
+    left: 35.2%;
+    width: 24%;
+}
+
+
+.copyBrickNine
+{
+    position: relative;
+    top: 10%;
+    left: 35.2%;
+    width: 24%;
+}
+
+
+#brickGridOne
+{
+    position: relative;
+    top: -1.7%;
+    left: -43.3%;
+}
+
+#brickGridTwo
+{
+    position: relative;
+    top: -52.1%;
+    left: -16.3%;
+}
+
+#brickGridThree
+{
+    position: relative;
+    top: -22.1%;
+    left: -43.3%;
+}
+
+#brickGridFour
+{
+    position: relative;
+    top: -21%;
     left: -19.35%;
 }
 

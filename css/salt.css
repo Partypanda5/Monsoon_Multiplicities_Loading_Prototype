@@ -250,7 +250,7 @@
 
 /*----------------- Responisve Code Start ---------------------*/
 
-@media (max-width: 1025px) and (min-height: 599px) and (max-height: 680px)
+@media (max-width: 1025px) and (min-height: 599px) and (max-height: 647px)
 {
     #saltTwo {
         top: -48%;
@@ -351,6 +351,114 @@
     }
     
 }
+
+/*------------ Tablet Responisve 1024 x 650 ---------------*/
+@media (max-width: 1025px) and (min-height: 648px) 
+and (max-height: 680px)
+{
+    #saltTwo {
+        top: -48%;
+    left: 7.5%;
+    }
+    
+    .saltCopyOne {
+
+        top: -63.5%;
+        left: 35.2%;
+    
+    }
+    
+    
+    #saltImageDescriptionOne {
+        top: -50%;
+    }
+    
+    #saltVideoOne {
+        height: 56.5vh;
+        top: -48%;
+    }
+    #saltSubTwo {
+        top: 120px;
+    }
+    
+    #saltThree {
+        top: 46%;
+    }
+    
+    #saltFour {
+        top: 43%;
+    }
+    #saltImageDescriptionTwo {
+         top: 37.5%;
+    }
+    
+    #saltSubThree {
+        top: 510px;
+    }
+    #saltFive {
+        top: 45.5%;
+    }
+    
+    #saltSix {
+        top: 40%;
+    }
+    
+    #saltImageDescriptionThree {
+        top: 22%;
+    }
+    #saltSubFour {
+        top: 560px;
+    }
+    .saltQuote {
+        top: 32%;
+    }
+    #saltSeven {
+        top: 14%;
+    }
+    
+    #saltImageDescriptionFour {
+        top: 34.5%;
+    }
+    
+    #saltEight {
+        top: 15.5%;
+        left: 0.9%;
+    }
+    
+    #saltNine {
+        top: -17.7%;
+        left: 34.4%;
+    }
+    #saltSubFive {
+        top: 630px;
+    }
+    
+    #saltTen {
+        top: 32%;
+    }
+    #saltImageDescriptionFive {
+        top: 21.3%;
+    }
+    #saltSubSix {
+        top: 165px;
+    }
+    #saltEleven {
+        top: 41%;
+    }
+    .saltQuoteTwo {
+        top: 31%;
+    }
+    #saltImageDescriptionSix {
+        top: 36.5%;
+    }
+    
+    #saltSubSeven {
+       
+    top: 50px;
+
+    }
+}
+
 @media (max-width: 1025px) and (min-height: 681px) and (max-height: 780px)
 {
     #saltOne {
@@ -3240,4 +3348,44 @@ and (min-height: 1101px) and (max-height: 1210px)
     left: 0%;
     border-bottom: 2px dotted black
 }
+}
+
+    /* ----------------------20000s-------------------------*/
+/*2048 x 1080*/
+@media (min-width: 2000px) and (min-height: 1000px) and (max-height: 1999px) 
+{
+    .saltCopyOne {
+        top: -78%;
+    }
+
+    #saltSubTwo {
+        top: 25vh;
+    }
+
+    #saltSubThree {
+        top: 85vh;
+    }
+
+    #saltSubFour {
+        top: 100vh;
+    }
+
+    #saltSubFive {
+        top: 125vh;
+    }
+
+    #saltSubSix {
+        top: 55vh;
+    }
+
+    #saltSubSeven {
+        top: 27vh;
+        height: 20vh;
+    }
+    
+    #saltImageDescriptionOne {
+
+        top: -790px;
+    }
+    
 }

@@ -855,7 +855,8 @@ position: relative;
 }
 
 /*------------ Tablet Responisve 1024 x 600 ---------------*/
-@media (max-width: 1025px) and (min-height: 599px) and (max-height: 680px) {
+@media (max-width: 1025px) and (min-height: 599px) and (max-height: 647px) 
+{
 
     /* Sub One */
     #drawingOne {
@@ -1089,6 +1090,248 @@ position: relative;
     #drawingImageDescriptionTwentyNine {
         top: -151.5%;
     }
+}
+
+/*------------ Tablet Responisve 1024 x 650 ---------------*/
+@media (max-width: 1025px) and (min-height: 648px) 
+and (max-height: 680px)
+{
+/* Sub One */
+#drawingOne {
+    margin-top: -4.1%;
+}
+
+/* Sub Two */
+#drawingSubTwo {
+    top: 6.9%;
+}
+
+#drawingImageDescriptionTwo {
+    top: 11%;
+}
+
+.drawingCopyThree {
+    top: -10.8%;
+}
+
+#drawingFour {
+    top: -12.6%;
+}
+
+#drawingImageDescriptionThree {
+    width: 14%;
+    top: -40.4%;
+}
+
+/* Sub Three */
+#drawingSubThree {
+    top: 14.3%;
+}
+
+.drawingCopyFive {
+    top: -4.1%;
+}
+
+#drawingImageDescriptionFive,
+#drawingImageDescriptionSix,
+#drawingImageDescriptionSeven {
+    width: 18%;
+}
+
+/* Sub Four */
+#drawingSubFour {
+    top: 41.2%;
+}
+
+.drawingCopySeven {
+    top: -3.8%;
+}
+
+#drawingImageDescriptionTen,
+#drawingImageDescriptionEleven {
+    width: 22%;
+}
+
+#drawingImageDescriptionEleven {
+    top: -63%;
+}
+
+#drawingGridTwo {
+    top: -27%;
+    left: -17.8%;
+}
+
+#drawingGridThree {
+    top: -46.5%;
+    left: -44.8%;
+}
+
+#drawingFourteen {
+    top: -61%;
+}
+
+#drawingFifteen {
+    top: -63%;
+}
+
+#drawingImageDescriptionTwelve {
+    top: -61%;
+}
+
+#mapOne {
+    top: -56%;
+}
+
+#mapTwo {
+    top: -87.6%;
+}
+
+#drawingImageDescriptionThirteen {
+    top: -87%;
+    width: 18%;
+}
+
+/* Sub Five */
+#drawingSubFive {
+    top: 81%;
+}
+
+#drawingImageDescriptionFourteen {
+    top: 9.7%;
+    width: 15%;
+}
+
+.drawingCopyEight {
+    top: -14.1%;
+}
+
+#drawingSeventeen {
+    top: -13%;
+    width: 40%;
+}
+
+/* Sub Six */
+#drawingSubSix {
+    top: 95.3%;
+}
+
+#drawingImageDescriptionSixteen {
+    width: 14%;
+}
+
+.drawingCopyNine {
+    top: -2.5%;
+}
+
+#drawingTwentyOne {
+    width: 51.6%;
+    left: -39.9%;
+}
+
+#drawingGridFour {
+    top: 6.1%;
+    left: -44.7%;
+}
+
+#drawingGridFive {
+    top: -36%;
+    left: -17.8%;
+}
+
+#drawingImageDescriptionSeventeen {
+    top: -48.3%;
+    width: 18%;
+}
+
+#drawingTwentyTwo {
+    top: -54.9%;
+}
+
+#drawingImageDescriptionEighteen {
+    top: -66%;
+}
+
+/* Sub Seven */
+#drawingSubSeven {
+    top: 107.9%;
+}
+
+#drawingImageDescriptionNineteen {
+    width: 14%;
+    top: 12%;
+}
+
+.drawingCopyTen {
+    top: -2.6%;
+}
+
+#DrawingVideoTwo {
+    top: -21%;
+    left: -3%;
+    width: 104%;
+}
+
+#DrawingVideoThree {
+    top: -57%;
+    left: -9%;
+    width: 115%;
+    height: 100%;
+}
+
+#drawingImageDescriptionTwenty {
+    top: -80.2%;
+    width: 24%;
+}
+
+/* Sub Eight */
+#drawingSubEight {
+    top: 122.7%;    
+}
+
+#drawingImageDescriptionTwentyOne {
+    top: 11%;
+}
+
+.drawingCopyEleven {
+    top: 3.1%;
+}
+
+#drawingImageDescriptionTwentyTwo {
+    top: -9%;
+    width: 22%;
+}
+
+/* Sub Nine */
+#drawingSubNine {
+ 
+    top: 135%;
+
+}
+
+#drawingVideoFour, #drawingVideoFive {
+    height: 39.3%;
+}
+
+#drawingGridSix,
+#drawingGridSeven {
+    left: -31.4%;
+}
+
+/* Sub Ten */
+#drawingSubTen {
+    top: 142%;
+}
+
+#drawingGridEight,
+#drawingGridNine {
+    left: -31.5%;
+} 
+
+#drawingImageDescriptionTwentyNine {
+   
+    top: -139.5%;
+
+}
 }
 
 /*------------ Tablet Responisve 1024 x 768 ---------------*/
@@ -6589,5 +6832,54 @@ position: relative;
 
     #drawingImageDescriptionTwentyNine {
         top: -89.2%;
+    }
+}
+
+    /* ----------------------20000s-------------------------*/
+/*2048 x 1080*/
+@media (min-width: 2000px) and (min-height: 1000px) and (max-height: 1999px) 
+{
+    #drawingSubTwo {
+        top: 1530px;
+    }
+
+    #drawingSubThree {
+        top: 2930px;
+    }
+
+    #drawingSubFour {
+        top: 7810px;
+    }
+
+    #drawingSubFive {
+        top: 15300px;
+    }
+
+    #drawingSubSix {
+        top: 17800px;
+    }
+
+    #drawingSubSeven {
+        top: 20000px;
+    }
+
+    #drawingSubEight {
+        top: 23300px;
+    }
+
+    #drawingSubNine {
+        top: 25760px;
+    }
+
+    #drawingSubTen {
+        top: 27100px;
+    }
+
+    #drawingImageDescriptionTwentyNine {
+        top: -87.7%;
+    }
+
+    #mapTwo {
+        top: -97.5%;
     }
 }

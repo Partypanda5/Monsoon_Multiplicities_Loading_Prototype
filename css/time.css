@@ -455,7 +455,7 @@
 
 /*------------ Tablet Responisve 1024 x 600 ---------------*/
 @media (max-width: 1025px) and (min-height: 599px) 
-and (max-height: 680px)
+and (max-height: 647px)
 {
     #timeOne
     {
@@ -583,6 +583,224 @@ and (max-height: 680px)
     {
         left: 34.5%;
         top: -43%;
+    }
+
+    #timeTwo 
+    {   
+        left: 34.5%;
+        top: 11%;
+    }
+
+    #timeThree 
+    {
+        left: 0.65%;
+        top: -19%;
+    }
+    #timeFive
+    {
+        top: -23%;
+    }
+    #timeSix {
+        left: -16.9%;
+        top: 50%;
+        z-index: -10;
+    }
+
+    #timeSeven {
+        left: -83.5%;
+        top: 62%;
+    }
+    
+
+    #gridImageTimeTwo 
+    {
+        margin-left: 8px;
+        margin-right: 5px;
+    }
+
+    #gridImageTimeThree 
+    {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    #timeImageDescriptionFour 
+    {
+        top: 78%;
+        left: 35.3%;
+        width: 20%;
+      
+    }
+    #timeHorizontalGridOne 
+    {
+        top: 49%;
+    }
+    #timeHorizontalGridTwo 
+    {
+        top: 82%;
+        left: 0.8%;
+    }
+
+    #timeHorizontalGridThree 
+    {
+        top: 117%;
+        left: 0.8%;
+    }
+    #timeHorizontalGridFour
+    {
+        top: 151%;
+    }
+    #timeSubFive .copyText
+    {
+        top: 18%;
+    }
+    #timeSubThree .copyText 
+    {
+        top: 18%;
+    }
+
+    .endLineTimeTwo {
+        width: 64.5vw;
+        top: 28%;
+        left: 0%;
+    }
+
+    #timeImageDescriptionSix {
+        top: 37%;
+        pointer-events: none;
+        width: 24%;
+    }
+}
+
+/*------------ Tablet Responisve 1024 x 650 ---------------*/
+@media (max-width: 1025px) and (min-height: 648px) 
+and (max-height: 680px)
+{
+    #timeOne
+    {
+        width: 111vw; 
+    }
+    #timeMainTitle
+    {
+        top: 17%;
+    }
+    #timeVideoOne
+    {
+        top: -6%;
+    }
+    #timeVideoFive
+    {
+        top: 50%;
+    }
+    #timeVideoTen
+    {
+        top: -27%;
+    }
+    #timeSubTwo 
+    {
+        top: -300px;
+    }
+    #timeEight
+    {
+        top: -13%;
+    }
+    #timeNine
+    {
+        top: 6%;
+    }
+    .timeCopyOne
+    {
+        top: 60%;
+    }
+    #timeImageDescriptionOne
+    {
+        top: 87%;
+    }
+    #timeSubThree 
+    {
+        top: -110px;
+    }
+    #timeTen {
+        top: -37%;
+    }
+    #timeSubFour 
+    {
+        top: -190px;
+    }
+    #timeSubFive 
+    {
+        top: -140px;
+    }
+    #timeVideoSeven
+    {
+        height: 35vh; 
+    }
+    #timeSubSix 
+    {
+        top: 600px;
+    }
+
+    #timeSubSeven 
+    {
+        top: 1100px;
+    }
+
+    #timeSubEight 
+    {
+        top: 1341px;
+    }
+
+    #timeSubNine 
+    {
+        top: 1144px;
+    }
+
+    #timeSubTen 
+    {
+        top: 1120px;
+        height: 50vh;
+    }
+
+    #timeGridTwo
+    {
+        top: 5%;
+        left: -45%;
+    }
+
+    #timeGridThree 
+    {
+        left: -44%;
+        top: 15%;
+    }
+
+    #timeGridFour 
+    {
+        left: -45%;
+    top: -51%;
+    }
+
+    #timeGridSix 
+    {
+        left: -45.4%;
+        top: -26%;
+    }
+
+    #timeGridSeven 
+    {
+        left: -48.5%;
+        top: -16%;
+    }
+    
+    #timeGridEight 
+    {
+        left: -14.7%;
+        top: -82%;
+    }
+
+    #timeEleven 
+    {
+        left: 34.5%;
+        top: -29.2%;
     }
 
     #timeTwo 
@@ -6429,5 +6647,50 @@ and (min-height: 1101px) and (max-height: 1210px)
     #timeSubFive .copyText
     {
         top: 16%;
+    }
+}
+
+    /* ----------------------20000s-------------------------*/
+/*2048 x 1080*/
+@media (min-width: 2000px) and (min-height: 1000px) and (max-height: 1999px) 
+{
+    #timeSubTwo {
+        top: -330px;
+    }
+
+    #timeSubThree {
+        top: 20px;
+    }
+
+    #timeSubFour {
+        top: 50px;
+    }
+    #timeSubFive {
+        top: 270px;
+    }
+
+    #timeSubSix {
+        top: 1320px;
+    }
+
+    #timeSubSeven {
+        top: 2230px;
+    }
+
+    #timeSubEight {
+        top: 2720px;
+    }
+
+    #timeSubNine {
+        top: 2300px;
+    }
+    
+    #timeSubTen {
+        top: 2170px;
+        height: 50vh;
+    }
+
+    #timeVideoSeven {
+        height: 38.5vh;
     }
 }

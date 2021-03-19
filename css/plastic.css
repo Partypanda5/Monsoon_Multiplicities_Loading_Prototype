@@ -344,7 +344,7 @@
 
 /*------------ Tablet Responisve 1024 x 600 ---------------*/
 @media (max-width: 1025px) and (min-height: 599px) 
-and (max-height: 680px)
+and (max-height: 647px)
 {
 
     .plasticMainTitle
@@ -487,6 +487,162 @@ and (max-height: 680px)
         width: 61.5vw;
         height: 61.5vh;
         top: -22%;
+        left: -32.9%;
+    }
+    #plasticVideoFive {
+        top: -2%;
+    }
+    #plasticImageDescriptionOne {
+        top: -28%;
+        left: 8.3%;
+        width: 12%;
+    }
+}
+
+/*------------ Tablet Responisve 1024 x 650 ---------------*/
+@media (max-width: 1025px) and (min-height: 648px) 
+and (max-height: 680px)
+{
+    .plasticMainTitle
+    {
+        top: 16%;
+    }
+    #plasticSubTwo {
+        top: -30px ;
+    }
+
+    #plasticSubThree {
+        top: 85px;
+    }
+    #plasticSubFour {
+        top: 395px;
+    }
+
+    #plasticSubFive {
+        top: 895px;
+    }
+
+    #plasticSubSix {
+        top: 1530px;
+    }
+
+    #plasticSubSeven {
+        top: 2400px;
+    }
+
+    #plasticSubEight {
+        top: 2480px;
+        height: 88vh;
+    }
+
+    #plasticOne {
+        top: -24%;
+        left: 7.5%;
+        width: 25.2vw;
+    }
+    #plasticTwo {
+        top: -4%; 
+    }
+    #plasticThree {
+        top: 1%;
+        left: -32.9%;
+    }
+    #plasticFour {
+        top: -3.5%;
+    }
+    #plasticFive {
+        top: -35%;
+        left: 7.5%;
+        width: 24.7vw;
+    }
+    #plasticSix {
+        top: -33%;
+    }
+    #plasticSeven {
+        top: -37%;
+    }
+    #plasticEight {
+        top: -28%;
+        left: 0.9%;
+        width: 31.5vw;
+    }
+
+    #plasticNine {
+        top: -25%;
+        left: -32.9%;
+    }
+
+    #plasticTen {   
+        top: -29%;
+        left: -32.9%;
+    }
+
+    #plasticEleven {
+        top: -33%;
+        left: -32.9%;
+    }
+
+    .plasticCopyOne {
+        width: 18%;
+        top: 16%;
+    }
+
+    .plasticCopyTwo {
+        top: -15%;
+    }
+
+    .plasticCopyThree {
+        top: -65%;
+    }
+    .plasticCopyFour {
+        top: 9%;
+    }
+    .plasticCopyFive {
+        top: -5%;
+        left: 35.3%;
+    }
+    .plasticCopySix {
+        top: 10%;
+    }
+    .plasticCopySeven {
+        top: -4%;
+        left: 35.3%;
+    }
+    .plasticCopyEight {
+        top: -7%;
+    }
+    .plasticCopyNine {
+        top: -21.8%;
+        left: 35.3%;
+    }
+    .plasticCopyTen {
+        top: 10%;
+    }
+    .plasticCopyEleven {
+        top: 3.8%;
+        left: 35.3%;
+    }
+
+    .plasticCopyThirteen {
+        top: -3.5%;
+        left: 35.3%;
+    }
+
+    #plasticGridOne {
+        top: -21.5%;
+        left: -44.1%;
+    }
+    #plasticVideoOne {
+        width: 61.5vw;
+        height: 76.5vh;
+        top: 32%;
+        left: -32.9%;
+    }
+
+    #plasticVideoTwo {
+        width: 61.5vw;
+        height: 61.5vh;
+        top: -19%;
         left: -32.9%;
     }
     #plasticVideoFive {
@@ -4667,5 +4823,41 @@ and (min-height: 1101px) and (max-height: 1210px)
         top: 15%;
         left: 0vw;
         border-bottom: 2px dotted black;
+    }
+}
+
+    /* ----------------------20000s-------------------------*/
+/*2048 x 1080*/
+@media (min-width: 2000px) and (min-height: 1000px) and (max-height: 1999px) 
+{
+    #plasticSubThree {
+        top: 0vh;
+    }
+    #plasticSubFour {
+        top: 50vh;
+    }
+
+    #plasticSubFive {
+        top: 130vh;
+    }
+
+    #plasticSubSix {
+        top: 230vh;
+    }
+    #plasticSubSeven {
+        top: 390vh;
+    }
+
+    #plasticSubEight {
+        top: 400vh;
+        height: 88vh;
+    }
+
+    #plasticFive {
+        top: -36%;
+    }
+
+    #plasticEight {
+        top: -18%;
     }
 }

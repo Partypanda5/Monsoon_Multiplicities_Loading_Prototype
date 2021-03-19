@@ -736,7 +736,7 @@
 
 /*------------ Tablet Responisve 1024 x 600 ---------------*/
 @media (max-width: 1025px) and (min-height: 599px) 
-and (max-height: 680px)
+and (max-height: 647px)
 {
     #yangonSubTwo {
         top: 105px;
@@ -994,6 +994,289 @@ and (max-height: 680px)
     
     #yangonSubTen {
         top: 9370px;
+    }
+}
+
+/*------------ Tablet Responisve 1024 x 650 ---------------*/
+@media (max-width: 1025px) and (min-height: 648px) 
+and (max-height: 680px)
+{
+    #yangonSubTwo {
+        top: 40px;
+    }
+    #yangonThree {
+        top: -8%;
+    }
+    #yangonImageDescriptionTwo {
+        top: -5%;
+    }
+    .yangonCopyTextTwo {
+        top: -26%;
+    }
+    #yangongGridOne {
+        top: -65%;
+        left: -11.7%;
+    }
+    #YangonVideoTwo {
+        height: 76.1vh;
+        top: -21%;
+    }
+    #yangonImageDescriptionThree {
+        top: -69%;
+    }
+    #yangonSubThree {
+        top: 415px  ;
+    }
+    #yangongGridTwo {
+        position: relative;
+        top: -15%;
+        left: -44%;
+    }
+    #yangonImageDescriptionFour {
+        
+    top: -36%;
+
+    }
+    #yangonFive {
+        top: -26%;
+    }
+    #yangonImageDescriptionFive {
+        top: -31%;
+    }
+    #YangonVideoThree {
+        height: 76.1vh;
+        top: -30%;
+    }
+    #yangonSubFour {
+        top: 1540px;
+    }
+    #yangonSix {
+        top: 17%;
+        left: 18.3%;
+    }
+    #yangongGridThree {
+        top: -16%;
+        left: -50.8%;
+    }
+    .yangonCopyTextFour {
+        top: -42%;
+    }
+    #yangonSeven {
+        top: -41%;
+        left: 34.5%;
+    }
+    #yangonImageDescriptionTwelve {
+        top: -81%;
+        z-index: 5; 
+    }
+    #yangonImageDescriptionSeven {
+        top: -39.7%;
+    }
+    #yangonSubFive {
+        top: 2005px;
+    }
+    #yangongGridFour {
+        top: -13%;
+        left: -44.2%;
+    }
+    .yangonCopyTextFive {
+        top: -62%;
+    }
+    #YangonVideoFive {
+        height: 49vh;
+        top: -8%;
+    }
+    #YangonVideoFour {
+        height: 49vh;
+        top: -56.5%;
+        left: 7.7%;
+    }
+    #yangonImageDescriptionTen {
+        top: -48%;
+    }
+    #yangonNine {
+        top: -41%;
+    }
+    #yangonTen {
+        z-index: -5;
+        top: 2.2%;
+    }
+    #yangonEleven {
+        top: -44.3%;
+    }
+    #yangonTwelve {
+        top: -48%;
+    }
+    #yangonImageDescriptionEleven {
+        top: -57%;
+    }
+    #yangonSubSix {
+        top: 3700px;
+    }
+    #yangonThirteen {
+        top: 15.5%;
+        left: 2.48%;
+    }
+
+    #yangonSubSix .copyText
+    { 
+        top: 21%;
+    }
+
+    #yangonFourteen {
+        top: 14%;
+    }
+    #yangonImageDescriptionThirteen {
+        top: -21%;
+    }
+    #yangonFifteen {
+        
+    top: -8%;
+
+    }
+    #yangonImageDescriptionFourteen {
+        top: -12%;
+    }
+    #yangonSixteen {
+        top: -30%;
+        left: 34.5%;
+    }
+    #yangonSeventeen {
+     
+    top: -28%;
+
+    }
+    #yangonSubSeven {
+        top: 4660px;
+    }
+    #yangonImageDescriptionFifteen {
+        top: -28%;
+    }
+    .yangonCopyTextSix {
+        top: -1.5%;
+        width: 26%;
+    }
+    #yangonNineteen {
+        top: -27%;
+    }
+    #YangonVideoSix {
+        height: 76.1vh;
+        top: -25%;
+    }
+    #yangongGridFive {
+        top: -43%;
+        left: -44%;
+    }
+    #yangonImageDescriptionSixteen {
+        top: -100%;
+    }
+    #yangonTwenty {
+        top: -99%;
+        left: 34.5%;
+    }
+    #yangonTwentyOne {
+
+        top: -99%;
+        left: 34.5%;
+    
+    }
+    #yangonSubEight {
+        top: 6120px;
+    }
+    #yangonImageDescriptionEighteen {
+        top: -5.5%;
+    }
+    #yangonTwentyThree {
+        top: -9.5%;
+        left: 7.5%;
+    }
+    #YangonVideoSeven {
+        height: 76.1vh;
+        top: -13%;
+    }
+    
+    #yangonTwentyFour {
+        position: relative;
+        z-index: -5;
+        top: -82.2%;
+        left: 34.7%;
+    }
+    #yangongGridSix {
+        top: -18%;
+        left: -44.1%;
+    }
+    #yangonSubNine {
+        top: 7100px;
+    }
+    #yangonTwentyFive {
+        top: -82%;
+        left: 34.5%;
+    }
+    #yangonImageDescriptionSeventeen {
+        top: -81%;
+    }
+    #yangonImageDescriptionTwenty {
+        top: -14%;
+    }
+    #yangonTwentySeven {
+        top: -13%;
+        left: 7.5%;
+    }
+    #yangonTwentyEight {
+        z-index: 5;
+        top: 34%;
+        left: 7.7%;
+    }
+
+    #YangonVideoEight {
+        top: -30%;
+    }
+    #yangonImageDescriptionTwentyOne {
+       
+    top: -33%;
+
+    }
+    #yangonTwentyNine {
+        top: -30%;
+        left: 24.3%;
+    }
+    .yangonCopyTextEight {
+        position: relative;
+        top: 13%;
+        width: 26%;
+    }
+    #yangongGridSeven {
+        top: -24.5%;
+        left: -44.1%;
+    }
+    
+    #yangongGridEight {
+
+        top: -65%;
+        left: -17.3%;
+    
+    }
+    #yangonImageDescriptionTwentyTwo {
+
+        top: -59%;
+        left: 8.3%;
+    
+    }
+    #yangonImageDescriptionTwentyThree 
+    {
+        top: 13%;
+        left: 35.3%;
+    }
+    #yangonImageDescriptionTwentyFour {
+        top: -85.5%;
+        left: 52.1%;
+    }
+    #yangonImageDescriptionTwentyFive {
+        top: 7%;
+    }
+    
+    #yangonSubTen {
+        top: 9000px;
     }
 }
 
@@ -1268,6 +1551,7 @@ and (max-height: 780px)
         top: 6700px;
     }
 }
+
 
 /*------------ Desktop Responisve 1280 x 582 ---------------*/
 @media (min-width: 1026px) and (max-width: 1299px)  
@@ -8991,4 +9275,52 @@ and (min-height: 1101px) and (max-height: 1210px)
         height: 50%;
         text-align: left;
     }   
+}
+
+    /* ----------------------20000s-------------------------*/
+/*2048 x 1080*/
+@media (min-width: 2000px) and (min-height: 1000px) and (max-height: 1999px) 
+{
+    #yangonImageDescriptionTwentyFour {
+        position: relative;
+        top: -46%;
+        left: 52.1%;
+        width: 14%;
+    }
+
+    #yangonSubTwo {
+        top: 25vh;
+    }
+
+    #yangonSubThree {
+        top: 98vh;
+    }
+
+    #yangonSubFour {
+        top: 295vh;
+    }
+    
+    #yangonSubFive {
+        top: 400vh;
+    }
+    
+    #yangonSubSix {
+        top: 680vh;
+    }
+    
+    #yangonSubSeven {
+        top: 884vh;
+    }
+
+    #yangonSubEight {
+        top: 1148vh;
+    }
+
+    #yangonSubNine {
+        top: 1350vh;
+    }
+
+    #yangonSubTen {
+        top: 1695vh;
+    }
 }

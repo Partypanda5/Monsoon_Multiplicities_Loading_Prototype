@@ -370,7 +370,7 @@
 
 /*------------ Tablet Responisve 1024 x 600 ---------------*/
 @media (max-width: 1025px) and (min-height: 599px) 
-and (max-height: 680px)
+and (max-height: 647px)
 {
 
     .khalsContainer .mainTitleRight
@@ -520,6 +520,175 @@ and (max-height: 680px)
         top: -10%;
         left: 8.3%;
         width: 12%;
+    }
+
+    #khalsVideoTwo {
+        top: -8%;
+        left: -32.9%;
+    }
+}
+
+/*------------ Tablet Responisve 1024 x 650 ---------------*/
+@media (max-width: 1025px) and (min-height: 648px) 
+and (max-height: 680px)
+{
+    .khalsContainer .mainTitleRight
+    {
+        font-size: 20px;
+        line-height: 22px;
+    }
+
+    #khalsSubTwo {
+        top: 470px;
+    }
+
+    #khalsSubThree {
+        top: 1440px;
+    }
+
+    #khalsSubFour {
+        top: 970px;
+    }
+    #khalsSubFive {
+        top: 870px;
+    }
+
+    #khalsSubSix {
+        top: 2390px;
+    }
+
+    #khalsSubSeven {
+        top: 2920px;
+    }
+
+    #khalsSubEight {
+        top: 3470px;
+        height: 70vh;
+    }
+    
+    .khalsCopyThree {
+        top: -23.3%;
+        left: 35.3%;
+    }
+
+    #khalsThree {
+        top: -2%;
+        left: 7.1%;
+    }
+    
+    #khalsGridOne {
+        top: 5%;
+        left: -45%;
+    }
+    
+    #khalsGridFour { 
+        top: -4%;
+        left: -45%;
+    }
+
+    #khalsGridNine {
+        top: -51.5%;
+        left: -45%;
+    }
+
+    .khalsCopyOne {
+        top: -14.3%;
+        left: 35.3%;
+    }
+    .khalsCopyTwo {
+        top: -11.3%;
+        left: 35.3%;
+    }
+    .khalsCopySeven {
+        top: -7%;
+        left: 35.3%;
+        width: 19%;
+    }
+
+    .khalsCopyFive {
+        top: -23.3%;
+        left: 35.3%;
+        width: 22%; 
+    }
+
+    .khalsCopySix {
+        top: -30.5%;
+        left: 35.3%;
+        width: 26%;
+    }
+
+    .khalsCopyEight {
+        top: -34%;
+        left: 35.3%;
+        width: 26%;
+    }
+    .khalsCopyNine {
+        top: -24%;
+        left: 35.3%;
+    }
+
+    .khalsCopyTen {
+        top: -41%;
+        left: 35.3%;
+        width: 29%; 
+    }
+
+    #khalsGridTwo {
+        top: -21%;
+        left: -45%;
+    }
+
+    #khalsGridThree {
+        top: -29%;
+        left: -45%;
+    }
+
+    #khalsGridFive {
+        top: -4%;
+        left: -45%;
+    }
+
+    #khalsGridSix {
+        top: -52%;
+        left: -45%;
+    }
+
+    #khalsGridSeven {
+        top: -1%;
+        left: -45%;
+    }
+
+    #khalsImageDescriptionTwo {
+        top: 6%;
+        left: 8.3%;
+    }
+
+    #khalsImageDescriptionThree {
+        top: -28.5%;
+        left: 8.3%;
+    }
+
+    #khalsImageDescriptionFour {
+        top: -32.7%;
+        left: 8.3%;    
+    }
+
+    #khalsImageDescriptionSix {
+        top: -20%;
+        left: 8.3%;
+        width: 12%;
+    }
+
+    #khalsImageDescriptionSeven {
+        top: -10%;
+        left: 8.3%;
+        width: 12%;
+    }
+
+    #khalsImageDescriptionEight {
+        top: -18%;
+        left: 8.3%;
+        width: 15%;
     }
 
     #khalsVideoTwo {
@@ -5512,4 +5681,56 @@ and (min-height: 1101px) and (max-height: 1210px)
     left: 0vw;
     border-bottom: 2px dotted black;
 }
+}
+
+    /* ----------------------20000s-------------------------*/
+/*2048 x 1080*/
+@media (min-width: 2000px) and (min-height: 1000px) and (max-height: 1999px) 
+{
+    #khalsSubTwo {
+        top: 864px;
+    }
+
+    #khalsSubThree {
+        top: 2862px;
+    }
+
+    #khalsSubFour {
+        top: 2160px;
+    }
+
+    #khalsSubFive {
+        top: 2150px;
+    }
+
+    #khalsSubSix {
+        top: 5184px;
+    }
+
+    #khalsSubSeven {
+        top: 6156px;
+    }
+
+    #khalsSubEight {
+        top: 7236px;
+        height: 70vh;
+    }
+
+    #khalsGridNine {
+        position: relative;
+        top: -50%;
+        left: -43.3%;
+    }
+
+    #khalsGridSix {
+        position: relative;
+        top: -44%;
+        left: -43.3%;
+    }
+
+    #khalsGridTwo {
+        position: relative;
+        top: -17%;
+        left: -43.3%;
+    }
 }

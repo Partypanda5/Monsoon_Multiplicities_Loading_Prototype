@@ -215,7 +215,7 @@
 /*----------------Responsive Code-------------------*/
 
 /*------------ Tablet Responisve 1024 x 600 ---------------*/
-@media (max-width: 1025px) and (min-height: 599px)  and (max-height: 680px) {
+@media (max-width: 1025px) and (min-height: 599px)  and (max-height: 647px) {
 .potsContainer .mainTitleRight {
 	top: 8.5%;
 }
@@ -287,6 +287,85 @@
 	z-index: -5;
 	width: 46vw;
 }
+}
+
+/*------------ Tablet Responisve 1024 x 650 ---------------*/
+@media (max-width: 1025px) and (min-height: 648px) 
+and (max-height: 680px)
+{
+
+	.potsContainer .mainTitleRight {
+		top: 8.5%;
+	}
+	.potsContainer .mainTitle {
+		top: 15.7%;
+	}
+	#potOne {
+		top: 35%;
+	}
+	.potCopyResponsive {
+		top: 13%;
+	}
+	#potSubThree {
+		top: 60vh;
+	}
+	#potGridOne {
+		position: relative;
+		top: 16.5%;
+		left: -44.7%;
+	}
+	#potGridTwo {
+		position: relative;
+		top: -24%;
+		left: -18%;
+	}
+	#potImageDescriptionThree {
+		position: relative;
+		left: 52.2%;
+		top: -17%;
+		width: 14%;
+	}
+	#potGridThree {
+		position: relative;
+		top: 37%;
+		left: -32.5%;
+	}
+	#potSubSix {
+	    top: 36vh;
+	}
+	#potSubSeven {
+		top: 89vh;
+	}
+	#potSubEight {
+		top: 138vh;
+		height: 50vh;
+	}
+	.potsContainer #gridImageMiddle {
+		width: 23.7vw;
+	}
+	#potSubFour .mainTitle {
+		top: 20%;
+	}
+	#potSubFour {
+		top: 15vh;
+	}
+	#potSubFive {
+		top: 6vh;
+	}
+	#potGridFive {
+		position: relative;
+		top: 33%;
+		left: -17.8%;
+		z-index: 1;
+	}
+	#potTwelve {
+		position: relative;
+		top: 34%;
+		left: 7.3%;
+		z-index: -5;
+		width: 46vw;
+	}
+
 }
 
 /*------------ Tablet Responisve 1024 x 768 ---------------*/
@@ -2223,4 +2302,18 @@
 	left: -33%;
 	z-index: -4;
 }
+}
+
+    /* ----------------------20000s-------------------------*/
+/*2048 x 1080*/
+@media (min-width: 2000px) and (min-height: 1000px) and (max-height: 1999px) 
+{
+	#potSubSix {
+		top: 60vh;
+	}
+
+	#potSubEight {
+		top: 170vh;
+		height: 50vh;
+	}
 }

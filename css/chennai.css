@@ -1,2217 +1,4495 @@
-.chennaiContainer
-{
-    max-width: 100vw;
-    flex: 100%;
-    display: block;
-    z-index: 10;
+.chennaiContainer {
+	max-width: 100vw;
+	flex: 100%;
+	display: block;
+	z-index: 10;
 }
-
 #chennaiSubTwo {
-    top: 35vh;
+    top: 37vh;
 }
 #chennaiSubThree {
-    top: 204.5vh;
+    top: 202.5vh;
 }
 #chennaiSubFour {
     top: 441vh;
 }
 #chennaiSubFive {
-    top: 573vh;
+    top: 568.8vh;
 }
+
 #chennaiSubSix {
-    top: 729.3vh;
+    top: 725.4vh;
 }
 #chennaiSubSeven {
-    top: 755vh;
+    top: 758.5vh;
 }
 #chennaiSubEight {
     top: 783vh;
 }
 #chennaiSubNine {
-    top: 1263vh;
+    top: 1254.6vh;
 }
 #chennaiSubTen {
-    top: 1422vh;
+    top: 1409.6vh;
 }
 #chennaiSubEleven {
-    top: 1455vh;
+    top: 1440vh;
+}
+#ChennaiVideoOne {
+	position: relative;
+	left: -10%;
+	top: -34%;
+	width: 150vw;
+	height: 150vh;
+	z-index: -5;
+}
+#ChennaiVideoTwo {
+	position: relative;
+	left: -33%;
+	top: -71%;
+	width: 55.1vw;
+	height: 55.1vh;
+}
+#ChennaiVideoThree {
+	position: relative;
+	left: -33%;
+	top: -10%;
+	width: 55vw;
+	height: 55vh;
+}
+#ChennaiVideoFour {
+	position: relative;
+	left: -33%;
+	top: 15%;
+	width: 55.3vw;
+	height: 55.3vh;
+}
+#ChennaiVideoFive {
+	position: relative;
+	left: -33%;
+	top: 15%;
+	width: 30.7vw;
+	height: 30.7vh;
+	z-index: 5;
+}
+#chennaiOne {
+	position: relative;
+	left: -32.9%;
+	top: -45%;
+	z-index: 0;
+	width: 55.2vw;
+}
+#chennaiTwo {
+	position: relative;
+	left: -16.7%;
+	top: 15%;
+	z-index: 0;
+	width: 55.4vw;
+}
+#chennaiFour {
+	position: relative;
+	left: 7.8%;
+	top: -5.2%;
+	z-index: 0;
+}
+#chennaiThree {
+	position: relative;
+	left: -77.6%;
+	top: 28%;
+}
+#chennaiFive {
+	position: relative;
+	left: -33%;
+	top: -4.4%;
+	z-index: -5;
+	width: 40vw;
+}
+#chennaiSix {
+	position: relative;
+	left: 7.8%;
+	top: -31.5%;
+	z-index: 0;
+}
+#chennaiSeven {
+	position: relative;
+	left: -33.5%;
+	top: 16.5%;
+	z-index: 0;
+}
+#chennaiEight {
+	position: relative;
+	left: -33.5%;
+	top: 16.5%;
+	z-index: 0;
+}
+#chennaiNine {
+	position: relative;
+	left: 7.8%;
+	top: -32%;
+	z-index: 0;
+}
+#chennaiTen {
+	position: relative;
+	left: -32.9%;
+	top: -45%;
+	z-index: 0;
+	width: 61.3vw;
+}
+#chennaiEleven {
+	position: relative;
+	left: -33.3%;
+	top: -50%;
+	z-index: 0;
+	width: 61vw;
+}
+#chennaiTwelve {
+	position: relative;
+	left: -33.3%;
+	top: -55%;
+	z-index: 0;
+	width: 61vw;
+}
+#chennaiThirteen {
+	position: relative;
+	left: -33.3%;
+	top: 15%;
+	z-index: -5;
+	width: 61vw;
+}
+#chennaiFourteen {
+	position: relative;
+	left: 34.7%;
+	top: -65%;
+	z-index: 0;
+}
+#chennaiFifteen {
+	position: relative;
+	left: 34.6%;
+	top: -154.3%;
+	z-index: 0;
+	width: 31.15vw;
+}
+#chennaiSixteen {
+	position: relative;
+	left: -33.3%;
+	top: -167%;
+	z-index: 0;
+	width: 7.5vw;
+}
+#chennaiSeventeen {
+	position: relative;
+	left: -33.3%;
+	top: -50%;
+	z-index: 0;
+	width: 62vw;
+}
+#chennaiEighteen {
+	position: relative;
+	left: -72.95%;
+	top: 18%;
+	z-index: 0;
+	width: 18vw;
+}
+#chennaiNineteen {
+	position: relative;
+	left: 18%;
+	top: 14%;
+	z-index: -5;
+	width: 46.7vw;
+}
+#chennaiTwenty {
+	position: relative;
+	left: 7.8%;
+	top: -11.5%;
+	z-index: 0;
+}
+#chennaiTwentyOne {
+	position: relative;
+	left: 7.8%;
+	top: -11%;
+	z-index: -2;
+}
+#chennaiTwentyTwo {
+	position: relative;
+	left: 34.5%;
+	top: -31.5%;
+	z-index: -5;
+}
+#chennaiTwentyThree {
+	position: relative;
+	left: 7.8%;
+	top: -4.4%;
+	z-index: -5;
+}
+#chennaiTwentyFour {
+	position: relative;
+	left: 34.7%;
+	top: -51%;
+	z-index: -5;
+}
+#chennaiTwentyFive {
+	position: relative;
+	left: 34.7%;
+	top: -50.2%;
+	z-index: -5;
+}
+#chennaiTwentySix {
+	position: relative;
+	left: -32.5%;
+	top: 15%;
+	z-index: -5;
+	width: 57vw;
+}
+#chennaiTwentySeven {
+	position: relative;
+	left: 7.8%;
+	top: 15%;
+	z-index: -5;
+	width: 33vw;
+}
+#chennaiTwentyEight {
+	position: relative;
+	left: 34.7%;
+	top: -8%;
+	z-index: -5;
+}
+#chennaiTwentyNine {
+	position: relative;
+	left: -14.2%;
+	top: 12%;
+	z-index: -5;
+	width: 46vw;
+}
+#chennaiThirty {
+	position: relative;
+	left: -82%;
+	top: 29%;
+	z-index: -5;
+	width: 10.9vw;
+}
+#chennaiThirtyOne {
+	position: relative;
+	left: -32.9%;
+	top: 0%;
+	width: 55.5vw;
+}
+#chennaiThirtyTwo {
+	position: relative;
+	left: -32.7%;
+	top: -4%;
+	z-index: -5;
+	width: 56vw;
+}
+#chennaiThirtyThree {
+	position: relative;
+	left: 7.9%;
+	top: -8%;
+}
+#chennaiThirtyFour {
+	position: relative;
+	left: -32.7%;
+	top: -15%;
+	z-index: -5;
+	width: 62vw;
+}
+#chennaiThirtyFive {
+	position: relative;
+	left: -32.7%;
+	top: -15%;
+	z-index: -5;
+	width: 62vw;
+}
+#chennaiThirtySix {
+	position: relative;
+	left: -19.5%;
+	top: 15%;
+	z-index: -5;
+	width: 19vw;
+}
+.chennaiMapContainerOne {
+	position: relative;
+	left: 1.7%;
+	top: 15%;
+	z-index: 0;
+	width: 61.5vw;
+}
+.chennaiMapContainerTwo {
+	position: relative;
+	left: 1.7%;
+	top: 15%;
+	z-index: 0;
+	width: 61.5vw;
+}
+#chennaiImageDescriptionExtra {
+	position: relative;
+	top: 9%;
+	left: 35.25%;
+	width: 15%;
+}
+#chennaiImageDescriptionOne {
+	position: relative;
+	top: -50%;
+	left: 8.3%;
+	width: 14%;
+}
+#chennaiImageDescriptionTwo {
+	position: relative;
+	top: -4.5%;
+	left: 8.3%;
+	width: 14%;
+}
+#chennaiImageDescriptionThree {
+	position: relative;
+	top: -39%;
+	left: 8.3%;
+	width: 14%;
+}
+#chennaiImageDescriptionFour {
+	position: relative;
+	top: -35%;
+	left: 8.3%;
+	width: 14%;
+}
+#chennaiImageDescriptionFive {
+	position: relative;
+	top: -55%;
+	left: 35.3%;
+	width: 14%;
+}
+#chennaiImageDescriptionSix {
+	position: relative;
+	top: -58%;
+	left: 35.3%;
+	width: 25%;
+}
+#chennaiImageDescriptionSeven {
+	position: relative;
+	top: -79%;
+	left: 35.3%;
+	width: 15%;
+}
+#chennaiImageDescriptionEight {
+	position: relative;
+	top: -171%;
+	left: 35.3%;
+	width: 25%;
+}
+#chennaiImageDescriptionNine {
+	position: relative;
+	top: 17%;
+	left: 8.3%;
+	width: 15%;
+}
+#chennaiImageDescriptionTen {
+	position: relative;
+	top: -28%;
+	left: 35.25%;
+	width: 15%;
+}
+#chennaiImageDescriptionEleven {
+	position: relative;
+	top: -15%;
+	left: 35.25%;
+	width: 15%;
+}
+#chennaiImageDescriptionTwelve {
+	position: relative;
+	top: 26%;
+	left: 8.3%;
+	width: 15%;
+}
+#chennaiImageDescriptionThirteen {
+	position: relative;
+	top: -1%;
+	left: 8.3%;
+	width: 15%;
+}
+#chennaiImageDescriptionFourteen {
+	position: relative;
+	top: -6%;
+	left: 8.3%;
+	width: 12%;
+}
+#chennaiImageDescriptionFifteen {
+	position: relative;
+	top: -10%;
+	left: 8.3%;
+	width: 12%;
+}
+#chennaiImageDescriptionSixteen {
+	position: relative;
+	top: 10%;
+	left: 8.3%;
+	width: 15%;
+}
+#chennaiImageDescriptionSeventeen {
+	position: relative;
+	top: -80.5%;
+	left: 35.3%;
+	width: 15%;
+}
+#chennaiImageDescriptionEighteen {
+	position: relative;
+	top: 18%;
+	left: 8.3%;
+	width: 15%;
+}
+#chennaiImageDescriptionNineteen {
+	position: relative;
+	top: 5%;
+	left: 35.3%;
+	width: 31%;
+	font-size: 14px;
+}
+.chennaiCopyOne {
+	position: relative;
+	top: 10%;
+}
+.chennaiCopyTwo {
+	position: relative;
+	top: -31%;
+	left: 8.3%;
+	width: 23%;
+}
+.chennaiCopyThree {
+	position: relative;
+	top: -32%;
+	left: 8%;
+	width: 23%;
+}
+.chennaiCopyFour {
+	position: relative;
+	top: 14%;
+	left: 35.25%;
+	width: 28%;
+}
+.chennaiCopyFive {
+	position: relative;
+	top: -32%;
+	left: 8.3%;
+	width: 20%;
+}
+.chennaiCopySix {
+	position: relative;
+	top: -67%;
+	left: 8.3%;
+	width: 20%;
+}
+.chennaiCopySeven {
+	position: relative;
+	top: 10%;
+	left: 35.3%;
+	width: 25%;
+}
+.chennaiCopyEight {
+	position: relative;
+	top: 13.3%;
+	left: 35.3%;
+	width: 25%;
+}
+.chennaiCopyNine {
+	position: relative;
+	top: -98.5%;
+	left: 8.3%;
+	width: 18%;
+}
+.chennaiCopyTen {
+	position: relative;
+	top: -32%;
+	left: 35.25%;
+	width: 25%;
+}
+.chennaiCopyEleven {
+	position: relative;
+	top: -3%;
+	left: 8.3%;
+	width: 18%;
+}
+.chennaiCopyTwelve {
+	position: relative;
+	top: -11%;
+	left: 35.3%;
+	width: 25%;
+}
+.chennaiCopyThirteen {
+	position: relative;
+	top: -2%;
+	left: 35.3%;
+	width: 25%;
+}
+.chennaiCopyFourteen {
+	position: relative;
+	top: -2%;
+	left: 35.3%;
+	width: 25%;
+}
+.chennaiCopyFifteen {
+	position: relative;
+	top: 0.5%;
+	left: 35.3%;
+	width: 25%;
+}
+.chennaiCopySixteen {
+	position: relative;
+	top: -71.5%;
+	left: 8.3%;
+	width: 25%;
+}
+.chennaiCopySeventeen {
+	position: relative;
+	top: -85%;
+	left: 8.3%;
+	width: 18%;
+}
+.chennaiCopyNineteen {
+	position: relative;
+	top: 4.5%;
+	left: 35.3%;
+	width: 21%;
+}
+#chennaiGridOne {
+	position: relative;
+	top: -73%;
+	left: -16.4%;
+}
+#chennaiGridTwo {
+	position: relative;
+	top: -50%;
+	left: -43.5%;
+}
+#chennaiGridThree {
+	position: relative;
+	top: -77%;
+	left: -43.4%;
+}
+#chennaiGridFour {
+	position: relative;
+	top: 10%;
+	left: -43.4%;
+}
+#chennaiGridFive {
+	position: relative;
+	top: 5%;
+	left: -39%;
+}
+#chennaiGridSix {
+	position: relative;
+	top: -30%;
+	left: -43.3%;
+}
+#chennaiGridSeven {
+	position: relative;
+	top: -65%;
+	left: -16.3%;
+}
+#chennaiGridEight {
+	position: relative;
+	top: -73%;
+	left: 0.7%;
+}
+#chennaiGridNine {
+	position: relative;
+	top: -80%;
+	left: 0.7%;
+}
+#chennaiGridTen {
+	position: relative;
+	top: 21%;
+	left: -32.65%;
+}
+.chennaiMapContainer {
+	width: 46vw;
+	height: auto;
+	position: relative;
+	top: 90%;
+	left: 10%;
+}
+.endlineChennai {
+	width: 64.5vw;
+	height: 1vh;
+	position: relative;
+	top: 3%;
+	left: 0%;
+	border-bottom: 1px solid black;
+}
+.endlineChennaiTwo {
+	width: 64.5vw;
+	height: 1vh;
+	position: relative;
+	top: 7%;
+	left: 0%;
+	border-bottom: 1px dotted black;
+}
+.endlineChennaiThree {
+	width: 64.5vw;
+	height: 1vh;
+	position: relative;
+	top: 16%;
+	left: 0%;
+	border-bottom: 1px dotted black;
+}
+.endlineChennaiFour {
+	width: 64.5vw;
+	height: 1vh;
+	position: relative;
+	top: 110%;
+	left: 0%;
+	border-bottom: 2px solid black;
+}
+.referenceChennai {
+	position: relative;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	font-size: 14px;
+	line-height: 16px;
+	width: 30%;
+	height: 50%;
+	text-align: left;
+}
+.referenceBlockChennai {
+	width: 102%;
+	height: 6%;
+	position: relative;
+	top: 5%;
+	left: 35.2%;
+}
+.referenceBlockChennaiTwo {
+	width: 102%;
+	height: 6%;
+	position: relative;
+	top: 9%;
+	left: 35.2%;
+}
+.referenceBlockChennaiThree {
+	width: 90%;
+	height: 70%;
+	position: relative;
+	top: 18%;
+	left: 35.2%;
+	padding-bottom: 3vh;
+}
+.gridImageMiddleChennai {
+	width: 23.8vw;
+	margin-left: 30px;
+	margin-right: 5px;
+	margin-top: 3vh;
+	height: auto;
+	pointer-events: none;
+}
+#gridImageMiddleChennaiTwo {
+	width: 23.8vw;
+	margin-left: 20px;
+	height: auto;
+}
+#gridImageSmallChennai {
+	width: 14.05vw;
+	margin-left: 21px;
+	margin-right: 0px;
+	height: auto;
 }
 
-#ChennaiVideoOne {
+/* ----------------------Responsive code starts here --------------------------*/
+
+/*----------------Responsive Code-------------------*/
+
+/*------------ Tablet Responisve 1024 x 600 ---------------*/
+@media (max-width: 1025px) and (min-height: 599px) and (max-height: 647px) {
+#chennaiSubOne .mainTitle {
+    top: 15.7%;
+}
+#chennaiSubOne .copyTextLarger {
+    top: 14.9%;
+}
+	
+	#ChennaiVideoOne {
     position: relative;
-    left: -10%;
-    top: -34%;
-    width: 150vw;
+    left: -24%;
+    top: -43%;
+    width: 188vw;
     height: 150vh;
     z-index: -5;
 }
-
-#ChennaiVideoTwo {
+	#chennaiFifteen {
     position: relative;
-    left: -33%;
-    top: -71%;
-    width: 55.1vw;
-    height: 55.1vh;
+    left: 34.6%;
+    top: -128.9%;
+    z-index: 0;
+    width: 31.15vw;
 }
 
-#ChennaiVideoThree
-{
-    position: relative;
-    left: -33%;
-    top: -10%;
-    width: 55vw;
-    height: 55vh;
+.copyTextLarger {
+    font-size: 20px;
+    line-height: 25px;
+    top: 11.7%;
 }
 
-#ChennaiVideoFour
-{
-    position: relative;
-    left: -33%;
-    top: 15%;
-    width: 55.3vw;
-    height: 55.3vh;
-}
-
-#ChennaiVideoFive
-{
-    position: relative;
-    left: -33%;
-    top: 15%;
-    width: 30.7vw;
-    height: 30.7vh;
-    z-index: 5;
-}
-
-#chennaiOne
-{
+#chennaiOne {
     position: relative;
     left: -32.9%;
-    top: -45%;
+    top: -56%;
     z-index: 0;
     width: 55.2vw;
 }
-
-#chennaiTwo
-{
+#chennaiImageDescriptionOne {
     position: relative;
-    left: -16.7%;
-    top: 15%;
-    z-index: 0;
-    width: 55.4vw;
+    top: -63%;
+    left: 8.3%;
+    width: 14%;
 }
 
-#chennaiFour {
-    position: relative;
-    left: 7.8%;
-    top: -5.2%;
-    z-index: 0;
-}
 #chennaiThree {
     position: relative;
     left: -77.6%;
     top: 28%;
 }
-
+#chennaiImageDescriptionTwo {
+    position: relative;
+    top: -2.5%;
+    left: 8.3%;
+    width: 14%;
+}
+#chennaiFour {
+    position: relative;
+    left: 7.2%;
+    top: -3.2%;
+    z-index: 0;
+}
 #chennaiFive {
     position: relative;
     left: -33%;
-    top: -4.4%;
+    top: -3.4%;
     z-index: -5;
     width: 40vw;
 }
-
+#chennaiImageDescriptionThree {
+    position: relative;
+    top: -33%;
+    left: 8.3%;
+    width: 14%;
+}
+#chennaiGridOne {
+    position: relative;
+    top: -62.4%;
+    left: -17.9%;
+}
 #chennaiSix {
     position: relative;
-    left: 7.8%;
+    left: 7.3%;
     top: -31.5%;
     z-index: 0;
 }
-
-#chennaiSeven
-{
+#ChennaiVideoTwo {
     position: relative;
-    left: -33.5%;
-    top: 16.5%;
-    z-index: 0;
+    left: -33%;
+    top: -60%;
+    width: 55.1vw;
+    height: 55.1vh;
 }
 
-#chennaiEight
-{
+#chennaiImageDescriptionFive {
     position: relative;
-    left: -33.5%;
-    top: 16.5%;
-    z-index: 0;
+    top: -39%;
+    left: 35.3%;
+    width: 14%;
 }
-
-#chennaiNine
-{
-    position: relative;
-    left: 7.8%;
-    top: -32%;
-    z-index: 0;
-}
-
-#chennaiTen
-{
+#chennaiTen {
     position: relative;
     left: -32.9%;
-    top: -45%;
+    top: -39%;
     z-index: 0;
     width: 61.3vw;
 }
-
-#chennaiEleven
-{
+#chennaiEleven {
     position: relative;
     left: -33.3%;
-    top: -50%;
+    top: -44%;
     z-index: 0;
     width: 61vw;
 }
-
-#chennaiTwelve
-{
+#chennaiTwelve {
     position: relative;
     left: -33.3%;
+    top: -49%;
+    z-index: 0;
+    width: 61vw;
+}
+#chennaiImageDescriptionSix {
+    position: relative;
     top: -55%;
-    z-index: 0;
-    width: 61vw;
+    left: 35.3%;
+    width: 25%;
+}
+.chennaiCopySix {
+    position: relative;
+    top: -61%;
+    left: 8.3%;
+    width: 20%;
+}
+#chennaiGridTwo {
+    position: relative;
+    top: -47%;
+    left: -44.7%;
 }
 
-#chennaiThirteen
-{
+#chennaiGridThree {
+    position: relative;
+    top: -77%;
+    left: -44.7%;
+}
+#chennaiImageDescriptionEight {
+    position: relative;
+    top: -147%;
+    left: 35.3%;
+    width: 25%;
+}
+
+#chennaiImageDescriptionSeven {
+    position: relative;
+    top: -67%;
+    left: 35.3%;
+    width: 15%;
+}
+#chennaiFourteen {
+    position: relative;
+    left: 34.3%;
+    top: -54%;
+    z-index: 0;
+}
+#chennaiSixteen {
     position: relative;
     left: -33.3%;
-    top: 15%;
-    z-index: -5;
-    width: 61vw;
-}
-
-#chennaiFourteen
-{
-    position: relative;
-    left: 34.7%;
-    top: -65%;
-    z-index: 0;
-}
-
-#chennaiFifteen
-{
-    position: relative;
-    left: 34.6%;
-    top: -154.3%;
-    z-index: 0;
-    width: 31.15vw;
-}
-
-#chennaiSixteen
-{
-    position: relative;
-    left: -33.3%;
-    top: -167%;
+    top: -143%;
     z-index: 0;
     width: 7.5vw;
 }
 
-#chennaiSeventeen
-{
-    position: relative;
-    left: -33.3%;
-    top: -50%;
-    z-index: 0;
-    width: 62vw;
-}
-
-#chennaiEighteen
-{
-    position: relative;
-    left: -72.95%;
-    top: 18%;
-    z-index: 0;
-    width: 18vw;
-}
-
-#chennaiNineteen
-{
-    position: relative;
-    left: 18%;
-    top: 14%;
-    z-index: -5;
-    width: 46.7vw;
-}
-
-#chennaiTwenty {
-    position: relative;
-    left: 7.8%;
-    top: -11.5%;
-    z-index: 0;
-}
-
 #chennaiTwentyOne {
     position: relative;
-    left: 7.8%;
+    left: 7.4%;
     top: -11%;
     z-index: -2;
 }
-
-#chennaiTwentyTwo
-{
+#chennaiTwenty {
     position: relative;
-    left: 34.5%;
-    top: -31.5%;
+    left: 7.3%;
+    top: -9.7%;
+    z-index: 0;
+}
+#chennaiTwentyFour {
+    position: relative;
+    left: 34.3%;
+    top: -42%;
     z-index: -5;
 }
-
-#chennaiTwentyThree {
+#chennaiTwentyTwo {
     position: relative;
-    left: 7.8%;
-    top: -4.4%;
+    left: 34.1%;
+    top: -26.5%;
     z-index: -5;
 }
-#chennaiTwentyFour
-{
-    position: relative;
-    left: 34.7%;
-    top: -51%;
-    z-index: -5;
-}
-
 #chennaiTwentyFive {
     position: relative;
-    left: 34.7%;
-    top: -50.2%;
+    left: 34.2%;
+    top: -42.2%;
     z-index: -5;
 }
-
-#chennaiTwentySix
-{
+#chennaiTwentyThree {
     position: relative;
-    left: -32.5%;
-    top: 15%;
-    z-index: -5;
-    width: 57vw;
-}
-
-#chennaiTwentySeven
-{
-    position: relative;
-    left: 7.8%;
-    top: 15%;
-    z-index: -5;
-    width: 33vw;
-}
-
-#chennaiTwentyEight
-{
-    position: relative;
-    left: 34.7%;
-    top: -8%;
+    left: 7.3%;
+    top: -7%;
     z-index: -5;
 }
-
-#chennaiTwentyNine {
+.chennaiCopyNine {
     position: relative;
-    left: -14.2%;
-    top: 12%;
-    z-index: -5;
-    width: 46vw;
+    top: -74.5%;
+    left: 8.3%;
+    width: 18%;
 }
-
-
-#chennaiThirty {
+#chennaiSubSix {
+    top: 3207.387px;
+}
+.chennaiCopyTen {
     position: relative;
-    left: -82%;
-    top: 29%;
-    z-index: -5;
-    width: 10.9vw;
+    top: -24%;
+    left: 35.25%;
+    width: 25%;
 }
-
-#chennaiThirtyOne
-{
+#chennaiImageDescriptionTen {
     position: relative;
-    left: -32.9%;
-    top: 0%;
-    width: 55.5vw;
+    top: -22%;
+    left: 35.25%;
+    width: 15%;
 }
-
-#chennaiThirtyTwo
-{
-    position: relative;
-    left: -32.7%;
-    top: -4%;
-    z-index: -5;
-    width: 56vw;
-}
-
-#chennaiThirtyThree
-{
-    position: relative;
-    left: 7.9%;
-    top: -8%;
-}
-
-#chennaiThirtyFour
-{
-    position: relative;
-    left: -32.7%;
-    top: -15%;
-    z-index: -5;
-    width: 62vw;
-}
-
-#chennaiThirtyFive
-{
-    position: relative;
-    left: -32.7%;
-    top: -15%;
-    z-index: -5;
-    width: 62vw;
-}
-
-#chennaiThirtySix {
-    position: relative;
-    left: -19.5%;
-    top: 15%;
-    z-index: -5;
-    width: 19vw;
-}
-
-.chennaiMapContainerOne
-{
-    position: relative;
-    left: 1.7%;
-    top: 15%;
-    z-index: 0;
-    width: 61.5vw;
-}
-
-.chennaiMapContainerTwo
-{
-    position: relative;
-    left: 1.7%;
-    top: 15%;
-    z-index: 0;
-    width: 61.5vw;
-}
-
-
-#chennaiImageDescriptionExtra {
+#chennaiGridFour {
     position: relative;
     top: 9%;
-    left: 35.25%;
-    width: 15%;
+    left: -44.7%;
 }
-#chennaiImageDescriptionOne
-{
+
+.chennaiCopyEleven {
     position: relative;
-    top: -50%;
+    top: 0%;
     left: 8.3%;
-    width: 14%;
+    width: 18%;
 }
-
-#chennaiImageDescriptionTwo {
+#chennaiTwentyEight {
     position: relative;
-    top: -4.5%;
-    left: 8.3%;
-    width: 14%;
+    left: 34.7%;
+    top: -2%;
+    z-index: -5;
 }
-
-
-#chennaiImageDescriptionThree
-{
-    position: relative;
-    top: -39%;
-    left: 8.3%;
-    width: 14%;
-}
-
-#chennaiImageDescriptionFour
-{
-    position: relative;
-    top: -35%;
-    left: 8.3%;
-    width: 14%;
-}
-
-#chennaiImageDescriptionFive
-{
-    position: relative;
-    top: -55%;
-    left: 35.3%;
-    width: 14%;
-}
-
-#chennaiImageDescriptionSix
-{
-    position: relative;
-    top: -58%;
-    left: 35.3%;
-    width: 25%;
-}
-
-#chennaiImageDescriptionSeven
-{
-    position: relative;
-    top: -79%;
-    left: 35.3%;
-    width: 15%;
-}
-
-#chennaiImageDescriptionEight
-{
-    position: relative;
-    top: -171%;
-    left: 35.3%;
-    width: 25%;
-}
-
-#chennaiImageDescriptionNine
-{
-    position: relative;
-    top: 17%;
-    left: 8.3%;
-    width: 15%;
-}
-
-#chennaiImageDescriptionTen
-{
-    position: relative;
-    top: -28%;
-    left: 35.25%;
-    width: 15%;
-}
-
-#chennaiImageDescriptionEleven
-{
-    position: relative;
-    top: -15%;
-    left: 35.25%;
-    width: 15%;
-}
-
-#chennaiImageDescriptionTwelve
-{
-    position: relative;
-    top: 26%;
-    left: 8.3%;
-    width: 15%;
-}
-
-#chennaiImageDescriptionThirteen
-{
-    position: relative;
-    top: -1%;
-    left: 8.3%;
-    width: 15%;
-}
-
-#chennaiImageDescriptionFourteen
-{
+.chennaiCopyTwelve {
     position: relative;
     top: -6%;
-    left: 8.3%;
-    width: 12%;
+    left: 35.3%;
+    width: 25%;
 }
-
-#chennaiImageDescriptionFifteen
-{
+#ChennaiVideoThree {
+    position: relative;
+    left: -33%;
+    top: -5%;
+    width: 55vw;
+    height: 55vh;
+}
+#chennaiImageDescriptionEleven {
     position: relative;
     top: -10%;
-    left: 8.3%;
-    width: 12%;
+    left: 35.25%;
+    width: 15%;
 }
 
-#chennaiImageDescriptionSixteen
-{
+#chennaiImageDescriptionTwelve {
     position: relative;
-    top: 10%;
+    top: 22%;
     left: 8.3%;
     width: 15%;
 }
 
-#chennaiImageDescriptionSeventeen
-{
+#chennaiGridSeven {
     position: relative;
-    top: -80.5%;
+    top: -60%;
+    left: -16.3%;
+}
+#chennaiThirtyThree {
+    position: relative;
+    left: 7.1%;
+    top: -5%;
+}#chennaiThirtyFour {
+    position: relative;
+    left: -32.7%;
+    top: -10%;
+    z-index: -5;
+    width: 62vw;
+}
+#chennaiThirtyFour {
+    position: relative;
+    left: -32.7%;
+    top: -10%;
+    z-index: -5;
+    width: 62vw;
+}
+#chennaiGridSix {
+    position: relative;
+    top: -21%;
+    left: -45%;
+}
+.chennaiCopySixteen {
+    position: relative;
+    top: -54.5%;
+    left: 8.3%;
+    width: 25%;
+}
+#chennaiGridEight {
+    position: relative;
+    top: -58%;
+    left: 0.7%;
+}
+#chennaiGridNine {
+    position: relative;
+    top: -64%;
+    left: 0.7%;
+}
+#chennaiImageDescriptionSeventeen {
+    position: relative;
+    top: -66.5%;
     left: 35.3%;
     width: 15%;
 }
-
-#chennaiImageDescriptionEighteen
-{
+.chennaiCopySeventeen {
     position: relative;
-    top: 18%;
+    top: -71%;
     left: 8.3%;
-    width: 15%;
+    width: 18%;
 }
 
-#chennaiImageDescriptionNineteen 
-{
+#chennaiImageDescriptionNineteen {
     position: relative;
     top: 5%;
     left: 35.3%;
     width: 31%;
-    font-size: 14px;
+    font-size: 9px;
 }
-.chennaiCopyOne
-{
-    position: relative;
-    top: 10%;
-}
-
-.chennaiCopyTwo {
-    position: relative;
-    top: -31%;
-    left: 8.3%;
-    width: 23%;
-}
-
-
-.chennaiCopyThree
-{
-    position: relative;
-    top: -32%;
-    left: 8%;
-    width: 23%;
-}
-
-.chennaiCopyFour
-{
-    position: relative;
-    top: 14%;
-    left: 35.25%;
-    width: 28%;
-}
-
-.chennaiCopyFive
-{
-    position: relative;
-    top: -32%;
-    left: 8.3%;
-    width: 20%;
-}
-
-.chennaiCopySix
-{
-    position: relative;
-    top: -67%;
-    left: 8.3%;
-    width: 20%;
-}
-
-.chennaiCopySeven
-{
-    position: relative;
-    top: 10%;
-    left: 35.3%;
-    width: 25%;
-}
-
-.chennaiCopyEight
-{
-    position: relative;
-    top: 13.3%;
-    left: 35.3%;
-    width: 25%;
-}
-
-.chennaiCopyNine
-{
-    position: relative;
-    top: -98.5%;
-    left: 8.3%;
-    width: 18%;
-}
-
-.chennaiCopyTen
-{
-    position: relative;
-    top: -32%;
-    left: 35.25%;
-    width: 25%;
-}
-
-.chennaiCopyEleven
-{
-    position: relative;
-    top: -3%;
-    left: 8.3%;
-    width: 18%;
-}
-
-.chennaiCopyTwelve
-{
-    position: relative;
-    top: -11%;
-    left: 35.3%;
-    width: 25%;
-}
-.chennaiCopyThirteen
-{
-    position: relative;
-    top: -2%;
-    left: 35.3%;
-    width: 25%;
-}
-
-.chennaiCopyFourteen
-{
-    position: relative;
-    top: -2%;
-    left: 35.3%;
-    width: 25%;
-}
-
-.chennaiCopyFifteen
-{
-    position: relative;
-    top: 0.5%;
-    left: 35.3%;
-    width: 25%;
-}
-
-.chennaiCopySixteen
-{
-    position: relative;
-    top: -71.5%;
-    left: 8.3%;
-    width: 25%;
-}
-
-.chennaiCopySeventeen
-{
-    position: relative;
-    top: -85%;
-    left: 8.3%;
-    width: 18%;
-}
-
-.chennaiCopyNineteen
-{
-    position: relative;
-    top: 4.5%;
-    left: 35.3%;
-    width: 21%;
-}
-
-#chennaiGridOne {
-    position: relative;
-    top: -73%;
-    left: -16.4%;
-}
-
-
-#chennaiGridTwo
-{
-    position: relative;
-    top: -50%;
-    left: -43.5%;
-}
-
-#chennaiGridThree
-{
-    position: relative;
-    top: -77%;
-    left: -43.4%;
-}
-
-#chennaiGridFour
-{
-    position: relative;
-    top: 10%;
-    left: -43.4%;
-}
-
-#chennaiGridFive
-{
-    position: relative;
-    top: 5%;
-    left: -39%;
-}
-
-#chennaiGridSix
-{
-    position: relative;
-    top: -30%;
-    left: -43.3%;
-}
-
-#chennaiGridSeven
-{
-    position: relative;
-    top: -65%;
-    left: -16.3%;
-}
-
-#chennaiGridEight
-{
-    position: relative;
-    top: -73%;
-    left: 0.7%;
-}
-
-#chennaiGridNine
-{
-    position: relative;
-    top: -80%;
-    left: 0.7%;
-}
-
-#chennaiGridTen 
-{
-    position: relative;
-    top: 21%;
-    left: -32.65%;
-}
-
-.chennaiMapContainer
-{
-    width: 46vw;
-    height: auto;
-    position: relative;
-    top: 90%;
-    left: 10%;
-}
-
-.endlineChennai 
-{
-    width: 64.5vw;
-    height: 1vh;
-    position: relative;
-    top: 3%;
-    left: 0%;
-    border-bottom: 1px solid black;
-}
-
-.endlineChennaiTwo 
-{
-    width: 64.5vw;
-    height: 1vh;
-    position: relative;
-    top: 7%;
-    left: 0%;
-    border-bottom: 1px dotted black;
-}
-
-.endlineChennaiThree 
-{
-    width: 64.5vw;
-    height: 1vh;
-    position: relative;
-    top: 16%;
-    left: 0%;
-    border-bottom: 1px dotted black;
-}
-.endlineChennaiFour
-{
-    width: 64.5vw;
-    height: 1vh;
-    position: relative;
-    top: 110%;
-    left: 0%;
-    border-bottom: 2px solid black;
-}
-
-.referenceChennai
-{
+.referenceChennai {
     position: relative;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
-    font-size: 14px;
-    line-height: 16px;
+    font-size: 9px;
+    line-height: 11px;
     width: 30%;
     height: 50%;
     text-align: left;
 }
-
-.referenceBlockChennai
-{
-    width: 102%;
-    height: 6%;
-    position: relative;
-    top: 5%;
-    left: 35.2%;
-}
-
-.referenceBlockChennaiTwo {
-    width: 102%;
-    height: 6%;
-    position: relative;
-    top: 9%;
-    left: 35.2%;
-}
-
-.referenceBlockChennaiThree 
-{
-    width: 90%;
-    height: 70%;
-    position: relative;
-    top: 18%;
-    left: 35.2%;
-    padding-bottom: 3vh;
-}
-
-.gridImageMiddleChennai 
-{
-    width: 23.8vw;
-    margin-left: 30px;
-    margin-right: 5px;
-    margin-top: 3vh;
-    height: auto;
-    pointer-events: none;   
-}
-
-#gridImageMiddleChennaiTwo
-{
-    width: 23.8vw;
-    margin-left: 20px;
-    height: auto;
-}
-
 #gridImageSmallChennai {
-    width: 14.05vw;
-    margin-left: 21px;
+    width: 13.75vw;
+    margin-left: 6.8px;
     margin-right: 0px;
     height: auto;
 }
-
-/* ----------------------Responsive code starts here --------------------------*/
-
-
-/*-----------------------1200s------------------*/
-/*1280 x 582*/
-@media (max-width: 1299px) {
-#ChennaiVideoOne {
-    top: -49%;
-    height: 180vh;
-}
-#chennaiOne {
-    top: -60%;
-}
-#chennaiImageDescriptionOne {
-    top: -64%;
-}
-#chennaiSubTwo {
-    top: 70vh;
-}
-	#chennaiTwo {
-    position: relative;
-    left: -16.7%;
-    top: 12%;
-    z-index: 0;
-    width: 55.4vw;
+	#chennaiSubTwo {
+    top: 183px;
 }
 
-#chennaiThree {
-    top: 27.5%;
-}
-
-#chennaiFour {
-    left: 7.58%;
-    top: -13.2%;
-}
-#chennaiImageDescriptionTwo {
-    top: -11.6%;
-    left: 8.3%;
-}
-#chennaiFive {
-    left: -32.7%;
-    top: -13%;
-}
-#chennaiImageDescriptionThree {
-    top: -51.5%;
-}
-#chennaiSix {
-    position: relative;
-    left: 7.57%;
-    top: -47%;
-}
-
-#chennaiGridOne {
-    top: -97.8%;
-    left: -17.4%;
-}
-.chennaiCopyTwo {
-    top: -47%;
-}
-	
-#ChennaiVideoTwo {
-    top: -96.5%;
-    height: 68vh;
-}
 #chennaiSubThree {
-    top: 300vh;
-}
-#chennaiNine {
-left: 7.5%;
-    top: -39%;
-}
-#chennaiSeven {
-    left: -33.1%;
-    top: 18%;
-}
-#chennaiEight {
-    left: -32.7%;
-    top: 17.4%;
-}
-.chennaiCopyFive {
-    top: -36%;
+    top: 1473.785px;
 }
 #chennaiImageDescriptionFive {
-    top: -64%;
+    position: relative;
+    top: -55%;
+    left: 35.3%;
+    width: 14%;
 }
 #chennaiTen {
-    top: -49%;
-}
-#chennaiSubFour {
-    top: 640vh;
-}
-#chennaiTwelve {
-    left: -33.3%;
-    top: -54.4%;
-}
-#chennaiThirteen {
-top: 17.5%;
-    left: -32.7%;
-    width: 61.8vw;
-}
-#chennaiGridTwo {
     position: relative;
-    top: -63%;
-    left: -44.2%;
-}
-.chennaiCopySeven {
-    top: 14%;
-}
-#chennaiFourteen {
-    left: 34.4%;
-    top: -80%;
-}
-.chennaiCopySix {
-    top: -86%;
-}
-
-#chennaiImageDescriptionSeven {
-    top: -100%;
-
-}
-#chennaiGridThree {
-    top: -100%;
-    left: -44.2%;
-}
-#chennaiFifteen {
-    top: -194.5%;
-}
-#chennaiSixteen {
-    top: -207%;
-}
-#chennaiImageDescriptionEight {
-    top: -210%;
-    width: 21%;
-}
-#chennaiSubFive {
-    top: 835vh;
-}
-
-#chennaiNineteen {
-    left: 17.7%;
-}
-#chennaiTwenty {
-    left: 7.4%;
-    top: -17.5%;
-}
-#chennaiTwentyOne {
-    left: 7.4%;
-    top: -17.5%;
-}
-#chennaiTwentyTwo {
-    top: -43%;
-}
-.chennaiCopyNine {
-    top: -125%;
-}
-
-#chennaiTwentyFour {
-    left: 34.5%;
-    top: -68%;
-}
-#chennaiTwentyFive {
-    left: 34.5%;
-    top: -68%;
-}
-#chennaiTwentyThree {
-    left: 7.5%;
-    top: -10.1%;
-}
-#chennaiSubSix {
-    top: 1064vh;
-}
-#chennaiGridFour {
-    left: -44.2%;
-}
-.chennaiCopyTen {
-    top: -41.3%;
-}
-#chennaiImageDescriptionTen {
-    top: -35.5%;
-}
-#chennaiSubSeven {
-    top: 1136vh;
-}
-#chennaiTwentySeven {
-    left: 7.55%;
-}
-#chennaiTwentyEight {
-    top: -16%;
-}
-.chennaiCopyEleven {
-    top: -8%;
-}
-.chennaiCopyTwelve {
-    top: -17.2%;
-}
-#ChennaiVideoThree {
-    top: -15%;
-    height: 68vh;
-}
-#chennaiImageDescriptionEleven {
-    top: -18%;
-}
-#chennaiSubEight {
-    top: 1206vh;
-}
-
-	#chennaiThirty {
-    left: -82%;
-    top: 30%;
-    width: 11vw;
-}
-#chennaiImageDescriptionTwelve {
-    top: 30%;
-}
-.chennaiCopyThirteen {
-    top: -2.6%;
-}
-
-#chennaiImageDescriptionTwelve {
-    position: relative;
-    top: 24%;
-    left: 8.3%;
-    width: 15%;
-}
-#chennaiGridFive {
-    position: relative;
-    top: -2%;
-    left: -38.9%;
-}
-#gridImageMiddleChennaiTwo {
-    margin-left: 9px;
-}
-#chennaiImageDescriptionThirteen {
-    top: -7.5%;
-}
-.chennaiCopyFourteen {
-    top: -9%;
-}
-
-#chennaiThirtyOne {
-    left: -32.78%;
-    top: -5%;
-}
-#chennaiImageDescriptionFourteen {
-    top: -8%;
-}
-#chennaiSubNine {
-    top: 1806vh;
-}
-#ChennaiVideoFour {
-    height: 65vh;
-}
-.chennaiCopyFifteen {
-    top: -2.9%;
-}
-#chennaiThirtyThree {
-    left: 7.6%;
-    top: -14%;
-}
-#chennaiThirtyFour {
-    top: -24%;
-}
-#chennaiGridSix {
-    top: -40%;
-    left: -44.1%;
-}
-#chennaiGridSeven {
-    top: -81.5%;
-    left: -17.3%;
-}
-.chennaiCopySixteen {
-    top: -92%;
-    left: 8.3%;
-
-}
-#ChennaiVideoFive {
-    left: -33.5%;
-    top: 15%;
-    width: 30.2vw;
-    height: 50.3vh;
-}
-#chennaiGridNine {
-    top: -99%;
-}
-.chennaiCopySeventeen {
-    top: -103%;
-}
-#chennaiImageDescriptionSeventeen {
-    top: -97.1%;
-}
-#chennaiSubTen {
-    top: 2044vh;
-}
-.chennaiCopyNineteen {
-    top: -0.5%;
-}
-
-#chennaiSubEleven {
-    top: 2109vh;
-}
-.referenceChennai {
-    font-size: 9px;
-    line-height: 12px;
-}
-.endlineChennaiTwo {
-    top: 7%;
-}
-#chennaiGridTen {
-    top: 27%;
-    left: -32.5%;
-}
-#gridImageSmallChennai {
-    margin-left: 11px;
-}
-.endlineChennaiThree {
-    top: 22%;
-}
-
-.referenceBlockChennaiTwo 
-{
-    top: 9%;
-    left: 35.2%;
-}
-.referenceBlockChennaiThree {
-    top: 25%;
-}
-#chennaiGridEight {
-    top: -95%;
-}
-
-
-#chennaiImageDescriptionNineteen 
-{
-    top: 5%;
-    left: 35.3%;
-    font-size: 9px;
-    line-height: 12px;
-}
-	
-}
-/* height - 1280 x 800*/
-@media(max-width: 1299px) and (min-height: 680px) and (max-height: 801px) {
-	#chennaiSubTwo {
-    top: 271.54px;
-}
-#chennaiOne {
-    top: -73%;
-}
-#chennaiImageDescriptionOne {
-    top: -79%;
-}
-#chennaiSubTwo {
-    top: 88.54px;
-}
-#chennaiGridOne {
-    top: -76.3%;
-    left: -17.3%;
-}
-.chennaiCopyTwo {
-    top: -33%;
-}
-#chennaiSix {
-    position: relative;
-    left: 7.57%;
-    top: -33.8%;
-}
-
-#chennaiTwo {
-    position: relative;
-    left: -16.7%;
-    top: 13%;
-}
-#chennaiThree {
-    top: 24.5%;
-}
-
-#chennaiImageDescriptionThree {
-    top: -42.5%;
-}
-#ChennaiVideoTwo {
-    top: -69.4%;
-    height: 68vh;
-}
-#chennaiGridOne {
-    top: -78%;
-    left: -17.3%;
-}
-#chennaiSubThree {
-    top: 1282.29px;
-}
-.chennaiCopyFive {
-    top: -37%;
-}
-	#chennaiFive {
-    left: -32.7%;
-    top: -6.7%;
-}
-#chennaiFour {
-    left: 7.58%;
-    top: -6.5%;
-}
-#chennaiImageDescriptionTwo {
-    top: -5.6%;
-    left: 8.3%;
-}
-#chennaiImageDescriptionFive {
-    top: -52%;
-}
-#chennaiSeven {
-    left: -33.1%;
-    top: 13%;
-}
-#chennaiEight {
-    left: -32.7%;
-    top: 12.4%;
-}
-	#chennaiNine {
-    left: 7.5%;
-    top: -36%;
+    left: -32.9%;
+    top: -51%;
+    z-index: 0;
+    width: 61.3vw;
 }
 #chennaiEleven {
+    position: relative;
     left: -33.3%;
-    top: -52%;
-}
-#chennaiGridTwo {
-    top: -48%;
-}
-#chennaiGridThree {
-    top: -85%;
-    left: -44.2%;
-}
-.chennaiCopySix {
-    top: -66%;
-}
-
-#chennaiGridThree {
-    top: -80%;
-}
-#chennaiImageDescriptionEight {
-    top: -166%;}
-
-#chennaiFifteen {
-    top: -150.5%;
-}
-#chennaiSixteen {
-    top: -163%;
-}
-#chennaiImageDescriptionSeven {
-    top: -79%;
-}
-#chennaiFourteen {
-    left: 34.4%;
-    top: -63.6%;
-}
-.chennaiCopySeven {
-    top: 11%;
-}
-#chennaiSubFive {
-    top: 1607.34px;
-}
-	#chennaiTwenty {
-    left: 7.4%;
-    top: -7.5%;
-}
-#chennaiTwentyOne {
-    left: 7.4%;
-    top: -7.5%;
-}
-#chennaiTwentyTwo {
-    top: -30%;
-}
-
-#chennaiTwentyThree {
-    left: 7.5%;
-    top: -2.9%;
-}
-#chennaiTwentyTwo {
-    top: -26.2%;
-}
-.chennaiCopyNine {
-    top: -83.5%;
-}
-#chennaiSubFour {
-    top: 2844.6px;
-}
-#chennaiTwentyFour {
-    top: -45%;
-}
-#chennaiTwentyFive {
-    top: -45%;
-}
-	#chennaiSubFive {
-    top: 3581.34px;
-}
-#chennaiSubSix {
-    top: 4601px;
-}
-#chennaiImageDescriptionTen {
-    top: -19.5%;
-}
-.chennaiCopyTen {
-    top: -27.9%;
-}
-#chennaiSubSeven {
-    top: 4731.013px;
-}
-#chennaiTwentySeven {
-    top: 12%;
-}
-.chennaiCopyTwelve {
-    top: -13.2%;
-}
-.chennaiCopyEleven {
-    top: -6%;
-}
-#ChennaiVideoThree {
-    top: -12.2%;
-}
-#chennaiTwentyEight {
-    top: -8.2%;
-}
-#chennaiSubEight {
-    top: 4886.124px;
-}
-#chennaiThirtySix {
-    left: -17.5%;
-}
-.chennaiCopyThirteen {
-    top: -1.5%;
-}
-#chennaiSubNine {
-    top: 8225.088px;
-}
-#ChennaiVideoFour {
-    height: 51vh;
-}
-#chennaiGridSix {
-    top: -29%;
-}
-	#chennaiThirtyThree {
-    left: 7.6%;
-    top: -8%;
-}
-#chennaiThirtyFour {
-    top: -15%;
-}
-.chennaiCopyFifteen {
-    top: 1.1%;
-}
-#chennaiGridSeven {
-    top: -59.5%;
-}
-.chennaiCopySixteen {
-    top: -67%;
-    left: 8.3%;
-}
-#chennaiGridEight {
-    top: -72%;
-}
-#chennaiGridNine {
-    top: -79%;
-}
-#chennaiImageDescriptionSeventeen {
-    top: -79.1%;
-}
-.chennaiCopySeventeen {
-    top: -83%;
-}
-#chennaiSubTen {
-    top: 9536.013px;
-}
-.chennaiCopyNineteen {
-    top: 4.5%;
-}
-#chennaiSubEleven {
-    top: 9635.75px;
-}
-#chennaiGridTen {
-    top: 20%;
-}
-.endlineChennaiThree {
-    top: 15%;
-}
-.referenceBlockChennaiThree {
-    top: 18%;
-}
-	
-}
-
-
-/*------------------1300------------------------*/
-/*1366 x 768*/
-@media (min-width: 1300px) and (max-width: 1399px) 
-{
-	#chennaiSubOne .mainTitle {
-top: 16.8%;
-}
-#chennaiSubOne .copyTextLarger {
-    top: 16.2%;
-}
-#chennaiSubTwo {
-    top: 24vh;
-}
-#chennaiTwo {
-    left: -16.3%;
-    top: 15%;
-    width: 55.5vw;
-}
-
-#chennaiFour {
-    left: 7.65%;
-top: -1%;
-}
-#chennaiImageDescriptionTwo {
-    top: -0.5%;
-}
-#chennaiFive {
-    position: relative;
-    left: -33%;
-    top: -0.7%;
-    z-index: -5;
-    width: 40vw;
-}
-
-#chennaiSix {
-    position: relative;
-    left: 7.8%;
-    top: -28.5%;
+    top: -55%;
     z-index: 0;
+    width: 61vw;
 }
-#chennaiGridOne {
-    top: -67%;
-    left: -17%;
-}
-#chennaiSubThree {
-    top: 192vh;
-}
-#chennaiNine {
-    left: 7.7%;
-    top: -34%;
-}
-#chennaiSeven {
-    top: 13.5%;
-}
-#chennaiEight {
-    top: 13.5%;
-}
-.chennaiCopyFive {
-    top: -34%;
-}
-	#ChennaiVideoTwo {
+#chennaiTwelve {
     position: relative;
-    left: -33%;
-    top: -66%;
-    width: 55.1vw;
-    height: 55.1vh;
+    left: -33.3%;
+    top: -58%;
+    z-index: 0;
+    width: 61vw;
 }
-.chennaiCopyTwo {
+#chennaiImageDescriptionSix {
     position: relative;
-    top: -26%;
-    left: 8.3%;
-    width: 23%;
-}
-#chennaiImageDescriptionFive {
-    top: -54%;
-    left: 35.3%;
-}
-#chennaiSubFour {
-    top: 420vh;
-}
-#chennaiGridTwo {
-    left: -44%;
-}
-#chennaiFourteen {
-    left: 34.5%;
-}
-#chennaiGridThree {
-    top: -77%;
-    left: -44%;
-}
-#chennaiSubFive {
-    top: 541vh;
-}
-.chennaiMapContainerOne {
-    top: 14%;
-}
-#chennaiTwenty {
-    left: 7.6%;
-}
-#chennaiTwentyOne {
-    left: 7.6%;
-}
-#chennaiTwentyFour {
-    left: 34.5%;
-}
-#chennaiTwentyFive {
-    position: relative;
-    left: 34.7%;
-    top: -51.2%;
-    z-index: -5;
-}
-#chennaiTwentyThree {
-    left: 7.6%;
-}
-#chennaiSubSix {
-    top: 696vh;
-}
-#chennaiTwentySix {
-    top: 13%;
-}
-#chennaiGridFour {
-    top: 10%;
-    left: -44%;
-}
-#chennaiSubSeven {
-    top: 727vh;
-}
-#chennaiTwentySeven {
-    left: 7.6%;
-    top: 13%;
-}
-#chennaiTwentyEight {
-    left: 34.7%;
-    top: -10%;
-}
-#chennaiSubEight {
-    top: 741vh;
-}
-#chennaiTwentyNine {
-    left: -15.2%;
-}
-#chennaiThirtySix {
-    left: -20.5%;
-}
-#gridImageMiddleChennaiTwo {
-    width: 23.7vw;
-    margin-left: 10px;
-}
-#chennaiSubNine {
-    top: 1199vh;
-}
-#ChennaiVideoFour {
-    top: 14%;
-}
-#chennaiThirtyThree {
-    left: 7.65%;
-}
-#chennaiGridSix {
-    left: -44%;
-}
-#chennaiGridSeven {
-    top: -65%;
-    left: -17%;
-}
-#chennaiGridEight {
-    top: -74.5%;
-}
-#chennaiSubTen {
-    top: 1344.5vh;
-}
-.chennaiMapContainerTwo {
-    top: 14%;
-}
-#chennaiSubEleven {
-    top: 1368vh;
-}
-#chennaiGridTen {
-    top: 21%;
-}
-#gridImageSmallChennai {
-    width: 14.03vw;
-    margin-left: 9px;
-}
-.endlineChennaiThree {
-    top: 17%;
-}
-.referenceBlockChennaiThree {
-    top: 19%;
-}
-	.chennaiCopyThirteen {
-    position: relative;
-    top: 3%;
+    top: -61%;
     left: 35.3%;
     width: 25%;
 }
-
-
-
-#chennaiImageDescriptionNineteen {
-    top: 5%;
-    left: 35.3%;
-    width: 31%;
-    font-size: 9px;
+#chennaiSubFour {
+    top: 3003px;
 }
-
-.referenceChennai {
-    font-size: 9px;
-    line-height: 12px;
-}
-}
-/*1366 x 695*/
-@media (min-width: 1300px) and (max-width: 1399px) and (min-height: 680px) and (max-height: 749px){
-#chennaiSubOne .copyTextLarger {
-    top: 16.3%;
-}
-#chennaiSubTwo {
-    top: 268.305px;
-}
-#chennaiGridOne {
-    top: -71%;
-    left: -17%;
-}
-	#chennaiThree {
+#chennaiGridTwo {
     position: relative;
-    left: -77.6%;
-    top: 30%;
+    top: -58%;
+    left: -44.7%;
 }
-
-
+.chennaiCopySix {
+    position: relative;
+    top: -75%;
+    left: 8.3%;
+    width: 20%;
+}
+#chennaiGridThree {
+    position: relative;
+    top: -91%;
+    left: -44.7%;
+}
+#chennaiImageDescriptionSeven {
+    position: relative;
+    top: -76%;
+    left: 35.3%;
+    width: 15%;
+}
 #chennaiFifteen {
     position: relative;
     left: 34.6%;
-    top: -161.3%;
+    top: -148.9%;
     z-index: 0;
     width: 31.15vw;
 }
-#chennaiImageDescriptionEight {
-    position: relative;
-    top: -177%;
-    left: 35.3%;
-    width: 25%;
-}
 #chennaiSixteen {
     position: relative;
     left: -33.3%;
-    top: -173%;
+    top: -162%;
     z-index: 0;
     width: 7.5vw;
 }
-
-#chennaiSubThree {
-    top: 1688.29px;
-}
-#chennaiSubFour {
-    top: 3530.08px;
+#chennaiImageDescriptionEight {
+    position: relative;
+    top: -165%;
+    left: 35.3%;
+    width: 25%;
 }
 #chennaiSubFive {
-    top: 4646.34px;
+    top: 3977.634px;
 }
-	#chennaiTwentyOne {
-    left: 7.6%;
-    top: -9%;
-    z-index: -2;
-}
-
 #chennaiTwentyTwo {
-    left: 34.5%;
-    top: -31.6%;
+    position: relative;
+    left: 34.1%;
+    top: -31%;
     z-index: -5;
 }
+.chennaiCopyNine {
+    position: relative;
+    top: -94.5%;
+    left: 8.3%;
+    width: 18%;
+}
 #chennaiTwentyFour {
-    left: 34.5%;
-    top: -55%;
+    position: relative;
+    left: 34.3%;
+    top: -51.9%;
     z-index: -5;
 }
 #chennaiTwentyFive {
     position: relative;
-    left: 34.7%;
-    top: -55%;
-    z-index: -5;
-}
-#chennaiTwentyThree {
-    left: 7.6%;
-    top: -3.4%;
-    z-index: -5;
-}
-
-#chennaiTwentyEight {
-    left: 34.7%;
-    top: -13%;
-}
-.chennaiCopyNine {
-    top: -106.5%;
-}
-#chennaiSubSix {
-    top: 5971px;
-}
-#chennaiSubSeven {
-    top: 6300.013px;
-}
-#chennaiSubEight {
-    top: 6495.124px;
-}
-#chennaiSubNine {
-    top: 10063.088px;
-}
-#chennaiSubTen {
-    top: 11259.013px;
-}
-#chennaiSubEleven {
-    top: 11541.75px;
-}
-.chennaiCopyTwelve {
-    top: -10.5%;
-}
-	#ChennaiVideoThree {
-    top: -10.5%;
-}
-	
-	#chennaiGridTen {
-    top: 35%;
-}
-#ChennaiVideoOne {
-    left: -19%;
-	}
-	
-
-	
-}
-
-
-/*------------------1400------------------------*/
-/*1440 x 768*/
-@media (min-width: 1400px) and (max-width: 1499px) 
-{
-	#chennaiSubOne .copyTextLarger{
-top:17.2%
-}
-#chennaiSubTwo {
-    top: 32.5vh;
-}
-#chennaiTwo {
-    left: -16.35%;
-    top: 14%;
-}
-#chennaiFour {
-    left: 7.65%;
-}
-#chennaiFive {
-    left: -32.8%;
-    top: -5.2%;
-    z-index: -5;
-    width: 40vw;
-}
-#chennaiSix {
-    left: 7.65%;
-}
-#chennaiGridOne {
-    left: -17%;
-}
-#ChennaiVideoTwo {
-    height: 58.2vh;
-}
-#chennaiSubThree {
-    top: 212vh;
-}
-#chennaiNine {
-    left: 7.6%;
-}
-#chennaiSeven {
-    left: -33%;
-    top: 18%;
-}
-#chennaiEight {
-    left: -33%;
-    top: 18%;
-}
-#chennaiImageDescriptionFive {
-    top: -53.5%;
-}
-#chennaiTen {
-    top: -43%;
-width: 61.5vw;
-}
-#chennaiEleven {
-    left: -32.9%;
-    top: -47.5%;
-    width: 61.5vw;
-}
-#chennaiTwelve {
-
-    top: -51.5%;
-}
-#chennaiImageDescriptionSix {
-    top: -56.5%;
-}
-#chennaiSubFour {
-    top: 461vh;
-}
-#chennaiGridTwo {
-    left: -44%;
-}
-#chennaiThirteen {
-    left: -32.9%;
-    top: 14.2%;
-    width: 61.5vw;
-}
-#chennaiFourteen {
-    left: 34.5%;
-}
-#chennaiGridThree {
-    top: -78%;
-    left: -43.95%;
-}
-#chennaiFifteen {
-    top: -159.5%;
-}
-#chennaiSubFive {
-    top: 604vh;
-}
-.chennaiMapContainerOne {
-    top: 14%;
-}
-#chennaiNineteen {
-    left: 18.2%;
-}
-#chennaiTwenty {
-    left: 7.6%;
-}
-#chennaiTwentyOne {
-    left: 7.65%;
-}
-#chennaiTwentyTwo {
-    top: -33%;
-}
-#chennaiTwentyFour {
-    left: 34.6%;
-    top: -54%;
-}
-.chennaiCopyNine {
-    top: -104%;
-}
-#chennaiTwentyThree {
-    left: 7.65%;
-    top: -5.5%;
-}
-#chennaiTwentyFive {
-    left: 34.6%;
-    top: -54.2%;
+    left: 34.2%;
+    top: -52.2%;
     z-index: -5;
 }
 #chennaiSubSix {
-    top: 775.3vh;
-}
-#chennaiTwentySix {
-    top: 13.8%;
-}
-#chennaiGridFour {
-    left: -44%;
-}
-.chennaiCopyTen {
-    top: -34%;
+    top: 4935.387px;
 }
 #chennaiSubSeven {
-    top: 814.5vh;
-}
-#chennaiTwentySeven {
-    left: 7.6%;
-    top: 13%;
+    top: 5214.328px;
 }
 #chennaiTwentyEight {
-    top: -12%;
-}
-.chennaiCopyTwelve {
-    top: -13.5%;
-}
-#ChennaiVideoThree {
-    left: -32.9%;
-    top: -12.5%;
-    width: 55.3vw;
-    height: 58.5vh;
-}
-#chennaiImageDescriptionEleven {
-    top: -17.5%;
+    position: relative;
+    left: 34.7%;
+    top: -7%;
+    z-index: -5;
 }
 #chennaiSubEight {
-    top: 836.2vh;
+    top: 5523.48px;
 }
-#chennaiTwentyNine {
-
-    left: -13%;
-    top: 11%;
-}
-#chennaiThirtySix {
-    left: -20%;
-}
-
 #gridImageMiddleChennaiTwo {
     width: 23.8vw;
-    margin-left: 11px;
+    margin-left: 1px;
+    height: auto;
 }
 #chennaiSubNine {
-    top: 1323.5vh;
-}
-#chennaiThirtyThree {
-    left: 7.6%;
-}
-#chennaiGridSix {
-    left: -44%;
+    top: 8576.554px;
 }
 #chennaiGridSeven {
-    left: -17%;
-}
-#ChennaiVideoFour {
-    left: -32.8%;
-    top: 14.4%;
+    position: relative;
+    top: -51%;
+    left: -17.7%;
 }
 #chennaiSubTen {
-    top: 1482.7vh;
-}
-.chennaiMapContainerTwo {
-    top: 14%;
-}
-#chennaiImageDescriptionEighteen {
-    top: 15.4%;
+    top: 9764.859px;
 }
 .chennaiCopyNineteen {
-    top: 2.7%;
+    position: relative;
+    top: -5.5%;
+    left: 35.3%;
+    width: 21%;
 }
 #chennaiSubEleven {
-    top: 1510vh;
-}
-#gridImageSmallChennai {
-    width: 14vw;
-    margin-left: 10px;
+    top: 1663vh;
 }
 #chennaiGridTen {
-    top: 20%;
+    position: relative;
+    top: 25%;
+    left: -32.65%;
 }
-.endlineChennaiThree {
-    top: 15%;
-}
-.referenceBlockChennaiThree {
-    top: 18%;
-    height: 71%;
-}
-
-#chennaiImageDescriptionNineteen 
-{
-    top: 5%;
-    font-size: 9px;
-}
-
-.referenceChennai 
-{
-    font-size: 9px;
-    line-height: 12px;
-}
-
-}
-/* height - 1440 x 900*/
-@media (min-width: 1400px) and (max-width: 1499px) and (min-height: 851px) and (max-height: 901px){
 	
-#chennaiSubOne .copyTextLarger {
-    top: 14.6%;
 }
+
+/*------------ Tablet Responisve 1024 x 650 ---------------*/
+@media (max-width: 1025px) and (min-height: 648px) 
+and (max-height: 680px)
+{
+	#chennaiSubOne .mainTitle {
+		top: 15.7%;
+	}
+	#chennaiSubOne .copyTextLarger {
+		top: 14.9%;
+	}
+		
+		#ChennaiVideoOne {
+		position: relative;
+		left: -24%;
+		top: -43%;
+		width: 188vw;
+		height: 150vh;
+		z-index: -5;
+	}
+
+	.copyTextLarger {
+		font-size: 20px;
+		line-height: 25px;
+		top: 11.7%;
+	}
+	
+	#chennaiOne {
+		position: relative;
+		left: -32.9%;
+		top: -56%;
+		z-index: 0;
+		width: 55.2vw;
+	}
+	#chennaiImageDescriptionOne {
+		position: relative;
+		top: -60%;
+		left: 8.3%;
+		width: 14%;
+	}
+	
+	#chennaiThree {
+		position: relative;
+		left: -77.6%;
+		top: 28%;
+	}
+	#chennaiImageDescriptionTwo {
+		position: relative;
+		top: -2.5%;
+		left: 8.3%;
+		width: 14%;
+	}
+	#chennaiFour {
+		position: relative;
+		left: 7.2%;
+		top: -3.2%;
+		z-index: 0;
+	}
+	#chennaiFive {
+		position: relative;
+		left: -33%;
+		top: -3.4%;
+		z-index: -5;
+		width: 40vw;
+	}
+	#chennaiImageDescriptionThree {
+		position: relative;
+		top: -33%;
+		left: 8.3%;
+		width: 14%;
+	}
+	#chennaiGridOne {
+		position: relative;
+		top: -62.4%;
+		left: -17.9%;
+	}
+	#chennaiSix {
+		position: relative;
+		left: 7.3%;
+		top: -31.5%;
+		z-index: 0;
+	}
+	#ChennaiVideoTwo {
+		position: relative;
+		left: -33%;
+		top: -60%;
+		width: 55.1vw;
+		height: 55.1vh;
+	}
+	
+	#chennaiImageDescriptionFive {
+		position: relative;
+		top: -39%;
+		left: 35.3%;
+		width: 14%;
+	}
+	#chennaiTen {
+		position: relative;
+		left: -32.9%;
+		top: -39%;
+		z-index: 0;
+		width: 61.3vw;
+	}
+	#chennaiEleven {
+		position: relative;
+		left: -33.3%;
+		top: -44%;
+		z-index: 0;
+		width: 61vw;
+	}
+	#chennaiTwelve {
+		position: relative;
+		left: -33.3%;
+		top: -49%;
+		z-index: 0;
+		width: 61vw;
+	}
+	#chennaiImageDescriptionSix {
+		position: relative;
+		top: -55%;
+		left: 35.3%;
+		width: 25%;
+	}
+	.chennaiCopySix {
+		position: relative;
+		top: -61%;
+		left: 8.3%;
+		width: 20%;
+	}
+	#chennaiGridTwo {
+		position: relative;
+		top: -47%;
+		left: -44.7%;
+	}
+	
+	#chennaiGridThree {
+		position: relative;
+		top: -77%;
+		left: -44.7%;
+	}
+	#chennaiImageDescriptionEight {
+		position: relative;
+		top: -147%;
+		left: 35.3%;
+		width: 25%;
+	}
+	
+	#chennaiImageDescriptionSeven {
+		position: relative;
+		top: -67%;
+		left: 35.3%;
+		width: 15%;
+	}
+	#chennaiFourteen {
+		position: relative;
+		left: 34.3%;
+		top: -54%;
+		z-index: 0;
+	}
+	#chennaiSixteen {
+		position: relative;
+		left: -33.3%;
+		top: -143%;
+		z-index: 0;
+		width: 7.5vw;
+	}
+	
+	#chennaiTwentyOne {
+		position: relative;
+		left: 7.4%;
+		top: -11%;
+		z-index: -2;
+	}
+	#chennaiTwenty {
+		position: relative;
+		left: 7.3%;
+		top: -9.7%;
+		z-index: 0;
+	}
+	#chennaiTwentyFour {
+		position: relative;
+		left: 34.3%;
+		top: -42%;
+		z-index: -5;
+	}
+	#chennaiTwentyTwo {
+		position: relative;
+		left: 34.1%;
+		top: -26.5%;
+		z-index: -5;
+	}
+	#chennaiTwentyFive {
+		position: relative;
+		left: 34.2%;
+		top: -42.2%;
+		z-index: -5;
+	}
+	#chennaiTwentyThree {
+		position: relative;
+		left: 7.3%;
+		top: -7%;
+		z-index: -5;
+	}
+	.chennaiCopyNine {
+		position: relative;
+		top: -74.5%;
+		left: 8.3%;
+		width: 18%;
+	}
+	#chennaiSubSix {
+		top: 3207.387px;
+	}
+	.chennaiCopyTen {
+		position: relative;
+		top: -24%;
+		left: 35.25%;
+		width: 25%;
+	}
+	#chennaiImageDescriptionTen {
+		position: relative;
+		top: -22%;
+		left: 35.25%;
+		width: 15%;
+	}
+	#chennaiGridFour {
+		position: relative;
+		top: 9%;
+		left: -44.7%;
+	}
+	
+	.chennaiCopyEleven {
+		position: relative;
+		top: 18%;
+		left: 8.3%;
+		width: 18%;
+	}
+	#chennaiTwentyEight {
+		position: relative;
+		left: 34.7%;
+		top: -2%;
+		z-index: -5;
+	}
+	.chennaiCopyTwelve {
+		position: relative;
+		top: 3%;
+		left: 35.3%;
+		width: 25%;
+	}
+	#ChennaiVideoThree {
+		position: relative;
+		left: -33%;
+		top: 5%;
+		width: 55vw;
+		height: 55vh;
+	}
+	#chennaiImageDescriptionEleven {
+		position: relative;
+		top: 1%;
+		left: 35.25%;
+		width: 15%;
+	}
+	
+	#chennaiImageDescriptionTwelve {
+		position: relative;
+		top: 22%;
+		left: 8.3%;
+		width: 15%;
+	}
+
+	#chennaiImageDescriptionThirteen {
+		position: relative;
+		top: -9%;
+		left: 8.3%;
+		width: 15%;
+	}
+	
+	#chennaiGridSeven {
+		position: relative;
+		top: -60%;
+		left: -16.3%;
+	}
+	#chennaiThirtyThree {
+		position: relative;
+		left: 7.1%;
+		top: -5%;
+	}#chennaiThirtyFour {
+		position: relative;
+		left: -32.7%;
+		top: -10%;
+		z-index: -5;
+		width: 62vw;
+	}
+	#chennaiThirtyFour {
+		position: relative;
+		left: -32.7%;
+		top: -10%;
+		z-index: -5;
+		width: 62vw;
+	}
+	#chennaiGridSix {
+		position: relative;
+		top: -21%;
+		left: -45%;
+	}
+	.chennaiCopySixteen {
+		position: relative;
+		top: -54.5%;
+		left: 8.3%;
+		width: 25%;
+	}
+	#chennaiGridEight {
+		position: relative;
+		top: -58%;
+		left: 0.7%;
+	}
+	#chennaiGridNine {
+		position: relative;
+		top: -64%;
+		left: 0.7%;
+	}
+	#chennaiImageDescriptionSeventeen {
+		position: relative;
+		top: -66.5%;
+		left: 35.3%;
+		width: 15%;
+	}
+	.chennaiCopySeventeen {
+		position: relative;
+		top: -71%;
+		left: 8.3%;
+		width: 18%;
+	}
+	
+	#chennaiImageDescriptionNineteen {
+		position: relative;
+		top: 5%;
+		left: 35.3%;
+		width: 31%;
+		font-size: 9px;
+	}
+	.referenceChennai {
+		position: relative;
+		font-family: 'Roboto', sans-serif;
+		font-weight: 300;
+		font-size: 9px;
+		line-height: 11px;
+		width: 30%;
+		height: 50%;
+		text-align: left;
+	}
+	#gridImageSmallChennai {
+		width: 13.75vw;
+		margin-left: 6.8px;
+		margin-right: 0px;
+		height: auto;
+	}
+		#chennaiSubTwo {
+		top: 183px;
+	}
+	
+	#chennaiSubThree {
+		top: 1473.785px;
+	}
+	#chennaiImageDescriptionFive {
+		position: relative;
+		top: -55%;
+		left: 35.3%;
+		width: 14%;
+	}
+	#chennaiTen {
+		position: relative;
+		left: -32.9%;
+		top: -51%;
+		z-index: 0;
+		width: 61.3vw;
+	}
+	#chennaiEleven {
+		position: relative;
+		left: -33.3%;
+		top: -55%;
+		z-index: 0;
+		width: 61vw;
+	}
+	#chennaiTwelve {
+		position: relative;
+		left: -33.3%;
+		top: -58%;
+		z-index: 0;
+		width: 61vw;
+	}
+	#chennaiImageDescriptionSix {
+		position: relative;
+		top: -61%;
+		left: 35.3%;
+		width: 25%;
+	}
+	#chennaiSubFour {
+		top: 3003px;
+	}
+	#chennaiGridTwo {
+		position: relative;
+		top: -58%;
+		left: -44.7%;
+	}
+	.chennaiCopySix {
+		position: relative;
+		top: -75%;
+		left: 8.3%;
+		width: 20%;
+	}
+	#chennaiGridThree {
+		position: relative;
+		top: -91%;
+		left: -44.7%;
+	}
+	#chennaiImageDescriptionSeven {
+		position: relative;
+		top: -76%;
+		left: 35.3%;
+		width: 15%;
+	}
+	#chennaiFifteen {
+		position: relative;
+		left: 34.6%;
+		top: -143.9%;
+		z-index: 0;
+		width: 31.15vw;
+	}
+	#chennaiSixteen {
+		position: relative;
+		left: -33.3%;
+		top: -162%;
+		z-index: 0;
+		width: 7.5vw;
+	}
+	#chennaiImageDescriptionEight {
+		position: relative;
+		top: -159%;
+		left: 35.3%;
+		width: 25%;	
+	}
+	#chennaiSubFive {
+		top: 3880px;
+	}
+	#chennaiTwentyTwo {
+		position: relative;
+		left: 34.1%;
+		top: -31%;
+		z-index: -5;
+	}
+	.chennaiCopyNine {
+		position: relative;
+		top: -88.5%;
+		left: 8.3%;
+		width: 18%;	
+	}
+	#chennaiTwentyFour {
+		position: relative;
+		left: 34.3%;
+		top: -48.9%;
+		z-index: -5;
+	}
+	#chennaiTwentyFive {
+		position: relative;
+		left: 34.2%;
+		top: -44.2%;
+		z-index: -5;
+	}
+	#chennaiSubSix {
+		top: 4935.387px;
+	}
+	#chennaiSubSeven {
+		top: 5214.328px;
+	}
+	#chennaiTwentyEight {
+		position: relative;
+		left: 34.7%;
+		top: -7%;
+		z-index: -5;
+	}
+	#chennaiSubEight {
+		top: 5523.48px;
+	}
+	#gridImageMiddleChennaiTwo {
+		width: 23.8vw;
+		margin-left: 1px;
+		height: auto;
+	}
+	#chennaiSubNine {
+		top: 8576.554px;
+	}
+	#chennaiGridSeven {
+		position: relative;
+		top: -51%;
+		left: -17.7%;
+	}
+	#chennaiSubTen {
+		top: 9764.859px;
+	}
+	.chennaiCopyNineteen {
+		position: relative;
+		top: -5.5%;
+		left: 35.3%;
+		width: 21%;
+	}
+	#chennaiSubEleven {
+		top: 1520vh;
+	}
+	#chennaiGridTen {
+		position: relative;
+		top: 25%;
+		left: -32.65%;
+	}
+
+	.endlineChennaiThree {
+		top: 19%;
+	}
+
+	.referenceBlockChennaiThree {
+		top: 21%;
+	}
+}
+
+/*------------ Tablet Responisve 1024 x 768 ---------------*/
+@media (max-width: 1025px) and (min-height: 681px) and (max-height: 780px) {
+
+#ChennaiVideoOne {
+    position: relative;
+    left: -24%;
+    top: -43%;
+    width: 188vw;
+    height: 150vh;
+    z-index: -5;
+}
+	#chennaiFifteen {
+    position: relative;
+    left: 34.6%;
+    top: -128.9%;
+    z-index: 0;
+    width: 31.15vw;
+}
+
+.copyTextLarger {
+    font-size: 20px;
+    line-height: 25px;
+    top: 11.7%;
+}
+
 #chennaiOne {
     position: relative;
     left: -32.9%;
-    top: -49%;
+    top: -56%;
     z-index: 0;
     width: 55.2vw;
 }
 #chennaiImageDescriptionOne {
     position: relative;
-    top: -54%;
+    top: -63%;
     left: 8.3%;
     width: 14%;
 }
 #chennaiSubTwo {
-    top: 108.305px;
+    top: 41px;
+}
+#chennaiThree {
+    position: relative;
+    left: -77.6%;
+    top: 24%;
+}
+#chennaiImageDescriptionTwo {
+    position: relative;
+    top: -2.5%;
+    left: 8.3%;
+    width: 14%;
+}
+#chennaiFour {
+    position: relative;
+    left: 7.2%;
+    top: -3.2%;
+    z-index: 0;
+}
+#chennaiFive {
+    position: relative;
+    left: -33%;
+    top: -3.4%;
+    z-index: -5;
+    width: 40vw;
+}
+#chennaiImageDescriptionThree {
+    position: relative;
+    top: -33%;
+    left: 8.3%;
+    width: 14%;
+}
+#chennaiGridOne {
+    position: relative;
+    top: -62.4%;
+    left: -17.9%;
+}
+#chennaiSix {
+    position: relative;
+    left: 7.3%;
+    top: -31.5%;
+    z-index: 0;
+}
+#ChennaiVideoTwo {
+    position: relative;
+    left: -33%;
+    top: -60%;
+    width: 55.1vw;
+    height: 55.1vh;
 }
 #chennaiSubThree {
-    top: 1259.29px;
+    top: 946.785px;
+}
+#chennaiImageDescriptionFive {
+    position: relative;
+    top: -39%;
+    left: 35.3%;
+    width: 14%;
+}
+#chennaiTen {
+    position: relative;
+    left: -32.9%;
+    top: -39%;
+    z-index: 0;
+    width: 61.3vw;
+}
+#chennaiEleven {
+    position: relative;
+    left: -33.3%;
+    top: -44%;
+    z-index: 0;
+    width: 61vw;
+}
+#chennaiTwelve {
+    position: relative;
+    left: -33.3%;
+    top: -49%;
+    z-index: 0;
+    width: 61vw;
+}
+#chennaiImageDescriptionSix {
+    position: relative;
+    top: -55%;
+    left: 35.3%;
+    width: 25%;
+}
+.chennaiCopySix {
+    position: relative;
+    top: -61%;
+    left: 8.3%;
+    width: 20%;
+}
+#chennaiGridTwo {
+    position: relative;
+    top: -47%;
+    left: -44.7%;
+}
+#chennaiSubFour {
+    top: 2176px;
+}
+#chennaiGridThree {
+    position: relative;
+    top: -77%;
+    left: -44.7%;
+}
+#chennaiImageDescriptionEight {
+    position: relative;
+    top: -147%;
+    left: 35.3%;
+    width: 25%;
+}
+
+#chennaiImageDescriptionSeven {
+    position: relative;
+    top: -67%;
+    left: 35.3%;
+    width: 15%;
+}
+#chennaiFourteen {
+    position: relative;
+    left: 34.3%;
+    top: -54%;
+    z-index: 0;
+}
+#chennaiSixteen {
+    position: relative;
+    left: -33.3%;
+    top: -143%;
+    z-index: 0;
+    width: 7.5vw;
+}
+#chennaiSubFive {
+    top: 2623.634px;
+}
+#chennaiTwentyOne {
+    position: relative;
+    left: 7.4%;
+    top: -11%;
+    z-index: -2;
+}
+#chennaiTwenty {
+    position: relative;
+    left: 7.3%;
+    top: -9.7%;
+    z-index: 0;
+}
+#chennaiTwentyFour {
+    position: relative;
+    left: 34.3%;
+    top: -42%;
+    z-index: -5;
+}
+#chennaiTwentyTwo {
+    position: relative;
+    left: 34.1%;
+    top: -26.5%;
+    z-index: -5;
+}
+#chennaiTwentyFive {
+    position: relative;
+    left: 34.2%;
+    top: -42.2%;
+    z-index: -5;
+}
+#chennaiTwentyThree {
+    position: relative;
+    left: 7.3%;
+    top: -7%;
+    z-index: -5;
+}
+.chennaiCopyNine {
+    position: relative;
+    top: -74.5%;
+    left: 8.3%;
+    width: 18%;
+}
+#chennaiSubSix {
+    top: 3207.387px;
+}
+.chennaiCopyTen {
+    position: relative;
+    top: -24%;
+    left: 35.25%;
+    width: 25%;
+}
+#chennaiImageDescriptionTen {
+    position: relative;
+    top: -22%;
+    left: 35.25%;
+    width: 15%;
+}
+#chennaiGridFour {
+    position: relative;
+    top: 9%;
+    left: -44.7%;
+}
+#chennaiSubSeven {
+    top: 3139.328px;
+}
+.chennaiCopyEleven {
+    position: relative;
+    top: 0%;
+    left: 8.3%;
+    width: 18%;
+}
+#chennaiTwentyEight {
+    position: relative;
+    left: 34.7%;
+    top: -2%;
+    z-index: -5;
+}
+.chennaiCopyTwelve {
+    position: relative;
+    top: -6%;
+    left: 35.3%;
+    width: 25%;
+}
+#ChennaiVideoThree {
+    position: relative;
+    left: -33%;
+    top: -5%;
+    width: 55vw;
+    height: 55vh;
+}
+#chennaiImageDescriptionEleven {
+    position: relative;
+    top: -10%;
+    left: 35.25%;
+    width: 15%;
+}
+#chennaiSubEight {
+    top: 3135.48px;
+}
+#chennaiImageDescriptionTwelve {
+    position: relative;
+    top: 22%;
+    left: 8.3%;
+    width: 15%;
+}
+#chennaiSubNine {
+    top: 5939.554px;
+}
+#chennaiGridSeven {
+    position: relative;
+    top: -60%;
+    left: -16.3%;
+}
+#chennaiThirtyThree {
+    position: relative;
+    left: 7.1%;
+    top: -5%;
+}#chennaiThirtyFour {
+    position: relative;
+    left: -32.7%;
+    top: -10%;
+    z-index: -5;
+    width: 62vw;
+}
+#chennaiThirtyFour {
+    position: relative;
+    left: -32.7%;
+    top: -10%;
+    z-index: -5;
+    width: 62vw;
+}
+#chennaiGridSix {
+    position: relative;
+    top: -21%;
+    left: -45%;
+}
+.chennaiCopySixteen {
+    position: relative;
+    top: -54.5%;
+    left: 8.3%;
+    width: 25%;
+}
+#chennaiGridEight {
+    position: relative;
+    top: -58%;
+    left: 0.7%;
+}
+#chennaiGridNine {
+    position: relative;
+    top: -64%;
+    left: 0.7%;
+}
+#chennaiImageDescriptionSeventeen {
+    position: relative;
+    top: -66.5%;
+    left: 35.3%;
+    width: 15%;
+}
+.chennaiCopySeventeen {
+    position: relative;
+    top: -71%;
+    left: 8.3%;
+    width: 18%;
+}
+#chennaiSubTen {
+    top: 6825.859px;
+}
+#chennaiSubEleven {
+    top: 887vh;
+}
+#chennaiImageDescriptionNineteen {
+    position: relative;
+    top: 5%;
+    left: 35.3%;
+    width: 31%;
+    font-size: 9px;
+}
+.referenceChennai {
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 9px;
+    line-height: 11px;
+    width: 30%;
+    height: 50%;
+    text-align: left;
+}
+#gridImageSmallChennai {
+    width: 13.75vw;
+    margin-left: 6.8px;
+    margin-right: 0px;
+    height: auto;
+}
+}
+
+/*-----------------------1200s------------------*/
+/*1280 x 582*/
+@media (min-width: 1026px) and (max-width: 1299px) {
+#ChennaiVideoOne {
+	top: -49%;
+	height: 180vh;
+}
+#chennaiOne {
+	top: -60%;
+}
+#chennaiImageDescriptionOne {
+	top: -64%;
+}
+#chennaiSubTwo {
+	top: 70vh;
+}
+#chennaiTwo {
+	position: relative;
+	left: -16.7%;
+	top: 12%;
+	z-index: 0;
+	width: 55.4vw;
+}
+#chennaiThree {
+	top: 27.5%;
+}
+#chennaiFour {
+	left: 7.58%;
+	top: -13.2%;
+}
+#chennaiImageDescriptionTwo {
+	top: -11.6%;
+	left: 8.3%;
+}
+#chennaiFive {
+	left: -32.7%;
+	top: -13%;
+}
+#chennaiImageDescriptionThree {
+	top: -51.5%;
+}
+#chennaiSix {
+	position: relative;
+	left: 7.57%;
+	top: -47%;
+}
+#chennaiGridOne {
+	top: -97.8%;
+	left: -17.4%;
+}
+.chennaiCopyTwo {
+	top: -47%;
+}
+#ChennaiVideoTwo {
+	top: -96.5%;
+	height: 68vh;
+}
+#chennaiSubThree {
+	top: 300vh;
+}
+#chennaiNine {
+	left: 7.5%;
+	top: -39%;
+}
+#chennaiSeven {
+	left: -33.1%;
+	top: 18%;
+}
+#chennaiEight {
+	left: -32.7%;
+	top: 17.4%;
+}
+.chennaiCopyFive {
+	top: -36%;
+}
+#chennaiImageDescriptionFive {
+	top: -64%;
+}
+#chennaiTen {
+	top: -49%;
+}
+#chennaiSubFour {
+	top: 640vh;
+}
+#chennaiTwelve {
+	left: -33.3%;
+	top: -54.4%;
+}
+#chennaiThirteen {
+	top: 17.5%;
+	left: -32.7%;
+	width: 61.8vw;
+}
+#chennaiGridTwo {
+	position: relative;
+	top: -63%;
+	left: -44.2%;
+}
+.chennaiCopySeven {
+	top: 14%;
+}
+#chennaiFourteen {
+	left: 34.4%;
+	top: -80%;
+}
+.chennaiCopySix {
+	top: -86%;
+}
+#chennaiImageDescriptionSeven {
+	top: -100%;
+}
+#chennaiGridThree {
+	top: -100%;
+	left: -44.2%;
 }
 #chennaiFifteen {
-    top: -147.5%;
+	top: -194.5%;
+}
+#chennaiSixteen {
+	top: -207%;
+}
+#chennaiImageDescriptionEight {
+	top: -210%;
+	width: 21%;
+}
+#chennaiSubFive {
+	top: 835vh;
+}
+#chennaiNineteen {
+	left: 17.7%;
+}
+#chennaiTwenty {
+	left: 7.4%;
+	top: -17.5%;
+}
+#chennaiTwentyOne {
+	left: 7.4%;
+	top: -17.5%;
+}
+#chennaiTwentyTwo {
+	top: -43%;
+}
+.chennaiCopyNine {
+	top: -125%;
+}
+#chennaiTwentyFour {
+	left: 34.5%;
+	top: -68%;
+}
+#chennaiTwentyFive {
+	left: 34.5%;
+	top: -68%;
+}
+#chennaiTwentyThree {
+	left: 7.5%;
+	top: -10.1%;
+}
+#chennaiSubSix {
+	top: 1064vh;
+}
+#chennaiGridFour {
+	left: -44.2%;
+}
+.chennaiCopyTen {
+	top: -41.3%;
+}
+#chennaiImageDescriptionTen {
+	top: -35.5%;
+}
+#chennaiSubSeven {
+	top: 1136vh;
+}
+#chennaiTwentySeven {
+	left: 7.55%;
+}
+#chennaiTwentyEight {
+	top: -16%;
+}
+.chennaiCopyEleven {
+	top: -8%;
+}
+.chennaiCopyTwelve {
+	top: -17.2%;
+}
+#ChennaiVideoThree {
+	top: -15%;
+	height: 68vh;
+}
+#chennaiImageDescriptionEleven {
+	top: -18%;
+}
+#chennaiSubEight {
+	top: 1206vh;
+}
+#chennaiThirty {
+	left: -82%;
+	top: 30%;
+	width: 11vw;
+}
+#chennaiImageDescriptionTwelve {
+	top: 30%;
+}
+.chennaiCopyThirteen {
+	top: -2.6%;
+}
+#chennaiImageDescriptionTwelve {
+	position: relative;
+	top: 24%;
+	left: 8.3%;
+	width: 15%;
+}
+#chennaiGridFive {
+	position: relative;
+	top: -2%;
+	left: -38.9%;
+}
+#gridImageMiddleChennaiTwo {
+	margin-left: 9px;
+}
+#chennaiImageDescriptionThirteen {
+	top: -7.5%;
+}
+.chennaiCopyFourteen {
+	top: -9%;
+}
+#chennaiThirtyOne {
+	left: -32.78%;
+	top: -5%;
+}
+#chennaiImageDescriptionFourteen {
+	top: -8%;
+}
+#chennaiSubNine {
+	top: 1806vh;
+}
+#ChennaiVideoFour {
+	height: 65vh;
+}
+.chennaiCopyFifteen {
+	top: -2.9%;
+}
+#chennaiThirtyThree {
+	left: 7.6%;
+	top: -14%;
+}
+#chennaiThirtyFour {
+	top: -24%;
+}
+#chennaiGridSix {
+	top: -40%;
+	left: -44.1%;
+}
+#chennaiGridSeven {
+	top: -81.5%;
+	left: -17.3%;
+}
+.chennaiCopySixteen {
+	top: -92%;
+	left: 8.3%;
+}
+#ChennaiVideoFive {
+	left: -33.5%;
+	top: 15%;
+	width: 30.2vw;
+	height: 50.3vh;
+}
+#chennaiGridNine {
+	top: -99%;
+}
+.chennaiCopySeventeen {
+	top: -103%;
+}
+#chennaiImageDescriptionSeventeen {
+	top: -97.1%;
+}
+#chennaiSubTen {
+	top: 2044vh;
+}
+.chennaiCopyNineteen {
+	top: -0.5%;
+}
+#chennaiSubEleven {
+	top: 2109vh;
+}
+.referenceChennai {
+	font-size: 9px;
+	line-height: 12px;
+}
+.endlineChennaiTwo {
+	top: 7%;
+}
+#chennaiGridTen {
+	top: 27%;
+	left: -32.5%;
+}
+#gridImageSmallChennai {
+	margin-left: 11px;
+}
+.endlineChennaiThree {
+	top: 22%;
+}
+.referenceBlockChennaiTwo {
+	top: 9%;
+	left: 35.2%;
+}
+.referenceBlockChennaiThree {
+	top: 25%;
+}
+#chennaiGridEight {
+	top: -95%;
+}
+#chennaiImageDescriptionNineteen {
+	top: 5%;
+	left: 35.3%;
+	font-size: 9px;
+	line-height: 12px;
+}
+}
+
+/*1280 x 800*/
+@media (min-width: 1026px) and (max-width: 1299px) and (min-height: 680px) and (max-height: 801px) {
+#chennaiSubTwo {
+	top: 271.54px;
+}
+#chennaiOne {
+	top: -73%;
+}
+#chennaiImageDescriptionOne {
+	top: -79%;
+}
+
+#chennaiGridOne {
+	top: -76.3%;
+	left: -17.3%;
+}
+.chennaiCopyTwo {
+	top: -33%;
+}
+#chennaiSix {
+	position: relative;
+	left: 7.57%;
+	top: -33.8%;
+}
+#chennaiTwo {
+	position: relative;
+	left: -16.7%;
+	top: 13%;
+}
+#chennaiThree {
+	top: 24.5%;
+}
+#chennaiImageDescriptionThree {
+	top: -42.5%;
+}
+#ChennaiVideoTwo {
+	top: -69.4%;
+	height: 68vh;
+}
+#chennaiGridOne {
+	top: -78%;
+	left: -17.3%;
+}
+
+.chennaiCopyFive {
+	top: -37%;
+}
+#chennaiFive {
+	left: -32.7%;
+	top: -6.7%;
+}
+#chennaiFour {
+	left: 7.58%;
+	top: -6.5%;
+}
+#chennaiImageDescriptionTwo {
+	top: -5.6%;
+	left: 8.3%;
+}
+#chennaiImageDescriptionFive {
+	top: -52%;
+}
+#chennaiSeven {
+	left: -33.1%;
+	top: 13%;
+}
+#chennaiEight {
+	left: -32.7%;
+	top: 12.4%;
+}
+#chennaiNine {
+	left: 7.5%;
+	top: -36%;
+}
+#chennaiEleven {
+	left: -33.3%;
+	top: -52%;
+}
+#chennaiGridTwo {
+	top: -48%;
+}
+#chennaiGridThree {
+	top: -85%;
+	left: -44.2%;
+}
+.chennaiCopySix {
+	top: -66%;
+}
+#chennaiGridThree {
+	top: -80%;
+}
+#chennaiImageDescriptionEight {
+	top: -166%;
+}
+#chennaiFifteen {
+	top: -150.5%;
+}
+#chennaiSixteen {
+	top: -163%;
+}
+#chennaiImageDescriptionSeven {
+	top: -79%;
+}
+#chennaiFourteen {
+	left: 34.4%;
+	top: -63.6%;
+}
+.chennaiCopySeven {
+	top: 11%;
+}
+
+#chennaiTwenty {
+	left: 7.4%;
+	top: -7.5%;
+}
+#chennaiTwentyOne {
+	left: 7.4%;
+	top: -7.5%;
+}
+#chennaiTwentyTwo {
+	top: -30%;
+}
+#chennaiTwentyThree {
+	left: 7.5%;
+	top: -2.9%;
+}
+#chennaiTwentyTwo {
+	top: -26.2%;
+}
+.chennaiCopyNine {
+	top: -83.5%;
+}
+
+#chennaiTwentyFour {
+	top: -45%;
+}
+#chennaiTwentyFive {
+	top: -45%;
+}
+
+
+#chennaiImageDescriptionTen {
+	top: -19.5%;
+}
+.chennaiCopyTen {
+	top: -27.9%;
+}
+
+#chennaiTwentySeven {
+	top: 12%;
+}
+.chennaiCopyTwelve {
+	top: -13.2%;
+}
+.chennaiCopyEleven {
+	top: -6%;
+}
+#ChennaiVideoThree {
+	top: -12.2%;
+}
+#chennaiTwentyEight {
+	top: -8.2%;
+}
+
+#chennaiThirtySix {
+	left: -17.5%;
+}
+.chennaiCopyThirteen {
+	top: -1.5%;
+}
+
+#ChennaiVideoFour {
+	height: 51vh;
+}
+#chennaiGridSix {
+	top: -29%;
+}
+#chennaiThirtyThree {
+	left: 7.6%;
+	top: -8%;
+}
+#chennaiThirtyFour {
+	top: -15%;
+}
+.chennaiCopyFifteen {
+	top: 1.1%;
+}
+#chennaiGridSeven {
+	top: -59.5%;
+}
+.chennaiCopySixteen {
+	top: -67%;
+	left: 8.3%;
+}
+#chennaiGridEight {
+	top: -72%;
+}
+#chennaiGridNine {
+	top: -79%;
+}
+
+#chennaiThirty {
+    left: -82%;
+    top: 21%;
+    width: 11vw;
+}
+#chennaiImageDescriptionSeventeen {
+	top: -79.1%;
+}
+.chennaiCopySeventeen {
+	top: -83%;
+}
+
+.chennaiCopyNineteen {
+	top: 4.5%;
+}
+
+#chennaiGridTen {
+	top: 20%;
+}
+.endlineChennaiThree {
+	top: 15%;
+}
+.referenceBlockChennaiThree {
+	top: 18%;
+}
+	
+#chennaiSubTwo {
+    top: 92px;
+}
+#chennaiGridOne {
+    top: -71.3%;
+    left: -17.3%;
+}
+#chennaiSubThree {
+    top: 1294.49px;
+}
+#chennaiSubFour {
+    top: 2856.1px;
+}
+#chennaiSubFive {
+    top: 3592.56px;
+}
+#chennaiSubSix {
+    top: 4612.78px;
+}
+#chennaiSubSeven {
+    top: 4746.2px;
+}
+#chennaiSubEight {
+    top: 4904.496px;
+}
+#chennaiSubNine {
+    top: 8243.2px;
+}
+#chennaiSubTen {
+    top: 9554.5px;
+}
+#chennaiSubEleven {
+    top: 9654.68px;
+}
+}
+
+/*------------ SAXON BREAKPOINT 1 1280 x 689 ---------------*/
+@media (min-width: 1026px) and (max-width: 1299px) and (min-height: 680px) and (max-height: 766px) {
+	#chennaiOne {
+    top: -68%;
+}
+	.copyTextLarger {
+    font-size: 23px;
+    line-height: 25px;
+    top: 16.6%;
+}
+#chennaiImageDescriptionOne {
+    top: -74%;
+}
+#chennaiSubTwo {
+    top: 228px;
+}
+#chennaiThree {
+    top: 26.5%;
+}
+#chennaiSubThree {
+    top: 1612.49px;
+}
+#chennaiSubFour {
+    top: 3356.1px;
+}
+#chennaiSubFive {
+    top: 4489.56px;
+}
+#chennaiTwentyTwo {
+    top: -28.8%;
+}
+#chennaiTwentyFour {
+    top: -49%;
+}
+#chennaiTwentyFive {
+    top: -48%;
+}
+#chennaiTwentyThree {
+    left: 7.5%;
+    top: 0.7%;
+}
+.chennaiCopyNine {
+    top: -91.5%;
+}
+#chennaiSubSix {
+    top: 5730.78px;
+}
+#chennaiSubSeven {
+    top: 6055.2px;
+}
+#chennaiTwentyEight {
+    top: -11.2%;
+}
+#chennaiSubEight {
+    top: 6334.496px;
+}
+#chennaiSubNine {
+    top: 9747.2px;
+}
+#chennaiSubTen {
+    top: 11141.5px;
+}
+#chennaiSubEleven {
+    top: 11401.68px;
+}
+}
+
+/*------------ SAXON BREAKPOINT 2 1280 x 768 ---------------*/
+@media (min-width: 1026px) and (max-width: 1299px) and (min-height: 767px) and (max-height: 798px) {
+	.copyTextLarger {
+    font-size: 23px;
+    line-height: 25px;
+    top: 15%;
+}
+	
+	#chennaiSubTwo {
+    top: 116px;
+}
+#chennaiSubThree {
+    top: 1365.49px;
+}
+#chennaiSubFour {
+    top: 2973.1px;
+}
+#chennaiSubFive {
+    top: 3823.56px;
+}
+#chennaiTwentyTwo {
+    top: -26.9%;
+}
+#chennaiTwentyFour {
+    top: -46%;
+}
+#chennaiTwentyFive {
+    top: -46.5%;
+}
+#chennaiSubSix {
+    top: 4902.78px;
+}
+#chennaiSubSeven {
+    top: 5088.2px;
+}
+#chennaiSubEight {
+    top: 5284.496px;
+}
+#chennaiSubNine {
+    top: 8648.2px;
+}
+#chennaiSubTen {
+    top: 9986.5px;
+}
+#chennaiSubEleven {
+    top: 10136.68px;
+}
+}
+
+/*------------------1300------------------------*/
+/*1366 x 768*/
+@media (min-width: 1300px) and (max-width: 1399px) {
+#chennaiSubOne .mainTitle {
+	top: 16.8%;
+}
+#chennaiSubOne .copyTextLarger {
+	top: 16.2%;
+}
+
+#chennaiTwo {
+	left: -16.3%;
+	top: 15%;
+	width: 55.5vw;
+}
+#chennaiFour {
+	left: 7.65%;
+	top: -1%;
+}
+#chennaiImageDescriptionTwo {
+	top: -0.5%;
+}
+#chennaiFive {
+	position: relative;
+	left: -33%;
+	top: -0.7%;
+	z-index: -5;
+	width: 40vw;
+}
+#chennaiSix {
+	position: relative;
+	left: 7.8%;
+	top: -28.5%;
+	z-index: 0;
+}
+#chennaiGridOne {
+	top: -67%;
+	left: -17%;
+}
+#chennaiNine {
+	left: 7.7%;
+	top: -34%;
+}
+#chennaiSeven {
+	top: 13.5%;
+}
+#chennaiEight {
+	top: 13.5%;
+}
+.chennaiCopyFive {
+	top: -34%;
+}
+#ChennaiVideoTwo {
+	position: relative;
+	left: -33%;
+	top: -66%;
+	width: 55.1vw;
+	height: 55.1vh;
+}
+.chennaiCopyTwo {
+	position: relative;
+	top: -26%;
+	left: 8.3%;
+	width: 23%;
+}
+#chennaiImageDescriptionFive {
+	top: -54%;
+	left: 35.3%;
+}
+
+#chennaiGridTwo {
+	left: -44%;
+}
+#chennaiFourteen {
+	left: 34.5%;
+}
+#chennaiGridThree {
+	top: -77%;
+	left: -44%;
+}
+
+.chennaiMapContainerOne {
+	top: 14%;
+}
+#chennaiTwenty {
+	left: 7.6%;
+}
+#chennaiTwentyOne {
+	left: 7.6%;
+}
+#chennaiTwentyFour {
+	left: 34.5%;
+}
+#chennaiTwentyFive {
+	position: relative;
+	left: 34.7%;
+	top: -51.2%;
+	z-index: -5;
+}
+#chennaiTwentyThree {
+	left: 7.6%;
+}
+
+#chennaiTwentySix {
+	top: 13%;
+}
+#chennaiGridFour {
+	top: 10%;
+	left: -44%;
+}
+
+#chennaiTwentySeven {
+	left: 7.6%;
+	top: 13%;
+}
+#chennaiTwentyEight {
+	left: 34.7%;
+	top: -10%;
+}
+
+#chennaiTwentyNine {
+	left: -15.2%;
+}
+#chennaiThirtySix {
+	left: -20.5%;
+}
+#gridImageMiddleChennaiTwo {
+	width: 23.7vw;
+	margin-left: 10px;
+}
+
+#ChennaiVideoFour {
+	top: 14%;
+}
+#chennaiThirtyThree {
+	left: 7.65%;
+}
+#chennaiGridSix {
+	left: -44%;
+}
+#chennaiGridSeven {
+	top: -65%;
+	left: -17%;
+}
+#chennaiGridEight {
+	top: -74.5%;
+}
+
+.chennaiMapContainerTwo {
+	top: 14%;
+}
+
+#chennaiGridTen {
+	top: 21%;
+}
+#gridImageSmallChennai {
+	width: 14.03vw;
+	margin-left: 9px;
+}
+.endlineChennaiThree {
+	top: 17%;
+}
+.referenceBlockChennaiThree {
+	top: 19%;
+}
+.chennaiCopyThirteen {
+	position: relative;
+	top: 3%;
+	left: 35.3%;
+	width: 25%;
+}
+#chennaiImageDescriptionNineteen {
+	top: 5%;
+	left: 35.3%;
+	width: 31%;
+	font-size: 9px;
+}
+.referenceChennai {
+	font-size: 9px;
+	line-height: 12px;
+}
+	
+	
+	#chennaiSubTwo {
+    top: 196px;
+}
+#chennaiGridOne {
+    left: -17%;
+    top: -67.3%;
+}
+#chennaiSubThree {
+    top: 1490.49px;
+}
+#chennaiSubFour {
+    top: 3238.1px;
+}
+#chennaiSubFive {
+    top: 4169.56px;
+}
+#chennaiSubSix {
+    top: 5365.78px;
+}
+#chennaiSubSeven {
+    top: 5599.2px;
+}
+#chennaiSubEight {
+    top: 5711.496px;
+}
+#chennaiSubNine {
+    top: 9229.2px;
+}
+#chennaiSubTen {
+    top: 10348.5px;
+}
+#chennaiSubEleven {
+    top: 10527.68px;
+}
+}
+
+/*1366 x 695*/
+@media (min-width: 1300px) and (max-width: 1399px) and (min-height: 680px) and (max-height: 749px) {
+#chennaiSubOne .copyTextLarger {
+	top: 16.3%;
+}
+#chennaiSubTwo {
+	top: 268.305px;
+}
+#chennaiGridOne {
+	top: -71%;
+	left: -17%;
+}
+#chennaiThree {
+	position: relative;
+	left: -77.6%;
+	top: 30%;
+}
+#chennaiFifteen {
+	position: relative;
+	left: 34.6%;
+	top: -161.3%;
+	z-index: 0;
+	width: 31.15vw;
+}
+#chennaiImageDescriptionEight {
+	position: relative;
+	top: -177%;
+	left: 35.3%;
+	width: 25%;
+}
+#chennaiSixteen {
+	position: relative;
+	left: -33.3%;
+	top: -173%;
+	z-index: 0;
+	width: 7.5vw;
+}
+#chennaiSubThree {
+	top: 1688.29px;
+}
+#chennaiSubFour {
+	top: 3530.08px;
+}
+#chennaiSubFive {
+	top: 4646.34px;
+}
+#chennaiTwentyOne {
+	left: 7.6%;
+	top: -9%;
+	z-index: -2;
+}
+#chennaiTwentyTwo {
+	left: 34.5%;
+	top: -31.6%;
+	z-index: -5;
+}
+#chennaiTwentyFour {
+	left: 34.5%;
+	top: -55%;
+	z-index: -5;
+}
+#chennaiTwentyFive {
+	position: relative;
+	left: 34.7%;
+	top: -55%;
+	z-index: -5;
+}
+#chennaiTwentyThree {
+	left: 7.6%;
+	top: -3.4%;
+	z-index: -5;
+}
+#chennaiTwentyEight {
+	left: 34.7%;
+	top: -13%;
+}
+.chennaiCopyNine {
+	top: -106.5%;
+}
+#chennaiSubSix {
+	top: 5971px;
+}
+#chennaiSubSeven {
+	top: 6300.013px;
+}
+#chennaiSubEight {
+	top: 6495.124px;
+}
+#chennaiSubNine {
+	top: 10063.088px;
+}
+#chennaiSubTen {
+	top: 11259.013px;
+}
+#chennaiSubEleven {
+	top: 11541.75px;
+}
+.chennaiCopyTwelve {
+	top: -10.5%;
+}
+#ChennaiVideoThree {
+	top: -10.5%;
+}
+#chennaiGridTen {
+	top: 35%;
+}
+#ChennaiVideoOne {
+	left: -19%;
+}
+}
+
+/*------------ SAXON BREAKPOINT 3 1387 x 540 ---------------*/
+@media (min-width: 1300px) and (max-width: 1399px) and (min-height: 539px) and (max-height: 679px) {
+	
+	#chennaiSubOne .mainTitle {
+    top: 24.4%;
+}
+#chennaiSubOne .copyTextLarger {
+    top: 23.2%;
+}
+	#ChennaiVideoOne {
+    position: relative;
+    left: -31%;
+}
+
+#chennaiSubTwo {
+    top: 379px;
+}
+#chennaiThree {
+    position: relative;
+    left: -77.6%;
+    top: 35%;
+}
+
+#chennaiGridOne {
+    left: -17%;
+    top: -83.3%;
+}
+
+#ChennaiVideoTwo {
+    position: relative;
+    left: -33%;
+    top: -79%;
+    width: 55.1vw;
+    height: 55.1vh;
+}
+#chennaiSubThree {
+    top: 1994.49px;
+}
+#chennaiImageDescriptionFive {
+    top: -76%;
+    left: 35.3%;
+}
+#chennaiGridTwo {
+    left: -44%;
+}
+#chennaiFourteen {
+    left: 34.5%;
+}
+.chennaiCopySix {
+    position: relative;
+    top: -92%;
+    left: 8.3%;
+    width: 20%;
+}
+#chennaiImageDescriptionSeven {
+    position: relative;
+    top: -104%;
+    left: 35.3%;
+    width: 15%;
+}
+#chennaiGridThree {
+    top: -103%;
+    left: -44%;
+}
+#chennaiFifteen {
+    position: relative;
+    left: 34.6%;
+    top: -212.3%;
+    z-index: 0;
+    width: 31.15vw;
+}
+#chennaiSixteen {
+    position: relative;
+    left: -33.3%;
+    top: -226%;
+    z-index: 0;
+    width: 7.5vw;
+}
+#chennaiImageDescriptionEight {
+    position: relative;
+    top: -228%;
+    left: 35.3%;
+    width: 25%;
+}
+	#chennaiGridTwo {
+    position: relative;
+    top: -68%;
+}
+#chennaiFourteen {
+    top: -83%;
+
+}
+#chennaiSubFour {
+    top: 4203.1px;
+}
+#chennaiSubFive {
+    top: 5509.56px;
+}
+#chennaiTwentyTwo {
+    position: relative;
+    left: 34.5%;
+    top: -40.5%;
+    z-index: -5;
+}
+#chennaiTwentyFour {
+top: -71%;
+}
+#chennaiTwentyFive {
+    left: 34.5%;
+    top: -71.8%;
+}
+
+.chennaiCopyNine {
+    top: -128.5%;
+    left: 8.3%;
+}
+
+#chennaiSubSix {
+    top: 7105.78px;
+}
+#chennaiSubSeven {
+    top: 7686.2px;
+}
+#chennaiSubEight {
+    top: 8055.496px;
+}
+#chennaiSubNine {
+    top: 11771.2px;
+}
+#chennaiSubTen {
+    top: 13147.5px;
+}
+.chennaiCopyNineteen {
+    position: relative;
+    top: -3.5%;
+    left: 35.3%;
+    width: 21%;
+}
+#chennaiSubEleven {
+    top: 13602.68px;
+}
+}
+
+/*------------ SAXON BREAKPOINT 4 1366 x 1024 ---------------*/
+@media (min-width: 1300px) and (max-width: 1399px) and (min-height: 781px) and (max-height: 1025px) {
+#chennaiSubOne .mainTitle {
+    top: 12.5%;
+}
+#chennaiSubOne .copyTextLarger {
+    top: 12.1%;
+}
+#chennaiOne {
+    position: relative;
+    left: -32.9%;
+    top: -57%;
+    z-index: 0;
+    width: 55.2vw;
+}
+#chennaiImageDescriptionOne {
+    position: relative;
+    top: -63%;
+    left: 8.3%;
+    width: 14%;
 }
 
 #chennaiThree {
     position: relative;
     left: -77.6%;
-    top: 25%;
+    top: 24%;
 }
 #chennaiFour {
-    top: -3%;
+    left: 7.65%;
+    top: 0%;
 }
 #chennaiImageDescriptionTwo {
-    top: -2.5%;
+    top: 0.3%;
+}
+#chennaiFive {
+    position: relative;
+    left: -33%;
+    top: 0.3%;
+    z-index: -5;
+    width: 40vw;
 }
 #chennaiImageDescriptionThree {
     position: relative;
-    top: -38%;
+    top: -29.3%;
     left: 8.3%;
     width: 14%;
 }
-#chennaiFive {
-    top: -3%;
-}
-	#chennaiSix {
-    left: 7.65%;
-    top: -27.1%;
-    z-index: 0;
-}
-.chennaiCopyTwo {
-    position: relative;
-    top: -28%;
-    left: 8.3%;
-    width: 23%;
-}
 #chennaiGridOne {
     left: -17%;
-    top: -62.2%;
+    top: -51.7%;
 }
-
+#chennaiSix {
+    position: relative;
+    left: 7.8%;
+    top: -22.1%;
+    z-index: 0;
+}
 #ChennaiVideoTwo {
+    position: relative;
     left: -33%;
-    top: -59%;
+    top: -49%;
     width: 55.1vw;
     height: 55.1vh;
 }
-#chennaiSubThree {
-    top: 1379.29px;
+.chennaiCopyTwo {
+    position: relative;
+    top: -21%;
+    left: 8.3%;
+    width: 23%;
 }
-#chennaiSeven {
-    top: 15%;
-}
-#chennaiEight {
- top: 14.5%;
+
+#chennaiNine {
+    left: 7.7%;
+    top: -28%;
 }
 #chennaiImageDescriptionFive {
-    top: -46.5%;
+    top: -38%;
+    left: 35.3%;
+}
+.chennaiCopyFive {
+    top: -28%;
 }
 #chennaiTen {
-    top: -41%;
+    position: relative;
+    left: -32.9%;
+    top: -36%;
+    z-index: 0;
+    width: 61.3vw;
 }
 #chennaiEleven {
-    top: -46.4%;
+    position: relative;
+    left: -33.3%;
+    top: -41%;
+    z-index: 0;
+    width: 61vw;
 }
-#chennaiSubFour {
-    top: 3130.08px;
+#chennaiTwelve {
+    position: relative;
+    left: -33.3%;
+    top: -46%;
+    z-index: 0;
+    width: 61vw;
 }
-.chennaiCopySeven {
-    top: 8%;
+#chennaiImageDescriptionSix {
+    position: relative;
+    top: -52%;
+    left: 35.3%;
+    width: 25%;
 }
-#chennaiSubFive {
-    top: 3877.34px;
+
+.chennaiCopySix {
+    position: relative;
+    top: -65%;
+    left: 8.3%;
+    width: 20%;
+}
+
+#chennaiImageDescriptionSeven {
+    position: relative;
+    top: -65%;
+    left: 35.3%;
+    width: 15%;
+}
+#chennaiSixteen {
+    position: relative;
+    left: -33.3%;
+    top: -137%;
+    z-index: 0;
+    width: 7.5vw;
+}
+#chennaiGridThree {
+    top: -74%;
+    left: -44%;
+}
+#chennaiFourteen {
+    top: -53%;
 }
 #chennaiImageDescriptionEight {
     position: relative;
-    top: -162%;
+    top: -141%;
     left: 35.3%;
     width: 25%;
 }
-#chennaiTwenty {
+#chennaiFifteen {
     position: relative;
-    left: 7.8%;
-    top: -7.5%;
+    left: 34.6%;
+    top: -125.3%;
     z-index: 0;
+    width: 31.15vw;
+}
+
+
+#chennaiTwenty {
+    top: -4.5%;
+
 }
 #chennaiTwentyOne {
-    top: -8%;
-}
-.chennaiCopyNine {
-    top: -86%;
+    top: -5%;
+    z-index: -2;
 }
 #chennaiTwentyTwo {
-    top: -26.6%;
+    position: relative;
+    left: 34.5%;
+    top: -20.5%;
+    z-index: -5;
 }
 #chennaiTwentyFour {
-    left: 34.6%;
-    top: -45.8%;
+    position: relative;
+    left: 34.7%;
+    top: -36%;
+    z-index: -5;
 }
 #chennaiTwentyFive {
+    position: relative;
     left: 34.6%;
-    top: -46.3%;
+    top: -36.2%;
     z-index: -5;
 }
 #chennaiTwentyThree {
-    left: 7.65%;
-    top: -4.7%;
+    top: -1.3%;
 }
-#chennaiSubSix {
-    top: 4975px;
-}
-	#chennaiTwentyEight {
-    top: -7%;
+
+.chennaiCopyNine {
+    position: relative;
+    top: -67.5%;
+    left: 8.3%;
+    width: 18%;
 }
 
 .chennaiCopyTen {
-    top: -30%;
+    position: relative;
+    top: -26%;
+    left: 35.25%;
+    width: 25%;
 }
-#chennaiSubSeven {
-    top: 5101.013px;
+#chennaiImageDescriptionTen {
+    position: relative;
+    top: -22%;
+    left: 35.25%;
+    width: 15%;
 }
-#chennaiSubEight {
-    top: 5108.124px;
-}
-	.chennaiCopyTwelve {
-    top: -10.5%;
-}
-	#ChennaiVideoThree {
-    top: -10.5%;
+#chennaiImageDescriptionExtra {
+    position: relative;
+    top: 6%;
+    left: 35.25%;
+    width: 15%;
 }
 
-.chennaiCopyThirteen {
+#chennaiTwentyEight {
+    left: 34.7%;
+    top: -4%;
+}
+.chennaiCopyTwelve {
     position: relative;
-    top: 2%;
+    top: -6%;
     left: 35.3%;
     width: 25%;
 }
-#chennaiSubNine {
-    top: 8764.088px;
+#ChennaiVideoThree {
+    position: relative;
+    left: -33%;
+    top: -6%;
+    width: 55vw;
+    height: 55vh;
+}
+#chennaiImageDescriptionEleven {
+    position: relative;
+    top: -12%;
+    left: 35.25%;
+    width: 15%;
+}
+
+#chennaiImageDescriptionTwelve {
+    position: relative;
+    top: 19%;
+    left: 8.3%;
+    width: 15%;
+}
+
+#chennaiImageDescriptionSixteen {
+    position: relative;
+    top: 7.2%;
+    left: 8.3%;
+    width: 15%;
+}
+#chennaiThirtyThree {
+    top: -6%;
+}
+
+#chennaiGridSix {
+    position: relative;
+    top: -26%;
+}
+#chennaiThirtyFour {
+    position: relative;
+    left: -32.7%;
+    top: -14%;
+}
+#chennaiGridSeven {
+    top: -55%;
+    left: -17%;
 }
 .chennaiCopySixteen {
-    top: -69.5%;
+    position: relative;
+    top: -59.5%;
+    left: 8.3%;
+    width: 25%;
+}
+#chennaiGridEight {
+    top: -62.5%;
+}
+#chennaiGridNine {
+    position: relative;
+    top: -69%;
+    left: 0.7%;
+}
+#chennaiImageDescriptionSeventeen {
+    position: relative;
+    top: -71.5%;
+    left: 35.3%;
+    width: 15%;
+}
+.chennaiCopySeventeen {
+    position: relative;
+    top: -75%;
+    left: 8.3%;
+    width: 18%;
+}
+#chennaiSubTwo {
+    top: -138px;
+}
+	#chennaiSubThree {
+    top: 973.49px;
+}
+#chennaiSubFour {
+    top: 2505.1px;
+}
+#chennaiSubFive {
+    top: 2939.56px;
+}
+#chennaiSubSix {
+    top: 3745.78px;
+}
+#chennaiSubSeven {
+    top: 3643.2px;
+}
+#chennaiSubEight {
+    top: 3500.496px;
+}
+#chennaiSubNine {
+    top: 6850.2px;
 }
 #chennaiSubTen {
-    top: 9836.013px;
-}
-.chennaiCopyNineteen {
-    top: 4.1%;
+    top: 7831.5px;
 }
 #chennaiSubEleven {
-    top: 9867.67px;
+    top: 7649.68px;
+}
+	
 }
 
+/*------------------1400------------------------*/
+/*1440 x 768*/
+@media (min-width: 1400px) and (max-width: 1499px) {
+#chennaiSubOne .copyTextLarger {
+	top: 17.2%
+}
+#chennaiSubTwo {
+	top: 32.5vh;
+}
+#chennaiTwo {
+	left: -16.35%;
+	top: 14%;
+}
+#chennaiFour {
+	left: 7.65%;
+}
+#chennaiFive {
+	left: -32.8%;
+	top: -5.2%;
+	z-index: -5;
+	width: 40vw;
+}
+#chennaiSix {
+	left: 7.65%;
+}
+#chennaiGridOne {
+	left: -17%;
+}
+#ChennaiVideoTwo {
+	height: 58.2vh;
+}
+#chennaiSubThree {
+	top: 212vh;
+}
+#chennaiNine {
+	left: 7.6%;
+}
+#chennaiSeven {
+	left: -33%;
+	top: 18%;
+}
+#chennaiEight {
+	left: -33%;
+	top: 18%;
+}
+#chennaiImageDescriptionFive {
+	top: -53.5%;
+}
+#chennaiTen {
+	top: -43%;
+	width: 61.5vw;
+}
+#chennaiEleven {
+	left: -32.9%;
+	top: -47.5%;
+	width: 61.5vw;
+}
+#chennaiTwelve {
+	top: -51.5%;
+}
+#chennaiImageDescriptionSix {
+	top: -56.5%;
+}
+#chennaiSubFour {
+	top: 461vh;
+}
+#chennaiGridTwo {
+	left: -44%;
+}
+#chennaiThirteen {
+	left: -32.9%;
+	top: 14.2%;
+	width: 61.5vw;
+}
+#chennaiFourteen {
+	left: 34.5%;
+}
+#chennaiGridThree {
+	top: -78%;
+	left: -43.95%;
+}
+#chennaiFifteen {
+	top: -159.5%;
+}
+#chennaiSubFive {
+	top: 604vh;
+}
+.chennaiMapContainerOne {
+	top: 14%;
+}
+#chennaiNineteen {
+	left: 18.2%;
+}
+#chennaiTwenty {
+	left: 7.6%;
+}
+#chennaiTwentyOne {
+	left: 7.65%;
+}
+#chennaiTwentyTwo {
+	top: -33%;
+}
+#chennaiTwentyFour {
+	left: 34.6%;
+	top: -54%;
+}
+.chennaiCopyNine {
+	top: -104%;
+}
+#chennaiTwentyThree {
+	left: 7.65%;
+	top: -5.5%;
+}
+#chennaiTwentyFive {
+	left: 34.6%;
+	top: -54.2%;
+	z-index: -5;
+}
+#chennaiSubSix {
+	top: 775.3vh;
+}
+#chennaiTwentySix {
+	top: 13.8%;
+}
+#chennaiGridFour {
+	left: -44%;
+}
+.chennaiCopyTen {
+	top: -34%;
+}
+#chennaiSubSeven {
+	top: 814.5vh;
+}
+#chennaiTwentySeven {
+	left: 7.6%;
+	top: 13%;
+}
+#chennaiTwentyEight {
+	top: -12%;
+}
+.chennaiCopyTwelve {
+	top: -13.5%;
+}
+#ChennaiVideoThree {
+	left: -32.9%;
+	top: -12.5%;
+	width: 55.3vw;
+	height: 58.5vh;
+}
+#chennaiImageDescriptionEleven {
+	top: -17.5%;
+}
+#chennaiSubEight {
+	top: 836.2vh;
+}
+#chennaiTwentyNine {
+	left: -13%;
+	top: 11%;
+}
+#chennaiThirtySix {
+	left: -20%;
+}
+#gridImageMiddleChennaiTwo {
+	width: 23.8vw;
+	margin-left: 11px;
+}
+#chennaiSubNine {
+	top: 1323.5vh;
+}
+#chennaiThirtyThree {
+	left: 7.6%;
+}
+#chennaiGridSix {
+	left: -44%;
+}
+#chennaiGridSeven {
+	left: -17%;
+}
+#ChennaiVideoFour {
+	left: -32.8%;
+	top: 14.4%;
+}
+#chennaiSubTen {
+	top: 1482.7vh;
+}
+.chennaiMapContainerTwo {
+	top: 14%;
+}
+#chennaiImageDescriptionEighteen {
+	top: 15.4%;
+}
+.chennaiCopyNineteen {
+	top: 2.7%;
+}
+#chennaiSubEleven {
+	top: 1510vh;
+}
+#gridImageSmallChennai {
+	width: 14vw;
+	margin-left: 10px;
+}
+#chennaiGridTen {
+	top: 20%;
+}
+.endlineChennaiThree {
+	top: 15%;
+}
+.referenceBlockChennaiThree {
+	top: 18%;
+	height: 71%;
+}
+#chennaiImageDescriptionNineteen {
+	top: 5%;
+	font-size: 9px;
+}
+.referenceChennai {
+	font-size: 9px;
+	line-height: 12px;
+}
 }
 
+/* height - 1440 x 900*/
+@media (min-width: 1400px) and (max-width: 1499px) and (min-height: 851px) and (max-height: 901px) {
+#chennaiSubOne .copyTextLarger {
+	top: 14.6%;
+}
+#chennaiOne {
+	position: relative;
+	left: -32.9%;
+	top: -49%;
+	z-index: 0;
+	width: 55.2vw;
+}
+#chennaiImageDescriptionOne {
+	position: relative;
+	top: -54%;
+	left: 8.3%;
+	width: 14%;
+}
+
+#chennaiFifteen {
+	top: -147.5%;
+}
+#chennaiThree {
+	position: relative;
+	left: -77.6%;
+	top: 25%;
+}
+#chennaiFour {
+	top: -3%;
+}
+#chennaiImageDescriptionTwo {
+	top: -2.5%;
+}
+#chennaiImageDescriptionThree {
+	position: relative;
+	top: -38%;
+	left: 8.3%;
+	width: 14%;
+}
+#chennaiFive {
+	top: -3%;
+}
+#chennaiSix {
+	left: 7.65%;
+	top: -27.1%;
+	z-index: 0;
+}
+.chennaiCopyTwo {
+	position: relative;
+	top: -28%;
+	left: 8.3%;
+	width: 23%;
+}
+#chennaiGridOne {
+	left: -17%;
+	top: -62.2%;
+}
+#ChennaiVideoTwo {
+	left: -33%;
+	top: -59%;
+	width: 55.1vw;
+	height: 55.1vh;
+}
+
+#chennaiSeven {
+	top: 15%;
+}
+#chennaiEight {
+	top: 14.5%;
+}
+#chennaiImageDescriptionFive {
+	top: -46.5%;
+}
+#chennaiTen {
+	top: -41%;
+}
+#chennaiEleven {
+	top: -46.4%;
+}
+
+.chennaiCopySeven {
+	top: 8%;
+}
+
+#chennaiImageDescriptionEight {
+	position: relative;
+	top: -162%;
+	left: 35.3%;
+	width: 25%;
+}
+#chennaiTwenty {
+	position: relative;
+	left: 7.8%;
+	top: -7.5%;
+	z-index: 0;
+}
+#chennaiTwentyOne {
+	top: -8%;
+}
+.chennaiCopyNine {
+	top: -86%;
+}
+#chennaiTwentyTwo {
+	top: -26.6%;
+}
+#chennaiTwentyFour {
+	left: 34.6%;
+	top: -45.8%;
+}
+#chennaiTwentyFive {
+	left: 34.6%;
+	top: -46.3%;
+	z-index: -5;
+}
+#chennaiTwentyThree {
+	left: 7.65%;
+	top: -4.7%;
+}
+
+#chennaiTwentyEight {
+	top: -7%;
+}
+.chennaiCopyTen {
+	top: -30%;
+}
+
+.chennaiCopyTwelve {
+	top: -10.5%;
+}
+#ChennaiVideoThree {
+	top: -10.5%;
+}
+.chennaiCopyThirteen {
+	position: relative;
+	top: 2%;
+	left: 35.3%;
+	width: 25%;
+}
+
+.chennaiCopySixteen {
+	top: -69.5%;
+}
+
+.chennaiCopyNineteen {
+	top: 4.1%;
+}
+
+	
+#chennaiSubTwo {
+    top: 100px;
+}
+#chennaiGridOne {
+    left: -17%;
+    top: -63.2%;
+}
+#chennaiSubThree {
+    top: 1353.49px;
+}
+#chennaiSubFour {
+    top: 3038.1px;
+}
+#chennaiSubFive {
+    top: 3739.56px;
+}
+#chennaiTwentyTwo {
+    top: -26.2%;
+}
+#chennaiTwentyFour {
+    left: 34.6%;
+    top: -44.8%;
+}
+#chennaiTwentyFive {
+    left: 34.6%;
+    top: -45.2%;
+    z-index: -5;
+}
+.chennaiCopyNine {
+    top: -81%;
+}
+#chennaiSubSix {
+    top: 4774.78px;
+}
+#chennaiImageDescriptionExtra {
+    position: relative;
+    top: 7%;
+    left: 35.25%;
+    width: 15%;
+}
+#chennaiSubSeven {
+    top: 4869.2px;
+}
+#chennaiSubEight {
+    top: 4899.496px;
+}
+#chennaiSubNine {
+    top: 8463.2px;
+}
+#chennaiSubTen {
+    top: 9518.5px;
+}
+#chennaiSubEleven {
+    top: 9558.68px;
+}
+}
+
+/*------------ SAXON BREAKPOINT 5 1400 x 833 ---------------*/
+@media (min-width: 1400px) and (max-width: 1499px) and (min-height: 800px) and (max-height: 850px) {
+#chennaiSubOne .copyTextLarger {
+    top: 15.4%;
+}
+#chennaiSubTwo {
+    top: 193px;
+}
+#chennaiThree {
+    position: relative;
+    left: -77.6%;
+    top: 26%;
+}
+#chennaiSix {
+    top: -30.5%;
+}
+#chennaiGridOne {
+    top: -69.3%;
+    left: -17.1%;
+}
+.chennaiCopyTen {
+    top: -32%;
+}
+#ChennaiVideoTwo {
+    top: -68%;
+}
+#chennaiSubThree {
+    top: 1532px;
+}
+#chennaiSeven {
+    left: -33%;
+    top: 14%;
+}
+#chennaiEight {
+    left: -33%;
+    top: 13.8%;
+}
+#chennaiImageDescriptionFive {
+    top: -52.5%;
+}
+#chennaiSubFour {
+    top: 3358px;
+}
+#chennaiSubFive {
+    top: 4333px;
+}
+
+#chennaiImageDescriptionSeven {
+    position: relative;
+    top: -80%;
+    left: 35.3%;
+    width: 15%;
+}
+#chennaiFifteen {
+    top: -151.5%;
+}
+#chennaiImageDescriptionEight {
+    top: -167%;
+
+}
+#chennaiTwentyTwo {
+    top: -30.5%;
+}
+#chennaiTwentyFive {
+    left: 34.6%;
+    top: -49.2%;
+    z-index: -5;
+}
+#chennaiTwentyFour {
+    left: 34.6%;
+    top: -49.6%;
+}
+.chennaiCopyNine {
+    top: -91%;
+}
+#chennaiSubSix {
+    top: 5605px;
+}
+#chennaiSubSeven {
+    top: 5875px;
+}
+#chennaiTwentyEight {
+    top: -8%;
+}
+#chennaiSubEight {
+    top: 5990px;
+}
+#chennaiSubNine {
+    top: 9700px;
+}
+#chennaiSubTen {
+    top: 10870px;
+}
+#chennaiSubEleven {
+    top: 11030px;
+}
+	
+}
 
 /*------------------1500------------------------*/
 /* common - 1536×730*/
 @media (min-width: 1500px) and (max-width: 1599px) {
-    
+.copyTextLarger {
+	position: relative;
+	top: 19%;
+	left: 35.5%;
+	width: 29%;
+	text-align: left;
+	font-size: 25px;
+	font-weight: 400;
+	line-height: 28px;
+	font-family: 'Roboto', sans-serif;
+}
+#ChennaiVideoOne {
+	left: -25%;
+	top: -53%;
+}
+#chennaiOne {
+	top: -63%;
+}
+#chennaiImageDescriptionOne {
+	top: -69%;
+}
+#chennaiSubTwo {
+	top: 18vh;
+}
+#chennaiImageDescriptionTwo {
+	position: relative;
+	top: -5.5%;
+	left: 8.3%;
+	width: 14%;
+}
+#chennaiTwo {
+	top: 14%;
+	left: -16.5%;
+}
+#chennaiThree {
+	top: 30%;
+}
+#chennaiSix {
+	left: 7.7%;
+}
+#chennaiGridOne {
+	top: -80.2%;
+	left: -17.7%;
+}
+#ChennaiVideoTwo {
+	position: relative;
+	left: -32.9%;
+	top: -78.5%;
+}
+#chennaiSubThree {
+	top: 232.4vh;
+}
+#chennaiNine {
+	left: 7.7%;
+	top: -42.2%;
+}
+#chennaiSeven {
+	left: -33%;
+	top: 13%;
+}
+#chennaiEight {
+	left: -33%;
+	top: 12.8%;
+}
+.chennaiCopyFive {
+	top: -41%;
+}
+#chennaiImageDescriptionFive {
+	top: -70%;
+}
+#chennaiTen {
+	left: -32.9%;
+	top: -52%;
+	width: 61.5vw;
+}
+#chennaiEleven {
+	left: -32.9%;
+	top: -57%;
+	width: 61.5vw;
+}
+#chennaiTwelve {
+	left: -33%;
+	top: -62%;
+	width: 61.4vw;
+}
+#chennaiImageDescriptionSix {
+	top: -67%;
+}
+#chennaiSubFour {
+	top: 532vh;
+}
+#chennaiThirteen {
+	left: -32.8%;
+	top: 13.8%;
+	width: 61.6vw;
+}
+#chennaiGridTwo {
+	top: -63.3%;
+	left: -43.8%;
+}
+#chennaiFourteen {
+	left: 34.5%;
+	top: -80%;
+}
+.chennaiCopySix {
+	top: -87%;
+}
+#chennaiImageDescriptionSeven {
+	top: -102%;
+}
+#chennaiGridThree {
+	top: -100%;
+	left: -43.7%;
+}
+#chennaiFifteen {
+	top: -190.3%;
+}
+#chennaiSixteen {
+	top: -202%;
+}
+#chennaiImageDescriptionEight {
+	top: -206%;
+}
+#chennaiSubFive {
+	top: 698.6vh;
+}
+.chennaiMapContainerOne {
+	position: relative;
+	left: 1.7%;
+	top: 13.5%;
+}
+#chennaiTwenty {
+	left: 7.7%;
+	top: -15.5%;
+}
+#chennaiNineteen {
+	left: 17.8%;
+	top: 14%;
+	width: 47.2vw;
+}
+#chennaiTwentyOne {
+	left: 7.7%;
+	top: -15.3%;
+}
+#chennaiTwentyTwo {
+	top: -39.5%;
+}
+#chennaiTwentyFour {
+	left: 34.6%;
+	top: -63.5%;
+}
+#chennaiTwentyFive {
+	left: 34.6%;
+	top: -63.3%;
+}
+.chennaiCopyNine {
+	top: -120.5%;
+}
+#chennaiTwentySix {
+	left: -32.5%;
+	top: 13%;
+}
+#chennaiTwentyThree {
+	left: 7.7%;
+	top: -8.4%;
+	z-index: -5;
+}
+#chennaiSubSix {
+	top: 912.5vh;
+}
+#chennaiGridFour {
+	top: 6.5%;
+	left: -43.8%;
+}
+#chennaiImageDescriptionExtra {
+	position: relative;
+	top: 7%;
+	left: 35.25%;
+	width: 15%;
+}
+.chennaiCopyTen {
+	top: -42.5%;
+}
+#chennaiImageDescriptionTen {
+	top: -32%;
+}
+#chennaiSubSeven {
+	top: 966vh;
+}
+#chennaiTwentySeven {
+	left: 7.7%;
+	top: 12.5%;
+}
+#chennaiTwentyEight {
+	top: -14%;
+}
+.chennaiCopyEleven {
+	top: -12%;
+}
+.chennaiCopyTwelve {
+	top: -21%;
+}
+#ChennaiVideoThree {
+	top: -20%;
+}
+#chennaiImageDescriptionEleven {
+	top: -25%;
+}
+#chennaiSubEight {
+	top: 1003.8vh;
+}
+#chennaiTwentyNine {
+	left: -15.5%;
+	top: 10%;
+}
+#chennaiThirtySix {
+	left: -20.5%;
+	top: 12%;
+}
+#gridImageMiddleChennaiTwo {
+	width: 23.8vw;
+	margin-left: 10px;
+}
+#chennaiSubNine {
+	top: 1564.4vh;
+}
+#ChennaiVideoFour {
+	top: 13.5%;
+}
+#chennaiGridSix {
+	left: -43.7%;
+}
+#chennaiThirtyThree {
+	left: 7.7%;
+}
+#chennaiGridSeven {
+	top: -70%;
+	left: -17.7%;
+}
+.chennaiCopySixteen {
+	top: -79%;
+}
+#ChennaiVideoFive {
+	left: -33.3%;
+	top: 15%;
+	height: 30.7vh;
+	width: 30.4vw;
+}
+#chennaiGridNine {
+	top: -88%;
+}
+#chennaiImageDescriptionSeventeen {
+	top: -89.5%;
+}
+.chennaiCopySeventeen {
+	top: -93%;
+}
+#chennaiSubTen {
+	top: 1754.3vh;
+}
+.chennaiMapContainerTwo {
+	left: 1.7%;
+	top: 13.4%;
+}
+#chennaiSubEleven {
+	top: 1813vh;
+}
+#chennaiGridTen {
+	top: 21%;
+}
+#gridImageSmallChennai {
+	margin-left: 12px;
+}
+.endlineChennaiThree {
+	top: 18%;
+}
+.referenceBlockChennaiThree {
+	top: 26%;
+}
+.referenceBlockChennaiThree {
+	height: 111%;
+	top: 21%;
+}
+#chennaiGridEight {
+	top: -83%;
+}
+#chennaiImageDescriptionNineteen {
+	top: 5%;
+	left: 35.3%;
+	font-size: 9px;
+}
+.referenceChennai {
+	font-weight: 300;
+	font-size: 9px;
+	line-height: 12px;
+	width: 30%;
+	height: 50%;
+}
+}
+
+@media (min-width: 1500px) and (max-width: 1599px) and (min-height: 780px) and (max-height: 810px) {
+
+#chennaiGridOne {
+	top: -75.2%;
+	left: -17.7%;
+}
+#chennaiSix {
+	left: 7.7%;
+	top: -30.2%;
+	z-index: 0;
+}
+#ChennaiVideoTwo {
+	position: relative;
+	left: -32.9%;
+	top: -73.5%;
+}
+.chennaiCopyTwo {
+	position: relative;
+	top: -29%;
+	left: 8.3%;
+	width: 23%;
+}
+
+#chennaiImageDescriptionFive {
+	top: -65%;
+}
+.chennaiCopySeven {
+	position: relative;
+	top: 8%;
+	left: 35.3%;
+	width: 25%;
+}
+.chennaiCopySix {
+	top: -86%;
+}
+.chennaiCopyNine {
+	top: -108.5%;
+}
+#chennaiTwentyTwo {
+	top: -37.7%;
+}
+#chennaiTwentyFour {
+	left: 34.6%;
+	top: -60.5%;
+}
+#chennaiTwentyFive {
+	left: 34.6%;
+	top: -61%;
+}
+#chennaiTwentyThree {
+	left: 7.7%;
+	top: -10.7%;
+	z-index: -5;
+}
+
+#chennaiImageDescriptionSeven {
+    top: -101%;
+}
+.chennaiCopyTwelve {
+	top: -19.6%;
+}
+.chennaiCopyEleven {
+	top: -5%;
+}
+
+#chennaiGridSix {
+	top: -32%;
+}
+.chennaiCopySixteen {
+	top: -78%;
+}
+	
 	.copyTextLarger {
     position: relative;
-    top: 19%;
+    top: 17.7%;
     left: 35.5%;
     width: 29%;
     text-align: left;
@@ -2220,338 +4498,204 @@ width: 61.5vw;
     line-height: 28px;
     font-family: 'Roboto', sans-serif;
 }
-	
-	#ChennaiVideoOne {
-        left: -25%;
-        top: -53%;
-    }
-  #chennaiOne {
-    top: -63%;
-}
-#chennaiImageDescriptionOne {
-    top: -69%;
-}
 #chennaiSubTwo {
-    top: 18vh;
+    top: 72.4px;
 }
-#chennaiImageDescriptionTwo {
-    position: relative;
-    top: -5.5%;
-    left: 8.3%;
-    width: 14%;
+#chennaiSubThree {
+    top: 1577.49px;
 }
-    #chennaiTwo {
-        top: 14%;
-    left: -16.5%;
-    }
-    #chennaiThree {
-        top: 30%;
-    }
-    #chennaiSix {
-        left: 7.7%;
-    }
+#chennaiSubFour {
+    top: 3692.1px;
+}
+#chennaiImageDescriptionEight {
+    top: -197%;
+}
+#chennaiFifteen {
+    top: -183.3%;
+}
+#chennaiSubFive {
+    top: 4729.16px;
+}
+#chennaiSubSix {
+    top: 6154.38px;
+}
+#chennaiSubSeven {
+    top: 6464.2px;
+}
+#ChennaiVideoThree {
+    top: -18%;
+}
+#chennaiImageDescriptionEleven {
+    top: -24%;
+}
+#chennaiSubEight {
+    top: 6669.496px;
+}
+#chennaiSubNine {
+    top: 10718.2px;
+}
+#chennaiSubTen {
+    top: 12031.5px;
+}
+#chennaiSubEleven {
+    top: 12374.68px;
+}
+}
+
+/*------------ SAXON BREAKPOINT 6 1536 x 757 ---------------*/
+@media (min-width: 1500px) and (max-width: 1599px) and (min-height: 751px) and (max-height: 780px) {
+#chennaiSubTwo {
+    top: 97.4px;
+}
 #chennaiGridOne {
-    top: -80.2%;
+    top: -78.5%;
     left: -17.7%;
 }
 #ChennaiVideoTwo {
     position: relative;
     left: -32.9%;
-    top: -78.5%;
+    top: -76.5%;
 }
 #chennaiSubThree {
-    top: 232.4vh;
+    top: 1634.49px;
 }
-    #chennaiNine {
-        left: 7.7%;
-        top: -42.2%;
-    }
-    #chennaiSeven {
-        left: -33%;
-        top: 13%;
-    }
-    #chennaiEight {
-        left: -33%;
-        top: 12.8%;
-    }
-    .chennaiCopyFive {
-        top: -41%;
-    }
-    #chennaiImageDescriptionFive {
-        top: -70%;
-    }
-    #chennaiTen {
-        left: -32.9%;
-        top: -52%;
-        width: 61.5vw;
-    }
-    #chennaiEleven {
-        left: -32.9%;
-        top: -57%;
-        width: 61.5vw;
-    }
-    #chennaiTwelve {
-        left: -33%;
-        top: -62%;
-        width: 61.4vw;
-    }
-    #chennaiImageDescriptionSix {
-        top: -67%;
-    }
-  #chennaiSubFour {
-    top: 532vh;
+#chennaiSubFour {
+    top: 3792.1px;
 }
-    #chennaiThirteen {
-        left: -32.8%;
-        top: 13.8%;
-        width: 61.6vw;
-    }
-    #chennaiGridTwo {
-        top: -63.3%;
-        left: -43.8%;
-    }
-    #chennaiFourteen {
-        left: 34.5%;
-        top: -80%;
-    }
-    .chennaiCopySix {
-        top: -87%;
-    }
-    #chennaiImageDescriptionSeven {
-        top: -102%;
-    }
-    #chennaiGridThree {
-        top: -100%;
-        left: -43.7%;
-    }
-    #chennaiFifteen {
-        top: -190.3%;
-    }
-    #chennaiSixteen {
-        top: -202%;
-    }
-    #chennaiImageDescriptionEight {
-        top: -206%;
-    }
-  #chennaiSubFive {
-    top: 698.6vh;
+#chennaiImageDescriptionEight {
+    top: -201%;
 }
-
-    .chennaiMapContainerOne {
-        position: relative;
-        left: 1.7%;
-        top: 13.5%;
-    }
-   #chennaiTwenty {
-    left: 7.7%;
-    top: -15.5%;
+#chennaiFifteen {
+    top: -186.3%;
 }
-    #chennaiNineteen {
-        left: 17.8%;
-        top: 14%;
-        width: 47.2vw;
-    }
+#chennaiSubFive {
+    top: 4928.56px;
+}
 #chennaiTwentyOne {
     left: 7.7%;
-    top: -15.3%;
+    top: -16%;
 }
-    #chennaiTwentyTwo {
-        top: -39.5%;
-    }
-#chennaiTwentyFour {
-    left: 34.6%;
-    top: -63.5%;
-}
-#chennaiTwentyFive {
-    left: 34.6%;
-    top: -63.3%;
-}
-    .chennaiCopyNine {
-        top: -120.5%;
-    }
-        #chennaiTwentySix {
-        left: -32.5%;
-        top: 13%;
-        }
 #chennaiTwentyThree {
     left: 7.7%;
-    top: -8.4%;
+    top: -10.7%;
     z-index: -5;
 }
+.chennaiCopyNine {
+    top: -112.5%;
+}
 #chennaiSubSix {
-    top: 912.5vh;
+    top: 6413.38px;
 }
-    #chennaiGridFour {
-        top: 6.5%;
-        left: -43.8%;
-    }
-	#chennaiImageDescriptionExtra {
-    position: relative;
-    top: 7%;
-    left: 35.25%;
-    width: 15%;
+#chennaiSubSeven {
+    top: 6772.2px;
 }
-    
-    .chennaiCopyTen {
-        top: -42.5%;
-    }
-    #chennaiImageDescriptionTen {
-        top: -32%;
-    }
-   #chennaiSubSeven {
-    top: 966vh;
+.chennaiCopyTwelve {
+    top: -19%;
 }
-    #chennaiTwentySeven {
-        left: 7.7%;
-        top: 12.5%;
-    }
-    #chennaiTwentyEight {
-        top: -14%;
-    }
-    .chennaiCopyEleven {
-        top: -12%;
-    }
-    .chennaiCopyTwelve {
-        top: -21%;
-    }
-    #ChennaiVideoThree {
-        top: -20%;
-    }
-    #chennaiImageDescriptionEleven {
-        top: -25%;
-    }
-   #chennaiSubEight {
-    top: 1003.8vh;
+#chennaiImageDescriptionEleven {
+    top: -23%;
 }
-    #chennaiTwentyNine {
-        left: -15.5%;
-        top: 10%;
-    }
-    #chennaiThirtySix {
-        left: -20.5%;
-        top: 12%;
-    }
-    #gridImageMiddleChennaiTwo {
-        width: 23.8vw;
-        margin-left: 10px;
-    }
+#chennaiSubEight {
+    top: 7035.496px;
+}
 #chennaiSubNine {
-    top: 1564.4vh;
+    top: 11109.2px;
 }
-    #ChennaiVideoFour {
-        top: 13.5%;
-    }
-    #chennaiGridSix {
-        left: -43.7%;
-    }
-    #chennaiThirtyThree {
-        left: 7.7%;
-    }
-    #chennaiGridSeven {
-        top: -70%;
-        left: -17.7%;
-    }
-    .chennaiCopySixteen {
-        top: -79%;
-    }
-    #ChennaiVideoFive {
-        left: -33.3%;
-        top: 15%;
-        height: 30.7vh;
-        width: 30.4vw;
-    }
-    #chennaiGridNine {
-        top: -88%;
-    }
-    #chennaiImageDescriptionSeventeen {
-        top: -89.5%;
-    }
-    .chennaiCopySeventeen {
-        top: -93%;
-    }
+#chennaiThirtyThree {
+    left: 7.7%;
+    top: -11%;
+}
+#ChennaiVideoThree {
+    top: -18%;
+}
+
+#chennaiGridSix {
+    top: -33%;
+    left: -43.7%;
+}
+#chennaiThirtyFour {
+    position: relative;
+    left: -32.7%;
+    top: -18%;
+    z-index: -5;
+    width: 62vw;
+}
+.chennaiCopySixteen {
+    top: -80%;
+}
 #chennaiSubTen {
-    top: 1754.3vh;
+    top: 12464.5px;
 }
-    .chennaiMapContainerTwo {
-        left: 1.7%;
-        top: 13.4%;
-    }
 #chennaiSubEleven {
-    top: 1813vh;
+    top: 12856.68px;
 }
-    #chennaiGridTen {
-        top: 21%;
-    }
-    #gridImageSmallChennai {
-        margin-left: 12px;
-    }
-    .endlineChennaiThree {
-        top: 18%;
-    }
-    .referenceBlockChennaiThree {
-        top: 26%;
-    }
-    .referenceBlockChennaiThree {
-        height: 111%;
-        top: 21%;
-    }	
-    #chennaiGridEight {
-    top: -83%;
-    }
-
-    #chennaiImageDescriptionNineteen {
-        top: 5%;
-        left: 35.3%;
-        font-size: 9px;
-    }
-
-    .referenceChennai {
-        font-weight: 300;
-        font-size: 9px;
-        line-height: 12px;
-        width: 30%;
-        height: 50%;
-    }
-        
-    }
-
-@media (min-width: 1500px) and (max-width: 1599px) and (min-height: 780px) and (max-height: 810px){
-
-#chennaiSubTwo {
-    top: 9vh;
 }
-#chennaiGridOne {
-    top: -75.2%;
-    left: -17.7%;
+
+/*------------ SAXON BREAKPOINT 7 1536 x 864 ---------------*/
+@media (min-width: 1500px) and (max-width: 1599px) and (min-height: 811px) and (max-height: 870px) {
+	.copyTextLarger {
+    position: relative;
+    top: 16.2%;
+}
+	#chennaiSubTwo {
+    top: -2px;
+}
+#chennaiThree {
+    top: 28%;
 }
 #chennaiSix {
     left: 7.7%;
-    top: -30.2%;
-    z-index: 0;
+    top: -28.5%;
 }
-#ChennaiVideoTwo {
-    position: relative;
-    left: -32.9%;
-    top: -73.5%;
+#chennaiGridOne {
+    top: -70.2%;
+    left: -17.7%;
 }
-
 .chennaiCopyTwo {
     position: relative;
     top: -29%;
     left: 8.3%;
     width: 23%;
 }
+#ChennaiVideoTwo {
+    position: relative;
+    left: -32.9%;
+    top: -67.5%;
+}
 #chennaiSubThree {
-    top: 199.4vh;
+    top: 1452.49px;
+}
+#chennaiImageDescriptionFive {
+    top: -59%;
+}
+.chennaiCopyFive {
+    top: -43.1%;
 }
 #chennaiSubFour {
-    top: 467vh;
+    top: 3488.1px;
 }
-#chennaiSubFive {
-    top: 598.4vh;
+.chennaiCopySix {
+    top: -83%;
 }
-	#chennaiImageDescriptionFive {
-    top: -65%;
+#chennaiGridThree {
+    top: -94%;
+    left: -43.7%;
+}
+#chennaiImageDescriptionEight {
+    top: -185%;
+}
+#chennaiFifteen {
+    top: -170.3%;
+}
+#chennaiSixteen {
+    top: -182%;
+}
+#chennaiImageDescriptionSeven {
+    top: -93%;
+}
+#chennaiFourteen {
+    left: 34.5%;
+    top: -74%;
 }
 .chennaiCopySeven {
     position: relative;
@@ -2559,670 +4703,491 @@ width: 61.5vw;
     left: 35.3%;
     width: 25%;
 }
-.chennaiCopySix {
-    top: -86%;
-}
-
-.chennaiCopyNine {
-    top: -108.5%;
+#chennaiSubFive {
+    top: 4396.56px;
 }
 #chennaiTwentyTwo {
-    top: -37.7%;
+    top: -35.8%;
 }
 #chennaiTwentyFour {
     left: 34.6%;
-    top: -60.5%;
+    top: -56.5%;
+}
+.chennaiCopyNine {
+    top: -100.5%;
 }
 #chennaiTwentyFive {
     left: 34.6%;
-    top: -61%;
+    top: -56.3%;
 }
 #chennaiTwentyThree {
     left: 7.7%;
-    top: -10.7%;
+    top: -10.1%;
     z-index: -5;
 }
 #chennaiSubSix {
-    top: 779vh;
+    top: 5700.78px;
+}
+.chennaiCopyTen {
+    top: -35.5%;
 }
 #chennaiSubSeven {
-    top: 818.6vh;
-}
-.chennaiCopyTwelve {
-    top: -19.6%;
+    top: 5918.2px;
 }
 .chennaiCopyEleven {
-    top: -5%;
+    top: -8%;
+}
+#chennaiTwentyEight {
+    top: -11%;
+}
+.chennaiCopyTwelve {
+    top: -15%;
+}
+#ChennaiVideoThree {
+    top: -15%;
+}
+#chennaiImageDescriptionEleven {
+    top: -21%;
 }
 #chennaiSubEight {
-    top: 843.8vh;
+    top: 6064.496px;
 }
 #chennaiSubNine {
-    top: 1355.4vh;
+    top: 10070.2px;
+}
+#chennaiThirtyThree {
+    top: -11%;
+}
+#chennaiThirtyFour {
+    top: -19%;
 }
 #chennaiGridSix {
-    top: -32%;
+    top: -37%;
 }
-.chennaiCopySixteen {
-    top: -78%;
+#chennaiThirtyFour {
+    position: relative;
+    left: -32.7%;
+    top: -20%;
+    z-index: -5;
+    width: 62vw;
+}
+#chennaiGridSeven {
+    top: -69%;
+    left: -17.7%;
 }
 #chennaiSubTen {
-    top: 1521vh;
+    top: 11292.5px;
 }
 #chennaiSubEleven {
-    top: 1564vh;
-}		
+    top: 11527.68px;
 }
-
+}
 
 /*------------------1600------------------------*/
     /* common - 1600×750*/
 @media (min-width: 1600px) and (max-width: 1699px) {
-	#chennaiSubOne .copyTextLarger {
-top: 20%;
+#chennaiSubOne .copyTextLarger {
+	top: 20%;
 }
 #ChennaiVideoOne {
-    left: -22%;
+	left: -22%;
 }
 #chennaiSubTwo {
-    top: 38vh;
+	top: 38vh;
 }
 #chennaiTwo {
-    left: -16.5%;
-    top: 14%;
+	left: -16.5%;
+	top: 14%;
 }
-	#chennaiThree {
-    left: -77.6%;
-    top: 29%;
+#chennaiThree {
+	left: -77.6%;
+	top: 29%;
 }
 #chennaiImageDescriptionTwo {
-    position: relative;
-    top: -2.5%;
-    left: 8.3%;
-    width: 14%;
+	position: relative;
+	top: -2.5%;
+	left: 8.3%;
+	width: 14%;
 }
 #chennaiFour {
-    position: relative;
-    top: -3.2%;
-    z-index: 0;
+	position: relative;
+	top: -3.2%;
+	z-index: 0;
 }
 #chennaiFive {
-    position: relative;
-    left: -33%;
-    top: -2.4%;
-    z-index: -5;
-    width: 40vw;
+	position: relative;
+	left: -33%;
+	top: -2.4%;
+	z-index: -5;
+	width: 40vw;
 }
 #chennaiSix {
-    top: -27.5%;
-    z-index: 0;
+	top: -27.5%;
+	z-index: 0;
 }
 #chennaiGridOne {
-    top: -72%;
-    left: -17.5%;
+	top: -72%;
+	left: -17.5%;
 }
 .chennaiCopyTwo {
-    position: relative;
-    top: -27%;
-    left: 8.3%;
-    width: 23%;
+	position: relative;
+	top: -27%;
+	left: 8.3%;
+	width: 23%;
 }
 #ChennaiVideoTwo {
-    position: relative;
-    left: -33%;
-    top: -70%;
-    width: 55.1vw;
-    height: 55.1vh;
+	position: relative;
+	left: -33%;
+	top: -70%;
+	width: 55.1vw;
+	height: 55.1vh;
 }
 #chennaiSubThree {
-    top: 246vh;
+	top: 246vh;
 }
 #chennaiNine {
-    left: 7.7%;
-    top: -33%;
+	left: 7.7%;
+	top: -33%;
 }
 #chennaiSeven {
-    top: 22.5%;
+	top: 22.5%;
 }
 #chennaiEight {
-    left: -33.5%;
-    top: 22.5%;
+	left: -33.5%;
+	top: 22.5%;
 }
 .chennaiCopyFive {
-    top: -34%;
+	top: -34%;
 }
 #chennaiImageDescriptionFive {
-    top: -54%;
+	top: -54%;
 }
 #chennaiSubFour {
-    top: 535vh;
+	top: 535vh;
 }
 #chennaiThirteen {
-    left: -32.9%;
-    top: 14%;
-    width: 61.5vw;
+	left: -32.9%;
+	top: 14%;
+	width: 61.5vw;
 }
 #chennaiGridTwo {
-    top: -53%;
-    left: -43.7%;
+	top: -53%;
+	left: -43.7%;
 }
 #chennaiFourteen {
-    left: 34.6%;
-    top: -67%;
+	left: 34.6%;
+	top: -67%;
 }
-	#chennaiFifteen {
-    position: relative;
-    left: 34.6%;
-    top: -168.3%;
-    z-index: 0;
-    width: 31.15vw;
+#chennaiFifteen {
+	position: relative;
+	left: 34.6%;
+	top: -168.3%;
+	z-index: 0;
+	width: 31.15vw;
 }
 #chennaiSixteen {
-    position: relative;
-    left: -33.3%;
-    top: -180%;
-    z-index: 0;
-    width: 7.5vw;
+	position: relative;
+	left: -33.3%;
+	top: -180%;
+	z-index: 0;
+	width: 7.5vw;
 }
 #chennaiImageDescriptionEight {
-    position: relative;
-    top: -182%;
-    left: 35.3%;
-    width: 25%;
+	position: relative;
+	top: -182%;
+	left: 35.3%;
+	width: 25%;
 }
 #chennaiSubFive {
-    top: 716.4vh;
+	top: 716.4vh;
 }
 #chennaiGridThree {
-    top: -77%;
-    left: -43.8%;
+	top: -77%;
+	left: -43.8%;
 }
 .chennaiMapContainerOne {
-    top: 14%;
+	top: 14%;
 }
 #chennaiTwentyOne {
-    left: 7.6%;
-    top: -13.7%;
+	left: 7.6%;
+	top: -13.7%;
 }
 #chennaiTwenty {
-    left: 7.6%;
-    top: -13.3%;
+	left: 7.6%;
+	top: -13.3%;
 }
 #chennaiTwentyTwo {
-    left: 34.5%;
-    top: -38.5%;
+	left: 34.5%;
+	top: -38.5%;
 }
 #chennaiTwentyFive {
-    left: 34.6%;
-    top: -63%;
+	left: 34.6%;
+	top: -63%;
 }
 #chennaiTwentyFour {
-    left: 34.6%;
-    top: -63.1%;
+	left: 34.6%;
+	top: -63.1%;
 }
 .chennaiCopyNine {
-    top: -114.5%;
+	top: -114.5%;
 }
 #chennaiTwentyThree {
-    top: -7.7%;
-    z-index: -5;
+	top: -7.7%;
+	z-index: -5;
 }
 #chennaiSubSix {
-    top: 924vh;
+	top: 924vh;
 }
 #chennaiTwentySix {
-    top: 13%;
+	top: 13%;
 }
 #chennaiGridFour {
-    top: 8%;
-    left: -43.7%;
+	top: 8%;
+	left: -43.7%;
 }
 .chennaiCopyTen {
-    top: -41%;
+	top: -41%;
 }
 #chennaiSubSeven {
-    top: 982.3vh;
+	top: 982.3vh;
 }
 #chennaiTwentySeven {
-    left: 7.7%;
-    top: 14.5%;
+	left: 7.7%;
+	top: 14.5%;
 }
 #chennaiTwentyEight {
-    top: -12%;
+	top: -12%;
 }
 #chennaiSubEight {
-    top: 1013.4vh;
+	top: 1013.4vh;
 }
 #chennaiTwentyNine {
-    left: -16.2%;
-    top: 10%;
+	left: -16.2%;
+	top: 10%;
 }
 #chennaiThirtySix {
-    left: -20.5%;
-    top: 13%;
+	left: -20.5%;
+	top: 13%;
 }
 #gridImageMiddleChennaiTwo {
-    margin-left: 13px;
+	margin-left: 13px;
 }
 #chennaiSubNine {
-    top: 1554.4vh;
+	top: 1554.4vh;
 }
 #ChennaiVideoFour {
-    top: 14%;
+	top: 14%;
 }
 #chennaiThirtyThree {
-    left: 7.7%;
+	left: 7.7%;
 }
 #chennaiGridSix {
-    left: -43.7%;
+	left: -43.7%;
 }
 #chennaiGridSeven {
-    top: -61%;
-    left: -17.5%;
+	top: -61%;
+	left: -17.5%;
 }
 .chennaiCopySixteen {
-    top: -72.5%;
+	top: -72.5%;
 }
 #chennaiSubTen {
-    top: 1734vh;
+	top: 1734vh;
 }
 .chennaiMapContainerTwo {
-    top: 14%;
+	top: 14%;
 }
 #chennaiSubEleven {
-    top: 1780vh;
+	top: 1780vh;
 }
 #gridImageSmallChennai {
-    margin-left: 13.5px;
+	margin-left: 13.5px;
 }
 #chennaiGridTen {
-    top: 30%;
+	top: 30%;
 }
 .endlineChennaiThree {
-    top: 24%;
+	top: 24%;
 }
 .referenceBlockChennaiThree {
-    top: 26%;
-}	
-
+	top: 26%;
+}
 #chennaiImageDescriptionNineteen {
-    top: 5%;
-    font-size: 9px;
+	top: 5%;
+	font-size: 9px;
 }
-
 .referenceChennai {
-    font-size: 9px;
-    line-height: 12px;
+	font-size: 9px;
+	line-height: 12px;
+}
+.referenceBlockChennaiTwo {
+	top: 13%;
+}
 }
 
-.referenceBlockChennaiTwo {
-    top: 13%;
-}
-}
 /* 1600 x 900 */
 @media (min-width: 1600px) and (max-width: 1699px) and (min-height: 831px) and (max-height: 900px) {
-	#chennaiSubTwo {
-    top: 21.3vh;
-}
+
 #chennaiThree {
-    left: -77.6%;
-    top: 27%;
+	left: -77.6%;
+	top: 27%;
 }
 #chennaiImageDescriptionTwo {
-    position: relative;
-    top: -0.5%;
-    left: 8.3%;
-    width: 14%;
+	position: relative;
+	top: -0.5%;
+	left: 8.3%;
+	width: 14%;
 }
 #chennaiFour {
-    position: relative;
-    top: -0.2%;
-    z-index: 0;
+	position: relative;
+	top: -0.2%;
+	z-index: 0;
 }
 #chennaiImageDescriptionThree {
-    position: relative;
-    top: -38%;
-    left: 8.3%;
-    width: 14%;
+	position: relative;
+	top: -38%;
+	left: 8.3%;
+	width: 14%;
 }
 #chennaiFive {
-    position: relative;
-    left: -33%;
-    top: 0.6%;
-    z-index: -5;
-    width: 40vw;
+	position: relative;
+	left: -33%;
+	top: 0.6%;
+	z-index: -5;
+	width: 40vw;
 }
 #chennaiGridOne {
-    top: -59.4%;
-    left: -17.5%;
+	top: -59.4%;
+	left: -17.5%;
 }
 #chennaiSix {
-    top: -22%;
-    z-index: 0;
+	top: -22%;
+	z-index: 0;
 }
 .chennaiCopyTwo {
-    position: relative;
-    top: -21%;
-    left: 8.3%;
-    width: 23%;
+	position: relative;
+	top: -21%;
+	left: 8.3%;
+	width: 23%;
 }
 #ChennaiVideoTwo {
-    position: relative;
-    left: -33%;
-    top: -58%;
-    width: 55.1vw;
-    height: 55.1vh;
+	position: relative;
+	left: -33%;
+	top: -58%;
+	width: 55.1vw;
+	height: 55.1vh;
 }
-#chennaiSubThree {
-    top: 182vh;
-}
+
 #chennaiSeven {
-    top: 15.5%;
+	top: 15.5%;
 }
 #chennaiEight {
-    left: -33.5%;
-    top: 15.5%;
+	left: -33.5%;
+	top: 15.5%;
 }
 #chennaiImageDescriptionFive {
-    top: -50%;
+	top: -50%;
 }
 .chennaiCopyFive {
-    top: -34.5%;
+	top: -34.5%;
 }
-#chennaiSubFour {
-    top: 404vh;
-}
+
 #chennaiImageDescriptionEight {
-    position: relative;
-    top: -166%;
-    left: 35.3%;
-    width: 25%;
+	position: relative;
+	top: -166%;
+	left: 35.3%;
+	width: 25%;
 }
 #chennaiFifteen {
-    position: relative;
-    left: 34.6%;
-    top: -152.9%;
-    z-index: 0;
-    width: 31.15vw;
+	position: relative;
+	left: 34.6%;
+	top: -152.9%;
+	z-index: 0;
+	width: 31.15vw;
 }
 #chennaiSixteen {
-    position: relative;
-    left: -33.3%;
-    top: -164%;
-    z-index: 0;
-    width: 7.5vw;
+	position: relative;
+	left: -33.3%;
+	top: -164%;
+	z-index: 0;
+	width: 7.5vw;
 }
-#chennaiSubFive {
-    top: 514.8vh;
-}
-	#chennaiTwenty {
-    left: 7.6%;
-    top: -8.3%;
-}
-#chennaiTwentyOne {
-    left: 7.6%;
-    top: -8.6%;
-}
-#chennaiTwentyTwo {
-    left: 34.5%;
-    top: -29.2%;
-}
-.chennaiCopyNine {
-    top: -90.5%;
-}
-#chennaiTwentyFour {
-    left: 34.6%;
-    top: -50.1%;
-}
-#chennaiTwentyFive {
-    left: 34.6%;
-    top: -50.3%;
-}
-#chennaiTwentyThree {
-    top: -4%;
-    z-index: -5;
-}
-#chennaiSubSix {
-    top: 663.5vh;
-}
-.chennaiCopyTen {
-    top: -33%;
-}
-#chennaiSubSeven {
-    top: 689.8vh;
-}
-#chennaiTwentyEight {
-    top: -8%;
-}
-#chennaiSubEight {
-    top: 696.4vh;
-}
-#chennaiImageDescriptionTwelve {
-    position: relative;
-    top: 24%;
-    left: 8.3%;
-    width: 15%;
-}
-.chennaiCopyThirteen {
-    position: relative;
-    top: 1%;
-    left: 35.3%;
-    width: 25%;
-}
-#chennaiSubNine {
-    top: 1134.8vh;
-}
-#chennaiSubTen {
-    top: 1265.5vh;
-}
-#chennaiSubEleven {
-    top: 1280vh;
-}
-}
-/* 1680 x 1050 */
-@media (min-width: 1600px) and (max-width: 1699px) and (min-height: 901px) and (max-height: 1050px) {
-	#chennaiSubTwo {
-    top: 9.3vh;
-}
-#chennaiImageDescriptionTwo {
-    position: relative;
-    top: 2.5%;
-    left: 8.3%;
-    width: 14%;
-}
-#chennaiThree {
-    left: -77.6%;
-    top: 26%;
-}
-#chennaiFour {
-    position: relative;
-    top: 2.8%;
-    z-index: 0;
-}
-#chennaiImageDescriptionThree {
-    position: relative;
-    top: -28%;
-    left: 8.3%;
-    width: 14%;
-}
-#chennaiFive {
-    position: relative;
-    left: -33%;
-    top: 3.6%;
-    z-index: -5;
-    width: 40vw;
-}
-#chennaiSix {
-    top: -16%;
-    z-index: 0;
-}
-#chennaiGridOne {
-    top: -49.4%;
-    left: -17.5%;
-}
-.chennaiCopyTwo {
-    position: relative;
-    top: -16%;
-    left: 8.3%;
-    width: 23%;
-}
-#ChennaiVideoTwo {
-    position: relative;
-    left: -33%;
-    top: -48%;
-    width: 55.1vw;
-    height: 55.1vh;
-}
-#chennaiSubThree {
-    top: 151vh;
-}
-#chennaiSeven {
-    top: 14.5%;
-}
-#chennaiEight {
-    left: -33.5%;
-    top: 14.5%;
-}
-.chennaiCopyFive {
-    top: -32%;
-}
-#chennaiImageDescriptionFive {
-    top: -43%;
-}
-#chennaiTen {
-    position: relative;
-    left: -32.9%;
-    top: -40%;
-    z-index: 0;
-    width: 61.3vw;
-}
-#chennaiEleven {
-    position: relative;
-    left: -33.3%;
-    top: -45%;
-    z-index: 0;
-    width: 61vw;
-}
-#chennaiTwelve {
-    position: relative;
-    left: -33.3%;
-    top: -50%;
-    z-index: 0;
-    width: 61vw;
-}
-#chennaiSubFour {
-    top: 327vh;
-}
-#chennaiGridTwo {
-    top: -48%;
-    left: -43.7%;
-}
-#chennaiImageDescriptionEight {
-    position: relative;
-    top: -158%;
-    left: 35.3%;
-    width: 25%;
-}
-#chennaiFifteen {
-    position: relative;
-    left: 34.6%;
-    top: -142.3%;
-    z-index: 0;
-    width: 31.15vw;
-}
-#chennaiSixteen {
-    position: relative;
-    left: -33.3%;
-    top: -154%;
-    z-index: 0;
-    width: 7.5vw;
-}
-#chennaiImageDescriptionSeven {
-    position: relative;
-    top: -72%;
-    left: 35.3%;
-    width: 15%;
-}
-#chennaiFourteen {
-    left: 34.6%;
-    top: -62%;
-}
-#chennaiSubFive {
-    top: 396.4vh;
-}
-#chennaiTwentyOne {
-    left: 7.6%;
-    top: -8.7%;
-}
+
 #chennaiTwenty {
-    left: 7.6%;
-    top: -8.3%;
+	left: 7.6%;
+	top: -8.3%;
+}
+#chennaiTwentyOne {
+	left: 7.6%;
+	top: -8.6%;
 }
 #chennaiTwentyTwo {
-    left: 34.5%;
-    top: -27.2%;
-}
-#chennaiTwentyFour {
-    left: 34.6%;
-    top: -46.1%;
-}
-#chennaiTwentyThree {
-    top: -5.7%;
-    z-index: -5;
-}
-#chennaiTwentyFive {
-    left: 34.6%;
-    top: -46.6%;
-}
-#chennaiTwentyThree {
-    top: -5%;
-    z-index: -5;
+	left: 34.5%;
+	top: -29.2%;
 }
 .chennaiCopyNine {
-    top: -82.5%;
+	top: -90.5%;
 }
-#chennaiSubSix {
-    top: 509.2vh;
+#chennaiTwentyFour {
+	left: 34.6%;
+	top: -50.1%;
 }
+#chennaiTwentyFive {
+	left: 34.6%;
+	top: -50.3%;
+}
+#chennaiTwentyThree {
+	top: -4%;
+	z-index: -5;
+}
+
 .chennaiCopyTen {
-    top: -29%;
+	top: -33%;
 }
-#chennaiSubSeven {
-    top: 519.7vh;
-}
+
 #chennaiTwentyEight {
-    top: -6%;
+	top: -8%;
 }
-.chennaiCopyTwelve {
-    position: relative;
-    top: -9%;
-    left: 35.3%;
-    width: 25%;
-}
-#ChennaiVideoThree {
-    position: relative;
-    left: -33%;
-    top: -9%;
-    width: 55vw;
-    height: 55vh;
-}
-#chennaiSubEight {
-    top: 511.4vh;
+
+#chennaiImageDescriptionTwelve {
+	position: relative;
+	top: 24%;
+	left: 8.3%;
+	width: 15%;
 }
 .chennaiCopyThirteen {
-    position: relative;
-    top: 1%;
-    left: 35.3%;
-    width: 25%;
+	position: relative;
+	top: 1%;
+	left: 35.3%;
+	width: 25%;
+}
+	#chennaiSubOne .copyTextLarger {
+    top: 16.5%;
+}
+
+#chennaiSubTwo {
+    top: 187.4px;
+}
+#chennaiSubThree {
+    top: 1670px;
+}
+#chennaiSubFour {
+    top: 3640px;
+}
+#chennaiSubFive {
+    top: 4638px;
+}
+#chennaiSubSix {
+    top: 6000px;
+}
+#chennaiSubSeven {
+    top: 6264px;
+}
+#chennaiSubEight {
+    top: 6322px;
 }
 #chennaiSubNine {
-    top: 890.4vh;
-}
-.chennaiCopyFifteen {
-    position: relative;
-    top: 2.5%;
-    left: 35.3%;
-    width: 25%;
+    top: 10270px;
 }
 #chennaiImageDescriptionSixteen {
     position: relative;
@@ -3230,224 +5195,703 @@ top: 20%;
     left: 8.3%;
     width: 15%;
 }
-#chennaiThirtyThree {
-    position: relative;
-	    top: -5%;
-}
-.chennaiCopySixteen {
-    top: -68.5%;
-}
-
-
 #chennaiSubTen {
-    top: 993vh;
-}
-.chennaiCopyNineteen {
-    position: relative;
-    top: 7.5%;
-    left: 35.3%;
-    width: 21%;
+    top: 11470px;
 }
 #chennaiSubEleven {
-    top: 992vh;
+    top: 11635px;
+}
+}
+
+/* 1680 x 1050 */
+@media (min-width: 1600px) and (max-width: 1699px) and (min-height: 901px) and (max-height: 1050px) {
+
+#chennaiImageDescriptionTwo {
+	position: relative;
+	top: 2.5%;
+	left: 8.3%;
+	width: 14%;
+}
+#chennaiThree {
+	left: -77.6%;
+	top: 26%;
+}
+#chennaiFour {
+	position: relative;
+	top: 2.8%;
+	z-index: 0;
+}
+#chennaiImageDescriptionThree {
+	position: relative;
+	top: -28%;
+	left: 8.3%;
+	width: 14%;
+}
+#chennaiFive {
+	position: relative;
+	left: -33%;
+	top: 3.6%;
+	z-index: -5;
+	width: 40vw;
+}
+#chennaiSix {
+	top: -16%;
+	z-index: 0;
+}
+#chennaiGridOne {
+	top: -49.4%;
+	left: -17.5%;
+}
+.chennaiCopyTwo {
+	position: relative;
+	top: -16%;
+	left: 8.3%;
+	width: 23%;
+}
+#ChennaiVideoTwo {
+	position: relative;
+	left: -33%;
+	top: -48%;
+	width: 55.1vw;
+	height: 55.1vh;
+}
+
+#chennaiSeven {
+	top: 14.5%;
+}
+#chennaiEight {
+	left: -33.5%;
+	top: 14.5%;
+}
+.chennaiCopyFive {
+	top: -32%;
+}
+#chennaiImageDescriptionFive {
+	top: -43%;
+}
+#chennaiTen {
+	position: relative;
+	left: -32.9%;
+	top: -40%;
+	z-index: 0;
+	width: 61.3vw;
+}
+#chennaiEleven {
+	position: relative;
+	left: -33.3%;
+	top: -45%;
+	z-index: 0;
+	width: 61vw;
+}
+#chennaiTwelve {
+	position: relative;
+	left: -33.3%;
+	top: -50%;
+	z-index: 0;
+	width: 61vw;
+}
+
+#chennaiGridTwo {
+	top: -48%;
+	left: -43.7%;
+}
+#chennaiImageDescriptionEight {
+	position: relative;
+	top: -158%;
+	left: 35.3%;
+	width: 25%;
+}
+#chennaiFifteen {
+	position: relative;
+	left: 34.6%;
+	top: -142.3%;
+	z-index: 0;
+	width: 31.15vw;
+}
+#chennaiSixteen {
+	position: relative;
+	left: -33.3%;
+	top: -154%;
+	z-index: 0;
+	width: 7.5vw;
+}
+#chennaiImageDescriptionSeven {
+	position: relative;
+	top: -72%;
+	left: 35.3%;
+	width: 15%;
+}
+#chennaiFourteen {
+	left: 34.6%;
+	top: -62%;
+}
+
+#chennaiTwentyOne {
+	left: 7.6%;
+	top: -8.7%;
+}
+#chennaiTwenty {
+	left: 7.6%;
+	top: -8.3%;
+}
+#chennaiTwentyTwo {
+	left: 34.5%;
+	top: -27.2%;
+}
+#chennaiTwentyFour {
+	left: 34.6%;
+	top: -46.1%;
+}
+#chennaiTwentyThree {
+	top: -5.7%;
+	z-index: -5;
+}
+#chennaiTwentyFive {
+	left: 34.6%;
+	top: -46.6%;
+}
+#chennaiTwentyThree {
+	top: -5%;
+	z-index: -5;
+}
+.chennaiCopyNine {
+	top: -82.5%;
+}
+
+.chennaiCopyTen {
+	top: -29%;
+}
+
+#chennaiTwentyEight {
+	top: -6%;
+}
+.chennaiCopyTwelve {
+	position: relative;
+	top: -9%;
+	left: 35.3%;
+	width: 25%;
+}
+#ChennaiVideoThree {
+	position: relative;
+	left: -33%;
+	top: -9%;
+	width: 55vw;
+	height: 55vh;
+}
+
+.chennaiCopyThirteen {
+	position: relative;
+	top: 1%;
+	left: 35.3%;
+	width: 25%;
+}
+
+.chennaiCopyFifteen {
+	position: relative;
+	top: 2.5%;
+	left: 35.3%;
+	width: 25%;
+}
+#chennaiImageDescriptionSixteen {
+	position: relative;
+	top: 8%;
+	left: 8.3%;
+	width: 15%;
+}
+#chennaiThirtyThree {
+	position: relative;
+	top: -5%;
+}
+.chennaiCopySixteen {
+	top: -68.5%;
+}
+
+.chennaiCopyNineteen {
+	position: relative;
+	top: 7.5%;
+	left: 35.3%;
+	width: 21%;
+}
+	#chennaiOne {
+    position: relative;
+    left: -32.9%;
+    top: -49%;
+    z-index: 0;
+    width: 55.2vw;
+}
+#chennaiImageDescriptionOne {
+    position: relative;
+    top: -55%;
+    left: 8.3%;
+    width: 14%;
+}
+
+
+#chennaiSubTwo {
+    top: 16.4px;
+}
+#chennaiSubThree {
+    top: 1500.49px;
+}
+#chennaiSubFour {
+    top: 3359.1px;
+}
+#chennaiSubFive {
+    top: 4083.16px;
+}
+#chennaiSubSix {
+    top: 5259.38px;
+}
+#chennaiSubSeven {
+    top: 5369.2px;
+}
+#chennaiSubEight {
+    top: 5268.496px;
+}
+#chennaiSubNine {
+    top: 9243.2px;
+}
+#chennaiSubTen {
+    top: 10319.5px;
+}
+#chennaiSubEleven {
+    top: 10303.68px;
+}
+}
+
+/*------------  SAXON BREAKPOINT 8 1600 x 829 ---------------*/
+@media (min-width: 1600px) and (max-width: 1699px) and (min-height: 786px) and (max-height: 830px) {
+#chennaiSubOne .copyTextLarger {
+    top: 17.9%;
+}
+#chennaiSubTwo {
+    top: 236.4px;
+}
+#chennaiThree {
+    left: -77.6%;
+    top: 27%;
+}
+#chennaiSix {
+    top: -26.5%;
+    z-index: 0;
+}
+#chennaiGridOne {
+    top: -67%;
+    left: -17.5%;
+}
+#ChennaiVideoTwo {
+    position: relative;
+    left: -33%;
+    top: -65%;
+    width: 55.1vw;
+    height: 55.1vh;
+}
+#chennaiSubThree {
+    top: 1711.49px;
+}
+#chennaiSeven {
+    top: 16.5%;
+}
+#chennaiEight {
+    left: -33.5%;
+    top: 15.5%;
+}
+#chennaiNine {
+    left: 7.7%;
+    top: -36%;
+}
+.chennaiCopyFive {
+    top: -36%;
+}
+#chennaiSubFour {
+    top: 3788.1px;
+}
+#chennaiImageDescriptionSeven {
+    position: relative;
+    top: -85%;
+    left: 35.3%;
+    width: 15%;
+}
+#chennaiFourteen {
+    left: 34.6%;
+    top: -71%;
+}
+#chennaiSubFive {
+    top: 4956.16px;
+}
+#chennaiTwentyFour {
+    left: 34.6%;
+    top: -58.1%;
+}
+#chennaiTwentyFive {
+    left: 34.6%;
+    top: -58%;
+}
+.chennaiCopyNine {
+    top: -104.5%;
+}
+#chennaiTwentyTwo {
+    left: 34.5%;
+    top: -36.1%;
+}
+#chennaiTwentyThree {
+    top: -7.6%;
+    z-index: -5;
+}
+#chennaiSubSix {
+    top: 6371.38px;
+}
+.chennaiCopyTen {
+    top: -37%;
+}
+#chennaiSubSeven {
+    top: 6705.2px;
+}
+#chennaiSubEight {
+    top: 6850.496px;
+}
+#chennaiSubNine {
+    top: 10852.2px;
+}
+#chennaiSubTen {
+    top: 12112.5px;
+}
+#chennaiSubEleven {
+    top: 12345.68px;
 }
 }
 
 /*------------------1900------------------------*/
 
-@media (min-width: 1900px) and (max-width: 1999px) 
-	and (min-height: 920px) and (max-height: 950px){
-		#chennaiSubTwo {
-    top: 54vh;
-}
+@media (min-width: 1900px) and (max-width: 1999px)  and (min-height: 920px) and (max-height: 950px) {
+
 #chennaiThree {
-    position: relative;
-    left: -77.6%;
-    top: 30%;
+	position: relative;
+	left: -77.6%;
+	top: 30%;
 }
 #chennaiImageDescriptionTwo {
-    position: relative;
-    top: -6.5%;
-    left: 8.3%;
-    width: 14%;
+	position: relative;
+	top: -6.5%;
+	left: 8.3%;
+	width: 14%;
 }
 #chennaiGridOne {
-    position: relative;
-    top: -79.4%;
-    left: -16.4%;
-}
-#chennaiSubThree {
-    top: 280.5vh;
-}
-#chennaiSubFour {
-    top: 587vh;
-}
-#chennaiSubFive {
-    top: 792vh;
-}
-		#ChennaiVideoOne {
-    position: relative;
-    left: -16%;
-    top: -34%;
-    width: 150vw;
-    height: 150vh;
-    z-index: -5;
-}
-#chennaiTwentyOne {
-    position: relative;
-    left: 7.8%;
-    top: -7.6%;
-    z-index: -2;
-}
-#chennaiTwentyThree {
-    position: relative;
-    left: 7.8%;
-    top: 3.2%;
-    z-index: -5;
-}
-#chennaiSubSix {
-    top: 1013.3vh;
-}
-#chennaiSubSeven {
-    top: 1073vh;
-}
-#chennaiTwentyEight {
-    position: relative;
-    left: 34.7%;
-    top: -12%;
-    z-index: -5;
-}
-#chennaiSubEight {
-    top: 1121vh;
-}
-#chennaiSubNine {
-    top: 1679vh;
-}
-#chennaiSubTen {
-    top: 1878vh;
-}
-#chennaiSubEleven {
-    top: 1936vh;
-}
-		
+	position: relative;
+	top: -79.4%;
+	left: -16.4%;
 }
 
-@media (min-width: 1900px) and (max-width: 1999px) 
-	and (min-height: 1101px) and (max-height: 1210px){
-		#ChennaiVideoOne {
-    position: relative;
-    left: -10%;
-    top: -30%;
-    width: 150vw;
-    height: 150vh;
-    z-index: -5;
+#ChennaiVideoOne {
+	position: relative;
+	left: -16%;
+	top: -34%;
+	width: 150vw;
+	height: 150vh;
+	z-index: -5;
+}
+#chennaiTwentyOne {
+	position: relative;
+	left: 7.8%;
+	top: -7.6%;
+	z-index: -2;
+}
+#chennaiTwentyThree {
+	position: relative;
+	left: 7.8%;
+	top: 3.2%;
+	z-index: -5;
+}
+
+#chennaiTwentyEight {
+	position: relative;
+	left: 34.7%;
+	top: -12%;
+	z-index: -5;
 }
 #chennaiSubTwo {
-    top: 27vh;
-}
-#chennaiThree {
-    position: relative;
-    left: -77.6%;
-    top: 26%;
-}
-#chennaiSix {
-    position: relative;
-    left: 7.8%;
-    top: -30.1%;
-    z-index: 0;
-}
-#chennaiGridOne {
-    position: relative;
-    top: -67.5%;
-    left: -16.4%;
-}
-#ChennaiVideoTwo {
-    position: relative;
-    left: -33%;
-    top: -66%;
-    width: 55.1vw;
-    height: 55.1vh;
-}
-.chennaiCopyTwo {
-    position: relative;
-    top: -28%;
-    left: 8.3%;
-    width: 23%;
+    top: 493.4px;
 }
 #chennaiSubThree {
-    top: 168.5vh;
-}
-#chennaiImageDescriptionFive {
-    position: relative;
-    top: -46%;
-    left: 35.3%;
-    width: 14%;
-}
-.chennaiCopyFive {
-    position: relative;
-    top: -33%;
-    left: 8.3%;
-    width: 20%;
+    top: 2600.49px;
 }
 #chennaiSubFour {
-    top: 369vh;
+    top: 5454.1px;
 }
 #chennaiSubFive {
-    top: 459vh;
-}
-.chennaiCopyNine {
-    position: relative;
-    top: -86.5%;
-    left: 8.3%;
-    width: 18%;
-}
-#chennaiTwentyTwo {
-    position: relative;
-    left: 34.5%;
-    top: -29.5%;
-    z-index: -5;
-}
-#chennaiTwentyFour {
-    position: relative;
-    left: 34.7%;
-    top: -48%;
-    z-index: -5;
-}
-#chennaiTwentyFive {
-    position: relative;
-    left: 34.7%;
-    top: -45.9%;
-    z-index: -5;
+    top: 7348.16px;
 }
 #chennaiSubSix {
-    top: 582.3vh;
+    top: 9392.38px;
 }
 #chennaiSubSeven {
-    top: 599vh;
+    top: 9947.2px;
 }
 #chennaiSubEight {
-    top: 608.7vh;
-}
-.chennaiCopyThirteen {
-    position: relative;
-    top: 1%;
-    left: 35.3%;
-    width: 25%;
+    top: 10388.496px;
 }
 #chennaiSubNine {
-    top: 1027vh;
-}
-.chennaiCopySixteen {
-    position: relative;
-    top: -69.7%;
-    left: 8.3%;
-    width: 25%;
+    top: 15581.2px;
 }
 #chennaiSubTen {
-    top: 1156vh;
+    top: 17429.5px;
 }
 #chennaiSubEleven {
-    top: 1169vh;
+    top: 17972.68px;
 }
-		
+}
+
+@media (min-width: 1900px) and (max-width: 1999px)  and (min-height: 1101px) and (max-height: 1210px) {
+
+#chennaiSubTwo {
+    top: 318.4px;
+}
+#chennaiSubThree {
+    top: 2016.49px;
+}
+#chennaiSubFour {
+    top: 4427.1px;
+}
+#chennaiSubFive {
+    top: 5511.16px;
+}
+
+#chennaiSubSix {
+    top: 6995.98px;
+}
+#chennaiSubSeven {
+    top: 7196.2px;
+}
+#chennaiSubEight {
+    top: 7316.496px;
+}
+#chennaiSubNine {
+    top: 12329.2px;
+}
+#chennaiSubTen {
+    top: 13868.5px;
+}
+#chennaiSubEleven {
+    top: 14022.68px;
+}
+	
+	#ChennaiVideoOne {
+	position: relative;
+	left: -10%;
+	top: -30%;
+	width: 150vw;
+	height: 150vh;
+	z-index: -5;
+}
+
+#chennaiThree {
+	position: relative;
+	left: -77.6%;
+	top: 26%;
+}
+#chennaiSix {
+	position: relative;
+	left: 7.8%;
+	top: -30.1%;
+	z-index: 0;
+}
+#chennaiGridOne {
+	position: relative;
+	top: -67.5%;
+	left: -16.4%;
+}
+#ChennaiVideoTwo {
+	position: relative;
+	left: -33%;
+	top: -66%;
+	width: 55.1vw;
+	height: 55.1vh;
+}
+.chennaiCopyTwo {
+	position: relative;
+	top: -28%;
+	left: 8.3%;
+	width: 23%;
+}
+
+#chennaiImageDescriptionFive {
+	position: relative;
+	top: -46%;
+	left: 35.3%;
+	width: 14%;
+}
+.chennaiCopyFive {
+	position: relative;
+	top: -33%;
+	left: 8.3%;
+	width: 20%;
+}
+
+.chennaiCopyNine {
+	position: relative;
+	top: -86.5%;
+	left: 8.3%;
+	width: 18%;
+}
+#chennaiTwentyTwo {
+	position: relative;
+	left: 34.5%;
+	top: -29.5%;
+	z-index: -5;
+}
+#chennaiTwentyFour {
+	position: relative;
+	left: 34.7%;
+	top: -48%;
+	z-index: -5;
+}
+#chennaiTwentyFive {
+	position: relative;
+	left: 34.7%;
+	top: -45.9%;
+	z-index: -5;
+}
+
+.chennaiCopyThirteen {
+	position: relative;
+	top: 1%;
+	left: 35.3%;
+	width: 25%;
+}
+
+.chennaiCopySixteen {
+	position: relative;
+	top: -69.7%;
+	left: 8.3%;
+	width: 25%;
+}
+
+}
+
+/*------------ SAXONS BREAKPOINT 9 1920 x 1007 ---------------*/
+@media (min-width: 1900px) and (max-width: 1999px) and (min-height: 951px) and (max-height: 1008px) {
+#chennaiSubTwo {
+    top: 444.4px;
+}
+#chennaiSubThree {
+	top: 1607.49px;
+}
+#chennaiSubThree {
+    top: 2404.49px;
+}
+#chennaiSubFour {
+    top: 5101.1px;
+}
+#chennaiSubFive {
+    top: 6715.16px;
+}
+#chennaiSubSix {
+    top: 8471.98px;
+}
+#chennaiSubSeven {
+    top: 8920.2px;
+}
+#chennaiSubEight {
+    top: 920.4vh;
+}
+#chennaiSubNine {
+    top: 14410.2px;
+}
+#chennaiSubTen {
+    top: 16172.5px;
+}
+#chennaiSubEleven {
+    top: 16590.68px;
+}
+#chennaiTwentyTwo {
+	position: relative;
+	left: 34.5%;
+	top: -32.8%;
+	z-index: -5;
+}
+#chennaiTwentyFive {
+	position: relative;
+	left: 34.7%;
+	top: -57%;
+	z-index: -5;
+}
+#chennaiTwentyThree {
+	position: relative;
+	left: 7.8%;
+	top: -8%;
+	z-index: -5;
+}
+}
+
+    /* ----------------------20000s-------------------------*/
+/*2048 x 1080*/
+@media (min-width: 2000px) and (min-height: 1000px) and (max-height: 1999px) 
+{
+	#chennaiImageDescriptionTwo {
+		top: -0.5%;
+	}
+
+	#chennaiFour {
+		top: 1.8%;
+	}
+
+	#chennaiImageDescriptionThree {
+		top: -34%;
+	}
+
+	#chennaiFive {
+		top: 6%;
+	}
+
+	#chennaiSix {
+		top: -18.5%;
+	}
+
+	#chennaiGridOne {
+	    top: -57%;
+	}
+
+	.chennaiCopyTwo {
+		top: -15%;
+	}
+
+	#ChennaiVideoTwo {
+		top: -54%;
+	}
+
+	#chennaiSubThree {
+		top: 255vh;
+	}
+
+	#chennaiSubFour {
+		top: 522vh;
+	}
+
+	#chennaiSubFive {
+		top: 680vh;
+	}
+
+	#chennaiSubSix {
+		top: 874vh;
+	}
+
+	#chennaiSubSeven {
+		top: 923vh;
+	}
+	
+	#chennaiSubEight {
+		top: 925vh;
+	}
+
+	#chennaiSubNine {
+		top: 1430vh;
+	}
+
+	#chennaiSubTen {
+		top: 1600vh;
+	}
+
+	#chennaiSubEleven {
+		top: 1645vh;
+	}
 }

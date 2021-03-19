@@ -343,7 +343,7 @@
 
 /*------------ Tablet Responisve 1024 x 600 ---------------*/
 @media (max-width: 1025px) and (min-height: 599px) 
-and (max-height: 680px)
+and (max-height: 647px)
 {
 
         .fishCopyTextOne {
@@ -478,6 +478,145 @@ and (max-height: 680px)
             left: 35.3%;
         }     
 }
+
+/*------------ Tablet Responisve 1024 x 650 ---------------*/
+@media (max-width: 1025px) and (min-height: 648px) 
+and (max-height: 680px)
+{
+
+        .fishCopyTextOne {
+            top: -21%;
+        }
+        #fishTwo {
+            left: -1.2%;
+            top: 15%;
+        }
+        #fishImageDescriptionOne {
+            top: -7%;
+        }
+        
+        #fishSubTwo {
+            top: 5px;
+        }
+        #fishThree {
+            top: 32%;
+        }
+        
+        .fishQuoteOne {
+             top: 25%;
+        }
+        
+        #fishImageDescriptionTwo {
+            top: 29%;
+        }
+        #fishSubThree {
+            top: -80px;
+        }
+        #fishVideoOne {
+            height: 76.1vh;
+            top: 44%;
+        }
+        #fishImageDescriptionThree {
+            top: 39%;
+        }
+        
+        #fishGridOne {
+            top: 40%;
+            left: -45%;
+        }
+        
+        #fishGridTwo {
+            top: 3.1%;
+            left: -18%;
+        }
+        #fishFour {
+            top: 7%;
+        }
+        #fishImageDescriptionFour {
+            top: 2%;
+        }
+        #fishSubFour {
+            top: 905px;
+        }
+        #fishFive {
+            top: 43.8%;
+        }
+        .fishQuoteOne {
+            top: 31%;
+        }
+        #fishImageDescriptionFive {
+            top: 26%;
+        }
+        #fishGridThree {
+            top: 31%;
+            left: -39.1%;
+        }
+        #fishSix {
+            top: 28%;
+        }
+        #fishGridFour {
+            top: 15%;
+            left: -39.1%;
+        }
+        #fishImageDescriptionSix {
+            top: 10%;
+        }
+        #fishSubFive {
+            top: 1880px;
+        }
+        #fishVideoTwo {
+            height: 76.1vh;
+            top: 39%;
+        }
+        #fishGridFive {
+            top: 33.5%;
+            left: -39.1%;
+        }
+        #fishGridSix {
+            top: 27%;
+            left: -39.1%;
+        }
+        #fishImageDescriptionSeven {
+            top: 22%;
+        }
+        
+        #fishSubSix {
+            top: 2300px;
+        }
+        #fishVideoThree {
+            height: 76.1vh;
+            top: 43%;
+        }
+        #fishGridSeven {
+            top: 37%;
+            left: -39.1%;
+        }
+        #fishGridEight {
+            top: 30.7%;
+            left: -39.1%;
+        }
+        #fishImageDescriptionEight {
+            top: 26%;
+        }
+        #fishSubSeven {
+            top: 2790px;
+        }
+        #fishSeven {
+            top: 38%;
+        }
+        #fishSubEight {
+            top: 2780px;
+        }
+        #fishVideoFive {
+            height: 37vh;
+        }
+        #fishImageDescriptionTen 
+        {
+            top: -21%;
+            left: 35.3%;
+        }     
+}
+
 /*------------ Tablet Responisve 1024 x 768 ---------------*/
 @media (max-width: 1025px) and (min-height: 681px) 
 and (max-height: 780px)
@@ -4350,4 +4489,43 @@ and (min-height: 1101px) and (max-height: 1210px)
     height: auto;
     pointer-events: none;
 }
+}
+
+    /* ----------------------20000s-------------------------*/
+/*2048 x 1080*/
+@media (min-width: 2000px) and (min-height: 1000px) and (max-height: 1999px)
+{
+    #fishSubTwo {
+        top: 5vh;
+    }
+
+    #fishSubThree {
+        top: -25vh;
+    }
+
+    #fishSubFour {
+        top: 107vh;
+    }
+
+    #fishSubFive {
+        top: 262vh;
+    }
+
+    #fishSubSix {
+        top: 300vh;
+    }
+
+    #fishSubSeven {
+        top: 348vh;
+    }
+
+    #fishSubEight {
+        top: 344vh;
+    }
+
+    #fishGridTwo {
+        position: relative;
+        top: -240px;
+        left: -16.25%;
+    }
 }

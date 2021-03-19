@@ -320,10 +320,17 @@
     left: 35.3%;   
 }
 
+#weedsBirdWallVideo {
+    position: relative;
+    left: -33%;
+    width: 46vw;
+    top: 8%;
+}
+
 /* ----------------------Responsive code starts here --------------------------*/
 /*------------ Tablet Responisve 1024 x 600 ---------------*/
 @media (max-width: 1025px) and (min-height: 599px) 
-and (max-height: 680px)
+and (max-height: 647px)
 {
     #weedsOne
     {
@@ -423,6 +430,117 @@ and (max-height: 680px)
     .endlineWeedsThree {
         top: 13%;
         left: 0%;
+    }
+}
+
+/*------------ Tablet Responisve 1024 x 650 ---------------*/
+@media (max-width: 1025px) and (min-height: 648px) 
+and (max-height: 680px)
+{
+    #weedsOne
+    {
+        width: 101vw; 
+    }
+    #weedsSubOne
+    {
+        top: -38px;
+    }
+    
+    #weedsSubTwo 
+    {
+        top: -390px;
+    }
+    #weedsSubThree {
+        top: -670px;
+
+    }
+    #weedsFour {
+        top: -30.8%;
+        left: 7.6%;
+    }
+    
+    #weedsSubFour {
+        top: -600px;
+    }
+    #weedsFive {
+        top: -25%;
+        left: 34.4%;
+    }
+    #weedsGridTwo {
+        position: relative;
+        top: -53%;
+        left: -45%;
+    }
+    #weedsGridOne {
+        position: relative;
+        top: -23%;
+        left: -44%;
+        z-index: 0;
+    }
+    #weedsGridThree {
+        top: -77.5%;
+        left: -18%;
+    }
+    #weedsGridFour {
+        top: -24%;
+        left: -44%;
+    }
+    #weedsGridFive {
+        top: -68%;
+        left: -17%;
+    }
+    #weedsSubFive {
+        top: 90px;
+    }
+    #weedsCopyTwo
+    {
+        top: -24%;
+    }
+    #weedsGridSix {
+        top: -44%;
+        left: -44.1%;
+    }
+    #weedsEight {
+        top: 13%;
+        left: 34.5%;
+    }
+    #weedsCopyFive {
+        top: 15%;
+        left: 35.3%;
+    }
+    #weedsSubSix {
+        top: -190px;
+    }
+    #weedsGridSeven {
+        left: -44%;
+        top: -34%;
+    
+    }
+    #weedsCopySix
+    {
+        top: 11%;
+    }
+    #weedsSubSeven {
+        top: -120px;
+    }
+    #gridImageSmallerMargin {
+        width: 14.05vw;
+        margin-left: 10px;
+    }
+    
+    .referenceWeeds,.referencesWeedsTwo, .referencesWeedsThree {
+        font-size: 9px;
+        line-height: 12px;
+    }
+
+    .endlineWeedsThree {
+        top: 13%;
+        left: 0%;
+    }
+
+    #weedsGridEight {
+        top: -122%;
+        left: -31.5%;
     }
 }
 
@@ -530,7 +648,7 @@ and (max-height: 780px)
 @media (min-width: 1026px) and (max-width: 1299px) 
 {
 #weedsSubTwo {
-    top: -8vh;
+    top: -3vh;
 }
 
 #weedsCopyOne {
@@ -540,7 +658,7 @@ and (max-height: 780px)
     left: -44.2%;
 }
 #weedsSubThree {
-    top: -5vh;
+    top: 8vh;
 }
 #weedsFour {
     top: -39.2%;
@@ -562,7 +680,7 @@ and (max-height: 780px)
     left: -44.2%;
 }
 #weedsSubFour {
-    top: 66.6vh;
+    top: 97vh;
 }
 
 #weedsCopyFour {
@@ -591,7 +709,7 @@ left: 7.5%;
 }
 
 #weedsSubFive {
-    top: 255vh;
+    top: 300vh;
 }
 
 #weedsGridSix {
@@ -604,7 +722,7 @@ left: 7.5%;
     left: 34.4%;
 }
 #weedsSubSix {
-    top: 255vh;
+    top: 315vh;
 }
 
     #weedsGridSeven {
@@ -617,7 +735,7 @@ left: 7.5%;
     left: 35.5%;
 }
 #weedsSubSeven {
-    top: 325vh;
+    top: 396vh;
 }
 .endlineWeedsTwo {
     top: 21.3%;
@@ -1072,6 +1190,7 @@ and (min-height: 799px) and (max-height: 801px)
     #weedsGridEight {
         left: -32.3%;
     }	
+
 }
 
 /*------------ Desktop Responisve 1387 x 540 ---------------*/
@@ -1492,6 +1611,7 @@ top: 18%;
 }
 #weedsGridFour {
     left: -43.8%;
+    top: -27%;
 }
 #weedsGridFive {
     left: -17%;
@@ -2213,7 +2333,7 @@ and (min-height: 811px) and (max-height: 870px)
         left: -17.6%;
     }
     #weedsSubFive {
-        top: 1275px;
+        top: 1425px;
     }
     #weedsGridSix {
         left: -43.7%;
@@ -2223,7 +2343,7 @@ and (min-height: 811px) and (max-height: 870px)
         left: 34.6%;
     }
     #weedsSubSix {
-        top: 1245px;
+        top: 1425px;
     }
     #weedsNine {
         top: 14%;
@@ -2232,7 +2352,7 @@ and (min-height: 811px) and (max-height: 870px)
         left: -43.7%;
     }
     #weedsSubSeven {
-        top: 1605px;
+        top: 1805px;
     height: 139vh;
     }
     .referenceWeeds {
@@ -2300,7 +2420,7 @@ and (min-height: 786px) and (max-height: 830px)
         left: -17.6%;
     }
     #weedsSubFive {
-        top: 825px;
+        top: 920px;
     }
     #weedsGridSix {
         left: -43.7%;
@@ -2311,7 +2431,7 @@ and (min-height: 786px) and (max-height: 830px)
         left: 34.6%;
     }
     #weedsSubSix {
-        top: 685px;
+        top: 805px;
     }
     #weedsNine {
         top: 14%;
@@ -2321,7 +2441,7 @@ and (min-height: 786px) and (max-height: 830px)
         top: -16%;
     }
     #weedsSubSeven {
-        top: 945px;
+        top: 1105px;
     height: 139vh;
     }
     .referenceWeeds {
@@ -2397,7 +2517,7 @@ and (min-height: 831px) and (max-height: 900px)
         left: -17.6%;
     }
     #weedsSubFive {
-        top: 425px;
+        top: 500px;
     }
     #weedsGridSix {
         left: -43.7%;
@@ -2408,7 +2528,7 @@ and (min-height: 831px) and (max-height: 900px)
         left: 34.6%;
     }
     #weedsSubSix {
-        top: 195px;
+        top: 300px;
     }
     #weedsNine {
         top: 14%;
@@ -2418,8 +2538,8 @@ and (min-height: 831px) and (max-height: 900px)
         top: -14%;
     }
     #weedsSubSeven {
-        top: 375px;
-    height: 139vh;
+        top: 500px;
+        height: 139vh;
     }
     .referenceWeeds {
         top: 5%;
@@ -2903,17 +3023,17 @@ and (min-height: 920px) and (max-height: 950px)
 
 #weedsSubFive
 {
-    top: 1556px;
+    top: 1700px;
 }
 
 #weedsSubSix
 {
-    top: 1481px;
+    top: 1660px;
 }
 
 #weedsSubSeven
 {
-    top: 1951px;
+    top: 2180px;
 }
 
 #weedsOne
@@ -3853,4 +3973,34 @@ and (min-height: 1101px) and (max-height: 1210px)
     top: -79%;
     left: 35.3%;   
 }
+}
+
+
+    /* ----------------------20000s-------------------------*/
+/*2048 x 1080*/
+@media (min-width: 2000px) and (min-height: 1000px) and (max-height: 1999px) 
+{
+    #weedsSubTwo {
+        top: -30vh;
+    }
+
+    #weedsSubThree {
+        top: -53vh;
+    }
+
+    #weedsSubFour {
+        top: -10vh;
+    }
+
+    #weedsSubFive {
+        top: 125vh;
+    }
+
+    #weedsSubSix {
+        top: 110vh;
+    }
+
+    #weedsSubSeven {
+        top: 150vh;
+    }
 }

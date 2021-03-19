@@ -276,7 +276,7 @@
 /*------------1000s-------------*/
 /*Saxon's 9th breakpoint - 1024 x 600*/
 @media (max-width: 1025px) and (min-height: 599px) 
-and (max-height: 680px)
+and (max-height: 647px)
 {
 	#dragonSubTwo {
     top: -416.3px;
@@ -345,6 +345,87 @@ and (max-height: 680px)
 }
 
 	
+}
+
+/*------------ Tablet Responisve 1024 x 650 ---------------*/
+@media (max-width: 1025px) and (min-height: 648px) 
+and (max-height: 680px)
+{
+
+    #DragonVideoOne {
+        position: relative;
+        left: -10%;
+        top: -8%;
+        width: 125vw;
+        height: auto;
+        z-index: -5;
+    }
+
+    #dragonSubTwo {
+        top: -416.3px;
+    }
+    
+    #dragonSubThree {
+        top: -546.1px;
+    }
+    
+    #dragonTwo {
+        position: relative;
+        top: -18.1%;
+        left: 7.5%;
+    }
+    
+    #dragonImageDescriptionTwo {
+        position: relative;
+        top: -13%;
+        left: 8.3%;
+        width: 14%;
+    }
+    
+    #dragonSubFour {
+        top: 202.8px;
+    }
+    
+    #DragonVideoThree {
+        position: relative;
+        left: -66.5%;
+        top: -17.5%;
+        width: 23.5vw;
+        height: 25vh;
+        z-index: 5;
+    }
+    
+    #dragonImageDescriptionThree {
+        position: relative;
+        top: -16%;
+        left: 8.3%;
+        width: 14%;
+    }
+    
+    #dragonSubFive {
+        top: 152.05px;
+    }
+    
+    
+    #dragonSubSix {
+        top: 456.6px;
+    }
+    
+    
+    #dragonSubSeven {
+        top: 582.5px;
+    }
+    
+    #dragonSubEight {
+        top: 467.98px;
+    }
+    
+    #DragonVideoGrid {
+        position: relative;
+        width: 47.3vh;
+        height: 30vh;
+        margin-top: 3vh;
+    }
 }
 
 /*Saxon's 10th breakpoint - 1024 x 768*/
@@ -2905,4 +2986,40 @@ width: 61.7vw;
 
 
 
+}
+
+
+    /* ----------------------20000s-------------------------*/
+/*2048 x 1080*/
+@media (min-width: 2000px) and (min-height: 1000px) and (max-height: 1999px) 
+{
+    #dragonSubTwo {
+        top: -50vh;
+    }
+
+    #dragonSubThree {
+        top: -80vh;
+    }
+
+    #dragonSubFour {
+        top: 44vh;
+    }
+
+    #dragonSubFive {
+        top: 18vh;
+    }
+
+    #dragonSubSix {
+        top: 75vh;
+    }
+
+    #dragonSubSeven {
+        top: 93vh;
+    }
+
+    #dragonSubEight {
+        top: 68vh;
+    }
+
+    
 }
